@@ -1,0 +1,19 @@
+2025-08-04 00:31:28,891 [1] INFO  App - DreamPoeBot Version: 0.3.26.46
+Path: E:\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\<ExeName>
+Arguments: E:\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\DreamPoeBot.exe --autostart --config:Default --pid:34476 --silent
+
+OS Name: Майкрософт Windows 10 Домашняя
+OS Version: 10.0.19045
+OS Architecture: 64-разрядная
+InstalledUICulture: ru-RU [Russian (Russia)]
+CurrentUICulture: ru-RU [Russian (Russia)]
+CurrentCulture: ru-RU [Russian (Russia)]
+
+2025-08-04 00:31:28,922 [1] INFO  App - Now setting up JitProfiles...
+2025-08-04 00:31:28,934 [1] INFO  App - JitProfiles successfully setup!
+2025-08-04 00:31:28,944 [1] INFO  App - Now checking prerequisites...
+2025-08-04 00:31:28,945 [1] INFO  App - Prerequisite check complete!
+2025-08-04 00:31:29,762 [1] INFO  MainWindow - DreamPoeBot [0.3.26.46] is up to date!
+2025-08-04 00:31:29,862 [13] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-04 00:31:30,350 [13] INFO  Class104 - Region: eu
+2025-08-04 00:31:30,351 [13] INFO  Class104 - T: 5250584553326015187 

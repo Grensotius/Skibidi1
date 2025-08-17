@@ -1,0 +1,1361 @@
+Abomination Map(T17):30c/0,19div
+Abyssal Delirium Orb [stackSize:10]:20c/0,12div
+Abyssal Incubator [stackSize:10]:4c/0,02div
+Acid Caverns Map(T16):5c/0,03div
+Acid Caverns Map(T6):5c/0,03div
+Acid Caverns Map(T14):5c/0,03div
+Acid Caverns Map(T3):3,3c/0,02div
+Acid Caverns Map(T10):3c/0,02div
+Acid Slitherer:7,35c/0,05div
+Adolescent Rhex:7,5c/0,05div
+Alleyways Map(T12):4,4c/0,03div
+Alleyways Map(T16):3,02c/0,02div
+Alleyways Map(T4):3c/0,02div
+Alleyways Map(T8):3c/0,02div
+Alleyways Map(T1):2c/0,01div
+Allflame Ember of Flesh [stackSize:20]:10c/0,06div
+Allflame Ember of Kulemak [stackSize:20]:50c/0,31div
+Allflame Ember of Propagation [stackSize:20]:20c/0,12div
+Allflame Ember of Resplendence [stackSize:20]:19,7c/0,12div
+Allflame Ember of the Ethereal [stackSize:20]:177,8c/1,1div
+Allflame Ember of the Gilded [stackSize:20]:355,61c/2,2div
+Allflame Ember of the Wildwood [stackSize:20]:8,05c/0,05div
+Allflame Ember of Toads [stackSize:20]:5c/0,03div
+Alpine Devil:7c/0,04div
+Alpine Shaman:6,63c/0,04div
+Amber Oil [stackSize:10]:0,8c/0div
+Ancient City Map(T16):5c/0,03div
+Ancient City Map(T6):4c/0,02div
+Ancient City Map(T9):3c/0,02div
+Ancient City Map(T13):3c/0,02div
+Arachnid Tomb Map(T16):5c/0,03div
+Arachnid Tomb Map(T14):5c/0,03div
+Arachnid Tomb Map(T6):3c/0,02div
+Arachnid Tomb Map(T10):3c/0,02div
+Arachnid Tomb Map(T3):2c/0,01div
+Arakaali's Daughter:5,94c/0,04div
+Arcade Map(T14):5c/0,03div
+Arcade Map(T16):5c/0,03div
+Arcade Map(T11):4c/0,02div
+Arid Lake Map(T16):5c/0,03div
+Arid Lake Map(T13):4c/0,02div
+Arid Lake Map(T10):3c/0,02div
+Armour Cruncher:7,54c/0,05div
+Armoursmith's Delirium Orb [stackSize:10]:10c/0,06div
+Armoury Map(T16):5c/0,03div
+Armoury Map(T13):3c/0,02div
+Arsenal Map(T16):5c/0,03div
+Arsenal Map(T11):4c/0,02div
+Arsenal Map(T15):4c/0,02div
+Arsenal Map(T8):3c/0,02div
+Ashen Wood Map(T16):5c/0,03div
+Ashen Wood Map(T15):4c/0,02div
+Astragali [stackSize:1000]:1c/0,01div
+Atoll Map(T16):10c/0,06div
+Atoll Map(T8):5c/0,03div
+Atoll Map(T12):4c/0,02div
+Atoll Map(T5):3c/0,02div
+Avalanche Rider:6,71c/0,04div
+Avian Retch:7c/0,04div
+Azure Oil [stackSize:10]:1c/0,01div
+Barrow Ape:8,8c/0,05div
+Basilica Map(T16):5c/0,03div
+Basilica Map(T9):4c/0,02div
+Basilica Map(T13):4c/0,02div
+Basilica Map(T6):3c/0,02div
+Bazaar Map(T16):5c/0,03div
+Bazaar Map(T8):4,5c/0,03div
+Bazaar Map(T12):3c/0,02div
+Bazaar Map(T5):2c/0,01div
+Beach Map(T16):4c/0,02div
+Beach Map(T13):4c/0,02div
+Bearded Devil:7c/0,04div
+Bearded Shaman:7c/0,04div
+Bearded Skycaller:7c/0,04div
+Belfry Map(T16):5,35c/0,03div
+Belfry Map(T14):5c/0,03div
+Belfry Map(T11):4c/0,02div
+Black Mórrigan:468,84c/2,9div
+Black Oil [stackSize:10]:10c/0,06div
+Black Scorpion:6,76c/0,04div
+Blacksmith's Delirium Orb [stackSize:10]:10c/0,06div
+Bleached Crawler:6,74c/0,04div
+Blighted Acid Caverns Map(T16):22,5c/0,14div
+Blighted Acid Caverns Map(T14):10c/0,06div
+Blighted Acid Caverns Map(T6):4c/0,02div
+Blighted Acid Caverns Map(T10):4c/0,02div
+Blighted Acid Caverns Map(T3):3c/0,02div
+Blighted Alleyways Map(T16):31,6c/0,2div
+Blighted Alleyways Map(T4):15c/0,09div
+Blighted Alleyways Map(T12):4,8c/0,03div
+Blighted Alleyways Map(T8):4,4c/0,03div
+Blighted Alleyways Map(T1):4c/0,02div
+Blighted Ancient City Map(T16):25,4c/0,16div
+Blighted Ancient City Map(T9):14,85c/0,09div
+Blighted Ancient City Map(T13):5,55c/0,03div
+Blighted Ancient City Map(T6):3c/0,02div
+Blighted Arachnid Tomb Map(T16):25c/0,15div
+Blighted Arachnid Tomb Map(T14):9,4c/0,06div
+Blighted Arachnid Tomb Map(T6):8c/0,05div
+Blighted Arachnid Tomb Map(T3):3c/0,02div
+Blighted Arachnid Tomb Map(T10):2,9c/0,02div
+Blighted Arcade Map(T15):20c/0,12div
+Blighted Arcade Map(T16):19,95c/0,12div
+Blighted Arcade Map(T14):10,5c/0,06div
+Blighted Arcade Map(T11):5c/0,03div
+Blighted Arid Lake Map(T16):25c/0,15div
+Blighted Arid Lake Map(T13):5c/0,03div
+Blighted Arid Lake Map(T10):4c/0,02div
+Blighted Armoury Map(T16):25,5c/0,16div
+Blighted Armoury Map(T14):21,5c/0,13div
+Blighted Armoury Map(T13):5c/0,03div
+Blighted Arsenal Map(T16):24,62c/0,15div
+Blighted Arsenal Map(T11):12,5c/0,08div
+Blighted Arsenal Map(T15):9c/0,06div
+Blighted Arsenal Map(T8):4c/0,02div
+Blighted Ashen Wood Map(T16):24,2c/0,15div
+Blighted Ashen Wood Map(T15):15c/0,09div
+Blighted Atoll Map(T16):26,95c/0,17div
+Blighted Atoll Map(T8):21c/0,13div
+Blighted Atoll Map(T12):4,4c/0,03div
+Blighted Atoll Map(T5):4c/0,02div
+Blighted Basilica Map(T16):21,5c/0,13div
+Blighted Basilica Map(T9):8,5c/0,05div
+Blighted Basilica Map(T13):5c/0,03div
+Blighted Basilica Map(T6):3c/0,02div
+Blighted Bazaar Map(T16):25c/0,15div
+Blighted Bazaar Map(T8):14,7c/0,09div
+Blighted Bazaar Map(T12):4,3c/0,03div
+Blighted Bazaar Map(T5):3,7c/0,02div
+Blighted Beach Map(T16):25c/0,15div
+Blighted Beach Map(T14):12,9c/0,08div
+Blighted Beach Map(T13):5c/0,03div
+Blighted Belfry Map(T16):25c/0,15div
+Blighted Belfry Map(T14):10c/0,06div
+Blighted Belfry Map(T12):5c/0,03div
+Blighted Belfry Map(T11):5c/0,03div
+Blighted Bog Map(T16):23,5c/0,15div
+Blighted Bog Map(T12):4,4c/0,03div
+Blighted Bog Map(T5):4c/0,02div
+Blighted Bog Map(T8):3,4c/0,02div
+Blighted Bone Crypt Map(T16):25c/0,15div
+Blighted Bone Crypt Map(T4):9,47c/0,06div
+Blighted Bone Crypt Map(T12):5c/0,03div
+Blighted Bone Crypt Map(T1):4c/0,02div
+Blighted Bone Crypt Map(T8):3c/0,02div
+Blighted Bramble Valley Map(T16):20c/0,12div
+Blighted Bramble Valley Map(T12):11,5c/0,07div
+Blighted Bramble Valley Map(T13):10c/0,06div
+Blighted Bramble Valley Map(T10):9c/0,06div
+Blighted Bramble Valley Map(T9):4c/0,02div
+Blighted Canyon Map(T16):25c/0,15div
+Blighted Castle Ruins Map(T16):25c/0,15div
+Blighted Castle Ruins Map(T15):8,6c/0,05div
+Blighted Castle Ruins Map(T12):5c/0,03div
+Blighted Cemetery Map(T16):35c/0,22div
+Blighted Cemetery Map(T7):35c/0,22div
+Blighted Cemetery Map(T15):18c/0,11div
+Blighted Cemetery Map(T11):4,6c/0,03div
+Blighted Cemetery Map(T4):3c/0,02div
+Blighted Channel Map(T16):26,17c/0,16div
+Blighted Channel Map(T13):10c/0,06div
+Blighted Channel Map(T5):9,28c/0,06div
+Blighted Channel Map(T9):5c/0,03div
+Blighted Channel Map(T2):3,1c/0,02div
+Blighted Chateau Map(T5):38c/0,24div
+Blighted Chateau Map(T16):33,93c/0,21div
+Blighted Chateau Map(T13):6,9c/0,04div
+Blighted Chateau Map(T9):4,1c/0,03div
+Blighted Chateau Map(T2):3c/0,02div
+Blighted City Square Map(T16):26,36c/0,16div
+Blighted City Square Map(T14):9,8c/0,06div
+Blighted City Square Map(T7):4c/0,02div
+Blighted City Square Map(T10):3c/0,02div
+Blighted Cold River Map(T16):25c/0,15div
+Blighted Cold River Map(T14):10c/0,06div
+Blighted Cold River Map(T15):6,5c/0,04div
+Blighted Colonnade Map(T16):28,5c/0,18div
+Blighted Colonnade Map(T15):10,8c/0,07div
+Blighted Colonnade Map(T11):4,7c/0,03div
+Blighted Colonnade Map(T8):4c/0,02div
+Blighted Colosseum Map(T5):53c/0,33div
+Blighted Colosseum Map(T16):10,73c/0,07div
+Blighted Colosseum Map(T13):5,8c/0,04div
+Blighted Colosseum Map(T9):4c/0,02div
+Blighted Colosseum Map(T2):4c/0,02div
+Blighted Conservatory Map(T16):56,2c/0,35div
+Blighted Conservatory Map(T9):32c/0,2div
+Blighted Conservatory Map(T13):5c/0,03div
+Blighted Conservatory Map(T6):3c/0,02div
+Blighted Coral Ruins Map(T16):30c/0,19div
+Blighted Coral Ruins Map(T12):30c/0,19div
+Blighted Coral Ruins Map(T9):4c/0,02div
+Blighted Core Map(T14):37,4c/0,23div
+Blighted Core Map(T16):36c/0,22div
+Blighted Core Map(T6):17c/0,11div
+Blighted Core Map(T3):4c/0,02div
+Blighted Core Map(T10):3,8c/0,02div
+Blighted Courtyard Map(T16):20,08c/0,12div
+Blighted Courtyard Map(T8):7c/0,04div
+Blighted Courtyard Map(T12):5c/0,03div
+Blighted Courtyard Map(T5):3,1c/0,02div
+Blighted Crimson Township Map(T16):28,4c/0,18div
+Blighted Crystal Ore Map(T16):13c/0,08div
+Blighted Crystal Ore Map(T13):6,2c/0,04div
+Blighted Cursed Crypt Map(T16):25c/0,15div
+Blighted Cursed Crypt Map(T14):10c/0,06div
+Blighted Cursed Crypt Map(T10):4,02c/0,02div
+Blighted Cursed Crypt Map(T7):3c/0,02div
+Blighted Dark Forest Map(T16):24,63c/0,15div
+Blighted Dark Forest Map(T15):8,2c/0,05div
+Blighted Dark Forest Map(T7):8c/0,05div
+Blighted Dark Forest Map(T11):4c/0,02div
+Blighted Dark Forest Map(T4):2,8c/0,02div
+Blighted Defiled Cathedral Map(T16):25c/0,15div
+Blighted Defiled Cathedral Map(T6):11c/0,07div
+Blighted Defiled Cathedral Map(T14):9,8c/0,06div
+Blighted Defiled Cathedral Map(T10):3c/0,02div
+Blighted Defiled Cathedral Map(T3):3c/0,02div
+Blighted Delirium Orb [stackSize:10]:16c/0,1div
+Blighted Desert Spring Map(T16):25c/0,15div
+Blighted Desert Spring Map(T12):8c/0,05div
+Blighted Desert Spring Map(T9):3,4c/0,02div
+Blighted Dig Map(T16):25,3c/0,16div
+Blighted Dig Map(T12):11c/0,07div
+Blighted Dig Map(T9):4c/0,02div
+Blighted Dunes Map(T5):179838,02c/1112,38div
+Blighted Dunes Map(T16):26,2c/0,16div
+Blighted Dunes Map(T14):10c/0,06div
+Blighted Dunes Map(T13):9c/0,06div
+Blighted Dunes Map(T9):4,2c/0,03div
+Blighted Dunes Map(T2):4c/0,02div
+Blighted Dunes Map(T3):3c/0,02div
+Blighted Dungeon Map(T16):25c/0,15div
+Blighted Dungeon Map(T15):11,5c/0,07div
+Blighted Dungeon Map(T12):5c/0,03div
+Blighted Estuary Map(T16):20c/0,12div
+Blighted Estuary Map(T13):5c/0,03div
+Blighted Estuary Map(T10):3,5c/0,02div
+Blighted Flooded Mine Map(T16):25,6c/0,16div
+Blighted Flooded Mine Map(T14):10c/0,06div
+Blighted Forbidden Woods Map(T16):27c/0,17div
+Blighted Forbidden Woods Map(T14):8,6c/0,05div
+Blighted Forbidden Woods Map(T6):6,5c/0,04div
+Blighted Forbidden Woods Map(T10):5c/0,03div
+Blighted Forbidden Woods Map(T3):3c/0,02div
+Blighted Foundry Map(T7):35c/0,22div
+Blighted Foundry Map(T16):28,5c/0,18div
+Blighted Foundry Map(T15):10c/0,06div
+Blighted Foundry Map(T11):3,4c/0,02div
+Blighted Foundry Map(T4):3c/0,02div
+Blighted Frozen Cabins Map(T16):80c/0,49div
+Blighted Frozen Cabins Map(T12):5c/0,03div
+Blighted Frozen Cabins Map(T8):3c/0,02div
+Blighted Frozen Cabins Map(T5):3c/0,02div
+Blighted Geode Map(T16):28,5c/0,18div
+Blighted Geode Map(T5):20c/0,12div
+Blighted Geode Map(T13):6,2c/0,04div
+Blighted Geode Map(T2):3,39c/0,02div
+Blighted Geode Map(T9):3c/0,02div
+Blighted Ghetto Map(T16):29c/0,18div
+Blighted Ghetto Map(T8):5c/0,03div
+Blighted Ghetto Map(T12):4,8c/0,03div
+Blighted Ghetto Map(T5):3c/0,02div
+Blighted Glacier Map(T16):13,85c/0,09div
+Blighted Glacier Map(T14):10c/0,06div
+Blighted Glacier Map(T10):5c/0,03div
+Blighted Glacier Map(T7):4c/0,02div
+Blighted Grave Trough Map(T16):20c/0,12div
+Blighted Grave Trough Map(T14):10c/0,06div
+Blighted Grave Trough Map(T11):5c/0,03div
+Blighted Grotto Map(T16):25c/0,15div
+Blighted Grotto Map(T13):15c/0,09div
+Blighted Grotto Map(T10):3c/0,02div
+Blighted Iceberg Map(T16):26c/0,16div
+Blighted Iceberg Map(T13):14c/0,09div
+Blighted Iceberg Map(T10):4c/0,02div
+Blighted Incubator [stackSize:10]:5c/0,03div
+Blighted Ivory Temple Map(T16):28,5c/0,18div
+Blighted Ivory Temple Map(T12):5c/0,03div
+Blighted Ivory Temple Map(T5):3,1c/0,02div
+Blighted Jungle Valley Map(T16):25c/0,15div
+Blighted Jungle Valley Map(T14):10c/0,06div
+Blighted Jungle Valley Map(T11):5c/0,03div
+Blighted Laboratory Map(T16):32,5c/0,2div
+Blighted Laboratory Map(T14):9,8c/0,06div
+Blighted Laboratory Map(T6):5c/0,03div
+Blighted Laboratory Map(T10):4,4c/0,03div
+Blighted Laboratory Map(T3):3c/0,02div
+Blighted Lava Lake Map(T16):32c/0,2div
+Blighted Lava Lake Map(T9):12c/0,07div
+Blighted Lava Lake Map(T13):5c/0,03div
+Blighted Lava Lake Map(T6):4c/0,02div
+Blighted Leyline Map(T14):50c/0,31div
+Blighted Leyline Map(T16):30,73c/0,19div
+Blighted Leyline Map(T9):15c/0,09div
+Blighted Leyline Map(T13):5c/0,03div
+Blighted Leyline Map(T6):3c/0,02div
+Blighted Lighthouse Map(T16):29,7c/0,18div
+Blighted Malformation Map(T16):25c/0,15div
+Blighted Malformation Map(T14):10c/0,06div
+Blighted Malformation Map(T13):5c/0,03div
+Blighted Mausoleum Map(T5):57c/0,35div
+Blighted Mausoleum Map(T16):25c/0,15div
+Blighted Mausoleum Map(T13):10c/0,06div
+Blighted Mausoleum Map(T2):4c/0,02div
+Blighted Mausoleum Map(T9):3c/0,02div
+Blighted Maze Map(T16):26,2c/0,16div
+Blighted Maze Map(T14):10c/0,06div
+Blighted Mesa Map(T16):26,66c/0,16div
+Blighted Mesa Map(T13):5c/0,03div
+Blighted Mesa Map(T10):3,5c/0,02div
+Blighted Mineral Pools Map(T10):18006,3c/111,38div
+Blighted Mineral Pools Map(T16):30,47c/0,19div
+Blighted Mineral Pools Map(T14):10c/0,06div
+Blighted Mineral Pools Map(T7):3c/0,02div
+Blighted Moon Temple Map(T7):38c/0,24div
+Blighted Moon Temple Map(T16):26c/0,16div
+Blighted Moon Temple Map(T15):22c/0,14div
+Blighted Moon Temple Map(T11):4,6c/0,03div
+Blighted Moon Temple Map(T4):3c/0,02div
+Blighted Museum Map(T16):23c/0,14div
+Blighted Museum Map(T15):20c/0,12div
+Blighted Museum Map(T12):5c/0,03div
+Blighted Necropolis Map(T16):23c/0,14div
+Blighted Necropolis Map(T15):19c/0,12div
+Blighted Necropolis Map(T12):5c/0,03div
+Blighted Orchard Map(T16):20c/0,12div
+Blighted Orchard Map(T12):9c/0,06div
+Blighted Orchard Map(T14):6c/0,04div
+Blighted Orchard Map(T11):5c/0,03div
+Blighted Overgrown Shrine Map(T16):30c/0,19div
+Blighted Overgrown Shrine Map(T11):20c/0,12div
+Blighted Overgrown Shrine Map(T14):10c/0,06div
+Blighted Overgrown Shrine Map(T10):5c/0,03div
+Blighted Overgrown Shrine Map(T6):5c/0,03div
+Blighted Overgrown Shrine Map(T3):3c/0,02div
+Blighted Palace Map(T16):25,5c/0,16div
+Blighted Palace Map(T15):12c/0,07div
+Blighted Park Map(T12):31c/0,19div
+Blighted Park Map(T16):25c/0,15div
+Blighted Park Map(T9):3,2c/0,02div
+Blighted Peninsula Map(T16):23,5c/0,15div
+Blighted Peninsula Map(T15):15c/0,09div
+Blighted Peninsula Map(T14):10c/0,06div
+Blighted Phantasmagoria Map(T16):31,5c/0,19div
+Blighted Phantasmagoria Map(T9):4c/0,02div
+Blighted Phantasmagoria Map(T12):3,6c/0,02div
+Blighted Pier Map(T16):25c/0,15div
+Blighted Pier Map(T13):5,6c/0,03div
+Blighted Plateau Map(T16):27,5c/0,17div
+Blighted Plateau Map(T15):12,3c/0,08div
+Blighted Plateau Map(T7):8c/0,05div
+Blighted Plateau Map(T11):3,6c/0,02div
+Blighted Plateau Map(T4):3c/0,02div
+Blighted Precinct Map(T8):40c/0,25div
+Blighted Precinct Map(T16):30c/0,19div
+Blighted Precinct Map(T10):13c/0,08div
+Blighted Precinct Map(T14):10c/0,06div
+Blighted Precinct Map(T7):3c/0,02div
+Blighted Primordial Blocks Map(T16):20c/0,12div
+Blighted Primordial Blocks Map(T14):10c/0,06div
+Blighted Primordial Blocks Map(T10):7c/0,04div
+Blighted Primordial Blocks Map(T7):3,7c/0,02div
+Blighted Promenade Map(T16):35c/0,22div
+Blighted Promenade Map(T13):5c/0,03div
+Blighted Promenade Map(T6):3c/0,02div
+Blighted Racecourse Map(T16):25c/0,15div
+Blighted Racecourse Map(T12):3c/0,02div
+Blighted Racecourse Map(T5):3c/0,02div
+Blighted Ramparts Map(T16):24,5c/0,15div
+Blighted Ramparts Map(T12):5c/0,03div
+Blighted Ramparts Map(T1):4c/0,02div
+Blighted Ramparts Map(T4):3,2c/0,02div
+Blighted Ramparts Map(T8):3c/0,02div
+Blighted Scriptorium Map(T16):25,5c/0,16div
+Blighted Scriptorium Map(T11):15c/0,09div
+Blighted Scriptorium Map(T15):14,3c/0,09div
+Blighted Scriptorium Map(T8):4c/0,02div
+Blighted Sepulchre Map(T5):50c/0,31div
+Blighted Sepulchre Map(T16):24c/0,15div
+Blighted Sepulchre Map(T13):7,3c/0,05div
+Blighted Sepulchre Map(T9):3,6c/0,02div
+Blighted Sepulchre Map(T2):3,6c/0,02div
+Blighted Shipyard Map(T16):50c/0,31div
+Blighted Shipyard Map(T11):17c/0,11div
+Blighted Shipyard Map(T9):10c/0,06div
+Blighted Shipyard Map(T15):10c/0,06div
+Blighted Shipyard Map(T8):3c/0,02div
+Blighted Shore Map(T16):29,1c/0,18div
+Blighted Shore Map(T9):8c/0,05div
+Blighted Shore Map(T13):5c/0,03div
+Blighted Shore Map(T6):3c/0,02div
+Blighted Siege Map(T16):25c/0,15div
+Blighted Siege Map(T15):13,3c/0,08div
+Blighted Siege Map(T11):5c/0,03div
+Blighted Siege Map(T7):4c/0,02div
+Blighted Siege Map(T4):3c/0,02div
+Blighted Silo Map(T16):20c/0,12div
+Blighted Silo Map(T14):10c/0,06div
+Blighted Silo Map(T12):5c/0,03div
+Blighted Silo Map(T11):4,5c/0,03div
+Blighted Spider Forest Map(T16):35c/0,22div
+Blighted Spider Forest Map(T15):9c/0,06div
+Blighted Spider Forest Map(T7):4,4c/0,03div
+Blighted Spider Forest Map(T11):4c/0,02div
+Blighted Spider Forest Map(T4):3c/0,02div
+Blighted Strand Map(T16):25,39c/0,16div
+Blighted Strand Map(T14):10c/0,06div
+Blighted Strand Map(T6):6c/0,04div
+Blighted Strand Map(T3):3c/0,02div
+Blighted Strand Map(T10):2,7c/0,02div
+Blighted Sunken City Map(T16):36,5c/0,23div
+Blighted Sunken City Map(T15):18,5c/0,11div
+Blighted Sunken City Map(T12):5c/0,03div
+Blighted Temple Map(T15):40c/0,25div
+Blighted Temple Map(T16):17c/0,11div
+Blighted Temple Map(T14):10c/0,06div
+Blighted Terrace Map(T16):30c/0,19div
+Blighted Terrace Map(T12):4,9c/0,03div
+Blighted Terrace Map(T1):4c/0,02div
+Blighted Terrace Map(T8):3c/0,02div
+Blighted Tower Map(T16):25c/0,15div
+Blighted Toxic Sewer Map(T16):25c/0,15div
+Blighted Toxic Sewer Map(T15):19c/0,12div
+Blighted Toxic Sewer Map(T12):5c/0,03div
+Blighted Tropical Island Map(T16):20c/0,12div
+Blighted Tropical Island Map(T15):10c/0,06div
+Blighted Tropical Island Map(T11):8c/0,05div
+Blighted Tropical Island Map(T8):4c/0,02div
+Blighted Underground River Map(T16):20c/0,12div
+Blighted Underground River Map(T15):15c/0,09div
+Blighted Underground Sea Map(T16):20c/0,12div
+Blighted Underground Sea Map(T13):5c/0,03div
+Blighted Underground Sea Map(T10):5c/0,03div
+Blighted Vaal Pyramid Map(T7):18006,3c/111,38div
+Blighted Vaal Pyramid Map(T16):21,46c/0,13div
+Blighted Vaal Pyramid Map(T15):10c/0,06div
+Blighted Vaal Pyramid Map(T11):3,9c/0,02div
+Blighted Vaal Pyramid Map(T4):3c/0,02div
+Blighted Vault Map(T16):30c/0,19div
+Blighted Vault Map(T11):16,5c/0,1div
+Blighted Vault Map(T15):10c/0,06div
+Blighted Vault Map(T8):4c/0,02div
+Blighted Villa Map(T5):80c/0,49div
+Blighted Villa Map(T16):23,49c/0,15div
+Blighted Villa Map(T13):6c/0,04div
+Blighted Villa Map(T9):3,2c/0,02div
+Blighted Villa Map(T2):3c/0,02div
+Blighted Waste Pool Map(T16):30c/0,19div
+Blighted Waste Pool Map(T15):15c/0,09div
+Blighted Wasteland Map(T16):30c/0,19div
+Blighted Wasteland Map(T15):10c/0,06div
+Blighted Waterways Map(T16):25,5c/0,16div
+Blighted Waterways Map(T14):10c/0,06div
+Blighted Waterways Map(T10):7c/0,04div
+Blighted Waterways Map(T7):3c/0,02div
+Blighted Wharf Map(T16):26,36c/0,16div
+Blighted Wharf Map(T11):18c/0,11div
+Blighted Wharf Map(T15):10c/0,06div
+Blighted Wharf Map(T8):4c/0,02div
+Blight-ravaged Acid Caverns Map(T14):35c/0,22div
+Blight-ravaged Acid Caverns Map(T16):28,38c/0,18div
+Blight-ravaged Alleyways Map(T16):26,95c/0,17div
+Blight-ravaged Ancient City Map(T16):26,95c/0,17div
+Blight-ravaged Arcade Map(T14):38c/0,24div
+Blight-ravaged Arcade Map(T16):26,95c/0,17div
+Blight-ravaged Arid Lake Map(T16):26,95c/0,17div
+Blight-ravaged Armoury Map(T16):30c/0,19div
+Blight-ravaged Arsenal Map(T15):30c/0,19div
+Blight-ravaged Arsenal Map(T16):26,95c/0,17div
+Blight-ravaged Ashen Wood Map(T16):26,95c/0,17div
+Blight-ravaged Ashen Wood Map(T15):25c/0,15div
+Blight-ravaged Atoll Map(T16):29,08c/0,18div
+Blight-ravaged Basilica Map(T16):26,95c/0,17div
+Blight-ravaged Bazaar Map(T16):30,18c/0,19div
+Blight-ravaged Beach Map(T16):40c/0,25div
+Blight-ravaged Belfry Map(T14):37c/0,23div
+Blight-ravaged Belfry Map(T16):32,33c/0,2div
+Blight-ravaged Bog Map(T16):30,33c/0,19div
+Blight-ravaged Bone Crypt Map(T16):26,95c/0,17div
+Blight-ravaged Bramble Valley Map(T16):29,08c/0,18div
+Blight-ravaged Canyon Map(T16):32,6c/0,2div
+Blight-ravaged Castle Ruins Map(T15):32,5c/0,2div
+Blight-ravaged Castle Ruins Map(T16):26,95c/0,17div
+Blight-ravaged Cemetery Map(T15):35c/0,22div
+Blight-ravaged Cemetery Map(T16):26,95c/0,17div
+Blight-ravaged Channel Map(T16):26,95c/0,17div
+Blight-ravaged Chateau Map(T16):29,1c/0,18div
+Blight-ravaged City Square Map(T14):30c/0,19div
+Blight-ravaged City Square Map(T16):26,95c/0,17div
+Blight-ravaged Cold River Map(T16):26,95c/0,17div
+Blight-ravaged Cold River Map(T14):25c/0,15div
+Blight-ravaged Cold River Map(T15):20c/0,12div
+Blight-ravaged Colonnade Map(T16):40c/0,25div
+Blight-ravaged Colonnade Map(T15):30c/0,19div
+Blight-ravaged Conservatory Map(T16):30,18c/0,19div
+Blight-ravaged Coral Ruins Map(T16):26,95c/0,17div
+Blight-ravaged Courtyard Map(T16):26,95c/0,17div
+Blight-ravaged Crimson Township Map(T16):26,95c/0,17div
+Blight-ravaged Cursed Crypt Map(T16):32,33c/0,2div
+Blight-ravaged Cursed Crypt Map(T14):30c/0,19div
+Blight-ravaged Cursed Crypt Map(T15):9c/0,06div
+Blight-ravaged Dark Forest Map(T15):35c/0,22div
+Blight-ravaged Dark Forest Map(T16):26,95c/0,17div
+Blight-ravaged Defiled Cathedral Map(T14):34c/0,21div
+Blight-ravaged Defiled Cathedral Map(T16):26,95c/0,17div
+Blight-ravaged Desert Spring Map(T16):25,39c/0,16div
+Blight-ravaged Dig Map(T16):26,95c/0,17div
+Blight-ravaged Dunes Map(T16):27,36c/0,17div
+Blight-ravaged Dungeon Map(T16):30,7c/0,19div
+Blight-ravaged Dungeon Map(T15):30c/0,19div
+Blight-ravaged Estuary Map(T16):26,95c/0,17div
+Blight-ravaged Flooded Mine Map(T16):26,95c/0,17div
+Blight-ravaged Flooded Mine Map(T14):25c/0,15div
+Blight-ravaged Forbidden Woods Map(T16):36,08c/0,22div
+Blight-ravaged Forbidden Woods Map(T14):29c/0,18div
+Blight-ravaged Foundry Map(T15):39c/0,24div
+Blight-ravaged Foundry Map(T16):26,95c/0,17div
+Blight-ravaged Geode Map(T16):28,79c/0,18div
+Blight-ravaged Ghetto Map(T16):26,95c/0,17div
+Blight-ravaged Glacier Map(T14):30c/0,19div
+Blight-ravaged Glacier Map(T16):28,17c/0,17div
+Blight-ravaged Grave Trough Map(T16):28,59c/0,18div
+Blight-ravaged Iceberg Map(T16):26,95c/0,17div
+Blight-ravaged Ivory Temple Map(T16):26,95c/0,17div
+Blight-ravaged Jungle Valley Map(T16):30c/0,19div
+Blight-ravaged Jungle Valley Map(T14):21c/0,13div
+Blight-ravaged Laboratory Map(T14):30c/0,19div
+Blight-ravaged Laboratory Map(T16):26,95c/0,17div
+Blight-ravaged Lava Lake Map(T16):26,95c/0,17div
+Blight-ravaged Leyline Map(T16):26,95c/0,17div
+Blight-ravaged Lighthouse Map(T16):33,67c/0,21div
+Blight-ravaged Malformation Map(T16):30c/0,19div
+Blight-ravaged Mausoleum Map(T16):30c/0,19div
+Blight-ravaged Mesa Map(T16):26,95c/0,17div
+Blight-ravaged Mineral Pools Map(T14):30c/0,19div
+Blight-ravaged Mineral Pools Map(T16):26,95c/0,17div
+Blight-ravaged Moon Temple Map(T15):38,5c/0,24div
+Blight-ravaged Moon Temple Map(T16):27,56c/0,17div
+Blight-ravaged Museum Map(T15):33c/0,2div
+Blight-ravaged Museum Map(T16):26,95c/0,17div
+Blight-ravaged Necropolis Map(T15):29,1c/0,18div
+Blight-ravaged Necropolis Map(T16):26,95c/0,17div
+Blight-ravaged Orchard Map(T14):30c/0,19div
+Blight-ravaged Orchard Map(T16):27,56c/0,17div
+Blight-ravaged Overgrown Shrine Map(T14):30c/0,19div
+Blight-ravaged Overgrown Shrine Map(T16):26,95c/0,17div
+Blight-ravaged Palace Map(T16):27,48c/0,17div
+Blight-ravaged Palace Map(T15):26,95c/0,17div
+Blight-ravaged Park Map(T16):27,56c/0,17div
+Blight-ravaged Peninsula Map(T15):40c/0,25div
+Blight-ravaged Peninsula Map(T16):26,95c/0,17div
+Blight-ravaged Peninsula Map(T14):25c/0,15div
+Blight-ravaged Plateau Map(T15):35c/0,22div
+Blight-ravaged Plateau Map(T16):26,95c/0,17div
+Blight-ravaged Precinct Map(T16):26,95c/0,17div
+Blight-ravaged Precinct Map(T14):23c/0,14div
+Blight-ravaged Primordial Blocks Map(T14):30c/0,19div
+Blight-ravaged Primordial Blocks Map(T16):26,95c/0,17div
+Blight-ravaged Promenade Map(T16):26,95c/0,17div
+Blight-ravaged Racecourse Map(T16):28,79c/0,18div
+Blight-ravaged Ramparts Map(T16):29,33c/0,18div
+Blight-ravaged Sepulchre Map(T16):27,97c/0,17div
+Blight-ravaged Shipyard Map(T15):30c/0,19div
+Blight-ravaged Shipyard Map(T16):28,02c/0,17div
+Blight-ravaged Shore Map(T16):26,95c/0,17div
+Blight-ravaged Siege Map(T15):40c/0,25div
+Blight-ravaged Siege Map(T16):26,95c/0,17div
+Blight-ravaged Silo Map(T14):31,5c/0,19div
+Blight-ravaged Silo Map(T16):26,56c/0,16div
+Blight-ravaged Spider Forest Map(T15):39c/0,24div
+Blight-ravaged Spider Forest Map(T16):26,95c/0,17div
+Blight-ravaged Strand Map(T14):30c/0,19div
+Blight-ravaged Strand Map(T16):26,95c/0,17div
+Blight-ravaged Temple Map(T15):50c/0,31div
+Blight-ravaged Temple Map(T16):26,95c/0,17div
+Blight-ravaged Temple Map(T14):25c/0,15div
+Blight-ravaged Tower Map(T16):31,17c/0,19div
+Blight-ravaged Toxic Sewer Map(T15):38c/0,24div
+Blight-ravaged Toxic Sewer Map(T16):30c/0,19div
+Blight-ravaged Tropical Island Map(T15):30c/0,19div
+Blight-ravaged Tropical Island Map(T16):26,95c/0,17div
+Blight-ravaged Underground River Map(T16):30,18c/0,19div
+Blight-ravaged Underground River Map(T15):26,95c/0,17div
+Blight-ravaged Underground Sea Map(T16):26,95c/0,17div
+Blight-ravaged Vault Map(T16):26,95c/0,17div
+Blight-ravaged Vault Map(T15):25c/0,15div
+Blight-ravaged Villa Map(T16):29,08c/0,18div
+Blight-ravaged Waste Pool Map(T16):26,95c/0,17div
+Blight-ravaged Waste Pool Map(T15):26,95c/0,17div
+Blight-ravaged Wasteland Map(T16):26,95c/0,17div
+Blight-ravaged Wasteland Map(T15):25c/0,15div
+Blight-ravaged Wharf Map(T16):26,95c/0,17div
+Blight-ravaged Wharf Map(T15):26,75c/0,17div
+Blood Ape:7c/0,04div
+Blood Chieftain:7c/0,04div
+Bog Map(T16):5c/0,03div
+Bog Map(T8):3c/0,02div
+Bog Map(T12):3c/0,02div
+Bog Map(T5):3c/0,02div
+Bone Cruncher:6,6c/0,04div
+Bone Crypt Map(T16):5c/0,03div
+Bone Crypt Map(T12):3,4c/0,02div
+Bone Crypt Map(T4):3c/0,02div
+Bone Crypt Map(T8):3c/0,02div
+Bone Crypt Map(T1):2c/0,01div
+Bone Rhoa:7c/0,04div
+Bramble Cobra:8c/0,05div
+Bramble Valley Map(T16):5,39c/0,03div
+Bramble Valley Map(T12):4c/0,02div
+Bramble Valley Map(T9):3c/0,02div
+Brine Vassal:6,74c/0,04div
+Brooding Tarantula:10c/0,06div
+Burial Medallion [stackSize:1000]:2,69c/0,02div
+Canyon Map(T16):3c/0,02div
+Carnage Ape:7c/0,04div
+Carnage Chieftain:6,47c/0,04div
+Carrion Burrower:7c/0,04div
+Carrion Queen:5,39c/0,03div
+Carrion Swarmer:6,74c/0,04div
+Cartographer's Delirium Orb [stackSize:10]:15c/0,09div
+Cartographer's Incubator [stackSize:10]:5c/0,03div
+Castle Ruins Map(T16):6c/0,04div
+Castle Ruins Map(T15):4,7c/0,03div
+Castle Ruins Map(T12):3,7c/0,02div
+Cave Beast:7c/0,04div
+Cave Skitterer:6,47c/0,04div
+Celestial Armoursmith's Incubator [stackSize:10]:3c/0,02div
+Celestial Blacksmith's Incubator [stackSize:10]:3c/0,02div
+Celestial Jeweller's Incubator [stackSize:10]:3c/0,02div
+Cemetery Map(T15):5c/0,03div
+Cemetery Map(T16):5c/0,03div
+Cemetery Map(T7):3c/0,02div
+Cemetery Map(T11):3c/0,02div
+Cemetery Map(T4):2c/0,01div
+Channel Map(T16):5c/0,03div
+Channel Map(T13):4c/0,02div
+Channel Map(T5):3c/0,02div
+Channel Map(T9):3c/0,02div
+Channel Map(T2):2c/0,01div
+Chateau Map(T5):5c/0,03div
+Chateau Map(T16):5c/0,03div
+Chateau Map(T13):4c/0,02div
+Chateau Map(T9):3c/0,02div
+Chateau Map(T2):3c/0,02div
+Chimeric Croaker:6,89c/0,04div
+Chrome-infused Chimeral:6,47c/0,04div
+Chrome-infused Croaker:7c/0,04div
+Chrome-infused Goliath:7c/0,04div
+Chrome-touched Chimeral:7c/0,04div
+Chrome-touched Croaker:7c/0,04div
+Chrome-touched Goliath:7c/0,04div
+Citadel Map(T17):30c/0,19div
+City Square Map(T10):5c/0,03div
+City Square Map(T14):5c/0,03div
+City Square Map(T16):4,81c/0,03div
+City Square Map(T7):4,03c/0,02div
+Clear Oil [stackSize:10]:0,5c/0div
+Cold River Map(T14):10c/0,06div
+Cold River Map(T16):6c/0,04div
+Colonnade Map(T11):5c/0,03div
+Colonnade Map(T16):5c/0,03div
+Colonnade Map(T15):4,8c/0,03div
+Colonnade Map(T8):4c/0,02div
+Colosseum Map(T16):5c/0,03div
+Colosseum Map(T13):4c/0,02div
+Colosseum Map(T9):3c/0,02div
+Colosseum Map(T5):3c/0,02div
+Colosseum Map(T2):2c/0,01div
+Colossus Crusher:8c/0,05div
+Conservatory Map(T16):5c/0,03div
+Conservatory Map(T9):4c/0,02div
+Conservatory Map(T13):4c/0,02div
+Conservatory Map(T6):4c/0,02div
+Coral Ruins Map(T16):5,39c/0,03div
+Coral Ruins Map(T12):5c/0,03div
+Coral Ruins Map(T9):4c/0,02div
+Core Map(T14):5c/0,03div
+Core Map(T16):5c/0,03div
+Core Map(T6):4c/0,02div
+Core Map(T10):3,1c/0,02div
+Core Map(T3):2c/0,01div
+Corrupted Arach:7c/0,04div
+Corrupted Beast:7c/0,04div
+Corrupted Rhoa:7c/0,04div
+Courtyard Map(T16):5c/0,03div
+Courtyard Map(T8):4,5c/0,03div
+Courtyard Map(T12):3c/0,02div
+Courtyard Map(T5):2c/0,01div
+Craiceann, First of the Deep:20c/0,12div
+Craicic Chimeral:110c/0,68div
+Craicic Maw:5c/0,03div
+Craicic Sand Spitter:3c/0,02div
+Craicic Savage Crab:3c/0,02div
+Craicic Shield Crab:2c/0,01div
+Craicic Spider Crab:7c/0,04div
+Craicic Squid:2c/0,01div
+Craicic Vassal:5c/0,03div
+Craicic Watcher:2c/0,01div
+Crimson Oil [stackSize:10]:5c/0,03div
+Crimson Temple Map:20166,35c/124,74div
+Crimson Township Map(T16):2,85c/0,02div
+Crustacean Sniper:7c/0,04div
+Crystal Ore Map(T16):5,35c/0,03div
+Crystal Ore Map(T13):3,3c/0,02div
+Cursed Crypt Map(T16):5c/0,03div
+Cursed Crypt Map(T10):5c/0,03div
+Cursed Crypt Map(T14):4c/0,02div
+Cursed Crypt Map(T7):3c/0,02div
+Cursed Spawn:7c/0,04div
+Dark Forest Map(T15):5c/0,03div
+Dark Forest Map(T16):5c/0,03div
+Dark Forest Map(T11):4c/0,02div
+Dark Forest Map(T7):4c/0,02div
+Dark Forest Map(T4):4c/0,02div
+Deafening Essence of Anger(T7) [stackSize:9]:2,99c/0,02div
+Deafening Essence of Anguish(T7) [stackSize:9]:2c/0,01div
+Deafening Essence of Contempt(T7) [stackSize:9]:3,17c/0,02div
+Deafening Essence of Doubt(T7) [stackSize:9]:2c/0,01div
+Deafening Essence of Dread(T7) [stackSize:9]:2c/0,01div
+Deafening Essence of Envy(T7) [stackSize:9]:4,04c/0,02div
+Deafening Essence of Fear(T7) [stackSize:9]:2,94c/0,02div
+Deafening Essence of Greed(T7) [stackSize:9]:2,7c/0,02div
+Deafening Essence of Hatred(T7) [stackSize:9]:2,89c/0,02div
+Deafening Essence of Loathing(T7) [stackSize:9]:3,94c/0,02div
+Deafening Essence of Misery(T7) [stackSize:9]:2c/0,01div
+Deafening Essence of Rage(T7) [stackSize:9]:3,59c/0,02div
+Deafening Essence of Scorn(T7) [stackSize:9]:10c/0,06div
+Deafening Essence of Sorrow(T7) [stackSize:9]:3c/0,02div
+Deafening Essence of Spite(T7) [stackSize:9]:10c/0,06div
+Deafening Essence of Suffering(T7) [stackSize:9]:2c/0,01div
+Deafening Essence of Torment(T7) [stackSize:9]:3c/0,02div
+Deafening Essence of Woe(T7) [stackSize:9]:4,49c/0,03div
+Deafening Essence of Wrath(T7) [stackSize:9]:3c/0,02div
+Deafening Essence of Zeal(T7) [stackSize:9]:3,94c/0,02div
+Defiled Cathedral Map(T14):5c/0,03div
+Defiled Cathedral Map(T6):3c/0,02div
+Defiled Cathedral Map(T10):3c/0,02div
+Defiled Cathedral Map(T3):3c/0,02div
+Defiled Cathedral Map(T16):2,85c/0,02div
+Desert Spring Map(T16):5c/0,03div
+Desert Spring Map(T12):4c/0,02div
+Desert Spring Map(T9):3c/0,02div
+Devourer:7c/0,04div
+Dig Map(T12):5c/0,03div
+Dig Map(T16):5c/0,03div
+Dig Map(T9):4c/0,02div
+Dirt Scrabbler:6,74c/0,04div
+Diviner's Delirium Orb [stackSize:10]:17c/0,11div
+Diviner's Incubator [stackSize:10]:5c/0,03div
+Dread Primate:7c/0,04div
+Dune Hellion:7c/0,04div
+Dunes Map(T13):4c/0,02div
+Dunes Map(T2):3,2c/0,02div
+Dunes Map(T5):3c/0,02div
+Dunes Map(T9):3c/0,02div
+Dunes Map(T16):2,82c/0,02div
+Dungeon Map(T16):5c/0,03div
+Dungeon Map(T15):4c/0,02div
+Dungeon Map(T12):3,13c/0,02div
+Dust Scrabbler:6,92c/0,04div
+Elder-Blessed Cobra:8,05c/0,05div
+Elder-Blessed Goatman:6,87c/0,04div
+Elder-Blessed Hellion:9,16c/0,06div
+Elder-Blessed Retch:7,4c/0,05div
+Elder-Blessed Rhoa:10c/0,06div
+Enraptured Arachnid:6,74c/0,04div
+Enraptured Beast:6,8c/0,04div
+Enraptured Crab:8,28c/0,05div
+Enslaved Hellion:7,2c/0,04div
+Escaped Rhex:37,6c/0,23div
+Essence of Delirium(T8) [stackSize:9]:26,95c/0,17div
+Essence of Horror(T8) [stackSize:9]:34c/0,21div
+Essence of Hysteria(T8) [stackSize:9]:26,95c/0,17div
+Essence of Insanity(T8) [stackSize:9]:26,95c/0,17div
+Estuary Map(T13):5c/0,03div
+Estuary Map(T16):5c/0,03div
+Estuary Map(T10):3,2c/0,02div
+Exotic Coinage [stackSize:1000]:3,59c/0,02div
+Farric Ape:2c/0,01div
+Farric Chieftain:2c/0,01div
+Farric Flame Hellion Alpha:2c/0,01div
+Farric Frost Hellion Alpha:3c/0,02div
+Farric Gargantuan:2c/0,01div
+Farric Goatman:2c/0,01div
+Farric Goliath:2c/0,01div
+Farric Lynx Alpha:5c/0,03div
+Farric Magma Hound:2c/0,01div
+Farric Pit Hound:2,85c/0,02div
+Farric Taurus:2c/0,01div
+Farric Tiger Alpha:7c/0,04div
+Farric Ursa:2c/0,01div
+Farric Wolf Alpha:5c/0,03div
+Farrul, First of the Plains:20c/0,12div
+Fenumal Devourer:2c/0,01div
+Fenumal Hybrid Arachnid:8c/0,05div
+Fenumal Plagued Arachnid:50c/0,31div
+Fenumal Queen:2c/0,01div
+Fenumal Scorpion:2c/0,01div
+Fenumal Scrabbler:2c/0,01div
+Fenumal Widow:2c/0,01div
+Fenumus, First of the Night:40c/0,25div
+Feral Chimeral:8,08c/0,05div
+Feral Fowl:5,39c/0,03div
+Fetid Maw:6,92c/0,04div
+Fighting Bull:7c/0,04div
+Filth Maw:8c/0,05div
+Fine Delirium Orb [stackSize:10]:25c/0,15div
+Fine Incubator [stackSize:10]:4,9c/0,03div
+Flame Hellion:7c/0,04div
+Flooded Mine Map(T14):10,62c/0,07div
+Flooded Mine Map(T16):5c/0,03div
+Forbidden Woods Map(T14):5c/0,03div
+Forbidden Woods Map(T16):5c/0,03div
+Forbidden Woods Map(T6):3c/0,02div
+Forbidden Woods Map(T10):3c/0,02div
+Forbidden Woods Map(T3):2c/0,01div
+Foreboding Delirium Orb [stackSize:10]:13c/0,08div
+Foreboding Incubator [stackSize:10]:5c/0,03div
+Forest Beast:7,5c/0,05div
+Forge of the Phoenix Map(T16):5,59c/0,03div
+Fortress Map(T17):70c/0,43div
+Foundry Map(T7):4,2c/0,03div
+Foundry Map(T15):4c/0,02div
+Foundry Map(T11):4c/0,02div
+Foundry Map(T16):4c/0,02div
+Foundry Map(T4):2c/0,01div
+Fragmented Delirium Orb [stackSize:10]:20c/0,12div
+Fragmented Incubator [stackSize:10]:3c/0,02div
+Freezing Wolf:7,41c/0,05div
+Frozen Cabins Map(T16):5c/0,03div
+Frozen Cabins Map(T8):3c/0,02div
+Frozen Cabins Map(T12):3c/0,02div
+Frozen Cabins Map(T5):2c/0,01div
+Fury Hound:7,54c/0,05div
+Gemcutter's Incubator [stackSize:10]:1,4c/0,01div
+Geode Map(T16):5c/0,03div
+Geode Map(T5):4c/0,02div
+Geode Map(T13):4c/0,02div
+Geode Map(T9):3c/0,02div
+Geode Map(T2):2c/0,01div
+Geomancer's Incubator [stackSize:10]:4c/0,02div
+Ghetto Map(T16):5c/0,03div
+Ghetto Map(T12):4c/0,02div
+Ghetto Map(T8):3,9c/0,02div
+Ghetto Map(T5):3c/0,02div
+Glacier Map(T14):4,5c/0,03div
+Glacier Map(T16):4,49c/0,03div
+Glacier Map(T10):4c/0,02div
+Glacier Map(T7):3,9c/0,02div
+Glade Mamba:6,84c/0,04div
+Gluttonous Gull:7c/0,04div
+Goatman:6,73c/0,04div
+Goatman Shaman:6c/0,04div
+Goatman Stomper:9,2c/0,06div
+Golden Oil [stackSize:10]:172,35c/1,07div
+Granite Eater:7c/0,04div
+Grave Trough Map(T14):5c/0,03div
+Grave Trough Map(T16):4c/0,02div
+Grave Trough Map(T11):3c/0,02div
+Gravel Eater:5,39c/0,03div
+Grazing Taurus:6,74c/0,04div
+Grotto Map(T16):5c/0,03div
+Grotto Map(T13):4c/0,02div
+Grotto Map(T10):3c/0,02div
+Hairy Bonecruncher:6,92c/0,04div
+Hill Devil:7c/0,04div
+Host Adder:6,82c/0,04div
+Host Chieftain:6,29c/0,04div
+Host Cobra:7c/0,04div
+Hybrid Arachnid:6,92c/0,04div
+Iceberg Map(T16):8c/0,05div
+Iceberg Map(T13):4c/0,02div
+Iceberg Map(T10):3c/0,02div
+Incandescent Invitation:90c/0,56div
+Indigo Oil [stackSize:10]:1c/0,01div
+Infested Ape:6,33c/0,04div
+Infested Crab:7c/0,04div
+Infested Crawler:7,01c/0,04div
+Infested Maw:7c/0,04div
+Infested Rhoa:7c/0,04div
+Infested Serpent:20c/0,12div
+Infested Skitterer:6,74c/0,04div
+Infested Tunnelfiend:6,74c/0,04div
+Infested Vulture:8,5c/0,05div
+Infused Incubator [stackSize:10]:5c/0,03div
+Ink Spinner:6,73c/0,04div
+Ivory Temple Map(T16):5,51c/0,03div
+Ivory Temple Map(T12):4c/0,02div
+Ivory Temple Map(T8):3c/0,02div
+Ivory Temple Map(T5):2,9c/0,02div
+Jeweller's Delirium Orb [stackSize:10]:10c/0,06div
+Journey Tattoo of the Body [stackSize:10]:70c/0,43div
+Journey Tattoo of the Mind [stackSize:10]:1616,4c/10div
+Journey Tattoo of the Soul [stackSize:10]:242,46c/1,5div
+Jungle Valley Map(T14):5c/0,03div
+Jungle Valley Map(T11):3c/0,02div
+Jungle Valley Map(T16):2,82c/0,02div
+Kalguuran Incubator [stackSize:10]:4c/0,02div
+Laboratory Map(T14):4,2c/0,03div
+Laboratory Map(T6):3c/0,02div
+Laboratory Map(T10):3c/0,02div
+Laboratory Map(T16):3c/0,02div
+Laboratory Map(T3):2c/0,01div
+Lair of the Hydra Map(T16):6c/0,04div
+Lava Lake Map(T16):5,39c/0,03div
+Lava Lake Map(T9):4c/0,02div
+Lava Lake Map(T13):4c/0,02div
+Lava Lake Map(T6):3c/0,02div
+Leaping Spider:6,71c/0,04div
+Leyline Map(T16):5c/0,03div
+Leyline Map(T9):4c/0,02div
+Leyline Map(T13):3,6c/0,02div
+Leyline Map(T6):3c/0,02div
+Lighthouse Map(T16):4,43c/0,03div
+Maddening Incubator [stackSize:10]:4c/0,02div
+Malformation Map(T16):5c/0,03div
+Malformation Map(T13):3c/0,02div
+Maternal Rhex:7c/0,04div
+Mausoleum Map(T16):88,67c/0,55div
+Mausoleum Map(T13):4c/0,02div
+Mausoleum Map(T5):3c/0,02div
+Mausoleum Map(T9):2c/0,01div
+Mausoleum Map(T2):2c/0,01div
+Maze Map(T14):9,7c/0,06div
+Maze Map(T16):5c/0,03div
+Maze of the Minotaur Map(T16):6c/0,04div
+Merveil's Attendant:7c/0,04div
+Merveil's Blessed:6,74c/0,04div
+Merveil's Chosen:6,47c/0,04div
+Merveil's Favoured:7c/0,04div
+Merveil's Retainer:6,66c/0,04div
+Mesa Map(T13):4c/0,02div
+Mesa Map(T10):3,23c/0,02div
+Mesa Map(T16):3c/0,02div
+Mindless Scavenger:6,71c/0,04div
+Mineral Pools Map(T16):5,88c/0,04div
+Mineral Pools Map(T10):4c/0,02div
+Mineral Pools Map(T14):4c/0,02div
+Mineral Pools Map(T7):3,5c/0,02div
+Moon Temple Map(T7):5c/0,03div
+Moon Temple Map(T15):5c/0,03div
+Moon Temple Map(T16):5c/0,03div
+Moon Temple Map(T11):4c/0,02div
+Moon Temple Map(T4):3,67c/0,02div
+Mountain Hellion:6,82c/0,04div
+Mountain Hellion Alpha:7c/0,04div
+Mountain Lynx:6,92c/0,04div
+Murk Runner:6,76c/0,04div
+Museum Map(T16):5c/0,03div
+Museum Map(T15):4c/0,02div
+Museum Map(T12):4c/0,02div
+Mutant Arach:10,78c/0,07div
+Muttering Essence of Anger(T2) [stackSize:9]:1c/0,01div
+Muttering Essence of Contempt(T2) [stackSize:9]:1c/0,01div
+Muttering Essence of Fear(T2) [stackSize:9]:1c/0,01div
+Muttering Essence of Greed(T2) [stackSize:9]:1c/0,01div
+Muttering Essence of Hatred(T2) [stackSize:9]:1c/0,01div
+Muttering Essence of Sorrow(T2) [stackSize:9]:1c/0,01div
+Muttering Essence of Torment(T2) [stackSize:9]:1c/0,01div
+Muttering Essence of Woe(T2) [stackSize:9]:1c/0,01div
+Mysterious Incubator [stackSize:10]:4c/0,02div
+Necropolis Map(T16):5c/0,03div
+Necropolis Map(T15):4c/0,02div
+Necropolis Map(T12):3c/0,02div
+Night Adder:7c/0,04div
+Noxious Tarantula:6,37c/0,04div
+Obscured Delirium Orb [stackSize:10]:15c/0,09div
+Obscured Incubator [stackSize:10]:3c/0,02div
+Obsidian Eater:6,74c/0,04div
+Omen of Adrenaline:4c/0,02div
+Omen of Amelioration:210,13c/1,3div
+Omen of Blanching:436,43c/2,7div
+Omen of Brilliance:15c/0,09div
+Omen of Connections:484,92c/3div
+Omen of Death-dancing:5c/0,03div
+Omen of Death's Door:4c/0,02div
+Omen of Fortune:7096c/43,9div
+Omen of Refreshment:3c/0,02div
+Omen of Return:3c/0,02div
+Omen of the Jeweller:10c/0,06div
+Omen of the Soul Devourer:5c/0,03div
+Opalescent Oil [stackSize:10]:29c/0,18div
+Orchard Map(T16):5,08c/0,03div
+Orchard Map(T14):5c/0,03div
+Orchard Map(T11):4c/0,02div
+Ornate Incubator [stackSize:10]:8c/0,05div
+Otherworldly Incubator [stackSize:10]:4c/0,02div
+Overgrown Shrine Map(T14):5c/0,03div
+Overgrown Shrine Map(T16):5c/0,03div
+Overgrown Shrine Map(T6):4c/0,02div
+Overgrown Shrine Map(T10):3c/0,02div
+Overgrown Shrine Map(T3):2c/0,01div
+Palace Map(T15):4,85c/0,03div
+Palace Map(T16):3,79c/0,02div
+Park Map(T16):5c/0,03div
+Park Map(T12):4c/0,02div
+Park Map(T9):2,65c/0,02div
+Peninsula Map(T14):10,39c/0,06div
+Peninsula Map(T16):4,9c/0,03div
+Phantasmagoria Map(T12):4c/0,02div
+Phantasmagoria Map(T16):3,73c/0,02div
+Phantasmagoria Map(T9):3c/0,02div
+Pier Map(T16):5c/0,03div
+Pier Map(T13):3c/0,02div
+Pit of the Chimera Map(T16):5,63c/0,03div
+Pitbull Demon:7,14c/0,04div
+Plagued Arachnid:7c/0,04div
+Plateau Map(T15):5c/0,03div
+Plateau Map(T16):5c/0,03div
+Plateau Map(T11):4c/0,02div
+Plateau Map(T7):3c/0,02div
+Plateau Map(T4):2c/0,01div
+Plated Parasite:7,7c/0,05div
+Plumed Chimeral:7,32c/0,05div
+Plummeting Ursa:7c/0,04div
+Polaric Invitation:15c/0,09div
+Porcupine Goliath:7c/0,04div
+Precinct Map(T16):6c/0,04div
+Precinct Map(T14):4c/0,02div
+Precinct Map(T10):3c/0,02div
+Precinct Map(T7):3c/0,02div
+Predatory Scorpion:6,87c/0,04div
+Primal Crushclaw:3c/0,02div
+Primal Cystcaller:9c/0,06div
+Primal Incubator [stackSize:10]:3c/0,02div
+Primal Rhex Matriarch:5c/0,03div
+Primordial Blocks Map(T16):6,3c/0,04div
+Primordial Blocks Map(T14):4,9c/0,03div
+Primordial Blocks Map(T10):4c/0,02div
+Primordial Blocks Map(T7):3c/0,02div
+Prismatic Oil [stackSize:10]:161,67c/1div
+Promenade Map(T16):5,39c/0,03div
+Promenade Map(T13):4c/0,02div
+Promenade Map(T9):3,8c/0,02div
+Promenade Map(T6):3c/0,02div
+Purge Hound:7c/0,04div
+Racecourse Map(T16):5c/0,03div
+Racecourse Map(T12):4c/0,02div
+Racecourse Map(T8):3,17c/0,02div
+Racecourse Map(T5):3c/0,02div
+Ramparts Map(T16):5c/0,03div
+Ramparts Map(T12):5c/0,03div
+Ramparts Map(T4):4c/0,02div
+Ramparts Map(T8):3c/0,02div
+Ramparts Map(T1):2c/0,01div
+Ravenous Parasite:10c/0,06div
+Reflective Oil [stackSize:10]:8c/0,05div
+Remnant of Corruption [stackSize:9]:3c/0,02div
+Rhoa Mare:6,84c/0,04div
+Rooster Fiend:6,74c/0,04div
+Rotting Vulture:8,85c/0,05div
+Ruins Hellion:5,39c/0,03div
+Runegraft of Bellows [stackSize:10]:10c/0,06div
+Runegraft of Blasphemy [stackSize:10]:10c/0,06div
+Runegraft of Gemcraft [stackSize:10]:161,67c/1div
+Runegraft of Loyalty [stackSize:10]:10c/0,06div
+Runegraft of Quaffing [stackSize:10]:10c/0,06div
+Runegraft of Recompense [stackSize:10]:10c/0,06div
+Runegraft of Restitching [stackSize:10]:10c/0,06div
+Runegraft of Stability [stackSize:10]:15c/0,09div
+Runegraft of the Angler [stackSize:10]:76793,25c/475div
+Runegraft of the Bound [stackSize:10]:10c/0,06div
+Runegraft of the Combatant [stackSize:10]:10c/0,06div
+Runegraft of the Fortress [stackSize:10]:30c/0,19div
+Runegraft of the Jeweller [stackSize:10]:10c/0,06div
+Runegraft of the Novamark [stackSize:10]:10c/0,06div
+Runegraft of the River [stackSize:10]:10c/0,06div
+Runegraft of the Sinistral [stackSize:10]:10c/0,06div
+Runegraft of the Soulwick [stackSize:10]:15c/0,09div
+Runegraft of the Warp [stackSize:10]:40c/0,25div
+Runegraft of the Witchmark [stackSize:10]:10c/0,06div
+Runegraft of Time [stackSize:10]:10c/0,06div
+Runegraft of Treachery [stackSize:10]:15,93c/0,1div
+Sanctuary Map(T17):45,1c/0,28div
+Sand Leaper:7c/0,04div
+Sand Scorpion:11,98c/0,07div
+Sand Serpent:11,92c/0,07div
+Saqawal, First of the Sky:15c/0,09div
+Saqawine Blood Viper:2c/0,01div
+Saqawine Chimeral:2c/0,01div
+Saqawine Cobra:2,94c/0,02div
+Saqawine Retch:2c/0,01div
+Saqawine Rhex:8c/0,05div
+Saqawine Rhoa:2c/0,01div
+Saqawine Vulture:3c/0,02div
+Savage Crab:6,74c/0,04div
+Scalding Arachnid:7c/0,04div
+Scavenging Vulture:9,19c/0,06div
+Scrap Metal [stackSize:1000]:2c/0,01div
+Screaming Essence of Anger(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Anguish(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Contempt(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Doubt(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Dread(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Envy(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Fear(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Greed(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Hatred(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Loathing(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Misery(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Rage(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Scorn(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Sorrow(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Spite(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Suffering(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Torment(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Woe(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Wrath(T5) [stackSize:9]:1c/0,01div
+Screaming Essence of Zeal(T5) [stackSize:9]:1c/0,01div
+Screaming Invitation:174,33c/1,08div
+Scriptorium Map(T16):5c/0,03div
+Scriptorium Map(T15):4c/0,02div
+Scriptorium Map(T11):3,1c/0,02div
+Scriptorium Map(T8):3c/0,02div
+Scum Crawler:7c/0,04div
+Sepia Oil [stackSize:10]:0,75c/0div
+Sepulchre Map(T16):5,39c/0,03div
+Sepulchre Map(T13):4c/0,02div
+Sepulchre Map(T5):3c/0,02div
+Sepulchre Map(T9):3c/0,02div
+Sepulchre Map(T2):2c/0,01div
+Sewage Crawler:7c/0,04div
+Shackled Hellion:7c/0,04div
+Shaggy Monstrosity:6,74c/0,04div
+Shipyard Map(T16):5,39c/0,03div
+Shipyard Map(T11):4c/0,02div
+Shipyard Map(T15):4c/0,02div
+Shipyard Map(T8):3c/0,02div
+Shore Map(T16):4c/0,02div
+Shore Map(T9):3,6c/0,02div
+Shore Map(T13):3c/0,02div
+Shore Map(T6):3c/0,02div
+Shrieking Essence of Anger(T6) [stackSize:9]:1,06c/0,01div
+Shrieking Essence of Anguish(T6) [stackSize:9]:1c/0,01div
+Shrieking Essence of Contempt(T6) [stackSize:9]:1,88c/0,01div
+Shrieking Essence of Doubt(T6) [stackSize:9]:1c/0,01div
+Shrieking Essence of Dread(T6) [stackSize:9]:2c/0,01div
+Shrieking Essence of Envy(T6) [stackSize:9]:1c/0,01div
+Shrieking Essence of Fear(T6) [stackSize:9]:1c/0,01div
+Shrieking Essence of Greed(T6) [stackSize:9]:1c/0,01div
+Shrieking Essence of Hatred(T6) [stackSize:9]:1c/0,01div
+Shrieking Essence of Loathing(T6) [stackSize:9]:1,24c/0,01div
+Shrieking Essence of Misery(T6) [stackSize:9]:1c/0,01div
+Shrieking Essence of Rage(T6) [stackSize:9]:1c/0,01div
+Shrieking Essence of Scorn(T6) [stackSize:9]:2c/0,01div
+Shrieking Essence of Sorrow(T6) [stackSize:9]:1c/0,01div
+Shrieking Essence of Spite(T6) [stackSize:9]:2c/0,01div
+Shrieking Essence of Suffering(T6) [stackSize:9]:1c/0,01div
+Shrieking Essence of Torment(T6) [stackSize:9]:1c/0,01div
+Shrieking Essence of Woe(T6) [stackSize:9]:2c/0,01div
+Shrieking Essence of Wrath(T6) [stackSize:9]:1c/0,01div
+Shrieking Essence of Zeal(T6) [stackSize:9]:2c/0,01div
+Siege Map(T15):4,15c/0,03div
+Siege Map(T7):4c/0,02div
+Siege Map(T11):4c/0,02div
+Siege Map(T16):4c/0,02div
+Siege Map(T4):3c/0,02div
+Silo Map(T16):5,23c/0,03div
+Silo Map(T14):4c/0,02div
+Silo Map(T11):4c/0,02div
+Silver Oil [stackSize:10]:80,84c/0,5div
+Singing Siren:7c/0,04div
+Singular Delirium Orb [stackSize:10]:15c/0,09div
+Singular Incubator [stackSize:10]:5c/0,03div
+Skeletal Beast:7c/0,04div
+Skittering Delirium Orb [stackSize:10]:24c/0,15div
+Skittering Incubator [stackSize:10]:4,44c/0,03div
+Slimy Nemesis:7c/0,04div
+Snow Wolf:8c/0,05div
+Soulless Watcher:6,05c/0,04div
+Spider Forest Map(T7):5c/0,03div
+Spider Forest Map(T16):5c/0,03div
+Spider Forest Map(T15):4,1c/0,03div
+Spider Forest Map(T11):4c/0,02div
+Spider Forest Map(T4):2,1c/0,01div
+Spindle Spider:6,79c/0,04div
+Spine Serpent:7c/0,04div
+Spitting Parasite:8c/0,05div
+Strand Map(T14):5,39c/0,03div
+Strand Map(T6):5c/0,03div
+Strand Map(T16):4,94c/0,03div
+Strand Map(T10):4,9c/0,03div
+Strand Map(T3):3,75c/0,02div
+Stygian Ape:6,74c/0,04div
+Stygian Silverback:7,7c/0,05div
+Sulphuric Scorpion:7c/0,04div
+Sulphurspawn:7c/0,04div
+Sunken City Map(T16):5,58c/0,03div
+Sunken City Map(T15):4c/0,02div
+Sunken City Map(T12):3,93c/0,02div
+Swarthy Mollusc:6,55c/0,04div
+Tainted Oil [stackSize:10]:711,35c/4,4div
+Talon Archer:7c/0,04div
+Tattoo of the Arohongui Moonwarden [stackSize:10]:10c/0,06div
+Tattoo of the Arohongui Scout [stackSize:10]:9c/0,06div
+Tattoo of the Arohongui Shaman [stackSize:10]:25c/0,15div
+Tattoo of the Arohongui Warmonger [stackSize:10]:10c/0,06div
+Tattoo of the Arohongui Warrior [stackSize:10]:8c/0,05div
+Tattoo of the Hinekora Deathwarden [stackSize:10]:10c/0,06div
+Tattoo of the Hinekora Shaman [stackSize:10]:10c/0,06div
+Tattoo of the Hinekora Storyteller [stackSize:10]:49c/0,3div
+Tattoo of the Hinekora Warmonger [stackSize:10]:20c/0,12div
+Tattoo of the Hinekora Warrior [stackSize:10]:215,52c/1,33div
+Tattoo of the Kitava Blood Drinker [stackSize:10]:10c/0,06div
+Tattoo of the Kitava Heart Eater [stackSize:10]:10c/0,06div
+Tattoo of the Kitava Rebel [stackSize:10]:8c/0,05div
+Tattoo of the Kitava Shaman [stackSize:10]:15c/0,09div
+Tattoo of the Kitava Warrior [stackSize:10]:8c/0,05div
+Tattoo of the Ngamahu Firewalker [stackSize:10]:20c/0,12div
+Tattoo of the Ngamahu Shaman [stackSize:10]:9c/0,06div
+Tattoo of the Ngamahu Warmonger [stackSize:10]:121c/0,75div
+Tattoo of the Ngamahu Warrior [stackSize:10]:10c/0,06div
+Tattoo of the Ngamahu Woodcarver [stackSize:10]:10c/0,06div
+Tattoo of the Ramako Archer [stackSize:10]:20c/0,12div
+Tattoo of the Ramako Fleetfoot [stackSize:10]:90c/0,56div
+Tattoo of the Ramako Scout [stackSize:10]:23,8c/0,15div
+Tattoo of the Ramako Shaman [stackSize:10]:1357,78c/8,4div
+Tattoo of the Ramako Sniper [stackSize:10]:25c/0,15div
+Tattoo of the Rongokurai Brute [stackSize:10]:10c/0,06div
+Tattoo of the Rongokurai Goliath [stackSize:10]:9c/0,06div
+Tattoo of the Rongokurai Guard [stackSize:10]:10c/0,06div
+Tattoo of the Rongokurai Turtle [stackSize:10]:51,9c/0,32div
+Tattoo of the Rongokurai Warrior [stackSize:10]:10c/0,06div
+Tattoo of the Tasalio Bladedancer [stackSize:10]:9c/0,06div
+Tattoo of the Tasalio Scout [stackSize:10]:35c/0,22div
+Tattoo of the Tasalio Shaman [stackSize:10]:9c/0,06div
+Tattoo of the Tasalio Tideshifter [stackSize:10]:10c/0,06div
+Tattoo of the Tasalio Warrior [stackSize:10]:20c/0,12div
+Tattoo of the Tawhoa Herbalist [stackSize:10]:10c/0,06div
+Tattoo of the Tawhoa Naturalist [stackSize:10]:10c/0,06div
+Tattoo of the Tawhoa Scout [stackSize:10]:10c/0,06div
+Tattoo of the Tawhoa Shaman [stackSize:10]:20c/0,12div
+Tattoo of the Tawhoa Warrior [stackSize:10]:10c/0,06div
+Tattoo of the Tukohama Brawler [stackSize:10]:8c/0,05div
+Tattoo of the Tukohama Shaman [stackSize:10]:10c/0,06div
+Tattoo of the Tukohama Warcaller [stackSize:10]:45c/0,28div
+Tattoo of the Tukohama Warmonger [stackSize:10]:10c/0,06div
+Tattoo of the Tukohama Warrior [stackSize:10]:10c/0,06div
+Tattoo of the Valako Scout [stackSize:10]:10c/0,06div
+Tattoo of the Valako Shaman [stackSize:10]:10c/0,06div
+Tattoo of the Valako Shieldbearer [stackSize:10]:63,26c/0,39div
+Tattoo of the Valako Stormrider [stackSize:10]:10c/0,06div
+Tattoo of the Valako Warrior [stackSize:10]:9c/0,06div
+Teal Oil [stackSize:10]:1c/0,01div
+Temple Map(T14):10c/0,06div
+Temple Map(T16):4c/0,02div
+Tercel Rhoa:6,74c/0,04div
+Terrace Map(T16):5c/0,03div
+Terrace Map(T12):4,9c/0,03div
+Terrace Map(T4):3c/0,02div
+Terrace Map(T8):3c/0,02div
+Terrace Map(T1):2c/0,01div
+Thaumaturge's Delirium Orb [stackSize:10]:20c/0,12div
+Thaumaturge's Incubator [stackSize:10]:4c/0,02div
+Thicket Hulk:8c/0,05div
+Timeless Delirium Orb [stackSize:10]:19c/0,12div
+Tower Map(T16):3,67c/0,02div
+Toxic Sewer Map(T15):5c/0,03div
+Toxic Sewer Map(T16):5c/0,03div
+Toxic Sewer Map(T12):4c/0,02div
+Tropical Island Map(T11):4c/0,02div
+Tropical Island Map(T15):4c/0,02div
+Tropical Island Map(T8):4c/0,02div
+Tropical Island Map(T16):3,9c/0,02div
+Underground River Map(T15):5,5c/0,03div
+Underground River Map(T16):5c/0,03div
+Underground Sea Map(T16):5c/0,03div
+Underground Sea Map(T13):4c/0,02div
+Underground Sea Map(T10):3,45c/0,02div
+Vaal Pyramid Map(T16):5,39c/0,03div
+Vaal Pyramid Map(T15):5c/0,03div
+Vaal Pyramid Map(T7):4c/0,02div
+Vaal Pyramid Map(T11):3c/0,02div
+Vaal Pyramid Map(T4):3c/0,02div
+Vaal Recluse:5,5c/0,03div
+Vaal Temple Map(T16):11,39c/0,07div
+Vault Map(T16):6,1c/0,04div
+Vault Map(T11):5c/0,03div
+Vault Map(T15):4c/0,02div
+Vault Map(T8):3c/0,02div
+Vaulting Croaker:6,74c/0,04div
+Venomous Spawn:6,63c/0,04div
+Verdant Oil [stackSize:10]:1c/0,01div
+Vial of Awakening [stackSize:10]:19,6c/0,12div
+Vial of Consequence [stackSize:10]:10c/0,06div
+Vial of Dominance [stackSize:10]:8c/0,05div
+Vial of Fate [stackSize:10]:4c/0,02div
+Vial of Sacrifice [stackSize:10]:70c/0,43div
+Vial of Summoning [stackSize:10]:484,92c/3div
+Vial of the Ghost [stackSize:10]:581,9c/3,6div
+Vial of the Ritual [stackSize:10]:5c/0,03div
+Vial of Transcendence [stackSize:10]:80c/0,49div
+Vicious Hound:20c/0,12div
+Vicious Parasite:7c/0,04div
+Villa Map(T16):5,39c/0,03div
+Villa Map(T13):4c/0,02div
+Villa Map(T5):3,5c/0,02div
+Villa Map(T9):3c/0,02div
+Villa Map(T2):3c/0,02div
+Violet Oil [stackSize:10]:2c/0,01div
+Virulent Spider:6c/0,04div
+Vivid Abberarach:3c/0,02div
+Vivid Vulture:468,84c/2,9div
+Vivid Watcher:190c/1,18div
+Wailing Essence of Anger(T4) [stackSize:9]:1c/0,01div
+Wailing Essence of Anguish(T4) [stackSize:9]:1c/0,01div
+Wailing Essence of Contempt(T4) [stackSize:9]:1c/0,01div
+Wailing Essence of Doubt(T4) [stackSize:9]:1c/0,01div
+Wailing Essence of Fear(T4) [stackSize:9]:1c/0,01div
+Wailing Essence of Greed(T4) [stackSize:9]:1c/0,01div
+Wailing Essence of Hatred(T4) [stackSize:9]:1c/0,01div
+Wailing Essence of Loathing(T4) [stackSize:9]:1c/0,01div
+Wailing Essence of Rage(T4) [stackSize:9]:1c/0,01div
+Wailing Essence of Sorrow(T4) [stackSize:9]:1c/0,01div
+Wailing Essence of Spite(T4) [stackSize:9]:1c/0,01div
+Wailing Essence of Suffering(T4) [stackSize:9]:1c/0,01div
+Wailing Essence of Torment(T4) [stackSize:9]:1c/0,01div
+Wailing Essence of Woe(T4) [stackSize:9]:1c/0,01div
+Wailing Essence of Wrath(T4) [stackSize:9]:1c/0,01div
+Wailing Essence of Zeal(T4) [stackSize:9]:1c/0,01div
+War Hound:11,02c/0,07div
+Waste Lurcher:7,75c/0,05div
+Waste Pool Map(T15):5c/0,03div
+Waste Pool Map(T16):4c/0,02div
+Wasteland Map(T15):5,08c/0,03div
+Wasteland Map(T16):4c/0,02div
+Waterways Map(T16):4,82c/0,03div
+Waterways Map(T10):4,3c/0,03div
+Waterways Map(T14):4c/0,02div
+Waterways Map(T7):3c/0,02div
+Webbed Spider:6,47c/0,04div
+Weeping Essence of Anger(T3) [stackSize:9]:1c/0,01div
+Weeping Essence of Contempt(T3) [stackSize:9]:1c/0,01div
+Weeping Essence of Doubt(T3) [stackSize:9]:1c/0,01div
+Weeping Essence of Fear(T3) [stackSize:9]:1c/0,01div
+Weeping Essence of Greed(T3) [stackSize:9]:1c/0,01div
+Weeping Essence of Hatred(T3) [stackSize:9]:1c/0,01div
+Weeping Essence of Rage(T3) [stackSize:9]:1c/0,01div
+Weeping Essence of Sorrow(T3) [stackSize:9]:1c/0,01div
+Weeping Essence of Suffering(T3) [stackSize:9]:1c/0,01div
+Weeping Essence of Torment(T3) [stackSize:9]:1c/0,01div
+Weeping Essence of Woe(T3) [stackSize:9]:1c/0,01div
+Weeping Essence of Wrath(T3) [stackSize:9]:1c/0,01div
+Wharf Map(T16):5,16c/0,03div
+Wharf Map(T11):4c/0,02div
+Wharf Map(T15):4c/0,02div
+Wharf Map(T8):4c/0,02div
+Whispering Delirium Orb [stackSize:10]:15c/0,09div
+Whispering Essence of Contempt(T1) [stackSize:9]:1c/0,01div
+Whispering Essence of Greed(T1) [stackSize:9]:1c/0,01div
+Whispering Essence of Hatred(T1) [stackSize:9]:1c/0,01div
+Whispering Essence of Woe(T1) [stackSize:9]:1c/0,01div
+Whispering Incubator [stackSize:10]:2,8c/0,02div
+Wild Brambleback:19c/0,12div
+Wild Bristle Matron:50c/0,31div
+Wild Hellion Alpha:44c/0,27div
+Wild Rhex:7,6c/0,05div
+Woods Ursa:8,51c/0,05div
+Writhing Invitation:15c/0,09div
+Ziggurat Map(T17):30c/0,19div

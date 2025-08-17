@@ -1,0 +1,1652 @@
+{
+  "Strand": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": 30,
+    "Priority": 100
+  },
+  "Toxic Sewer": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": 30,
+    "Priority": 10
+  },
+  "Abomination": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Academy": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Acid Caverns": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Alleyways": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Ancient City": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Arachnid Nest": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Arachnid Tomb": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Arcade": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Arena": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Arid Lake": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Armoury": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Arsenal": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Ashen Wood": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Atoll": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Barrows": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Basilica": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Bazaar": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Beach": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Belfry": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Bog": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Bone Crypt": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Bramble Valley": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Burial Chambers": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Caer Blaidd, Wolfpack's Den": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Cage": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Caldera": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Canyon": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Carcass": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Castle Ruins": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Cells": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Cemetery": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Channel": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Chateau": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Citadel": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "City Square": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Cold River": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Colonnade": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Colosseum": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Conservatory": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Coral Ruins": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Core": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": true,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Courthouse": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Courtyard": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Coves": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Crater": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Crimson Temple": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Crimson Township": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Crystal Ore": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Cursed Crypt": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Dark Forest": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Defiled Cathedral": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Desert": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Desert Spring": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Dig": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Dry Sea": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Dunes": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Dungeon": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Estuary": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Excavation": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Factory": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Fields": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Flooded Mine": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Forbidden Woods": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Forge of the Phoenix": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Forking River": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Fortress": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Foundry": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Frozen Cabins": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Fungal Hollow": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Gardens": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Geode": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Ghetto": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Glacier": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Grave Trough": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Graveyard": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Grotto": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Haunted Mansion": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Iceberg": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Infested Valley": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Ivory Temple": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Jungle Valley": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": true,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Laboratory": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Lair": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Lair of the Hydra": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Lava Chamber": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Lava Lake": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Leyline": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Lighthouse": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Lookout": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Maelström of Chaos": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Malformation": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Mao Kun": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": true,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Marshes": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Mausoleum": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Maze": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Maze of the Minotaur": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Mesa": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Mineral Pools": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Moon Temple": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Mud Geyser": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Museum": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Necropolis": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Oba's Cursed Trove": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Olmec's Sanctum": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": true,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Orchard": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Overgrown Ruin": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Overgrown Shrine": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Palace": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Park": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Pen": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Peninsula": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Phantasmagoria": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Pier": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Pit": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Pit of the Chimera": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Plateau": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Plaza": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Poorjoy's Asylum": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": true,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Port": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Precinct": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Primordial Blocks": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Primordial Pool": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Promenade": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Racecourse": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Ramparts": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Reef": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Relic Chambers": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Residence": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Sanctuary": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Scriptorium": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Sepulchre": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Shipyard": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Shore": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Shrine": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Siege": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Silo": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Spider Forest": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Spider Lair": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Stagnation": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Sulphur Vents": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Summit": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Sunken City": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Temple": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Terrace": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "The Beachhead": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": true,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "The Putrid Cloister": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": true,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Thicket": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Tower": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Tropical Island": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Underground River": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Underground Sea": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Vaal Pyramid": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Vaal Temple": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Vault": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": true,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Vaults of Atziri": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": true,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Villa": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Volcano": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Waste Pool": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Wasteland": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Waterways": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Whakawairua Tuahu": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": true,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Wharf": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  },
+  "Ziggurat": {
+    "BossRush": false,
+    "ExplorationPercent": -1,
+    "FastTransit": false,
+    "FinalPulse": -1,
+    "Ignore": false,
+    "IgnoreBossroom": false,
+    "MobRemaining": -1,
+    "Priority": 0
+  }
+}

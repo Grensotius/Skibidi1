@@ -1,0 +1,2296 @@
+2025-08-04 11:43:19,985 [1] INFO  App - DreamPoeBot Version: 0.3.26.46
+Path: E:\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\<ExeName>
+Arguments: E:\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\DreamPoeBot.exe --autostart --config:Default --pid:81220 --silent
+
+OS Name: Майкрософт Windows 10 Домашняя
+OS Version: 10.0.19045
+OS Architecture: 64-разрядная
+InstalledUICulture: ru-RU [Russian (Russia)]
+CurrentUICulture: ru-RU [Russian (Russia)]
+CurrentCulture: ru-RU [Russian (Russia)]
+
+2025-08-04 11:43:20,001 [1] INFO  App - Now setting up JitProfiles...
+2025-08-04 11:43:20,002 [1] INFO  App - JitProfiles successfully setup!
+2025-08-04 11:43:20,012 [1] INFO  App - Now checking prerequisites...
+2025-08-04 11:43:20,012 [1] INFO  App - Prerequisite check complete!
+2025-08-04 11:43:26,611 [1] INFO  MainWindow - DreamPoeBot [0.3.26.46] is up to date!
+2025-08-04 11:43:26,674 [15] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-04 11:43:26,838 [15] INFO  Class104 - Region: eu
+2025-08-04 11:43:26,838 [15] INFO  Class104 - T: 5250584956494131617 
+2025-08-04 11:43:27,993 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2025-08-04 11:43:28,017 [13] INFO  LokiPoe - Initialize RDPather.
+2025-08-04 11:43:28,024 [13] INFO  LokiPoe - RDPather already running.
+2025-08-04 11:43:28,024 [13] INFO  LokiPoe - RDPather initialization complete.
+2025-08-04 11:43:28,741 [13] INFO  LokiPoe - Pattern scan completed.
+2025-08-04 11:43:31,682 [13] INFO  Dat - [Dat] Now building the Stat lookup table.
+2025-08-04 11:43:32,262 [13] INFO  Dat - [Dat] The Stat lookup table has been built.
+2025-08-04 11:43:32,375 [13] INFO  LokiPoe - IGS = 2E07F801A20.
+2025-08-04 11:43:34,558 [13] DEBUG ThirdPartyLoader - Loading start.
+2025-08-04 11:43:34,564 [13] DEBUG ThirdPartyLoader - Now loading [ExampleMover].
+2025-08-04 11:43:34,565 [13] DEBUG ThirdPartyLoader - [ExampleMover] will be loaded as [ExampleMover]. The base path is [].
+2025-08-04 11:43:34,566 [13] DEBUG ThirdPartyLoader - Now loading [ExamplePlugin].
+2025-08-04 11:43:34,566 [13] DEBUG ThirdPartyLoader - [ExamplePlugin] will be loaded as [ExamplePlugin]. The base path is [].
+2025-08-04 11:43:34,567 [13] DEBUG ThirdPartyLoader - Now loading [ExampleRoutine].
+2025-08-04 11:43:34,567 [13] DEBUG ThirdPartyLoader - [ExampleRoutine] will be loaded as [ExampleRoutine]. The base path is [].
+2025-08-04 11:43:34,567 [13] DEBUG ThirdPartyLoader - Now loading [Legacy].
+2025-08-04 11:43:34,567 [13] DEBUG ThirdPartyLoader - [Legacy] will be loaded as [Legacy]. The base path is [].
+2025-08-04 11:43:34,568 [13] DEBUG ThirdPartyLoader - Now loading [NullBot].
+2025-08-04 11:43:34,568 [13] DEBUG ThirdPartyLoader - [NullBot] will be loaded as [NullBot]. The base path is [].
+2025-08-04 11:43:34,568 [13] DEBUG ThirdPartyLoader - Now loading [ObjectExplorer].
+2025-08-04 11:43:34,568 [13] DEBUG ThirdPartyLoader - [ObjectExplorer] will be loaded as [ObjectExplorer]. The base path is [].
+2025-08-04 11:43:34,569 [13] DEBUG ThirdPartyLoader - Now loading [PatherExplorer].
+2025-08-04 11:43:34,569 [13] DEBUG ThirdPartyLoader - [PatherExplorer] will be loaded as [PatherExplorer]. The base path is [].
+2025-08-04 11:43:34,569 [13] DEBUG ThirdPartyLoader - Now loading [PluginLoader].
+2025-08-04 11:43:34,569 [13] DEBUG ThirdPartyLoader - [PluginLoader] will be loaded as [PluginLoader]. The base path is [].
+2025-08-04 11:43:34,570 [13] DEBUG ThirdPartyLoader - Now loading [SkillPlayerMover].
+2025-08-04 11:43:34,570 [13] DEBUG ThirdPartyLoader - [SkillPlayerMover] will be loaded as [SkillPlayerMover]. The base path is [].
+2025-08-04 11:43:34,570 [13] INFO  ThirdPartyLoader - Now asynchronously compiling dependency free content...
+2025-08-04 11:43:38,318 [22] DEBUG PluginLoader - [ExPlugins Autoupdater] Downloading archive.
+2025-08-04 11:43:38,320 [26] INFO  ThirdPartyLoader - Legacy
+2025-08-04 11:43:38,323 [26] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-04 11:43:38,323 [26] INFO  ThirdPartyLoader -                    [Plugins] : DevTab (DevTab: 0.0.1.1)
+2025-08-04 11:43:38,324 [26] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-04 11:43:38,324 [26] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-04 11:43:38,324 [26] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-04 11:43:38,341 [11] INFO  ThirdPartyLoader - ObjectExplorer
+2025-08-04 11:43:38,342 [11] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-04 11:43:38,342 [11] INFO  ThirdPartyLoader -                    [Plugins] : ObjectExplorer (ObjectExplorer: 0.0.1.1)
+2025-08-04 11:43:38,342 [11] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-04 11:43:38,342 [11] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-04 11:43:38,343 [11] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-04 11:43:38,343 [23] INFO  ThirdPartyLoader - SkillPlayerMover
+2025-08-04 11:43:38,343 [23] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-04 11:43:38,343 [23] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-04 11:43:38,343 [23] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-04 11:43:38,343 [23] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-04 11:43:38,344 [23] INFO  ThirdPartyLoader -                    [PlayerMovers] : SkillPlayerMover (SkillPlayerMover: 0.4.0.12)
+2025-08-04 11:43:38,344 [10] INFO  ThirdPartyLoader - ExamplePlugin
+2025-08-04 11:43:38,344 [10] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-04 11:43:38,344 [10] INFO  ThirdPartyLoader -                    [Plugins] : ExamplePlugin (ExamplePlugin: 1.0)
+2025-08-04 11:43:38,344 [10] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-04 11:43:38,345 [10] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-04 11:43:38,345 [10] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-04 11:43:38,345 [9] INFO  ThirdPartyLoader - ExampleRoutine
+2025-08-04 11:43:38,345 [9] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-04 11:43:38,345 [9] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-04 11:43:38,346 [9] INFO  ThirdPartyLoader -                    [Routines] : ExampleRoutine (ExampleRoutine: 1.0)
+2025-08-04 11:43:38,346 [9] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-04 11:43:38,346 [9] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-04 11:43:38,346 [24] INFO  ThirdPartyLoader - PatherExplorer
+2025-08-04 11:43:38,346 [24] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-04 11:43:38,347 [24] INFO  ThirdPartyLoader -                    [Plugins] : PatherExplorer (PatherExplorer: 0.0.1.4)
+2025-08-04 11:43:38,347 [24] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-04 11:43:38,347 [24] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-04 11:43:38,347 [24] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-04 11:43:38,348 [21] INFO  ThirdPartyLoader - NullBot
+2025-08-04 11:43:38,348 [21] INFO  ThirdPartyLoader -                    [Bots] : NullBot (NullBot: 1.0)
+2025-08-04 11:43:38,348 [21] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-04 11:43:38,348 [21] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-04 11:43:38,349 [21] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-04 11:43:38,349 [21] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-04 11:43:38,352 [13] INFO  ThirdPartyLoader - ExampleMover
+2025-08-04 11:43:38,352 [13] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-04 11:43:38,353 [13] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-04 11:43:38,353 [13] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-04 11:43:38,353 [13] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-04 11:43:38,353 [13] INFO  ThirdPartyLoader -                    [PlayerMovers] : ExampleMover (ExampleMover: 1.0)
+2025-08-04 11:43:38,864 [22] DEBUG PluginLoader - [ExPlugins Autoupdater] Archive downloaded in 536ms. Size: 1,967898 MB
+2025-08-04 11:43:38,899 [22] DEBUG PluginLoader - [ExPlugins Autoupdater] Archive decompressed in 34ms.
+2025-08-04 11:43:39,048 [22] INFO  PluginLoader - [ExPlugins Autoupdater] Loaded: [ExPlugins] v1.6.11.7c <Seusheque> - [ExPlugins] container
+2025-08-04 11:43:39,049 [22] INFO  ThirdPartyLoader - PluginLoader
+2025-08-04 11:43:39,049 [22] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-04 11:43:39,049 [22] INFO  ThirdPartyLoader -                    [Plugins] : PluginLoader (ExPlugins Autoupdater: 2.0)
+2025-08-04 11:43:39,049 [22] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-04 11:43:39,049 [22] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-04 11:43:39,050 [22] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-04 11:43:39,050 [13] INFO  ThirdPartyLoader - Content compiled in 00:00:04.4789920.
+2025-08-04 11:43:39,050 [13] DEBUG ThirdPartyLoader - Loading finished!
+2025-08-04 11:43:39,348 [13] INFO  Dat - Now creating the Stats cache.
+2025-08-04 11:43:41,231 [13] INFO  Utility - [Initialize] ExPlugins.EXtensions.EXtensions
+2025-08-04 11:43:41,761 [13] DEBUG GlobalLog - [EXtensions] Telemetry worker started
+2025-08-04 11:43:41,769 [13] INFO  Utility - [Initialize] DreamPoeBot.Loki.Bot.SkillBlacklist
+2025-08-04 11:43:41,832 [13] INFO  Utility - [Initialize] NullBot.NullBot
+2025-08-04 11:43:41,847 [13] INFO  Utility - [Initialize] ExPlugins.FollowBotEx.FollowBotEx
+2025-08-04 11:43:41,917 [13] INFO  Utility - [Initialize] ExPlugins.MapBotEx.MapBotEx
+2025-08-04 11:43:41,927 [13] INFO  Utility - [Initialize] LF
+2025-08-04 11:43:41,941 [13] INFO  Utility - [Initialize] lF
+2025-08-04 11:43:41,946 [1] INFO  ItemEvaluator - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2025-08-04 11:43:42,034 [13] INFO  Utility - [Initialize] ExampleRoutine.ExampleRoutine
+2025-08-04 11:43:42,036 [13] INFO  ExampleRoutine - Name: SingleTargetMeleeSlot (System.Int32)
+2025-08-04 11:43:42,037 [13] INFO  ExampleRoutine - Name: SingleTargetRangedSlot (System.Int32)
+2025-08-04 11:43:42,037 [13] INFO  ExampleRoutine - Name: AoeMeleeSlot (System.Int32)
+2025-08-04 11:43:42,037 [13] INFO  ExampleRoutine - Name: AoeRangedSlot (System.Int32)
+2025-08-04 11:43:42,037 [13] INFO  ExampleRoutine - Name: FallbackSlot (System.Int32)
+2025-08-04 11:43:42,037 [13] INFO  ExampleRoutine - Name: CombatRange (System.Int32)
+2025-08-04 11:43:42,038 [13] INFO  ExampleRoutine - Name: MaxMeleeRange (System.Int32)
+2025-08-04 11:43:42,038 [13] INFO  ExampleRoutine - Name: MaxRangeRange (System.Int32)
+2025-08-04 11:43:42,038 [13] INFO  ExampleRoutine - Name: SkipShrines (System.Boolean)
+2025-08-04 11:43:42,038 [13] INFO  ExampleRoutine - Name: AoePackSize (System.Int32)
+2025-08-04 11:43:42,038 [13] INFO  ExampleRoutine - Name: AlwaysAttackInPlace (System.Boolean)
+2025-08-04 11:43:42,074 [13] INFO  Utility - [Initialize] Gc
+2025-08-04 11:43:42,137 [13] INFO  Utility - [Initialize] SkillPlayerMover.SkillPlayerMover
+2025-08-04 11:43:42,142 [13] INFO  Utility - [Initialize] ExampleMover.ExampleMover
+2025-08-04 11:43:42,156 [13] INFO  Utility - [Initialize] ExPlugins.SkillPlayerMoverEx.SkillPlayerMoverEx
+2025-08-04 11:43:42,325 [13] INFO  Utility - [Initialize] J4
+2025-08-04 11:43:42,332 [13] INFO  Utility - [Initialize] z0
+2025-08-04 11:43:42,337 [13] INFO  Utility - [Initialize] N0
+2025-08-04 11:43:42,341 [13] INFO  Utility - [Initialize] M0
+2025-08-04 11:43:42,350 [13] INFO  Utility - [Initialize] H0
+2025-08-04 11:43:42,356 [13] INFO  Utility - [Initialize] S0
+2025-08-04 11:43:42,369 [13] INFO  Utility - [Initialize] P0
+2025-08-04 11:43:42,372 [13] INFO  Utility - [Initialize] Legacy.DevTab.DevTab
+2025-08-04 11:43:42,383 [13] INFO  Utility - [Initialize] ew
+2025-08-04 11:43:42,385 [13] INFO  Utility - [Initialize] ExamplePlugin.ExamplePlugin
+2025-08-04 11:43:42,386 [13] INFO  Utility - [Initialize] PluginLoader.PluginLoader
+2025-08-04 11:43:42,396 [13] INFO  Utility - [Initialize] gw
+2025-08-04 11:43:42,731 [13] DEBUG GlobalLog - [ExPluginsAuthCore] Session closed
+2025-08-04 11:43:42,971 [13] DEBUG GlobalLog - [WebHelper:GetFile][OK]
+2025-08-04 11:43:42,974 [13] INFO  Utility - [Initialize] Fw
+2025-08-04 11:43:42,984 [13] INFO  Utility - [Initialize] uw
+2025-08-04 11:43:42,996 [13] INFO  Utility - [Initialize] ExPlugins.GemLevelerEx.GemLevelerEx
+2025-08-04 11:43:43,005 [13] INFO  Utility - [Initialize] pw
+2025-08-04 11:43:43,012 [13] INFO  Utility - [Initialize] ow
+2025-08-04 11:43:43,064 [13] INFO  Utility - [Initialize] ExPlugins.ItemFilterEx.ItemFilterEx
+2025-08-04 11:43:43,075 [13] INFO  Utility - [Initialize] dF
+2025-08-04 11:43:43,089 [13] INFO  Utility - [Initialize] IF
+2025-08-04 11:43:43,091 [13] INFO  Utility - [Initialize] ObjectExplorer.ObjectExplorer
+2025-08-04 11:43:43,112 [13] INFO  Utility - [Initialize] uF
+2025-08-04 11:43:43,141 [13] INFO  Utility - [Initialize] PatherExplorer.PatherExplorer
+2025-08-04 11:43:43,150 [13] INFO  Utility - [Initialize] yc
+2025-08-04 11:43:43,174 [13] INFO  Utility - [Initialize] ExPlugins.StashManager.StashManager
+2025-08-04 11:43:43,232 [13] INFO  Utility - [Initialize] Pc
+2025-08-04 11:43:43,233 [13] INFO  PluginManager - [Enable] z0
+2025-08-04 11:43:43,234 [13] INFO  PluginManager - [Enable] Legacy.DevTab.DevTab
+2025-08-04 11:43:43,234 [13] INFO  PluginManager - [Enable] PluginLoader.PluginLoader
+2025-08-04 11:43:43,235 [13] INFO  PluginManager - [Enable] gw
+2025-08-04 11:43:43,235 [13] INFO  PluginManager - [Enable] pw
+2025-08-04 11:43:43,235 [13] INFO  PluginManager - [Enable] ExPlugins.ItemFilterEx.ItemFilterEx
+2025-08-04 11:43:43,235 [13] INFO  PluginManager - [Enable] ObjectExplorer.ObjectExplorer
+2025-08-04 11:43:43,352 [1] DEBUG BotManagerGui - Current 'Bot' set to MapBotEx.
+2025-08-04 11:43:43,548 [1] DEBUG RoutineManagerGui - Current 'Routine' set to SqRoutine.
+2025-08-04 11:43:43,905 [1] DEBUG MoverManagerGui - Current 'PlayerMover' set to SkillPlayerMoverEx.
+2025-08-04 11:43:43,945 [13] INFO  BotWindow - Registering default Hotkeys:
+2025-08-04 11:43:43,947 [13] INFO  BotWindow - 
+GuideText
+GuideLink
+2025-08-04 11:43:43,973 [13] INFO  BotManager - [Start] Now creating the BotThread.
+2025-08-04 11:43:44,708 [12] INFO  BotManager - [Start] ExPlugins.MapBotEx.MapBotEx
+2025-08-04 11:43:44,711 [12] ERROR GlobalLog - [MapBotEx] Hotkey for opening portal not set! Consider setting it in config. [Ingame settings -> Input -> Portal]
+2025-08-04 11:43:44,712 [12] INFO  ItemEvaluator - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2025-08-04 11:43:45,400 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [MainUtilityTask] This task places any item left on the cursor into the inventory..
+2025-08-04 11:43:45,402 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LeaveAreaTask] Task to prematurely leave an area..
+2025-08-04 11:43:45,402 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AfkTask] Persistent AFK Task.
+2025-08-04 11:43:45,403 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HandleFollowersTask] Task to handle follower invites/kicks..
+2025-08-04 11:43:45,403 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HandleBlockingChestsTask] This task will handle breaking any blocking chests that interfere with movement..
+2025-08-04 11:43:45,404 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HandleBlockingObjectTask] Task that handles various blocking objects..
+2025-08-04 11:43:45,404 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [DeliriumTask] Task that handle delirium..
+2025-08-04 11:43:45,404 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask] This task executes routine logic for combat..
+2025-08-04 11:43:45,404 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [IdTask] Task that handles item identification..
+2025-08-04 11:43:45,405 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CastAuraTask] Task for casting auras before entering a map..
+2025-08-04 11:43:45,405 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AbyssTask] This task will follow Abyss nodes..
+2025-08-04 11:43:45,405 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [InteractTask] Task for opening chests, strongboxes and shrines..
+2025-08-04 11:43:45,406 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CorruptedAreaTask] Task that handles corrupted side areas..
+2025-08-04 11:43:45,406 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [SyndicateTask] SyndicateTask.
+2025-08-04 11:43:45,406 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [StashTask] Task that handles item stashing.
+2025-08-04 11:43:45,406 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [RestockCurrencyTask] Task that takes currency from stash if needed.
+2025-08-04 11:43:45,407 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AfflictionExplorationTask] Task that explores affliction league submap.
+2025-08-04 11:43:45,407 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HarvestTask] Task that handles harvest events on maps.
+2025-08-04 11:43:45,407 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [MapExplorationTask] Task that handles map exploration..
+2025-08-04 11:43:45,407 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [KillBossTask] Task for killing map boss..
+2025-08-04 11:43:45,408 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FinishMapTask] Task for leaving current map..
+2025-08-04 11:43:45,408 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AssignPantheonTask] This task assign pantheon as per configuration..
+2025-08-04 11:43:45,408 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [BuyMapsFromKiracTask] Task for buying maps from Kirac after missions..
+2025-08-04 11:43:45,409 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [SellTask] Task that handles item selling..
+2025-08-04 11:43:45,409 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [VendorTask] Task for exchanging various items with vendors..
+2025-08-04 11:43:45,410 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AtlasQuestsTask] Task for finishing Tangle quests..
+2025-08-04 11:43:45,410 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [SellMapTask] Task for selling maps.
+2025-08-04 11:43:45,410 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ReturnToMapTask] This task returns to opened map.
+2025-08-04 11:43:45,411 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TakeMapTask] Task for taking maps from the stash..
+2025-08-04 11:43:45,411 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [StartMapTask] Task for starting maps/simulacrums/etc via Map Device..
+2025-08-04 11:43:45,411 [12] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FallbackTask] This task is the last task executed. It should not execute..
+2025-08-04 11:43:45,412 [12] INFO  PluginManager - [Start] z0
+2025-08-04 11:43:45,413 [12] INFO  PluginManager - [Start] Legacy.DevTab.DevTab
+2025-08-04 11:43:45,413 [12] INFO  PluginManager - [Start] PluginLoader.PluginLoader
+2025-08-04 11:43:45,413 [12] INFO  PluginManager - [Start] gw
+2025-08-04 11:43:45,414 [12] INFO  PluginManager - [Start] pw
+2025-08-04 11:43:45,418 [12] INFO  PluginManager - [Start] ExPlugins.ItemFilterEx.ItemFilterEx
+2025-08-04 11:43:45,419 [12] INFO  ItemEvaluator - [ItemEvaluator] Instance = Jw.
+2025-08-04 11:43:45,420 [12] INFO  PluginManager - [Start] ObjectExplorer.ObjectExplorer
+2025-08-04 11:43:45,420 [12] INFO  RoutineManager - [Start] Gc
+2025-08-04 11:43:45,422 [12] INFO  LokiPoe - [Input] InputEventDelayMs = 50.
+2025-08-04 11:43:45,423 [12] WARN  GlobalLog - [Start] MsBetweenTicks: 80.
+2025-08-04 11:43:45,423 [12] WARN  GlobalLog - [Start] InputEventDelay: 50.
+2025-08-04 11:43:45,424 [12] WARN  GlobalLog - [Start] KeyPickup: Disabled.
+2025-08-04 11:43:45,424 [12] WARN  GlobalLog - [Start] NetworkingMode: Auto.
+2025-08-04 11:43:45,424 [12] WARN  GlobalLog - [Start] ExPlugins Version: 1.6.11.7c
+2025-08-04 11:43:45,424 [12] ERROR GlobalLog - [SqRoutine] Key pickup set to: Disabled. Please set it to UseBoundKey
+2025-08-04 11:43:45,425 [12] INFO  PlayerMoverManager - [PlayerMoverManager.Start] ExPlugins.SkillPlayerMoverEx.SkillPlayerMoverEx
+2025-08-04 11:43:45,428 [12] WARN  GlobalLog - [AfkTask] Next break at 10:02
+2025-08-04 11:43:45,430 [12] INFO  ExilePather - [ExilePather] BlockTrialOfAscendancy = Enabled.
+2025-08-04 11:43:45,431 [12] INFO  ExilePather - [ExilePather] BlockLockedDoors = Enabled.
+2025-08-04 11:43:45,462 [12] DEBUG GlobalLog - [AutoLoginEx] Client Version: Official
+2025-08-04 11:43:48,115 [12] DEBUG GlobalLog - [AutoLoginEx] Login errors: None.
+2025-08-04 11:43:48,256 [12] DEBUG GlobalLog - Characters: 10
+2025-08-04 11:43:48,258 [12] WARN  GlobalLog - [AiBedka-Mercenaries] Ranger [Deadeye] (99)
+2025-08-04 11:43:48,258 [12] INFO  GlobalLog - [Blind_Ambition-Phrecia] Shadow [Saboteur] (80)
+2025-08-04 11:43:48,259 [12] INFO  GlobalLog - [hggdjhg-Solo Self-Found] Duelist [Not ascended] (8)
+2025-08-04 11:43:48,259 [12] INFO  GlobalLog - [lkjhkhjgjuhg-Solo Self-Found] Ranger [Not ascended] (2)
+2025-08-04 11:43:48,259 [12] INFO  GlobalLog - [SuSamoguSuS-Standard] Ranger [Pathfinder] (98)
+2025-08-04 11:43:48,259 [12] INFO  GlobalLog - [SamTheBloodChad-Standard] Duelist [Champion] (97)
+2025-08-04 11:43:48,260 [12] INFO  GlobalLog - [SuSJokergeSus-Standard] Ranger [Deadeye] (96)
+2025-08-04 11:43:48,265 [12] INFO  GlobalLog - [Corpses_enjoyer-Standard] Witch [Necromancer] (93)
+2025-08-04 11:43:48,265 [12] INFO  GlobalLog - [Testanias-Standard] Witch [Occultist] (65)
+2025-08-04 11:43:48,266 [12] INFO  GlobalLog - [aalskdlaskdl-Ziz Merciless HCSSF Class Gauntlet] Ranger [Not ascended] (2)
+2025-08-04 11:43:48,510 [12] DEBUG GlobalLog - [AutoLoginEx] SelectCharacter errors: None.
+2025-08-04 11:43:48,758 [12] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-04 11:43:49,885 [12] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-04 11:43:51,012 [12] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-04 11:43:52,140 [12] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-04 11:43:53,267 [12] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-04 11:43:53,958 [30] INFO  Dat - Now reloading the WorldArea cache.
+2025-08-04 11:43:54,000 [12] ERROR BotManager - [Tick] Exception #1 during execution, #1 this tick: 
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в yw.z(Boolean K) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Global\CombatAreaCache.cs:строка 653
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 129
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:43:54,014 [30] INFO  Dat - The WorldArea cache has been reloaded.
+2025-08-04 11:43:54,025 [22] DEBUG GlobalLog - [ImportMetrics] Setting character name to: AiBedka [Autologin-fallback]
+2025-08-04 11:43:54,037 [30] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to True.
+2025-08-04 11:43:54,038 [30] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-04 11:43:54,038 [30] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 5.
+2025-08-04 11:43:54,038 [30] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to False.
+2025-08-04 11:43:54,039 [30] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-04 11:43:54,039 [30] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 4.
+2025-08-04 11:43:54,040 [30] DEBUG GlobalLog - [ComplexExplorer] Creating new level anchor {169, 474} (distance: 0)
+2025-08-04 11:43:54,042 [30] WARN  GlobalLog - [CombatAreaCache] Created cache for "2_9_town:67" (hash: 1434073308)
+2025-08-04 11:43:54,160 [12] INFO  ExilePather - [ExilePather] Now creating the navmesh. [Force: False]
+2025-08-04 11:43:54,168 [12] INFO  ExilePather - [ExilePather] The navmesh has been created. Now waiting to be in game.
+2025-08-04 11:43:54,169 [12] INFO  ExilePather - [ExilePather] We are in game now, waiting area generation to complete for: Highgate (2_9_town).
+2025-08-04 11:43:54,267 [12] INFO  ExilePather - [ExilePather] The pathfinder has been reloaded. Now calling 'CheckForUpdates'
+2025-08-04 11:43:54,291 [12] INFO  ExilePather - [ExilePather] Now calling 'FastWalkablePositionFor' to prime the library.
+2025-08-04 11:43:54,310 [12] INFO  ExilePather - [ExilePather] 'CheckForUpdates' has completed. ExilePather is now ready to use!
+2025-08-04 11:43:54,312 [12] INFO  GlobalLog - [Events] Area changed (null -> Highgate:1434073308)
+2025-08-04 11:43:54,349 [12] INFO  GlobalLog - [CombatAreaCache] Resetting unwalkable flags on all cached objects.
+2025-08-04 11:43:54,377 [12] INFO  Dat - Now creating the ActiveSkills cache.
+2025-08-04 11:43:54,665 [12] WARN  GlobalLog - [SqRoutine] Castable skills:
+2025-08-04 11:43:54,665 [12] INFO  GlobalLog - ======================
+2025-08-04 11:43:54,687 [12] INFO  GlobalLog - [Kinetic Blast] | RButton | links: 6 | canUse: False
+2025-08-04 11:43:54,688 [12] INFO  GlobalLog - [Temporal Chains] | MButton | links: 1 | canUse: False
+2025-08-04 11:43:54,688 [12] INFO  GlobalLog - [Frostblink] | W | links: 1 | canUse: False
+2025-08-04 11:43:54,688 [12] INFO  GlobalLog - [Shield Charge] | Q | links: 2 | canUse: False
+2025-08-04 11:43:54,688 [12] INFO  GlobalLog - [Default Attack] | None | links: 1 | canUse: False
+2025-08-04 11:43:54,689 [12] INFO  GlobalLog - [Order: To me!] | None | links: 1 | canUse: False
+2025-08-04 11:43:54,689 [12] INFO  GlobalLog - [Vaal Haste] | E | links: 2 | canUse: False
+2025-08-04 11:43:54,689 [12] INFO  GlobalLog - ======================
+2025-08-04 11:43:54,727 [12] INFO  GlobalLog - [CastAuraTask] Haste reserv: 33,82% Mana blacklisted: False
+2025-08-04 11:43:54,728 [12] INFO  GlobalLog - [CastAuraTask] Arctic Armour reserv: 18,38% Mana blacklisted: False
+2025-08-04 11:43:54,729 [12] INFO  GlobalLog - [CastAuraTask] Flesh and Stone reserv: 18,38% Mana blacklisted: False
+2025-08-04 11:43:54,729 [12] INFO  GlobalLog - [CastAuraTask] Herald of Ash reserv: 16,91% Mana blacklisted: False
+2025-08-04 11:43:54,729 [12] INFO  GlobalLog - [CastAuraTask] Tempest Shield reserv: 16,91% Mana blacklisted: False
+2025-08-04 11:43:54,730 [12] INFO  GlobalLog - [CastAuraTask] Clarity reserv: 12,35% Mana blacklisted: False
+2025-08-04 11:43:54,730 [12] INFO  GlobalLog - [CastAuraTask] Temporal Rift reserv: 8,82% Mana blacklisted: False
+2025-08-04 11:43:54,751 [12] WARN  GlobalLog - [SkillPlayerMoverEx] Skills refreshed!
+2025-08-04 11:43:54,884 [12] DEBUG GlobalLog - [PoeNinjaTracker] Loading item prices for Mercenaries
+2025-08-04 11:43:55,027 [12] DEBUG GlobalLog - [PoeNinjaTracker] Loaded prices from ExPluginsCache/ItemDumps-1.6.11.7c/PriceBackup_Mercenaries.json
+2025-08-04 11:43:55,028 [12] DEBUG GlobalLog - [PoeNinjaTracker] Currencies count: 112
+2025-08-04 11:43:55,029 [12] DEBUG GlobalLog - [PoeNinjaTracker] Fragments count: 85
+2025-08-04 11:43:55,029 [12] DEBUG GlobalLog - [PoeNinjaTracker] Gems count: 7199
+2025-08-04 11:43:55,030 [12] DEBUG GlobalLog - [PoeNinjaTracker] Clusters count: 850
+2025-08-04 11:43:55,030 [12] DEBUG GlobalLog - [PoeNinjaTracker] Uniques items count: 1699
+2025-08-04 11:43:55,030 [12] DEBUG GlobalLog - [PoeNinjaTracker] Rest items count: 1958
+2025-08-04 11:43:55,115 [12] DEBUG GlobalLog - [MainUtilityTask] Opening map
+2025-08-04 11:43:55,118 [12] INFO  LokiPoe - [InjectKeyEvent1] 98 ms sleep for 9.
+2025-08-04 11:43:55,424 [12] INFO  GlobalLog - Phoenix Ward
+2025-08-04 11:43:55,426 [12] INFO  GlobalLog - Warped Timepiece
+2025-08-04 11:43:55,427 [12] INFO  GlobalLog - Rage Spire
+2025-08-04 11:43:55,427 [12] INFO  GlobalLog - Esh's Mirror
+2025-08-04 11:43:55,428 [12] INFO  GlobalLog - Nimis
+2025-08-04 11:43:55,429 [12] INFO  GlobalLog - Death Rush
+2025-08-04 11:43:55,429 [12] INFO  GlobalLog - Inpulsa's Broken Heart
+2025-08-04 11:43:55,430 [12] INFO  GlobalLog - Headhunter
+2025-08-04 11:43:55,431 [12] INFO  GlobalLog - Cataclysm Fist
+2025-08-04 11:43:55,431 [12] INFO  GlobalLog - Replica Voidwalker
+2025-08-04 11:43:55,444 [12] INFO  GlobalLog - Alchemist's Diamond Flask of the Cheetah
+2025-08-04 11:43:55,445 [12] WARN  GlobalLog - [MainUtilityTask] Equipped items updated
+2025-08-04 11:43:55,557 [12] DEBUG GlobalLog - [MainUtilityTask] Initializing chat.
+2025-08-04 11:43:55,633 [12] INFO  LokiPoe - [InjectKeyEvent1] 113 ms sleep for 13.
+2025-08-04 11:43:57,486 [12] DEBUG GlobalLog - [MainUtilityTask] Need to fully cache stash.
+2025-08-04 11:43:57,501 [12] DEBUG GlobalLog - [OpenStash] Opening stash.
+2025-08-04 11:43:57,510 [12] INFO  Dat - Now creating the MinimapIcons cache.
+2025-08-04 11:43:57,954 [12] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,08/2,4)
+2025-08-04 11:43:58,036 [12] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,17/2,4)
+2025-08-04 11:43:58,118 [12] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,25/2,4)
+2025-08-04 11:43:58,200 [12] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,33/2,4)
+2025-08-04 11:43:58,281 [12] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,41/2,4)
+2025-08-04 11:43:58,282 [12] DEBUG GlobalLog - [WaitFor] Wait for stash to open success after 0,41 sec
+2025-08-04 11:43:58,839 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Fragment => Cur. [MainUtilityTask]
+2025-08-04 11:43:58,846 [12] INFO  LokiPoe - [InjectKeyEvent1] 119 ms sleep for 39.
+2025-08-04 11:43:59,369 [12] DEBUG GlobalLog - [SetupTabsTask] Currency tab: Cur
+2025-08-04 11:43:59,370 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Cur => 3. [MainUtilityTask]
+2025-08-04 11:43:59,786 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 3 => 4. [MainUtilityTask]
+2025-08-04 11:44:00,195 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 4 => 5. [MainUtilityTask]
+2025-08-04 11:44:00,601 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 5 => 6. [MainUtilityTask]
+2025-08-04 11:44:00,995 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 6 => 7. [MainUtilityTask]
+2025-08-04 11:44:01,379 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 7 => 8. [MainUtilityTask]
+2025-08-04 11:44:01,789 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 8 => 9. [MainUtilityTask]
+2025-08-04 11:44:02,196 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 9 => $$. [MainUtilityTask]
+2025-08-04 11:44:02,421 [12] DEBUG GlobalLog - [SetupTabsTask] Public tab: $$
+2025-08-04 11:44:02,604 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: $$ => $$$. [MainUtilityTask]
+2025-08-04 11:44:02,781 [12] DEBUG GlobalLog - [SetupTabsTask] Public tab: $$$
+2025-08-04 11:44:03,015 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: $$$ => $. [MainUtilityTask]
+2025-08-04 11:44:03,163 [12] DEBUG GlobalLog - [SetupTabsTask] Public tab: $
+2025-08-04 11:44:03,378 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: $ => 2. [MainUtilityTask]
+2025-08-04 11:44:03,954 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 2 => Map. [MainUtilityTask]
+2025-08-04 11:44:04,375 [12] DEBUG GlobalLog - 19:Baran, The Crusader slots: 60
+2025-08-04 11:44:04,630 [12] DEBUG GlobalLog - 19:Baran, The Crusader slots: 0
+2025-08-04 11:44:05,271 [12] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Dunes Map] success after 0,42 sec
+2025-08-04 11:44:05,792 [12] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Jungle Valley Map] success after 0,42 sec
+2025-08-04 11:44:06,325 [12] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Toxic Sewer Map] success after 0,41 sec
+2025-08-04 11:44:06,347 [12] INFO  GlobalLog - [CacheMapTabs] Adding info for T16 : [55][Dunes|Jungle Valley|Toxic Sewer]
+2025-08-04 11:44:06,348 [12] WARN  GlobalLog - [CacheMapTabs] Map tab Map cached successfully.
+2025-08-04 11:44:06,348 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Map => Ess. [MainUtilityTask]
+2025-08-04 11:44:06,796 [12] DEBUG GlobalLog - [WaitFor] Wait for stash tab switching success after 0,16 sec
+2025-08-04 11:44:06,903 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Ess => 1. [MainUtilityTask]
+2025-08-04 11:44:07,389 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 1 => GEM. [MainUtilityTask]
+2025-08-04 11:44:07,738 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:07,739 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: GEM => Divination. [MainUtilityTask]
+2025-08-04 11:44:08,091 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Divination => Oil. [MainUtilityTask]
+2025-08-04 11:44:08,642 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Oil => 11. [MainUtilityTask]
+2025-08-04 11:44:09,097 [12] WARN  GlobalLog - Tabs amount: 20
+2025-08-04 11:44:09,212 [12] DEBUG TaskManagerBase<ITask> - [Remove] Now removing [HandleFollowersTask].
+2025-08-04 11:44:09,213 [12] DEBUG GlobalLog - [Remove HandleFollowersTask success.
+2025-08-04 11:44:09,326 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:09,334 [12] DEBUG GlobalLog - [StashTask] All tabs specified in stashing rules exist in stash.
+2025-08-04 11:44:09,346 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:09,348 [12] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 11 => GEM. [StashTask]
+2025-08-04 11:44:09,353 [12] INFO  LokiPoe - [InjectKeyEvent1] 77 ms sleep for 37.
+2025-08-04 11:44:10,113 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:10,121 [12] ERROR BotManager - [Tick] Exception #2 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:10,216 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:10,222 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:10,224 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:10,226 [12] ERROR BotManager - [Tick] Exception #3 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:10,321 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:10,328 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:10,329 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:10,331 [12] ERROR BotManager - [Tick] Exception #4 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:10,423 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:10,428 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:10,429 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:10,431 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 1/30
+2025-08-04 11:44:10,431 [12] ERROR BotManager - [Tick] Exception #5 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:10,519 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:10,528 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:10,529 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:10,530 [12] ERROR BotManager - [Tick] Exception #6 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:10,620 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:10,629 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:10,630 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:10,631 [12] ERROR BotManager - [Tick] Exception #7 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:10,720 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:10,728 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:10,730 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:10,731 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 2/30
+2025-08-04 11:44:10,731 [12] ERROR BotManager - [Tick] Exception #8 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:10,818 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:10,825 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:10,827 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:10,828 [12] ERROR BotManager - [Tick] Exception #9 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:10,918 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:10,927 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:10,928 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:10,929 [12] ERROR BotManager - [Tick] Exception #10 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:11,020 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:11,025 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:11,027 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:11,046 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 3/30
+2025-08-04 11:44:11,047 [12] ERROR BotManager - [Tick] Exception #11 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:11,139 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:11,144 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:11,146 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:11,147 [12] ERROR BotManager - [Tick] Exception #12 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:11,239 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:11,245 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:11,246 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:11,247 [12] ERROR BotManager - [Tick] Exception #13 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:11,338 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:11,343 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:11,345 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:11,346 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 4/30
+2025-08-04 11:44:11,346 [12] ERROR BotManager - [Tick] Exception #14 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:11,436 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:11,441 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:11,442 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:11,443 [12] ERROR BotManager - [Tick] Exception #15 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:11,539 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:11,546 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:11,548 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:11,549 [12] ERROR BotManager - [Tick] Exception #16 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:11,648 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:11,655 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:11,657 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:11,659 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 5/30
+2025-08-04 11:44:11,660 [12] ERROR BotManager - [Tick] Exception #17 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:11,756 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:11,764 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:11,766 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:11,767 [12] ERROR BotManager - [Tick] Exception #18 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:11,861 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:11,868 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:11,870 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:11,872 [12] ERROR BotManager - [Tick] Exception #19 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:11,967 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:11,974 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:11,975 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:11,977 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 6/30
+2025-08-04 11:44:11,977 [12] ERROR BotManager - [Tick] Exception #20 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:12,068 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:12,078 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:12,080 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:12,082 [12] ERROR BotManager - [Tick] Exception #21 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:12,172 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:12,183 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:12,185 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:12,186 [12] ERROR BotManager - [Tick] Exception #22 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:12,278 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:12,287 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:12,289 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:12,291 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 7/30
+2025-08-04 11:44:12,291 [12] ERROR BotManager - [Tick] Exception #23 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:12,381 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:12,390 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:12,392 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:12,393 [12] ERROR BotManager - [Tick] Exception #24 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:12,488 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:12,497 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:12,499 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:12,500 [12] ERROR BotManager - [Tick] Exception #25 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:12,593 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:12,599 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:12,603 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:12,605 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 8/30
+2025-08-04 11:44:12,605 [12] ERROR BotManager - [Tick] Exception #26 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:12,698 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:12,708 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:12,710 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:12,711 [12] ERROR BotManager - [Tick] Exception #27 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:12,802 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:12,809 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:12,810 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:12,812 [12] ERROR BotManager - [Tick] Exception #28 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:12,902 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:12,907 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:12,910 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:12,911 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 9/30
+2025-08-04 11:44:12,911 [12] ERROR BotManager - [Tick] Exception #29 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:13,002 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:13,007 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:13,009 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:13,010 [12] ERROR BotManager - [Tick] Exception #30 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:13,101 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:13,106 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:13,108 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:13,109 [12] ERROR BotManager - [Tick] Exception #31 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:13,199 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:13,203 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:13,205 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:13,206 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 10/30
+2025-08-04 11:44:13,206 [12] ERROR BotManager - [Tick] Exception #32 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:13,297 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:13,302 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:13,303 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:13,304 [12] ERROR BotManager - [Tick] Exception #33 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:13,396 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:13,401 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:13,402 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:13,404 [12] ERROR BotManager - [Tick] Exception #34 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:13,494 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:13,500 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:13,501 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:13,503 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 11/30
+2025-08-04 11:44:13,503 [12] ERROR BotManager - [Tick] Exception #35 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:13,593 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:13,598 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:13,599 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:13,600 [12] ERROR BotManager - [Tick] Exception #36 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:13,696 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:13,703 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:13,705 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:13,707 [12] ERROR BotManager - [Tick] Exception #37 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:13,798 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:13,808 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:13,810 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:13,812 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 12/30
+2025-08-04 11:44:13,812 [12] ERROR BotManager - [Tick] Exception #38 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:13,903 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:13,914 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:13,916 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:13,918 [12] ERROR BotManager - [Tick] Exception #39 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:14,009 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:14,020 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:14,022 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:14,024 [12] ERROR BotManager - [Tick] Exception #40 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:14,115 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:14,124 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:14,127 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:14,128 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 13/30
+2025-08-04 11:44:14,129 [12] ERROR BotManager - [Tick] Exception #41 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:14,225 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:14,232 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:14,237 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:14,238 [12] ERROR BotManager - [Tick] Exception #42 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:14,332 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:14,340 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:14,344 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:14,346 [12] ERROR BotManager - [Tick] Exception #43 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:14,440 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:14,447 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:14,449 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:14,454 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 14/30
+2025-08-04 11:44:14,454 [12] ERROR BotManager - [Tick] Exception #44 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:14,548 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:14,555 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:14,558 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:14,560 [12] ERROR BotManager - [Tick] Exception #45 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:14,657 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:14,664 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:14,667 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:14,668 [12] ERROR BotManager - [Tick] Exception #46 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:14,764 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:14,771 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:14,773 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:14,775 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 15/30
+2025-08-04 11:44:14,776 [12] ERROR BotManager - [Tick] Exception #47 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:14,870 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:14,877 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:14,879 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:14,881 [12] ERROR BotManager - [Tick] Exception #48 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:14,977 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:14,984 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:14,986 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:14,988 [12] ERROR BotManager - [Tick] Exception #49 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:15,079 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:15,090 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:15,093 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:15,094 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 16/30
+2025-08-04 11:44:15,095 [12] ERROR BotManager - [Tick] Exception #50 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:15,185 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:15,197 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:15,199 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:15,201 [12] ERROR BotManager - [Tick] Exception #51 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:15,291 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:15,302 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:15,304 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:15,306 [12] ERROR BotManager - [Tick] Exception #52 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:15,397 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:15,409 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:15,411 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:15,413 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 17/30
+2025-08-04 11:44:15,413 [12] ERROR BotManager - [Tick] Exception #53 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:15,503 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:15,512 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:15,514 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:15,516 [12] ERROR BotManager - [Tick] Exception #54 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:15,610 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:15,619 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:15,620 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:15,622 [12] ERROR BotManager - [Tick] Exception #55 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:15,716 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:15,723 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:15,726 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:15,728 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 18/30
+2025-08-04 11:44:15,728 [12] ERROR BotManager - [Tick] Exception #56 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:15,823 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:15,831 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:15,833 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:15,835 [12] ERROR BotManager - [Tick] Exception #57 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:15,928 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:15,935 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:15,939 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:15,941 [12] ERROR BotManager - [Tick] Exception #58 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:16,035 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:16,042 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:16,045 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:16,047 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 19/30
+2025-08-04 11:44:16,047 [12] ERROR BotManager - [Tick] Exception #59 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:16,141 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:16,148 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:16,150 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:16,153 [12] ERROR BotManager - [Tick] Exception #60 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:16,248 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:16,255 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:16,260 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:16,262 [12] ERROR BotManager - [Tick] Exception #61 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:16,354 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:16,360 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:16,371 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:16,373 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 20/30
+2025-08-04 11:44:16,373 [12] ERROR BotManager - [Tick] Exception #62 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:16,467 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:16,472 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:16,475 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:16,477 [12] ERROR BotManager - [Tick] Exception #63 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:16,568 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:16,573 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:16,574 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:16,576 [12] ERROR BotManager - [Tick] Exception #64 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:16,667 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:16,672 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:16,674 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:16,675 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 21/30
+2025-08-04 11:44:16,675 [12] ERROR BotManager - [Tick] Exception #65 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:16,767 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:16,772 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:16,773 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:16,774 [12] ERROR BotManager - [Tick] Exception #66 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:16,866 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:16,873 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:16,874 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:16,875 [12] ERROR BotManager - [Tick] Exception #67 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:16,969 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:16,974 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:16,975 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:16,977 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 22/30
+2025-08-04 11:44:16,977 [12] ERROR BotManager - [Tick] Exception #68 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:17,069 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:17,074 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:17,075 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:17,077 [12] ERROR BotManager - [Tick] Exception #69 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:17,168 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:17,173 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:17,174 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:17,175 [12] ERROR BotManager - [Tick] Exception #70 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:17,264 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:17,272 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:17,274 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:17,275 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 23/30
+2025-08-04 11:44:17,275 [12] ERROR BotManager - [Tick] Exception #71 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:17,364 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:17,372 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:17,374 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:17,375 [12] ERROR BotManager - [Tick] Exception #72 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:17,464 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:17,473 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:17,474 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:17,476 [12] ERROR BotManager - [Tick] Exception #73 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:17,564 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:17,573 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:17,575 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:17,576 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 24/30
+2025-08-04 11:44:17,576 [12] ERROR BotManager - [Tick] Exception #74 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:17,664 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:17,673 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:17,674 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:17,676 [12] ERROR BotManager - [Tick] Exception #75 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:17,765 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:17,773 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:17,774 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:17,775 [12] ERROR BotManager - [Tick] Exception #76 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:17,864 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:17,871 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:17,873 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:17,874 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 25/30
+2025-08-04 11:44:17,874 [12] ERROR BotManager - [Tick] Exception #77 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:17,964 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:17,970 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:17,973 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:17,975 [12] ERROR BotManager - [Tick] Exception #78 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:18,065 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:18,070 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:18,072 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:18,074 [12] ERROR BotManager - [Tick] Exception #79 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:18,165 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:18,170 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:18,171 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:18,173 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 26/30
+2025-08-04 11:44:18,173 [12] ERROR BotManager - [Tick] Exception #80 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:18,264 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:18,269 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:18,271 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:18,272 [12] ERROR BotManager - [Tick] Exception #81 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:18,364 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:18,369 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:18,370 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:18,371 [12] ERROR BotManager - [Tick] Exception #82 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:18,466 [12] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-04 11:44:18,471 [12] DEBUG GlobalLog - [StashTask] 3 items to stash. 
+1 Wrath -> GEM
+2 Toxic Sewer Map -> Map
+2025-08-04 11:44:18,472 [12] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-04 11:44:18,473 [12] ERROR GlobalLog - [ErrorManager] "DreamPoeBot" error count: 27/30
+2025-08-04 11:44:18,474 [12] ERROR BotManager - [Tick] Exception #83 during execution, #1 this tick: 
+DreamPoeBot.Loki.Coroutine.CoroutineUnhandledException: Exception was thrown by coroutine ---> System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в ExPlugins.EXtensions.Inventories.StashTabCanFitItem(Vector2i itemPos) в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\Inventories.cs:строка 398
+   в hw.n.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\CommonTasks\StashTask.cs:строка 233
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Bot.TaskManager.<Run>d__5.MoveNext()
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в ExPlugins.MapBotEx.MapBotEx.v.MoveNext() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 314
+--- Конец трассировка стека из предыдущего расположения, где возникло исключение ---
+   в System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.<>c__DisplayClass45_0.<<smethod_0>b__0>d.MoveNext()
+   --- Конец трассировки внутреннего стека исключений ---
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_2(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в ExPlugins.MapBotEx.MapBotEx.Tick() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 123
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_TickEvents(IBot ibot_1)
+2025-08-04 11:44:18,542 [1] INFO  BotManager - [Stop] Now requesting the BotThread to stop.
+2025-08-04 11:44:18,567 [12] INFO  BotManager - [Stop] ExPlugins.MapBotEx.MapBotEx
+2025-08-04 11:44:18,570 [12] INFO  PluginManager - [Stop] z0
+2025-08-04 11:44:18,570 [12] INFO  PluginManager - [Stop] Legacy.DevTab.DevTab
+2025-08-04 11:44:18,570 [12] INFO  PluginManager - [Stop] PluginLoader.PluginLoader
+2025-08-04 11:44:18,571 [12] INFO  PluginManager - [Stop] gw
+2025-08-04 11:44:18,702 [12] DEBUG GlobalLog - [ExPluginsAuthCore] Session closed
+2025-08-04 11:44:18,703 [12] INFO  PluginManager - [Stop] pw
+2025-08-04 11:44:18,703 [12] INFO  PluginManager - [Stop] ExPlugins.ItemFilterEx.ItemFilterEx
+2025-08-04 11:44:18,703 [12] INFO  PluginManager - [Stop] ObjectExplorer.ObjectExplorer
+2025-08-04 11:44:18,704 [12] INFO  RoutineManager - [Stop] Gc
+2025-08-04 11:44:18,704 [12] WARN  GlobalLog - [Stop] ExPlugins Version: 1.6.11.7c
+2025-08-04 11:44:18,705 [12] INFO  PlayerMoverManager - [PlayerMoverManager.Stop] ExPlugins.SkillPlayerMoverEx.SkillPlayerMoverEx
+2025-08-04 11:44:19,708 [12] DEBUG BotManager - [StopReason] core_gui_button => The user has pressed the Stop button.
+2025-08-04 11:44:49,492 [15] INFO  GameController - The Game Proces is closed, now terminating DPB
+2025-08-04 11:44:50,493 [17] ERROR Class104 - Authentication thread exception: System.Threading.ThreadAbortException: Поток находился в процессе прерывания.
+   в System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   в System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   в DreamPoeBot.Structures.ns13.Class104.Class105.HeartbeatThread()

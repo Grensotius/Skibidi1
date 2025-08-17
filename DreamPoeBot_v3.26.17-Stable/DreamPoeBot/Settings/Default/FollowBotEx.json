@@ -1,0 +1,85 @@
+{
+  "InviteWhiteList": "",
+  "MaxFollowDist": 25,
+  "MaxCombatDistance": 40,
+  "MaxLootDistance": 40,
+  "MaxChestDistance": 40,
+  "PortOutThreshold": 0,
+  "PrioLooting": false,
+  "LootAllVisible": false,
+  "BloorOrSand": 1,
+  "QuestMode": false,
+  "ItemizeAllCoffins": false,
+  "WaitMeatsack": false,
+  "ShouldStash": false,
+  "ShouldTrade": true,
+  "CancelGracePeriod": true,
+  "OpenPortalOnLocalTransition": false,
+  "OpenPortalIfLeaderDied": true,
+  "ShouldKill": true,
+  "ShouldLoot": false,
+  "ShouldOpenChests": false,
+  "DontPortOutofMap": false,
+  "DefensiveSkills": [
+    {
+      "Name": "Soul Link",
+      "Enabled": false,
+      "Threshold": 100,
+      "BuffType": 2
+    },
+    {
+      "Name": "Destructive Link",
+      "Enabled": false,
+      "Threshold": 100,
+      "BuffType": 2
+    },
+    {
+      "Name": "Flame Link",
+      "Enabled": false,
+      "Threshold": 100,
+      "BuffType": 2
+    },
+    {
+      "Name": "Protective Link",
+      "Enabled": false,
+      "Threshold": 100,
+      "BuffType": 2
+    },
+    {
+      "Name": "Vampiric Link",
+      "Enabled": false,
+      "Threshold": 100,
+      "BuffType": 2
+    },
+    {
+      "Name": "Intuitive Link",
+      "Enabled": false,
+      "Threshold": 100,
+      "BuffType": 2
+    },
+    {
+      "Name": "Vaal Molten Shell",
+      "Enabled": false,
+      "Threshold": 100,
+      "BuffType": 0
+    },
+    {
+      "Name": "Vaal Discipline",
+      "Enabled": false,
+      "Threshold": 100,
+      "BuffType": 1
+    },
+    {
+      "Name": "Molten Shell",
+      "Enabled": false,
+      "Threshold": 100,
+      "BuffType": 0
+    },
+    {
+      "Name": "Steelskin",
+      "Enabled": false,
+      "Threshold": 100,
+      "BuffType": 0
+    }
+  ]
+}

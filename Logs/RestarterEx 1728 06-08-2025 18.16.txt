@@ -1,0 +1,19 @@
+ .___                  _____  .                  .                 .____       
+ /   \   __.    ___   (      _/_     ___  .___  _/_     ___  .___  /      _  .-
+ |,_-' .'   \ .'   `   `--.   |     /   ` /   \  |    .'   ` /   \ |__.    \,' 
+ |     |    | |----'      |   |    |    | |   '  |    |----' |   ' |       /\  
+ /      `._.' `.___, \___.'   \__/ `.__/| /      \__/ `.___, /     /----/ /  \ 
+                                                                               
+
+Auth [OK]
+Path of Exile launched successfully: PathOfExile[29340]
+Window title changed to: Default
+Waiting 13,4 sec to make sure POE is loaded
+POE window closed! Abort
+Auth [OK]
+Path of Exile launched successfully: PathOfExile[15652]
+Window title changed to: Default
+Waiting 13,5 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[11676]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist

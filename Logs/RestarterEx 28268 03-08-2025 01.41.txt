@@ -1,0 +1,15 @@
+888~-_                      ,d88~~\   d8                      d8                    888~~           
+888   \   e88~-_   e88~~8e  8888    _d88__   /~~~8e  888-~\ _d88__  e88~~8e  888-~\ 888___ Y88b  /  
+888    | d888   i d888  88b `Y88b    888         88b 888     888   d888  88b 888    888     Y88b/   
+888   /  8888   | 8888__888  `Y88b,  888    e88~-888 888     888   8888__888 888    888      Y88b   
+888_-~   Y888   ' Y888    ,    8888  888   C888  888 888     888   Y888    , 888    888      /Y88b  
+888       "88_-~   "88___/  \__88P'  "88_/  "88_-888 888     "88_/  "88___/  888    888___  /  Y88b 
+                                                                                                    
+
+Auth [OK]
+Path of Exile launched successfully: PathOfExileSteam[29128]
+Failed to find window for the process within 5 seconds.
+Killing: PathOfExileSteam:25788
+Auth [OK]
+Path of Exile launched successfully: PathOfExileSteam[24452]
+Failed to find window for the process within 5 seconds.

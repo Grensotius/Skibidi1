@@ -1,0 +1,16 @@
+{
+  "ListedRecipes": [],
+  "CurrencyExchangeEnabled": false,
+  "TradeScarabsValueBased": true,
+  "MinScarabTotalValue": 100,
+  "SellScarabsByBuyOrders": false,
+  "TradeCardsValueBased": false,
+  "MinCardTotalValue": 50,
+  "SellCardsByBuyOrders": false,
+  "ItemRollEnabled": false,
+  "ItemToRoll": "Belt",
+  "GoldToStart": 500,
+  "GoldToStop": 100,
+  "RandomItemsBought": "items bought: 0",
+  "ExchangeRecipes": []
+}

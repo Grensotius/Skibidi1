@@ -1,0 +1,3222 @@
+{
+  "GorgonsFlask": [
+    "Coralito's Signature"
+  ],
+  "Rotgut": [
+    "Rotgut"
+  ],
+  "LaviangasOil": [
+    "Lavianga's Spirit"
+  ],
+  "KiarasDetermination": [
+    "Kiara's Determination"
+  ],
+  "PhantomBlood": [
+    "Forbidden Taste"
+  ],
+  "yFlask4": [
+    "Doedre's Elixir"
+  ],
+  "BloodOfTheKarui": [
+    "Blood of the Karui"
+  ],
+  "OverflowingChalice": [
+    "The Overflowing Chalice"
+  ],
+  "SoulCatcher": [
+    "Soul Catcher"
+  ],
+  "WitchFireBrew": [
+    "Witchfire Brew"
+  ],
+  "WrithingJar": [
+    "The Writhing Jar"
+  ],
+  "SorrowOfTheDivine": [
+    "The Sorrow of the Divine",
+    "Sorrow of the Divine"
+  ],
+  "yFlasks17": [
+    "Divination Distillate"
+  ],
+  "TheWiseOak": [
+    "The Wise Oak"
+  ],
+  "yFlask5": [
+    "Lion's Roar"
+  ],
+  "AtzirisPromise": [
+    "Atziri's Promise"
+  ],
+  "CorusElixir": [
+    "Coruscating Elixir"
+  ],
+  "AdaptationFlask03": [
+    "Vorana's Preparation"
+  ],
+  "ZerphisLastBreath": [
+    "Zerphi's Last Breath"
+  ],
+  "TasteOfHate": [
+    "Taste of Hate"
+  ],
+  "BlockFlask": [
+    "Rumi's Concoction"
+  ],
+  "VinktarFlask": [
+    "Vessel of Vinktar"
+  ],
+  "Sin": [
+    "Sin's Rebirth"
+  ],
+  "VialofUnlife": [
+    "Cinderswallow Urn"
+  ],
+  "WardFlask02": [
+    "Olroth's Resolve"
+  ],
+  "UberSirusFlask": [
+    "Oriath's End"
+  ],
+  "WardFlask03": [
+    "Elixir of the Unbroken Circle"
+  ],
+  "SoulRipper": [
+    "Soul Ripper"
+  ],
+  "BottledPurity": [
+    "Bottled Faith"
+  ],
+  "AdaptationFlask02": [
+    "Starlight Chalice"
+  ],
+  "ShapersFlask": [
+    "Dying Sun"
+  ],
+  "UberMavenFlask": [
+    "Progenesis"
+  ],
+  "BottledFutures": [
+    "Wine of the Prophet"
+  ],
+  "IntensityJewel1": [
+    "Apex Mode"
+  ],
+  "BlueCorrupt6": [
+    "Powerlessness"
+  ],
+  "TemperedBlue": [
+    "Tempered Mind"
+  ],
+  "GreenCorrupt6": [
+    "Pacifism"
+  ],
+  "SpectralThrowThreshold": [
+    "Seething Fury"
+  ],
+  "UniqueJewelBase3": [
+    "Voices"
+  ],
+  "KineticismJewel": [
+    "The Siege"
+  ],
+  "TheGoldenRule": [
+    "The Golden Rule"
+  ],
+  "unique8": [
+    "To Dust"
+  ],
+  "GreenCorrupt5": [
+    "Self-Flagellation"
+  ],
+  "RecklessDefense": [
+    "Reckless Defence"
+  ],
+  "DEXtoSTR": [
+    "Inertia"
+  ],
+  "unique17": [
+    "Hidden Potential"
+  ],
+  "RedCorrupt6": [
+    "Fragility"
+  ],
+  "STRtoDEX": [
+    "Fluid Motion"
+  ],
+  "BlueCorrupt4": [
+    "Fevered Mind"
+  ],
+  "DEXtoINT": [
+    "Fertile Mind"
+  ],
+  "RedJewel5": [
+    "Energised Armour"
+  ],
+  "INTtoSTR": [
+    "Efficient Training"
+  ],
+  "GreenCorrupt2": [
+    "Chill of Corruption"
+  ],
+  "INTtoDEX": [
+    "Careful Planning"
+  ],
+  "STRtoINT": [
+    "Brute Force Solution"
+  ],
+  "RedCorrupt1": [
+    "Atziri's Reign"
+  ],
+  "TemperedRed": [
+    "Tempered Flesh"
+  ],
+  "TheBlueDream": [
+    "The Blue Dream"
+  ],
+  "unique13": [
+    "Witchbane"
+  ],
+  "RedJewel7": [
+    "Firesong"
+  ],
+  "SearchingEyeUnique": [
+    "Ulaman's Gaze"
+  ],
+  "GolemInfernal": [
+    "Primordial Might"
+  ],
+  "UniqueJewelBase1": [
+    "Split Personality"
+  ],
+  "SecretsOfAgonyJewel": [
+    "The Interrogation"
+  ],
+  "DiscipleOfKitavaJewel": [
+    "Kitava's Teachings"
+  ],
+  "Veteran'sAwarenessJewel": [
+    "The Front Line"
+  ],
+  "LoneMessengerJewel": [
+    "Calamitous Visions"
+  ],
+  "unique10": [
+    "Quickening Covenant"
+  ],
+  "PotencyOfTheUnremarkable": [
+    "Might of the Meek"
+  ],
+  "TheGreenDream": [
+    "The Green Dream"
+  ],
+  "RedKarui": [
+    "Rain of Splinters"
+  ],
+  "LioneyesFall": [
+    "Lioneye's Fall"
+  ],
+  "BlueJewel7": [
+    "Healthy Mind"
+  ],
+  "BlueJewel6": [
+    "Energy From Within"
+  ],
+  "AdditionalSkeletonMagesModifier": [
+    "Dead Reckoning"
+  ],
+  "HypnoticEyeUnique": [
+    "Kurgal's Gaze"
+  ],
+  "TrialmasterLeftFragment": [
+    "Beauty"
+  ],
+  "ReservedBloodJewel": [
+    "Dissolution of the Flesh"
+  ],
+  "MurderousEyeUnique": [
+    "Tecrod's Gaze"
+  ],
+  "NaturesPatienceJewel": [
+    "Natural Affinity"
+  ],
+  "PureTalent": [
+    "Pure Talent"
+  ],
+  "SpectreJewel": [
+    "Unending Hunger"
+  ],
+  "unique7": [
+    "Inspired Learning"
+  ],
+  "IgnorePain": [
+    "Bloodnotch"
+  ],
+  "IntensityJewel2": [
+    "Nadir Mode"
+  ],
+  "RedJewel2": [
+    "Immutable Force"
+  ],
+  "ConnectedJewel": [
+    "Thread of Hope"
+  ],
+  "TemperedGreen": [
+    "Tempered Spirit"
+  ],
+  "AfflictionJewel": [
+    "The Light of Meaning"
+  ],
+  "PristineConditioning": [
+    "Ancestral Vision"
+  ],
+  "ElementalHitLightening": [
+    "Combat Focus"
+  ],
+  "GolemTempest": [
+    "Primordial Harmony"
+  ],
+  "unique6": [
+    "Intuitive Leap"
+  ],
+  "TrialmasterBottomFragment": [
+    "Curiosity"
+  ],
+  "TrialmasterJew": [
+    "The Adorned"
+  ],
+  "MindborePearl": [
+    "Impossible Escape"
+  ],
+  "UniqueJewelBase2": [
+    "Megalomaniac"
+  ],
+  "BlueJewel4": [
+    "Fortress Covenant"
+  ],
+  "GrandSpectrum2_Green": [
+    "Grand Spectrum"
+  ],
+  "ElementalHitFire": [
+    "Combat Focus"
+  ],
+  "ElementalHitCold": [
+    "Combat Focus"
+  ],
+  "GolemArctic": [
+    "Primordial Eminence"
+  ],
+  "DragonStyleJewel": [
+    "One With Nothing"
+  ],
+  "GolemChaos": [
+    "The Anima Stone"
+  ],
+  "TrialmasterMiddleFragment": [
+    "Ambition"
+  ],
+  "PuzzlePieceJewel_CleansingFire": [
+    "Forbidden Flame"
+  ],
+  "GhastlyEyeUnique": [
+    "Amanamu's Gaze"
+  ],
+  "TheRedDream": [
+    "The Red Dream"
+  ],
+  "PuzzlePieceJewel_GreatTangle": [
+    "Forbidden Flesh"
+  ],
+  "BoundByDestiny": [
+    "Bound By Destiny"
+  ],
+  "TranscendentBlue": [
+    "Transcendent Mind"
+  ],
+  "unique19": [
+    "The Balance of Terror"
+  ],
+  "SublimeVision": [
+    "Sublime Vision"
+  ],
+  "MarakethCivilization": [
+    "Brutal Restraint"
+  ],
+  "VaalCivilization": [
+    "Glorious Vanity"
+  ],
+  "EternalEmpireCivilization": [
+    "Elegant Hubris"
+  ],
+  "TemplarCivilization": [
+    "Militant Faith"
+  ],
+  "KaruiCivilization": [
+    "Lethal Pride"
+  ],
+  "UnnaturalInstinct": [
+    "Unnatural Instinct"
+  ],
+  "ElderJewel": [
+    "Watcher's Eye"
+  ],
+  "TheBlueDreamUpgrade": [
+    "The Blue Nightmare"
+  ],
+  "RedGrandSpectrum": [
+    "Grand Spectrum"
+  ],
+  "TranscendentRed": [
+    "Transcendent Flesh"
+  ],
+  "TranscendentGreen": [
+    "Transcendent Spirit"
+  ],
+  "GreenJewel2": [
+    "Stormshroud"
+  ],
+  "BlueGrandSpectrum": [
+    "Grand Spectrum"
+  ],
+  "TrialmasterRightFragment": [
+    "Cooperation"
+  ],
+  "EntangledElementsJewel": [
+    "Melding of the Flesh"
+  ],
+  "TheGreenDreamUpgrade": [
+    "The Green Nightmare"
+  ],
+  "Cunning": [
+    "Emperor's Cunning"
+  ],
+  "TheRedDreamUpgrade": [
+    "The Red Nightmare"
+  ],
+  "Might": [
+    "Emperor's Might"
+  ],
+  "UberCortexJewel": [
+    "Rational Doctrine"
+  ],
+  "Wit": [
+    "Emperor's Wit"
+  ],
+  "Mastery": [
+    "Emperor's Mastery"
+  ],
+  "Entropywings": [
+    "Wings of Entropy"
+  ],
+  "PillaroftheCagedGod": [
+    "Pillar of the Caged God"
+  ],
+  "SinvictasMettle": [
+    "Sinvicta's Mettle"
+  ],
+  "EarendelsEmbrace": [
+    "Earendel's Embrace"
+  ],
+  "Baelfire": [
+    "Balefire"
+  ],
+  "StringAxe": [
+    "Debeon's Dirge"
+  ],
+  "Leviathanivory": [
+    "The Wasp Nest"
+  ],
+  "EwarsMirage": [
+    "Ewar's Mirage"
+  ],
+  "Staff7unique": [
+    "Xirgil's Crank"
+  ],
+  "Wildslash": [
+    "Wildslash"
+  ],
+  "Widowmaker": [
+    "Widowmaker"
+  ],
+  "Wideswing": [
+    "Wideswing"
+  ],
+  "Voidhome": [
+    "Voidhome"
+  ],
+  "Dagger3unique": [
+    "Ungil's Gauche"
+  ],
+  "TempestuousSteel": [
+    "The Tempestuous Steel",
+    "Tempestuous Steel"
+  ],
+  "Staff8uniqueX": [
+    "The Stormheart"
+  ],
+  "OneHandSword3Unique": [
+    "The Princess"
+  ],
+  "TheExtractor": [
+    "The Harvest",
+    "Harvest"
+  ],
+  "UniqueRapier6": [
+    "The Goddess Bound"
+  ],
+  "TheBloodThorn": [
+    "The Blood Thorn",
+    "Blood Thorn"
+  ],
+  "TwoHandAxeUnique2": [
+    "The Blood Reaper"
+  ],
+  "Stormcloud": [
+    "Storm Cloud"
+  ],
+  "TwoHandSword6Unique": [
+    "Shiversting"
+  ],
+  "SarkhamsReach": [
+    "Roth's Reach"
+  ],
+  "BleedClaw": [
+    "Rive"
+  ],
+  "TwoHandSword5Unique": [
+    "Rigwald's Charge"
+  ],
+  "TwoHandAxeUnique1": [
+    "Reaper's Pursuit"
+  ],
+  "Staff5unique": [
+    "Realmshaper"
+  ],
+  "TwoHandSwordUnique3": [
+    "Queen's Decree"
+  ],
+  "TwoHandMace5Unique": [
+    "Quecholli"
+  ],
+  "PrismaticEclipse": [
+    "Prismatic Eclipse"
+  ],
+  "OrnamentOfTheEast": [
+    "Ornament of the East"
+  ],
+  "NurosPurifyingHarp": [
+    "Nuro's Harp"
+  ],
+  "Claw8unique": [
+    "Mortem Morsu"
+  ],
+  "WandUnique2": [
+    "Moonsorrow"
+  ],
+  "MoonbendersWing": [
+    "Moonbender's Wing"
+  ],
+  "Dagger2unique": [
+    "Mightflay"
+  ],
+  "WandUnique3": [
+    "Midnight Bargain"
+  ],
+  "TwoHandAxe_spare": [
+    "Limbsplit"
+  ],
+  "OneHandMace3a": [
+    "Lavianga's Wisdom"
+  ],
+  "NerasLastResort": [
+    "Last Resort"
+  ],
+  "OneHandSword5Unique": [
+    "Lakishu's Blade"
+  ],
+  "KondosPride": [
+    "Kondo's Pride"
+  ],
+  "JorrhastsBlacksteel": [
+    "Jorrhast's Blacksteel"
+  ],
+  "ElderSword": [
+    "Innsbury Edge"
+  ],
+  "Infractem": [
+    "Infractem"
+  ],
+  "TwoHandMace6Unique": [
+    "Hrimnor's Hymn"
+  ],
+  "Hiltless": [
+    "Hiltless"
+  ],
+  "Goredrill": [
+    "Goredrill"
+  ],
+  "OneHandMace3Unique": [
+    "Gorebreaker"
+  ],
+  "TwoHandMace7Unique": [
+    "Geofri's Baptism"
+  ],
+  "FrostBreath": [
+    "Frostbreath"
+  ],
+  "OneHandMace6Unique": [
+    "Flesh-Eater"
+  ],
+  "FidelitasSpike": [
+    "Fidelitas' Spike"
+  ],
+  "Staff1unique": [
+    "Fencoil"
+  ],
+  "FemursoftheSaints": [
+    "Femurs of the Saints"
+  ],
+  "EdgeOfMadness": [
+    "Edge of Madness"
+  ],
+  "Dreadarc": [
+    "Dreadarc"
+  ],
+  "Daressos": [
+    "Daresso's Passion"
+  ],
+  "CybilsClaw": [
+    "Cybil's Paw"
+  ],
+  "ChoberChaber": [
+    "Chober Chaber"
+  ],
+  "AmericsMaul": [
+    "Cameria's Maul",
+    "Cameria's Avarice"
+  ],
+  "CallinellusMalleus": [
+    "Callinellus Malleus"
+  ],
+  "OneHandMace5Unique": [
+    "Brightbeak"
+  ],
+  "Plaguebringer": [
+    "Breath of the Council"
+  ],
+  "BloodPlay": [
+    "Bloodplay"
+  ],
+  "Aurumvorax": [
+    "Aurumvorax"
+  ],
+  "Wychverge": [
+    "Abberath's Horn"
+  ],
+  "MarrowGasher": [
+    "Taproot"
+  ],
+  "StormPrison": [
+    "Storm Prison"
+  ],
+  "ScepterOfSuffering": [
+    "Sign of the Sin Eater"
+  ],
+  "AhnsMight": [
+    "Ahn's Might"
+  ],
+  "CaneOfUnravelling": [
+    "Cane of Unravelling"
+  ],
+  "Screamingeagle": [
+    "The Screaming Eagle"
+  ],
+  "Rhysblade": [
+    "The Dancing Dervish"
+  ],
+  "TwoHandSwordUnique2": [
+    "Terminus Est"
+  ],
+  "Scaeva": [
+    "Scaeva"
+  ],
+  "OneHandSword1Unique": [
+    "Redbeak"
+  ],
+  "OrosSacrifice": [
+    "Oro's Sacrifice"
+  ],
+  "DoubtingKnight": [
+    "Mark of the Doubting Knight"
+  ],
+  "KongorsUndyingRage": [
+    "Kongor's Undying Rage"
+  ],
+  "IronCommendant": [
+    "Iron Commander"
+  ],
+  "Dyadus": [
+    "Dyadus"
+  ],
+  "EndOfEra": [
+    "Death's Hand"
+  ],
+  "ClayShaper": [
+    "Clayshaper"
+  ],
+  "Aldhih": [
+    "Al Dhih"
+  ],
+  "Staff6unique": [
+    "Agnerod West",
+    "Agnerod South",
+    "Agnerod North",
+    "Agnerod East"
+  ],
+  "Clawshield3": [
+    "Advancing Fortress"
+  ],
+  "Maledict": [
+    "Obliteration"
+  ],
+  "Ashwaker": [
+    "Ashcaller"
+  ],
+  "GoblinEdge": [
+    "Goblinedge"
+  ],
+  "Shard1": [
+    "First Piece of Brutality",
+    "First Piece of Directions",
+    "First Piece of Storms"
+  ],
+  "TheBlackCane": [
+    "The Black Cane"
+  ],
+  "TopDownStaveIcon": [
+    "Soulwrest"
+  ],
+  "Wand1Unique": [
+    "Twyzel"
+  ],
+  "MineStaff": [
+    "Tremor Rod"
+  ],
+  "TouchOfAnguish": [
+    "Touch of Anguish"
+  ],
+  "Staff4unique": [
+    "The Searing Touch"
+  ],
+  "SilverTongue": [
+    "Slivertongue"
+  ],
+  "Radience": [
+    "Sire of Shards"
+  ],
+  "Gloomeye": [
+    "Singularity"
+  ],
+  "Bow1Unique": [
+    "Silverbranch"
+  ],
+  "RigwarlAxe": [
+    "Rigwald's Savagery"
+  ],
+  "RigwarlSword": [
+    "Rigwald's Command"
+  ],
+  "ReverberationRod": [
+    "Reverberation Rod"
+  ],
+  "RelentlessFury": [
+    "Relentless Fury"
+  ],
+  "LifeSprig": [
+    "Lifesprig"
+  ],
+  "TwoHandAxe11Unique": [
+    "Kaom's Primacy"
+  ],
+  "BladeOfVastri": [
+    "Ichimonji"
+  ],
+  "HyaonsFury": [
+    "Hyaon's Fury"
+  ],
+  "DoomSower": [
+    "Doomsower"
+  ],
+  "Bow5unique": [
+    "Chin Sol"
+  ],
+  "AxiomPerpetuum": [
+    "Axiom Perpetuum"
+  ],
+  "Tarynsshiver": [
+    "Taryn's Shiver"
+  ],
+  "RiriTeNgamahu": [
+    "Ngamahu's Flame"
+  ],
+  "BloodPerigree": [
+    "Xoph's Inception"
+  ],
+  "Staff8unique": [
+    "The Whispering Ice"
+  ],
+  "ConsumingtheDark": [
+    "The Consuming Dark"
+  ],
+  "MontregulsGrasp": [
+    "Mon'tregul's Grasp"
+  ],
+  "HezmanasBloodlust": [
+    "Hezmana's Bloodlust"
+  ],
+  "Allure": [
+    "Allure"
+  ],
+  "ApepsRage": [
+    "Apep's Rage"
+  ],
+  "PiscatorsVigil": [
+    "Piscator's Vigil"
+  ],
+  "Tulborn": [
+    "Tulborn"
+  ],
+  "UulNetolsKiss": [
+    "Uul-Netol's Kiss"
+  ],
+  "WandUnique1": [
+    "Eclipse Solaris"
+  ],
+  "ThoughtMotion1": [
+    "Hand of Thought and Motion"
+  ],
+  "FrenziedTentacles": [
+    "The Gluttonous Tide"
+  ],
+  "BrandDetonateStaff": [
+    "Witchhunter's Judgment"
+  ],
+  "WolfClaw": [
+    "Law of the Wilds"
+  ],
+  "HarbingerSwordShard3": [
+    "Third Piece of the Arcane"
+  ],
+  "HarbingerSwordShard1": [
+    "First Piece of the Arcane"
+  ],
+  "HarbingerSwordShard2": [
+    "Second Piece of the Arcane"
+  ],
+  "Shard2": [
+    "Second Piece of Brutality",
+    "Second Piece of Storms",
+    "Second Piece of Directions"
+  ],
+  "Shard3": [
+    "Third Piece of Brutality",
+    "Third Piece of Directions",
+    "Third Piece of Storms"
+  ],
+  "ColdIronPoint": [
+    "Cold Iron Point"
+  ],
+  "Cerebus Limb": [
+    "Cerberus Limb"
+  ],
+  "TheGreySpire": [
+    "The Grey Spire"
+  ],
+  "VerdantGuardianSword2": [
+    "Beltimber Blade"
+  ],
+  "ElderSceptre": [
+    "Augyre"
+  ],
+  "WhiteWind": [
+    "White Wind"
+  ],
+  "DyingBreath": [
+    "Dying Breath"
+  ],
+  "EternalSleep1": [
+    "Severed in Sleep"
+  ],
+  "Trypanon": [
+    "Trypanon"
+  ],
+  "OneHandSword7Unique": [
+    "Rebuke of the Vaal"
+  ],
+  "BowOfTheCouncil": [
+    "Reach of the Council"
+  ],
+  "Bow2unique": [
+    "Quill Rain"
+  ],
+  "Lychnuslyaei": [
+    "Nycta's Lantern"
+  ],
+  "NullBow": [
+    "Null's Inclination"
+  ],
+  "Jacktheaxe": [
+    "Jack, the Axe"
+  ],
+  "HegemonysEra": [
+    "Hegemony's Era"
+  ],
+  "Dreamfeather": [
+    "Dreamfeather"
+  ],
+  "DoonCuebiyari": [
+    "Doon Cuebiyari"
+  ],
+  "TheLeadSprinkler": [
+    "Brutus' Lead Sprinkler"
+  ],
+  "BrainScrambler": [
+    "Brain Rattler"
+  ],
+  "scepter8unique2": [
+    "Bitterdream"
+  ],
+  "TheScourge": [
+    "The Scourge"
+  ],
+  "VerdantGuardianSword1": [
+    "Grelwood Shank"
+  ],
+  "Vulconus": [
+    "Vulconus"
+  ],
+  "RazorOfTheSeventhSun": [
+    "Razor of the Seventh Sun"
+  ],
+  "Heartbreaker": [
+    "Heartbreaker"
+  ],
+  "Deathsharp": [
+    "Death's Harp"
+  ],
+  "GreeneyesSword": [
+    "The Living Blade"
+  ],
+  "AfflictionSword": [
+    "Nametaker"
+  ],
+  "WidowhailBow": [
+    "Widowhail"
+  ],
+  "StoryOfTheVaal": [
+    "Story of the Vaal"
+  ],
+  "FortificationsUnique": [
+    "The Crimson Storm"
+  ],
+  "ElderWand": [
+    "Shimmeron"
+  ],
+  "ElderBow": [
+    "Hopeshredder"
+  ],
+  "ElderMace": [
+    "Nebuloch"
+  ],
+  "DoomFletch": [
+    "Doomfletch"
+  ],
+  "DoryanisCatalyst": [
+    "Doryani's Catalyst"
+  ],
+  "TulbornUpgraded": [
+    "Tulfall"
+  ],
+  "IntrepidusDolorem": [
+    "The Annihilating Light"
+  ],
+  "OnatzliSceptre": [
+    "Yaomac's Accord"
+  ],
+  "PortentOfAFalseGod": [
+    "Atziri's Rule"
+  ],
+  "SkeletonSword": [
+    "The Iron Mass"
+  ],
+  "Rage Staff": [
+    "The Enmity Divine"
+  ],
+  "PoetsPen": [
+    "The Poet's Pen"
+  ],
+  "HanlonsRazor": [
+    "Actum"
+  ],
+  "JadeMarohiErqiHammer": [
+    "Tawhoa's Felling"
+  ],
+  "MaataSceptre": [
+    "Maata's Teaching"
+  ],
+  "BloodPerigreeBREACH": [
+    "Xoph's Nurture"
+  ],
+  "Eagle": [
+    "Windripper"
+  ],
+  "Thesupremetruth": [
+    "The Supreme Truth"
+  ],
+  "Mjolner": [
+    "Mjölner"
+  ],
+  "Darkscorn": [
+    "Darkscorn"
+  ],
+  "CosprisMalice": [
+    "Cospri's Malice"
+  ],
+  "VoodooKingStaff": [
+    "The Burden of Shadows"
+  ],
+  "AssassinationUnique2": [
+    "Paradoxica"
+  ],
+  "VerdantGuardianBow": [
+    "Arborix"
+  ],
+  "WandofBlasting": [
+    "Mystic Refractor"
+  ],
+  "HarbingerLeagueSword": [
+    "The Rippling Thoughts"
+  ],
+  "SecretBlade": [
+    "The Hidden Blade"
+  ],
+  "SceptreOfMemories": [
+    "Nebulis"
+  ],
+  "EternalSleep2": [
+    "United in Dream"
+  ],
+  "ThoughtMotion2": [
+    "Hand of Wisdom and Action"
+  ],
+  "SolarisWand": [
+    "Shade of Solaris"
+  ],
+  "VoidBattery": [
+    "Void Battery"
+  ],
+  "FateOfTheVaal": [
+    "Fate of the Vaal"
+  ],
+  "IpochotlWand": [
+    "Relic of the Pact"
+  ],
+  "TheGoddessscorned": [
+    "The Goddess Scorned"
+  ],
+  "MartyrInnocence": [
+    "Martyr of Innocence"
+  ],
+  "FangUnique": [
+    "Arakaali's Fang"
+  ],
+  "OneHandSword8Unique": [
+    "Ephemeral Edge"
+  ],
+  "UulNetolsKissUpgraded": [
+    "Uul-Netol's Embrace"
+  ],
+  "ElementalHarmony": [
+    "The Fulcrum"
+  ],
+  "HarbingerStaffUpgraded": [
+    "The Yielding Mortality"
+  ],
+  "WhisperingNebula": [
+    "Legacy of the Rose"
+  ],
+  "CatarinaStaff": [
+    "Cane of Kulemak"
+  ],
+  "Varunastra": [
+    "Varunastra"
+  ],
+  "Tidebreaker": [
+    "Tidebreaker"
+  ],
+  "Starfell": [
+    "Starcaller"
+  ],
+  "KitavasHunger": [
+    "Kitava's Feast"
+  ],
+  "PrimordialCane": [
+    "Cadigan's Authority"
+  ],
+  "UberMavenWand": [
+    "Grace of the Goddess"
+  ],
+  "HarbingerSwordUpgraded": [
+    "The Surging Thoughts"
+  ],
+  "ElderStaff": [
+    "Disintegrator"
+  ],
+  "SolarisLunarisStaff": [
+    "Duskdawn"
+  ],
+  "PledgeofHands": [
+    "Pledge of Hands"
+  ],
+  "TwoHandMace2unique2": [
+    "Marohi Erqi"
+  ],
+  "UniqueFishingRod1": [
+    "Song of the Sirens"
+  ],
+  "Bloodseeker": [
+    "Bloodseeker"
+  ],
+  "AtzirisDisfavour": [
+    "Atziri's Disfavour"
+  ],
+  "Voidshaft": [
+    "Voltaxic Rift"
+  ],
+  "Claw5Unique2": [
+    "Essentia Sanguis"
+  ],
+  "Alexaxe": [
+    "Soul Taker"
+  ],
+  "BinosKitchenKnife": [
+    "Bino's Kitchen Knife"
+  ],
+  "Bow8unique": [
+    "Lioneye's Glare"
+  ],
+  "Dagger7unique": [
+    "Divinarius"
+  ],
+  "CosmicForge": [
+    "Echoforge"
+  ],
+  "Reefbane": [
+    "Reefbane"
+  ],
+  "Alexaxeandheartbreaker": [
+    "Kingmaker"
+  ],
+  "RakiataSword": [
+    "Rakiata's Dance"
+  ],
+  "VoidGaze": [
+    "The Dark Seer"
+  ],
+  "Starforge": [
+    "Starforge",
+    "Voidforge"
+  ],
+  "AnwensStaff": [
+    "The Winds of Fate"
+  ],
+  "TheGoddessUnleashed": [
+    "Oni-Goroshi"
+  ],
+  "MirageBlade": [
+    "The Saviour"
+  ],
+  "HallOfGrandmasters": [
+    "Hall of Grandmasters"
+  ],
+  "musicbox": [
+    "Acton's Nightmare"
+  ],
+  "olmec": [
+    "Olmec's Sanctum"
+  ],
+  "PillarsOfVastiri": [
+    "Pillars of Arun"
+  ],
+  "UniqueMapEye": [
+    "Whakawairua Tuahu"
+  ],
+  "oba": [
+    "Oba's Cursed Trove"
+  ],
+  "MaelstromofChaos": [
+    "Maelström of Chaos"
+  ],
+  "HallowedGround": [
+    "Hallowed Ground"
+  ],
+  "FairgravesMap01": [
+    "Mao Kun"
+  ],
+  "DeathandTaxes": [
+    "Death and Taxes"
+  ],
+  "WolfMap": [
+    "Caer Blaidd, Wolfpack's Den"
+  ],
+  "PoorjoysAsylum": [
+    "Poorjoy's Asylum"
+  ],
+  "TheVinktarSquare": [
+    "The Vinktar Square"
+  ],
+  "HarbingerYellow": [
+    "The Beachhead"
+  ],
+  "HarbingerRed": [
+    "The Beachhead"
+  ],
+  "HarbingerWhite": [
+    "The Beachhead"
+  ],
+  "Doryanis": [
+    "Doryani's Machinarium"
+  ],
+  "Celestial": [
+    "The Twilight Temple"
+  ],
+  "PutridCloister": [
+    "The Putrid Cloister"
+  ],
+  "UniqueMap1": [
+    "Vaults of Atziri"
+  ],
+  "SynthesisFireGuardianMap": [
+    "Augmented Distant Memory"
+  ],
+  "SynthesisLightningGuardianMap": [
+    "Twisted Distant Memory"
+  ],
+  "SynthesisGolemGuardianMap": [
+    "Rewritten Distant Memory"
+  ],
+  "SynthesisColdGuardianMap": [
+    "Altered Distant Memory"
+  ],
+  "UndeadSiege": [
+    "The Coward's Trial"
+  ],
+  "SynthesisBossGuardianMap": [
+    "Cortex"
+  ],
+  "HarbingerUber": [
+    "Infused Beachhead"
+  ],
+  "UniqueAshbark": [
+    "Wildfire Phloem"
+  ],
+  "UniquePrismatic": [
+    "Sap of the Seasons"
+  ],
+  "UniqueSporebloom": [
+    "Grasping Nightshade"
+  ],
+  "UniqueOakbranch": [
+    "The Battle Within"
+  ],
+  "UniqueIronwood": [
+    "Mightblood Ire"
+  ],
+  "IkiahoAmulet": [
+    "Ikiaho's Promise"
+  ],
+  "UnhealthyBurden": [
+    "Chain of Endurance"
+  ],
+  "SharedUnsight": [
+    "Retaliation Charm"
+  ],
+  "TheWardensBand": [
+    "The Warden's Brand"
+  ],
+  "BuckledBeltUnique2": [
+    "Perandus Blazon"
+  ],
+  "SocketedTalisman": [
+    "Night's Hold"
+  ],
+  "MaligarosRestraint": [
+    "Maligaro's Restraint"
+  ],
+  "Ring2Unique": [
+    "Kaom's Sign"
+  ],
+  "Feastbind": [
+    "Feastbind"
+  ],
+  "Faminebind": [
+    "Faminebind"
+  ],
+  "Turncoatsfortune": [
+    "Ascent From Flesh"
+  ],
+  "Amulet2Unique": [
+    "Araku Tiki",
+    "Ngamahu Tiki"
+  ],
+  "TearOfPurity": [
+    "Tear of Purity"
+  ],
+  "ShieldBand": [
+    "Prospero's Protection"
+  ],
+  "Bloodfreeze": [
+    "Venopuncture"
+  ],
+  "ThePrimordialChain": [
+    "The Primordial Chain"
+  ],
+  "WinterHeartALT": [
+    "Winterheart"
+  ],
+  "TurquoiseAmuletUnique": [
+    "Victario's Acuity"
+  ],
+  "Amulet5Unique": [
+    "Stone of Lazhwar"
+  ],
+  "MalachaisArtifice": [
+    "Malachai's Artifice"
+  ],
+  "LorisLantern": [
+    "Lori's Lantern"
+  ],
+  "CitrineAmuletUnique": [
+    "Daresso's Salute"
+  ],
+  "BatedBreath": [
+    "Bated Breath"
+  ],
+  "BereksPass": [
+    "Berek's Pass"
+  ],
+  "BloodAmulet": [
+    "Bloodgrip"
+  ],
+  "MokousEmbrace": [
+    "Mokou's Embrace"
+  ],
+  "Amulet15": [
+    "Maligaro's Cruelty"
+  ],
+  "GrattusRing": [
+    "Grattus Signet"
+  ],
+  "NevaliusBelt": [
+    "Nevalius Inheritance"
+  ],
+  "LinkmastersCoil": [
+    "Ceinture of Benevolence"
+  ],
+  "SlaversBelt": [
+    "Chains of Emancipation"
+  ],
+  "TheDruggery": [
+    "The Druggery"
+  ],
+  "IcefangOrbit": [
+    "Icefang Orbit"
+  ],
+  "RedBrandRing": [
+    "Mark of Submission"
+  ],
+  "unused4": [
+    "Voideye"
+  ],
+  "ThiefsTorment": [
+    "Thief's Torment"
+  ],
+  "Amulet6Unique": [
+    "The Ignomon"
+  ],
+  "Amulet1Unique": [
+    "Sidhebreath"
+  ],
+  "SibylsLament": [
+    "Sibyl's Lament"
+  ],
+  "ShapersSeed": [
+    "Shaper's Seed"
+  ],
+  "RashkaldorsPatience": [
+    "Rashkaldor's Patience"
+  ],
+  "Prismweave": [
+    "Prismweave"
+  ],
+  "NgamahusSign": [
+    "Ngamahu's Sign"
+  ],
+  "Mutewind": [
+    "Mutewind Seal"
+  ],
+  "Belt7Unique": [
+    "Meginord's Girdle"
+  ],
+  "Kikazaru": [
+    "Kikazaru"
+  ],
+  "Amulet4Unique": [
+    "Karui Ward"
+  ],
+  "DiamondRingUnique": [
+    "Gifts from Above"
+  ],
+  "EyeOfInnocence": [
+    "Eye of Innocence"
+  ],
+  "ExtractorMentis": [
+    "Extractor Mentis"
+  ],
+  "EssenceWorm": [
+    "Essence Worm"
+  ],
+  "Ring6Unique": [
+    "Dream Fragments"
+  ],
+  "TaintedSprings": [
+    "Blightwell"
+  ],
+  "BereksGrip": [
+    "Berek's Grip"
+  ],
+  "BeltOfTheDeciever": [
+    "Belt of the Deceiver"
+  ],
+  "TalismanUnique2": [
+    "Natural Hierarchy"
+  ],
+  "Praxis": [
+    "Praxis"
+  ],
+  "TasaliosSign": [
+    "Tasalio's Sign"
+  ],
+  "BanditRing": [
+    "The Highwayman"
+  ],
+  "SkitterbotRing": [
+    "Profane Proxy"
+  ],
+  "BondedLife": [
+    "Soulbound"
+  ],
+  "TaintedPact": [
+    "Tainted Pact"
+  ],
+  "BloodSoaked_Medallion": [
+    "Bloodsoaked Medallion"
+  ],
+  "DoedresTongue": [
+    "Doedre's Tongue"
+  ],
+  "SabertoothsPendant": [
+    "The Felbog Fang"
+  ],
+  "85482": [
+    "Siegebreaker"
+  ],
+  "HarbingerBeltShard1": [
+    "First Piece of Time"
+  ],
+  "SoulTether": [
+    "Soul Tether"
+  ],
+  "Perserverance": [
+    "Perseverance"
+  ],
+  "ValakosSign": [
+    "Valako's Sign"
+  ],
+  "UmbilicusImmortalis": [
+    "Umbilicus Immortalis"
+  ],
+  "Xedralyas": [
+    "The Aylardex"
+  ],
+  "Redblade": [
+    "Redblade Band"
+  ],
+  "Ring3Unique": [
+    "Doedre's Damning"
+  ],
+  "HinekoraBelt": [
+    "Bound Fate"
+  ],
+  "TawhanukuRing": [
+    "Tawhanuku's Timing"
+  ],
+  "SirusBelt": [
+    "The Burden of Truth"
+  ],
+  "Charge Amplifier": [
+    "The Ephemeral Bond"
+  ],
+  "PyroshockClasp": [
+    "Pyroshock Clasp"
+  ],
+  "BearsClutch": [
+    "Bear's Girdle"
+  ],
+  "ThunderLoop": [
+    "Storm Secret"
+  ],
+  "StarlightMark": [
+    "Willowgift"
+  ],
+  "MothersEmbrace": [
+    "Mother's Embrace"
+  ],
+  "LeashOfOblation": [
+    "Leash of Oblation"
+  ],
+  "Tavukai": [
+    "Tavukai"
+  ],
+  "SynthesisAccuracyAmulet": [
+    "Hyrri's Truth"
+  ],
+  "Gluttony": [
+    "Gluttony"
+  ],
+  "StormFire": [
+    "Stormfire"
+  ],
+  "BloodBoil": [
+    "Winterweave"
+  ],
+  "TheHungryLoop": [
+    "The Hungry Loop"
+  ],
+  "HarbingerBeltShard2": [
+    "Second Piece of Time"
+  ],
+  "Auxium": [
+    "Auxium"
+  ],
+  "BiscosLeash": [
+    "Bisco's Leash"
+  ],
+  "GlacierCacoon": [
+    "The Halcyon"
+  ],
+  "DoryanisInvitation": [
+    "Doryani's Invitation"
+  ],
+  "Belt6Unique": [
+    "Wurm's Molt"
+  ],
+  "WarpedTimepiece": [
+    "Warped Timepiece"
+  ],
+  "Valyrium": [
+    "Valyrium"
+  ],
+  "UngilsHarmony": [
+    "Ungil's Harmony"
+  ],
+  "Timeclasp": [
+    "Timeclasp"
+  ],
+  "Anvil": [
+    "The Anvil"
+  ],
+  "Soulthirst": [
+    "Soulthirst"
+  ],
+  "RomirasBanquet": [
+    "Romira's Banquet"
+  ],
+  "UniqueDireClawTalisman": [
+    "Rigwald's Curse"
+  ],
+  "RigwaldsCrest": [
+    "Rigwald's Crest"
+  ],
+  "Cherufe": [
+    "Pyre"
+  ],
+  "MingsHeart": [
+    "Ming's Heart"
+  ],
+  "ImmortalFlesh": [
+    "Immortal Flesh"
+  ],
+  "HinekorasSight": [
+    "Hinekora's Sight"
+  ],
+  "HeartboundRing": [
+    "Heartbound Loop"
+  ],
+  "Amulet7Unique": [
+    "Eye of Chayula"
+  ],
+  "Ring10": [
+    "Emberwake"
+  ],
+  "MotherDyadus": [
+    "Dyadian Dawn"
+  ],
+  "Amulet37": [
+    "Carnage Heart"
+  ],
+  "Brotherhood": [
+    "Call of the Brotherhood"
+  ],
+  "Brinerot": [
+    "Brinerot Mark"
+  ],
+  "Ring1Unique": [
+    "Blackheart"
+  ],
+  "Ring4Unique": [
+    "Andvarius"
+  ],
+  "RitualLifedrainRing": [
+    "The Selfish Shepherd"
+  ],
+  "DarknessEnthroned": [
+    "Darkness Enthroned"
+  ],
+  "RitualSilenceRing": [
+    "The Queller of Minds"
+  ],
+  "ShadowRay": [
+    "Gloomfang"
+  ],
+  "ImbalancedCord": [
+    "Survivor's Guilt"
+  ],
+  "CursedEye": [
+    "Rotblood Promise"
+  ],
+  "Serpentseed": [
+    "Snakepit"
+  ],
+  "MetamorphosisAmulet": [
+    "Fury Valve"
+  ],
+  "PerquilsToe": [
+    "Perquil's Toe"
+  ],
+  "TheRetch": [
+    "The Retch"
+  ],
+  "Leheupofall": [
+    "Le Heup of All"
+  ],
+  "BereksRespite": [
+    "Berek's Respite"
+  ],
+  "ThePariah": [
+    "The Pariah"
+  ],
+  "WrithingLoop": [
+    "Squirming Terror"
+  ],
+  "VaalUnsetRing": [
+    "Triumvirate Authority"
+  ],
+  "AltChargeDex": [
+    "Olesya's Delight"
+  ],
+  "AltChargeStr": [
+    "Arn's Anguish"
+  ],
+  "SynthesisPhysical": [
+    "Circle of Nostalgia"
+  ],
+  "SynthesisCold": [
+    "Circle of Fear"
+  ],
+  "SynthesisFire": [
+    "Circle of Anguish"
+  ],
+  "SynthesisLightning": [
+    "Circle of Regret"
+  ],
+  "JujusSoul": [
+    "The Jinxed Juju"
+  ],
+  "BetrayalExperimentationRing": [
+    "Vivinsect"
+  ],
+  "Betrayal_Unique_Transport_Belt": [
+    "Hyperboreus"
+  ],
+  "RedComponent3": [
+    "Ahkeli's Valley"
+  ],
+  "RedComponent": [
+    "Ahkeli's Mountain"
+  ],
+  "Coward's Chains": [
+    "Coward's Chains"
+  ],
+  "Sacrificial_Heart": [
+    "Sacrificial Heart"
+  ],
+  "UberShaperRing": [
+    "Mark of the Shaper"
+  ],
+  "UberElderRing": [
+    "Mark of the Elder"
+  ],
+  "ElderBelt": [
+    "Cyclopean Coil"
+  ],
+  "DieOfDestiny": [
+    "Ventor's Gamble"
+  ],
+  "Belt8": [
+    "Sunblast"
+  ],
+  "MarylenesFallacy": [
+    "Marylene's Fallacy"
+  ],
+  "SynthesisPhysical2": [
+    "Circle of Guilt"
+  ],
+  "Quid": [
+    "Atziri's Foible"
+  ],
+  "ElderCold": [
+    "Impresence"
+  ],
+  "ElderLightning": [
+    "Impresence"
+  ],
+  "ElderPhysical": [
+    "Impresence"
+  ],
+  "VoiceOfTheStorm": [
+    "Voice of the Storm"
+  ],
+  "RedComponent2": [
+    "Ahkeli's Meadow"
+  ],
+  "AgateAmuletUnique": [
+    "Voll's Devotion"
+  ],
+  "TinkerersTools": [
+    "The Arkhon's Tools"
+  ],
+  "RitualPhantasmRing": [
+    "The Hateful Accuser"
+  ],
+  "StringOfRings": [
+    "The Untouched Soul"
+  ],
+  "Malachai's BrillianceAmulet": [
+    "Dragonfang's Flight"
+  ],
+  "KaomBelt": [
+    "Kaom's Binding"
+  ],
+  "AscendanceAmulet": [
+    "Crystallised Omniscience"
+  ],
+  "AstralProjector": [
+    "Astral Projector"
+  ],
+  "ZerphisHeart": [
+    "Zerphi's Heart"
+  ],
+  "ElderChaos": [
+    "Impresence"
+  ],
+  "ElderFire": [
+    "Impresence"
+  ],
+  "TheTaming": [
+    "The Taming"
+  ],
+  "BuckledBeltUnique": [
+    "The Magnate"
+  ],
+  "LadyRing": [
+    "Perandus Signet"
+  ],
+  "AmethystRingUnique": [
+    "Death Rush"
+  ],
+  "WarriorsLegacy": [
+    "Warrior's Legacy"
+  ],
+  "BetrayalsSting": [
+    "Betrayal's Sting"
+  ],
+  "ForbiddenSeal": [
+    "Fated End"
+  ],
+  "AssassinUnique": [
+    "Badge of the Brotherhood"
+  ],
+  "GreenComponent2": [
+    "Uzaza's Meadow"
+  ],
+  "HarbingerBelt": [
+    "The Flow Untethered"
+  ],
+  "AltChargeInt": [
+    "Graven's Secret"
+  ],
+  "BlackFlameFire": [
+    "Blackflame"
+  ],
+  "Ahn Artifact": [
+    "Aul's Uprising"
+  ],
+  "Amulet36": [
+    "Astramentis"
+  ],
+  "RyuslathasClutches": [
+    "Ryslatha's Coil"
+  ],
+  "FrostGlazedEyeRing": [
+    "Call of the Void"
+  ],
+  "VoidcoreAmulet": [
+    "The Eternal Struggle"
+  ],
+  "MoonstoneRingUnique": [
+    "Shavronne's Revelation"
+  ],
+  "WhispersofInfinity": [
+    "Whispers of Infinity"
+  ],
+  "UberShaperBelt": [
+    "The Tides of Time"
+  ],
+  "YphethakksHeart": [
+    "Xoph's Heart"
+  ],
+  "RigwaldsTalisman": [
+    "Eyes of the Greatwolf"
+  ],
+  "PinnacleFragmentElder": [
+    "Curio of Decay"
+  ],
+  "GreenComponent": [
+    "Uzaza's Mountain"
+  ],
+  "LashofRetribution": [
+    "Binds of Bloody Vengeance"
+  ],
+  "UberCircleHerald": [
+    "Circle of Ambition"
+  ],
+  "MasterOfGems": [
+    "Ashes of the Stars"
+  ],
+  "PinnacleFragmentMaven": [
+    "Curio of Potential"
+  ],
+  "UniqueCurseRing": [
+    "Anathema"
+  ],
+  "AshAndFrost": [
+    "Polaric Devastation"
+  ],
+  "EnmitysEmbrace": [
+    "Enmity's Embrace"
+  ],
+  "GreenComponent3": [
+    "Uzaza's Valley"
+  ],
+  "PinnacleFragmentExarch": [
+    "Curio of Absorption"
+  ],
+  "CircleofDarkRituals": [
+    "Coiling Whisper"
+  ],
+  "Coward's Legacy": [
+    "Coward's Legacy"
+  ],
+  "VenariusAstrolabe": [
+    "Venarius' Astrolabe"
+  ],
+  "BlueComponent3": [
+    "Putembo's Valley"
+  ],
+  "YphethakksHeartUpgrade": [
+    "Xoph's Blood"
+  ],
+  "ShapersPresence": [
+    "Solstice Vigil"
+  ],
+  "GlacierCacoonUpgrade": [
+    "The Pandemonius"
+  ],
+  "VoiceOfTheStormUpgrade": [
+    "Choir of the Storm"
+  ],
+  "YokeOfSuffering": [
+    "Yoke of Suffering"
+  ],
+  "AnwensAmulet": [
+    "Eternal Damnation"
+  ],
+  "HarbingerBeltUpgraded": [
+    "The Torrent's Reclamation"
+  ],
+  "CombinedBlueRing": [
+    "Precursor's Emblem"
+  ],
+  "CombinedRedRing": [
+    "Precursor's Emblem"
+  ],
+  "CombinedGreenRing": [
+    "Precursor's Emblem"
+  ],
+  "CombinedRedGreenRing": [
+    "Precursor's Emblem"
+  ],
+  "CombinedPrismaticRing": [
+    "Precursor's Emblem"
+  ],
+  "BlueComponent2": [
+    "Putembo's Meadow"
+  ],
+  "KalguuranWardBelt": [
+    "Ynda's Stand"
+  ],
+  "Headhunter": [
+    "Headhunter"
+  ],
+  "PresenceOfChayula": [
+    "Presence of Chayula"
+  ],
+  "BlueComponent": [
+    "Putembo's Mountain"
+  ],
+  "PinnacleFragmentEater": [
+    "Curio of Consumption"
+  ],
+  "HinekoraAmulet": [
+    "Defiance of Destiny"
+  ],
+  "MirrorRing": [
+    "Kalandra's Touch"
+  ],
+  "GiftofUulNetol": [
+    "Uul-Netol's Vow"
+  ],
+  "UberEaterofWorlds": [
+    "Nimis"
+  ],
+  "GiftOfGloph": [
+    "Stranglegasp"
+  ],
+  "InjectorBelt": [
+    "Mageblood"
+  ],
+  "SanctumSpecialUniqueRing": [
+    "Original Sin"
+  ],
+  "RelicUnique3x1": [
+    "The Broken Censer"
+  ],
+  "RelicUnique2x2": [
+    "The First Crest"
+  ],
+  "RelicUnique2x1": [
+    "The Night Lamp"
+  ],
+  "CoreRelicUnique3x1": [
+    "The Power and the Promise"
+  ],
+  "RelicUnique1x2": [
+    "The Hour of Divinity"
+  ],
+  "RelicUnique1x3": [
+    "The Gilded Chalice"
+  ],
+  "RelicUnique1x4": [
+    "The Second Sacrament"
+  ],
+  "CoreRelicUnique1x3": [
+    "The Chains of Castigation"
+  ],
+  "CoreRelicUnique1x2": [
+    "The Blood of Innocence"
+  ],
+  "RelicUnique4x1": [
+    "The Original Scripture"
+  ],
+  "VersusoBoots": [
+    "Veruso's Ambition"
+  ],
+  "KiloavaShield": [
+    "Kiloava's Bluster"
+  ],
+  "RuggedStepBoots": [
+    "Orbala's Stand"
+  ],
+  "KongmingsStratagem": [
+    "Kongming's Stratagem"
+  ],
+  "Wildcall": [
+    "Elevore"
+  ],
+  "Ghostweave": [
+    "Ghostwrithe"
+  ],
+  "AsphyxiasWrath": [
+    "Asphyxia's Wrath"
+  ],
+  "SeamusGift": [
+    "Saemus' Gift"
+  ],
+  "QuiverUnique1": [
+    "Blackgleam"
+  ],
+  "TheSuppressor": [
+    "The Oppressor"
+  ],
+  "HrimnorsResolve": [
+    "Hrimnor's Resolve"
+  ],
+  "SmokeAndMirrors": [
+    "The Ghastly Theatre"
+  ],
+  "MinionConversionGloves": [
+    "Triad Grip"
+  ],
+  "85483": [
+    "Torchoak Step"
+  ],
+  "AukunasWill": [
+    "Aukuna's Will"
+  ],
+  "DemonSticher": [
+    "Demon Stitcher"
+  ],
+  "CurtainCall": [
+    "Curtain Call"
+  ],
+  "TheEternalApple": [
+    "The Eternal Apple"
+  ],
+  "ZealsAmplifier": [
+    "Zeel's Amplifier"
+  ],
+  "PhantasmlaFlame": [
+    "Mark of the Red Covenant"
+  ],
+  "Stormcharger": [
+    "Stormcharger"
+  ],
+  "CommunalFlesh": [
+    "Bloodbond"
+  ],
+  "KalisasGrace": [
+    "Kalisa's Grace"
+  ],
+  "Deathforge": [
+    "Giantsbane"
+  ],
+  "SpiritHarness": [
+    "The Coming Calamity"
+  ],
+  "TheBaron": [
+    "The Baron"
+  ],
+  "WyrmsignGloves": [
+    "Wyrmsign"
+  ],
+  "Wondertrap": [
+    "Wondertrap"
+  ],
+  "Wheelofthestormsail": [
+    "Wheel of the Stormsail"
+  ],
+  "Hellbringer": [
+    "Voidbringer"
+  ],
+  "VerusosBatteringRams": [
+    "Veruso's Battering Rams"
+  ],
+  "VeilOfTheNight": [
+    "Veil of the Night"
+  ],
+  "ShieldStrUnique3": [
+    "Trolltimber Spire"
+  ],
+  "ShieldStrUnique7": [
+    "Titucius' Span"
+  ],
+  "ThreeStepAssault": [
+    "Three-step Assault"
+  ],
+  "ShieldDexUnique1": [
+    "Thousand Teeth Temu"
+  ],
+  "ThreeDragons": [
+    "The Three Dragons"
+  ],
+  "Chitinhull": [
+    "The Deep One's Hide"
+  ],
+  "SurgeBinders": [
+    "Surgebinders"
+  ],
+  "Sundance": [
+    "Sundance"
+  ],
+  "ShieldStrIntUnique2": [
+    "Springleaf"
+  ],
+  "Soulstrike": [
+    "Soul Strike"
+  ],
+  "tornfleshofgods": [
+    "Solaris Lorica"
+  ],
+  "Slitherpinch": [
+    "Slitherpinch"
+  ],
+  "Skullhead": [
+    "Skullhead"
+  ],
+  "TheSkirmish": [
+    "Skirmish"
+  ],
+  "ShavronnesPace": [
+    "Shavronne's Pace"
+  ],
+  "ShadowsAndDust": [
+    "Shadows and Dust"
+  ],
+  "RecallingtheWretched": [
+    "Shackles of the Wretched"
+  ],
+  "SadimasTouch": [
+    "Sadima's Touch"
+  ],
+  "RatsNest": [
+    "Rat's Nest"
+  ],
+  "OndarsClasp": [
+    "Ondar's Clasp"
+  ],
+  "NomicsStorm": [
+    "Nomic's Storm"
+  ],
+  "Mindspiral": [
+    "Mindspiral"
+  ],
+  "MalachaisSimula": [
+    "Malachai's Simula"
+  ],
+  "LioneyesPaws": [
+    "Lioneye's Paws"
+  ],
+  "Lightbanerainment": [
+    "Lightbane Raiment"
+  ],
+  "Kingsguard": [
+    "Kingsguard"
+  ],
+  "ShieldDexUnique6": [
+    "Kaltenhalt"
+  ],
+  "Icetomb": [
+    "Icetomb"
+  ],
+  "GreatOldOnesWard": [
+    "Great Old One's Ward"
+  ],
+  "GeofriSanctuary": [
+    "Geofri's Sanctuary"
+  ],
+  "Foxshade": [
+    "Foxshade"
+  ],
+  "EzomytePeak": [
+    "Ezomyte Peak"
+  ],
+  "Hither": [
+    "Empire's Grasp"
+  ],
+  "BootsStrDexUnique3": [
+    "Dusktoe"
+  ],
+  "Drillneck": [
+    "Drillneck"
+  ],
+  "DoedresScorn": [
+    "Doedre's Scorn"
+  ],
+  "BootsDexUnique1": [
+    "Deerstalker"
+  ],
+  "CrownofThorns": [
+    "Crown of Thorns"
+  ],
+  "CrownofthePaleKing": [
+    "Crown of the Pale King"
+  ],
+  "ShieldDexUnique5": [
+    "Crest of Perandus"
+  ],
+  "QuiverUnique4": [
+    "Craghead"
+  ],
+  "Chaliceofhorrors": [
+    "Chalice of Horrors"
+  ],
+  "Bramblejack": [
+    "Bramblejack"
+  ],
+  "bootunique": [
+    "Bones of Ullr"
+  ],
+  "Ashrend": [
+    "Ashrend"
+  ],
+  "Alberonswarpath": [
+    "Alberon's Warpath"
+  ],
+  "ImpaleGloves": [
+    "Great Old One's Tentacles"
+  ],
+  "KahuturoaBoots": [
+    "Kahuturoa's Certainty"
+  ],
+  "GorefistGloves": [
+    "Tanu Ahi"
+  ],
+  "EmbalmersGloves": [
+    "Allelopathy"
+  ],
+  "Briskwrap": [
+    "Briskwrap"
+  ],
+  "PrismaticGleam": [
+    "The Poised Prism"
+  ],
+  "BloodSandQuiver": [
+    "Scorpion's Call"
+  ],
+  "PillarsOfArun": [
+    "Gorgon's Gaze"
+  ],
+  "ZenoGloves": [
+    "Oskarm"
+  ],
+  "Allelopathy": [
+    "The Embalmer"
+  ],
+  "Zahndethuscassock": [
+    "Zahndethus' Cassock"
+  ],
+  "WakeOfDestruction": [
+    "Wake of Destruction"
+  ],
+  "StrInt3AUnique": [
+    "Voll's Protector"
+  ],
+  "VisMortis": [
+    "Vis Mortis"
+  ],
+  "BootsDexIntUnique2": [
+    "Victario's Flight"
+  ],
+  "BeastFurShawl": [
+    "The Beast Fur Shawl"
+  ],
+  "SantarisAnswer": [
+    "Sentari's Answer"
+  ],
+  "MaligarosLens": [
+    "Maligaro's Lens"
+  ],
+  "BearTrapShield2": [
+    "Jaws of Agony"
+  ],
+  "GangsBoots": [
+    "Gang's Momentum"
+  ],
+  "DoedresTenure": [
+    "Doedre's Tenure"
+  ],
+  "CherrubimsCrave": [
+    "Cherrubim's Maleficence"
+  ],
+  "Bronnslithe": [
+    "Bronn's Lithe"
+  ],
+  "StrInt3AUnique2": [
+    "Ambu's Charge"
+  ],
+  "Targemtabi": [
+    "Mutewind Whispersteps"
+  ],
+  "GlovesDexIntUnique1": [
+    "Facebreaker"
+  ],
+  "StormseekerGloves": [
+    "Stormseeker"
+  ],
+  "AhuanaQuiver": [
+    "Ahuana's Bite"
+  ],
+  "StrikeTrue": [
+    "Mercenary's Lot"
+  ],
+  "EyeOfDesire": [
+    "Eye of Malice"
+  ],
+  "Wreath_of_Phrecia": [
+    "Wreath of Phrecia"
+  ],
+  "LepersAlms": [
+    "Leper's Alms"
+  ],
+  "Dendrobatis": [
+    "Dendrobate"
+  ],
+  "PaleCouncilHelmet": [
+    "Eber's Unification"
+  ],
+  "MinionHelmet": [
+    "Speaker's Wreath"
+  ],
+  "bleedgloves": [
+    "Haemophilia"
+  ],
+  "AhnsHeritage": [
+    "Ahn's Heritage"
+  ],
+  "VictariosJacket": [
+    "Victario's Influence"
+  ],
+  "VictarosCharity": [
+    "Victario's Charity"
+  ],
+  "TheRestlessWard": [
+    "The Restless Ward",
+    "Restless Ward"
+  ],
+  "GoreFrenzy": [
+    "The Blood Dance"
+  ],
+  "Furryheadofstarkonja": [
+    "Starkonja's Head"
+  ],
+  "Northbound": [
+    "Southbound"
+  ],
+  "SoulMantle": [
+    "Soul Mantle"
+  ],
+  "frenzygloves": [
+    "Snakebite"
+  ],
+  "Riseofthephoenix": [
+    "Rise of the Phoenix"
+  ],
+  "HelmetDexIntUnique1": [
+    "Rime Gaze"
+  ],
+  "Rumblestep": [
+    "Redblade Tramplers"
+  ],
+  "NullAndVoid": [
+    "Null and Void"
+  ],
+  "MutewindPennant": [
+    "Mutewind Pennant"
+  ],
+  "GlovesStr5": [
+    "Meginord's Vise"
+  ],
+  "Matuatupuna": [
+    "Matua Tupuna"
+  ],
+  "LioneyesArmour": [
+    "Lioneye's Vision"
+  ],
+  "KitavasThirst": [
+    "Kitava's Thirst"
+  ],
+  "HryyisBite": [
+    "Hyrri's Bite"
+  ],
+  "Hrimsorrow": [
+    "Hrimsorrow"
+  ],
+  "Honourhome": [
+    "Honourhome"
+  ],
+  "GlovesInt3Unique2": [
+    "Grip of the Council"
+  ],
+  "GreedsEmbrace": [
+    "Greed's Embrace"
+  ],
+  "BootsDexUnique2": [
+    "Goldwyrm"
+  ],
+  "GeofrisCrest": [
+    "Geofri's Crest"
+  ],
+  "FleshAndSpirit": [
+    "Flesh and Spirit"
+  ],
+  "FairgravesTricorne": [
+    "Fairgraves' Tricorne"
+  ],
+  "HelmetStrDex2unique": [
+    "Devoto's Devotion"
+  ],
+  "Deidbell": [
+    "Deidbell"
+  ],
+  "DarkrayVectors": [
+    "Darkray Vectors"
+  ],
+  "Chernobogspillar": [
+    "Chernobog's Pillar"
+  ],
+  "Reefscourge": [
+    "Brinerot Whalers"
+  ],
+  "BrinerotFlag": [
+    "Brinerot Flag"
+  ],
+  "PaleCouncilBoots": [
+    "Inya's Epiphany"
+  ],
+  "AhnsContempt": [
+    "Ahn's Contempt"
+  ],
+  "AbyssHelmet": [
+    "Lightpoacher"
+  ],
+  "TwoTonedBootsALT3": [
+    "The Infinite Pursuit"
+  ],
+  "KaomsSpirit": [
+    "Kaom's Spirit"
+  ],
+  "HelmofWar": [
+    "Thrillsteel"
+  ],
+  "MaloneysNightfall": [
+    "Maloney's Nightfall"
+  ],
+  "Rearguard": [
+    "Rearguard"
+  ],
+  "StormGloves": [
+    "Storm's Gift"
+  ],
+  "ChannelingShieldShard1": [
+    "First Piece of Focus"
+  ],
+  "ChannelingShieldShard2": [
+    "Second Piece of Focus"
+  ],
+  "Wanderlust": [
+    "Wanderlust"
+  ],
+  "TheRatCage": [
+    "The Rat Cage"
+  ],
+  "BrokenCrown": [
+    "The Broken Crown"
+  ],
+  "TheBringerofRain": [
+    "The Bringer of Rain"
+  ],
+  "SinTrek": [
+    "Sin Trek"
+  ],
+  "Repentance": [
+    "Repentance"
+  ],
+  "Obscurantis": [
+    "Obscurantis"
+  ],
+  "LochtonialCaress": [
+    "Lochtonial Caress"
+  ],
+  "ShieldStrUnique6": [
+    "Lioneye's Remorse"
+  ],
+  "Aurseize": [
+    "Aurseize"
+  ],
+  "GripOfUnmaking": [
+    "Painseeker"
+  ],
+  "AbyssGloves": [
+    "Tombfist"
+  ],
+  "ChannelingShieldShard3": [
+    "Third Piece of Focus"
+  ],
+  "RavensCrown": [
+    "Plume of Pursuit"
+  ],
+  "MistySteps": [
+    "Scornflux"
+  ],
+  "TheSnowblindGrace": [
+    "The Snowblind Grace"
+  ],
+  "VinegraspBootsUnique": [
+    "Inextricable Fate"
+  ],
+  "UnbridledRage": [
+    "Usurper's Penance"
+  ],
+  "AdaptationGlovesUnique": [
+    "Medved's Challenge"
+  ],
+  "AtaitolBoots": [
+    "Temptation Step"
+  ],
+  "GoddessScales": [
+    "The Scales of Justice"
+  ],
+  "ShardQuiver": [
+    "Steelworm"
+  ],
+  "ChuhutlusSkull": [
+    "Ancient Skull"
+  ],
+  "Tangmazuarmourgloves": [
+    "Algor Mortis"
+  ],
+  "Tangmazuarmourboots": [
+    "Beacon of Madness"
+  ],
+  "Mistwall": [
+    "Mistwall"
+  ],
+  "TheIvoryTower": [
+    "The Ivory Tower"
+  ],
+  "MawOfConquest": [
+    "Maw of Conquest"
+  ],
+  "Fractalthoughts": [
+    "Fractal Thoughts"
+  ],
+  "ExplorersVisionLightning": [
+    "Thundersight"
+  ],
+  "CommandofthePit": [
+    "Command of the Pit"
+  ],
+  "AvianGloves": [
+    "Saqawal's Winds"
+  ],
+  "CrabUniqueHelmet": [
+    "Craiceann's Chitin"
+  ],
+  "AvianBoots": [
+    "Saqawal's Talons"
+  ],
+  "PaleCouncilGloves": [
+    "Volkuur's Guidance"
+  ],
+  "AbyssBoots": [
+    "Bubonic Trail"
+  ],
+  "PaleCouncilArmour": [
+    "Yriel's Fostering"
+  ],
+  "ElderGuardian": [
+    "Memory Vault"
+  ],
+  "ShieldStrDexUnique4": [
+    "Vix Lunaris"
+  ],
+  "Invictus": [
+    "Invictus Solaris"
+  ],
+  "ChannelingShieldShard4": [
+    "Fourth Piece of Focus"
+  ],
+  "TrapperArmour": [
+    "Tinkerskin"
+  ],
+  "Ylfeban": [
+    "Ylfeban's Trickery"
+  ],
+  "VaalCaress": [
+    "Vaal Caress"
+  ],
+  "TheVertex": [
+    "The Vertex"
+  ],
+  "ScoldsBridle": [
+    "Scold's Bridle"
+  ],
+  "ShieldStrIntUnique6": [
+    "Saffell's Frame"
+  ],
+  "rainbowstride": [
+    "Rainbowstride"
+  ],
+  "ThunderingWhispers": [
+    "Mind of the Council"
+  ],
+  "MalachaiLoop": [
+    "Malachai's Loop"
+  ],
+  "LightningCoil": [
+    "Lightning Coil"
+  ],
+  "HelmetDexInt9x": [
+    "Leer Cast"
+  ],
+  "KaomsRoots": [
+    "Kaom's Roots"
+  ],
+  "Infernalmantle": [
+    "Infernal Mantle"
+  ],
+  "HelmetDexUnique2": [
+    "Goldrim"
+  ],
+  "DaressosDefiance": [
+    "Daresso's Defiance"
+  ],
+  "ShieldStrDexUnique1": [
+    "Daresso's Courage"
+  ],
+  "CosprisWill": [
+    "Cospri's Will"
+  ],
+  "Blacksuncrest": [
+    "Black Sun Crest"
+  ],
+  "bellyofthebeast": [
+    "Belly of the Beast"
+  ],
+  "AtzirisStep": [
+    "Atziri's Step"
+  ],
+  "Wolfhead": [
+    "Alpha's Howl"
+  ],
+  "Blunderbore": [
+    "Blunderbore"
+  ],
+  "VixensEntrapment": [
+    "Vixen's Entrapment"
+  ],
+  "UltimatumBoots": [
+    "Gamblesprint"
+  ],
+  "Tangmazuarmourhelmet": [
+    "Assailum"
+  ],
+  "MaligarosVirtousity": [
+    "Maligaro's Virtuosity"
+  ],
+  "CarcassJack": [
+    "Carcass Jack"
+  ],
+  "Abyssus": [
+    "Abyssus"
+  ],
+  "CrabUniqueBoots": [
+    "Craiceann's Tracks"
+  ],
+  "Howlcrack": [
+    "Howlcrack"
+  ],
+  "WilmasRequital": [
+    "Wilma's Requital"
+  ],
+  "SoullessElegance": [
+    "Sudden Dawn"
+  ],
+  "Tangmazuarmourbodyarmour": [
+    "Perfidy"
+  ],
+  "QueenoftheForest": [
+    "Queen of the Forest"
+  ],
+  "Deathsoath": [
+    "Death's Oath"
+  ],
+  "Illuminatis": [
+    "Incandescent Heart"
+  ],
+  "EbbAndFlow": [
+    "Black Zenith"
+  ],
+  "GlovesStr6": [
+    "Winds of Change"
+  ],
+  "CrossingTheVoid": [
+    "Voidwalker"
+  ],
+  "MawOfMischief": [
+    "Maw of Mischief"
+  ],
+  "ExplorersVisionFire": [
+    "Flamesight"
+  ],
+  "CrabUniqueGloves": [
+    "Craiceann's Pincers"
+  ],
+  "ElderGloves": [
+    "Blasphemer's Grasp"
+  ],
+  "Lycosidae": [
+    "Lycosidae"
+  ],
+  "TabulaRasa": [
+    "Tabula Rasa"
+  ],
+  "PhreciaGloves": [
+    "The Hand of Phrecia"
+  ],
+  "GreeneyesArmour": [
+    "Pragmatism"
+  ],
+  "AzmeriHelmet": [
+    "The Trickster's Smile"
+  ],
+  "AkoyaMask": [
+    "Akoya's Gaze"
+  ],
+  "FormlessInFlames": [
+    "The Formless Flame"
+  ],
+  "BloodPriceHelmUnique": [
+    "Blood Price"
+  ],
+  "InfectiousConstruct": [
+    "Dawnstrider"
+  ],
+  "TouchOfRust": [
+    "Ceaseless Feast"
+  ],
+  "EldarQuiver": [
+    "Voidfletcher"
+  ],
+  "ApepsSlumber": [
+    "Apep's Slumber"
+  ],
+  "MahuxotlShield": [
+    "Mahuxotl's Machination"
+  ],
+  "GripofSacrifice": [
+    "Hand of the Fervent"
+  ],
+  "MindBlockMask": [
+    "Willclash"
+  ],
+  "HighPriestShield": [
+    "Emperor's Vigilance"
+  ],
+  "AuraBoots": [
+    "March of the Legion"
+  ],
+  "ExplorersVisionCold": [
+    "Galesight"
+  ],
+  "HaleNegator": [
+    "Hale Negator"
+  ],
+  "DamnatioAeterna": [
+    "Unyielding Flame"
+  ],
+  "ChainsOfCommand": [
+    "Chains of Command"
+  ],
+  "SpiderArmourHelmet": [
+    "Fenumus' Toxins"
+  ],
+  "SpiderArmour Gloves": [
+    "Fenumus' Weave"
+  ],
+  "CrabUnique": [
+    "Craiceann's Carapace"
+  ],
+  "AvianHelmet": [
+    "Saqawal's Flock"
+  ],
+  "Longing1": [
+    "The Anticipation"
+  ],
+  "VollsVision": [
+    "Voll's Vision"
+  ],
+  "Windscream": [
+    "Windscream"
+  ],
+  "Thousandribbons": [
+    "Thousand Ribbons"
+  ],
+  "ShapersGloves": [
+    "Shaper's Touch"
+  ],
+  "RedbladeBanner": [
+    "Redblade Banner"
+  ],
+  "Heatshiver": [
+    "Heatshiver"
+  ],
+  "CrownofEyes": [
+    "Crown of Eyes"
+  ],
+  "BodyInt1Aunique": [
+    "Cloak of Flame"
+  ],
+  "ChitusApex": [
+    "Chitus' Apex"
+  ],
+  "AtzirisAcuity": [
+    "Atziri's Acuity"
+  ],
+  "SuperheatedShield": [
+    "Dawnbreaker"
+  ],
+  "UberEaterofWorldsHelmet": [
+    "Ravenous Passion"
+  ],
+  "UtalaBodyArmour": [
+    "Utula's Hunger"
+  ],
+  "DisturbTheDead": [
+    "Corpsewalker"
+  ],
+  "AgonyOfDecay": [
+    "Qotra's Regulator"
+  ],
+  "ClericsSanctuary": [
+    "The Fourth Vow"
+  ],
+  "ScorchedEarth": [
+    "Legacy of Fury"
+  ],
+  "EverglassBarrier": [
+    "Shattershard"
+  ],
+  "EssenceGifter": [
+    "Fleshcrafter"
+  ],
+  "Loreweave": [
+    "Loreweave"
+  ],
+  "TigerGloves": [
+    "Farrul's Pounce"
+  ],
+  "TigerHelmet": [
+    "Farrul's Bite"
+  ],
+  "ChillShockHarbingerMask": [
+    "The Tempest's Binding"
+  ],
+  "HarbingerQuiver": [
+    "The Fracturing Spinner"
+  ],
+  "MyriadGrasp": [
+    "Skin of the Loyal"
+  ],
+  "Assedaisfervor": [
+    "Steppan Eard"
+  ],
+  "BodyInt1CUnique": [
+    "Shavronne's Wrappings"
+  ],
+  "Kintsugi": [
+    "Kintsugi"
+  ],
+  "CloakOfDefiance": [
+    "Cloak of Defiance"
+  ],
+  "AsenathsGentleTouch": [
+    "Asenath's Gentle Touch"
+  ],
+  "ThePerfectForm": [
+    "Perfect Form",
+    "The Perfect Form"
+  ],
+  "85479": [
+    "Machina Mitts"
+  ],
+  "UberSirusBoots": [
+    "The Tempest Rising"
+  ],
+  "DecayingGrip": [
+    "Abhorrent Interrogation"
+  ],
+  "FaceOfDivinity": [
+    "Heretic's Veil"
+  ],
+  "TheInfinitePursuit": [
+    "Red Trail",
+    "The Red Trail"
+  ],
+  "DoedresSkin": [
+    "Doedre's Skin"
+  ],
+  "HyrrisMark": [
+    "Asenath's Mark"
+  ],
+  "Embrace": [
+    "Covenant",
+    "The Covenant"
+  ],
+  "AfflictionShield": [
+    "The Flawed Refuge"
+  ],
+  "TheTwistingScream": [
+    "Echoes of Creation"
+  ],
+  "SpiritBootsUnique": [
+    "Vorana's March"
+  ],
+  "DanceOfTheOffered": [
+    "Dance of the Offered"
+  ],
+  "ConstrictingCrown": [
+    "Viridi's Veil"
+  ],
+  "FontOfThunder": [
+    "Font of Thunder"
+  ],
+  "BodyStr3CUnique": [
+    "Kaom's Heart"
+  ],
+  "Supporter1bootA": [
+    "Stampede",
+    "The Stampede"
+  ],
+  "HandsOfTheHighTemplar": [
+    "Hands of the High Templar"
+  ],
+  "GripOfTheCobra": [
+    "Offering to the Serpent"
+  ],
+  "LightningShield": [
+    "Perepiteia"
+  ],
+  "TriggerQuiverBase": [
+    "Maloney's Mechanism"
+  ],
+  "IronHeart Final": [
+    "The Iron Fortress"
+  ],
+  "DoriyanisGreen": [
+    "Doryani's Delusion"
+  ],
+  "DoriyanisRed": [
+    "Doryani's Delusion"
+  ],
+  "TigerBodyArmour": [
+    "Farrul's Fur"
+  ],
+  "TigerBoots": [
+    "Farrul's Chase"
+  ],
+  "SpiderArmourBoots": [
+    "Fenumus' Spinnerets"
+  ],
+  "AvianBodyArmour": [
+    "Saqawal's Nest"
+  ],
+  "FormlessInFlamesUPGRADE": [
+    "The Formless Inferno"
+  ],
+  "AtzirisSplendour": [
+    "Atziri's Splendour"
+  ],
+  "thunderclaw": [
+    "Thunderfist"
+  ],
+  "ShieldInt6unique": [
+    "Rathpith Globe"
+  ],
+  "TheCorundum": [
+    "Prism Guardian"
+  ],
+  "BodyDex3CUnique": [
+    "Hyrri's Ire"
+  ],
+  "DoryanisFist": [
+    "Doryani's Fist"
+  ],
+  "SantonisFaith": [
+    "Broken Faith"
+  ],
+  "RigwaldsQuills": [
+    "Rigwald's Quills"
+  ],
+  "UberElderHelm": [
+    "The Devourer of Minds"
+  ],
+  "AbyssBody": [
+    "Shroud of the Lightless"
+  ],
+  "OnShocked": [
+    "Inpulsa's Broken Heart"
+  ],
+  "AbberathsHooves": [
+    "Abberath's Hooves"
+  ],
+  "TheDevouringDiadem": [
+    "The Devouring Diadem"
+  ],
+  "TheDarkMonarch": [
+    "The Dark Monarch"
+  ],
+  "Deepcaller": [
+    "Servant of Decay"
+  ],
+  "HornedOneGloves": [
+    "Admiral's Arrogance"
+  ],
+  "ExtremeFocus": [
+    "The Fledgling"
+  ],
+  "HelmetOfDominance2": [
+    "Mask of the Tribunal"
+  ],
+  "MagnisEclipsis": [
+    "Magna Eclipsis"
+  ],
+  "DomeOfBrass": [
+    "The Brass Dome"
+  ],
+  "BootsDexUnique3": [
+    "Seven-League Step"
+  ],
+  "Lunaris": [
+    "Light of Lunaris"
+  ],
+  "AdaptationBootsUnique": [
+    "Olroth's Charge"
+  ],
+  "TheEpiphany": [
+    "Forbidden Shako"
+  ],
+  "SpiritGlovesUnique": [
+    "Nightgrip"
+  ],
+  "SevenTeachings": [
+    "Seven Teachings"
+  ],
+  "DeathGrip": [
+    "Gravebind"
+  ],
+  "EshsMirror": [
+    "Esh's Mirror"
+  ],
+  "ArchitectsHand": [
+    "Architect's Hand"
+  ],
+  "CrownOfTheInwardEye": [
+    "Crown of the Inward Eye"
+  ],
+  "Channeling Shield": [
+    "The Unshattered Will"
+  ],
+  "EshsMirrorUpgraded": [
+    "Esh's Visage"
+  ],
+  "Skyforth": [
+    "Skyforth"
+  ],
+  "MantleOfDismantling": [
+    "The Eternity Shroud",
+    "Eternity Shroud"
+  ],
+  "Wraithlord": [
+    "Wraithlord"
+  ],
+  "SpiritHelmetUnique": [
+    "Faithguard"
+  ],
+  "CollectorsGarbDiff": [
+    "Doppelgänger Guise"
+  ],
+  "AdmiralsJacket": [
+    "Expedition's End"
+  ],
+  "TheQueensHunger": [
+    "The Queen's Hunger"
+  ],
+  "Omeyocan": [
+    "Omeyocan"
+  ],
+  "SpiderArmourBody": [
+    "Fenumus' Shroud"
+  ],
+  "UberElderHelmet": [
+    "Indigon"
+  ],
+  "WilefangsPelt": [
+    "Gruthkul's Pelt"
+  ],
+  "AzadiCrest": [
+    "Azadi Crest"
+  ],
+  "ShieldStrIntUnique7unique": [
+    "Aegis Aurora"
+  ],
+  "DoriyanisBlue": [
+    "Doryani's Delusion"
+  ],
+  "Magnification": [
+    "Crest of Desire"
+  ],
+  "MastersFocus": [
+    "Bitterbind Point"
+  ],
+  "DiallasMalefaction": [
+    "Dialla's Malefaction"
+  ],
+  "TheGull": [
+    "The Gull"
+  ],
+  "Supporter1gloveA": [
+    "Breathstealer"
+  ],
+  "ShockCloak": [
+    "Doryani's Prototype"
+  ],
+  "HeartoftheElements": [
+    "The Admiral"
+  ],
+  "ApepsSupremacy": [
+    "Apep's Supremacy"
+  ],
+  "TwoTonedBootsALT": [
+    "Garukhan's Flight"
+  ],
+  "TheBrineCrown": [
+    "The Brine Crown"
+  ],
+  "TukohamasFortress": [
+    "Tukohama's Fortress"
+  ],
+  "UberSearingExarchBoot": [
+    "Annihilation's Approach"
+  ],
+  "SlavedriversHand": [
+    "Slavedriver's Hand"
+  ],
+  "UberShaperGloves": [
+    "Entropic Devastation"
+  ],
+  "MalachaisMark": [
+    "Malachai's Mark"
+  ],
+  "RalakeshsImpatience": [
+    "Ralakesh's Impatience"
+  ],
+  "HarbingerQuiverUpgraded": [
+    "The Shattered Divinity"
+  ],
+  "HandofHeresy": [
+    "Hand of Heresy"
+  ],
+  "Spinehail": [
+    "Spinehail"
+  ],
+  "KaomsMask": [
+    "Kaom's Command"
+  ],
+  "UberCortexArmour": [
+    "The Apostate"
+  ],
+  "Manastorm": [
+    "Manastorm"
+  ],
+  "AdaptationHelmetUnique": [
+    "Cadigan's Crown"
+  ],
+  "HarbingerShieldUpgraded": [
+    "The Immortal Will"
+  ],
+  "HarbingerHelmUpgraded": [
+    "The Tempest's Liberation"
+  ],
+  "ShieldDex5Unique": [
+    "Atziri's Reflection"
+  ],
+  "Longing2": [
+    "The Surrender"
+  ],
+  "TomOReillyCloak": [
+    "Cloak of Tawm'r Isley"
+  ],
+  "VaalRageGloves": [
+    "Hateforge"
+  ],
+  "MaskoftheSpiritDrinker": [
+    "Mask of the Spirit Drinker"
+  ],
+  "SoulAscension": [
+    "Soul Ascension"
+  ],
+  "Deathsdoor": [
+    "Death's Door"
+  ],
+  "Supporter1bodyA": [
+    "Sporeguard"
+  ],
+  "CaspirosResonance": [
+    "The Squire"
+  ],
+  "Supporter1helmetC": [
+    "Cowl of the Ceraunophile"
+  ],
+  "ChronomancerArmour": [
+    "Stasis Prison"
+  ],
+  "TheTemplarsRobes": [
+    "Garb of the Ephemeral"
+  ],
+  "MaskoftheStitchedDemon": [
+    "Mask of the Stitched Demon"
+  ],
+  "Supporter1helmetA": [
+    "Cowl of the Cryophile"
+  ],
+  "AnwensTiara": [
+    "Sandstorm Visage"
+  ],
+  "Supporter1helmetB": [
+    "Cowl of the Thermophile"
+  ],
+  "UberSearingExarchGloves": [
+    "The Celestial Brace"
+  ],
+  "TheImposing Crown": [
+    "Crown of the Tyrant"
+  ],
+  "LayeredBarrierShield": [
+    "Svalinn"
+  ],
+  "AsphyxiasWrathRaceAlt": [
+    "Asphyxia's Wrath"
+  ]
+}

@@ -1,0 +1,31 @@
+2025-08-07 23:38:17,964 [1] INFO  App - DreamPoeBot Version: 0.3.26.46
+Path: E:\Новая папка (2)\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\<ExeName>
+Arguments: E:\Новая папка (2)\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\DreamPoeBot.exe --autostart --config:Default --pid:27856 --silent
+
+OS Name: Майкрософт Windows 10 Pro
+OS Version: 10.0.19045
+OS Architecture: 64-разрядная
+InstalledUICulture: ru-RU [Russian (Russia)]
+CurrentUICulture: ru-RU [Russian (Russia)]
+CurrentCulture: ru-RU [Russian (Russia)]
+
+2025-08-07 23:38:17,983 [1] INFO  App - Now setting up JitProfiles...
+2025-08-07 23:38:17,984 [1] INFO  App - JitProfiles successfully setup!
+2025-08-07 23:38:17,989 [1] INFO  App - Now checking prerequisites...
+2025-08-07 23:38:17,989 [1] INFO  App - Prerequisite check complete!
+2025-08-07 23:38:24,770 [1] INFO  MainWindow - DreamPoeBot [0.3.26.46] is up to date!
+2025-08-07 23:38:24,820 [15] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-07 23:38:25,054 [15] INFO  Class104 - Region: eu
+2025-08-07 23:38:25,054 [15] INFO  Class104 - T: 5250587977475597080 
+2025-08-07 23:38:26,213 [1] ERROR Class98 - Invalid PID specifier passed to the command line: 27856. This process has already been attached to.
+2025-08-08 00:29:58,289 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2025-08-08 00:29:58,571 [1] ERROR App - [Application_DispatcherUnhandledException] Unhandled exception
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DreamPoeBot.Hooks.Hooking.Deinitialize()
+   at DreamPoeBot.Loki.Game.LokiPoe.Deinitializer()
+   at DreamPoeBot.App.OnExit(ExitEventArgs e)
+   at System.Windows.Application.DoShutdown()
+   at System.Windows.Application.ShutdownImpl()
+   at System.Windows.Application.ShutdownCallback(Object arg)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)

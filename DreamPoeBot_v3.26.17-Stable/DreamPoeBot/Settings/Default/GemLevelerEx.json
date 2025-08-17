@@ -1,0 +1,22 @@
+{
+  "GemsForSaleTab": "",
+  "WhitelistEnabled": true,
+  "FailSafeGcpArray": {
+    "CharName": null,
+    "GemList": null
+  },
+  "LevelGemsForSale": false,
+  "GcpGems": false,
+  "AutoLevel": false,
+  "ApplyGcpToAwakenedAndLvl3": false,
+  "CorruptGems": false,
+  "UseStashed": false,
+  "SellToVendor": true,
+  "Save2020": false,
+  "BuyFromVendor": true,
+  "GcpBlacklist": [],
+  "SellGemsWhitelist": [],
+  "SellGemsBlacklist": [],
+  "GlobalNameIgnoreList": [],
+  "SkillGemsToLevelList": []
+}

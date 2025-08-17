@@ -1,0 +1,35 @@
+______________________________________________________________________________
+    ____                   __                                       _____     
+    /    )               /    )                                     /    '    
+---/____/----__----__----\------_/_----__---)__--_/_----__---)__---/__------|/
+  /        /   ) /___)    \     /    /   ) /   ) /    /___) /   ) /         | 
+_/________(___/_(___ _(____/___(_ __(___(_/_____(_ __(___ _/_____/____ ____/|_
+                                                                          /   
+                                                                              
+
+Auth [OK]
+Path of Exile launched successfully: PathOfExile[4892]
+Window title changed to: Default
+Waiting 13,7 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[17292]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[17772]
+Window title changed to: Default
+Waiting 13,4 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[19076]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[21828]
+Window title changed to: Default
+Waiting 13,4 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[21048]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[13888]
+Window title changed to: Default
+Waiting 14,8 sec to make sure POE is loaded
+Killing: PathOfExile:13888

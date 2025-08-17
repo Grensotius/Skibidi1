@@ -1,0 +1,80 @@
+{
+  "MinEssence": -1,
+  "MaxEssence": 10,
+  "EssencesToUseRemnant": -1,
+  "AbandonMapAfterEssencesFound": -1,
+  "SpecificEssenceRules": [
+    {
+      "Tier": "Screaming",
+      "Type": "Scorn",
+      "Open": true,
+      "Corrupt": true
+    },
+    {
+      "Tier": "Shrieking",
+      "Type": "Scorn",
+      "Open": true,
+      "Corrupt": true
+    },
+    {
+      "Tier": "Deafening",
+      "Type": "Scorn",
+      "Open": true,
+      "Corrupt": true
+    },
+    {
+      "Tier": "Screaming",
+      "Type": "Envy",
+      "Open": true,
+      "Corrupt": true
+    },
+    {
+      "Tier": "Shrieking",
+      "Type": "Envy",
+      "Open": true,
+      "Corrupt": true
+    },
+    {
+      "Tier": "Deafening",
+      "Type": "Envy",
+      "Open": true,
+      "Corrupt": true
+    },
+    {
+      "Tier": "Screaming",
+      "Type": "Misery",
+      "Open": true,
+      "Corrupt": true
+    },
+    {
+      "Tier": "Shrieking",
+      "Type": "Misery",
+      "Open": true,
+      "Corrupt": true
+    },
+    {
+      "Tier": "Deafening",
+      "Type": "Misery",
+      "Open": true,
+      "Corrupt": true
+    },
+    {
+      "Tier": "Screaming",
+      "Type": "Dread",
+      "Open": true,
+      "Corrupt": true
+    },
+    {
+      "Tier": "Shrieking",
+      "Type": "Dread",
+      "Open": true,
+      "Corrupt": true
+    },
+    {
+      "Tier": "Deafening",
+      "Type": "Dread",
+      "Open": true,
+      "Corrupt": true
+    }
+  ]
+}

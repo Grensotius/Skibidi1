@@ -1,0 +1,112 @@
+[Mirror of Kalandra]:190779,06c
+[Hinekora's Lock]:27966,94c
+[Mirror Shard]:8756,69c
+[Reflecting Mist]:6144c
+[Veiled Exalted Orb]:4807,68c
+[Orb of Dominance]:1612,8c
+[Orb of Remembrance]:1228,8c
+[Fracturing Orb]:1198,08c
+[Tainted Divine Teardrop]:906,24c
+[Awakener's Orb]:675,84c
+[Orb of Unravelling]:522,24c
+[Crusader's Exalted Orb]:506,88c
+[Orb of Intention]:506,88c
+[Hunter's Exalted Orb]:414,72c
+[Tailoring Orb]:383,69c
+[Blessing of Chayula]:353,28c
+[Warlord's Exalted Orb]:337,92c
+[Orb of Conflict]:337,92c
+[Exceptional Eldritch Ember]:307,2c
+[Redeemer's Exalted Orb]:245,76c
+[Tempering Orb]:184,32c
+[Divine Orb]:167,94c
+[Blessing of Xoph]:153,6c
+[Blessing of Esh]:153,6c
+[Blessing of Uul-Netol]:153,6c
+[Exceptional Eldritch Ichor]:153,6c
+[Blessing of Tul]:152,52c
+[Tainted Exalted Orb]:120c
+[Sacred Crystallised Lifeforce]:120c
+[Maven's Chisel of Avarice]:95c
+[Shaper's Exalted Orb]:80c
+[Elder's Exalted Orb]:78c
+[Fracturing Shard]:60c
+[Maven's Chisel of Proliferation]:51,2c
+[Veiled Chaos Orb]:40c
+[Eldritch Chaos Orb]:38,4c
+[Sacred Orb]:34,82c
+[Eldritch Orb of Annulment]:28c
+[Exalted Orb]:25,41c
+[Prismatic Catalyst]:21,94c
+[Eldritch Exalted Orb]:21,94c
+[Maven's Chisel of Scarabs]:21,94c
+[Maven's Chisel of Divination]:20c
+[Tempering Catalyst]:15,36c
+[Ritual Vessel]:15c
+[Maven's Chisel of Procurement]:13c
+[Fertile Catalyst]:10,24c
+[Grand Eldritch Ember]:10,24c
+[Tainted Catalyst]:8c
+[Comprehensive Scouting Report]:7,4c
+[Tainted Mythic Orb]:6,98c
+[Tainted Orb of Fusing]:5,81c
+[Tainted Chaos Orb]:5c
+[Singular Scouting Report]:5c
+[Otherworldly Scouting Report]:5c
+[Vaal Scouting Report]:5c
+[Influenced Scouting Report]:5c
+[Explorer's Scouting Report]:5c
+[Ancient Orb]:4,76c
+[Operative's Scouting Report]:4c
+[Blighted Scouting Report]:4c
+[Orb of Annulment]:3,34c
+[Annulment Shard]:3c
+[Intrinsic Catalyst]:3c
+[Unstable Catalyst]:3c
+[Delirious Scouting Report]:3c
+[Grand Eldritch Ichor]:2,74c
+[Stacked Deck]:2,33c
+[Tainted Chromatic Orb]:2,19c
+[Turbulent Catalyst]:2c
+[Imbued Catalyst]:2c
+[Abrasive Catalyst]:2c
+[Noxious Catalyst]:2c
+[Accelerating Catalyst]:2c
+[Tainted Armourer's Scrap]:2c
+[Harbinger's Orb]:1,73c
+[Exalted Shard]:1,55c
+[Tainted Jeweller's Orb]:1c
+[Greater Eldritch Ember]:0,99c
+[Tainted Blacksmith's Whetstone]:0,98c
+[Gemcutter's Prism]:0,97c
+[Regal Orb]:0,83c
+[Cartographer's Chisel]:0,67c
+[Enkindling Orb]:0,64c
+[Engineer's Orb]:0,55c
+[Orb of Regret]:0,54c
+[Greater Eldritch Ichor]:0,47c
+[Orb of Scouring]:0,4c
+[Glassblower's Bauble]:0,38c
+[Orb of Horizons]:0,33c
+[Vaal Orb]:0,31c
+[Blessed Orb]:0,25c
+[Orb of Unmaking]:0,24c
+[Lesser Eldritch Ember]:0,2c
+[Lesser Eldritch Ichor]:0,19c
+[Armourer's Scrap]:0,14c
+[Instilling Orb]:0,14c
+[Orb of Fusing]:0,13c
+[Orb of Alteration]:0,13c
+[Orb of Chance]:0,1c
+[Chromatic Orb]:0,1c
+[Orb of Augmentation]:0,09c
+[Orb of Alchemy]:0,08c
+[Blacksmith's Whetstone]:0,08c
+[Orb of Binding]:0,08c
+[Jeweller's Orb]:0,07c
+[Vivid Crystallised Lifeforce]:0,04c
+[Scroll of Wisdom]:0,03c
+[Portal Scroll]:0,03c
+[Wild Crystallised Lifeforce]:0,03c
+[Primal Crystallised Lifeforce]:0,03c
+[Orb of Transmutation]:0,02c

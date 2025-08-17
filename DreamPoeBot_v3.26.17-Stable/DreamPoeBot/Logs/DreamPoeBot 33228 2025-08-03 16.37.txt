@@ -1,0 +1,198 @@
+2025-08-03 16:37:53,967 [1] INFO  App - DreamPoeBot Version: 0.3.26.46
+Path: E:\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\<ExeName>
+Arguments: E:\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\DreamPoeBot.exe
+
+OS Name: Майкрософт Windows 10 Домашняя
+OS Version: 10.0.19045
+OS Architecture: 64-разрядная
+InstalledUICulture: ru-RU [Russian (Russia)]
+CurrentUICulture: ru-RU [Russian (Russia)]
+CurrentCulture: ru-RU [Russian (Russia)]
+
+2025-08-03 16:37:53,985 [1] INFO  App - Now setting up JitProfiles...
+2025-08-03 16:37:53,986 [1] INFO  App - JitProfiles successfully setup!
+2025-08-03 16:37:53,991 [1] INFO  App - Now checking prerequisites...
+2025-08-03 16:37:53,991 [1] INFO  App - Prerequisite check complete!
+2025-08-03 16:38:00,643 [1] INFO  MainWindow - DreamPoeBot [0.3.26.46] is up to date!
+2025-08-03 16:38:00,726 [15] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-03 16:38:00,967 [15] INFO  Class104 - Region: eu
+2025-08-03 16:38:00,967 [15] INFO  Class104 - T: 5250584269234657317 
+2025-08-03 16:38:02,966 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2025-08-03 16:38:03,001 [24] INFO  LokiPoe - Initialize RDPather.
+2025-08-03 16:38:03,006 [24] INFO  LokiPoe - RDPather already running.
+2025-08-03 16:38:03,006 [24] INFO  LokiPoe - RDPather initialization complete.
+2025-08-03 16:38:03,706 [24] INFO  LokiPoe - Pattern scan completed.
+2025-08-03 16:38:09,486 [24] INFO  Dat - [Dat] Now building the Stat lookup table.
+2025-08-03 16:38:10,251 [24] INFO  Dat - [Dat] The Stat lookup table has been built.
+2025-08-03 16:38:10,303 [24] INFO  Dat - [Dat] Now building the Passive Skills lookup table.
+2025-08-03 16:38:10,479 [24] INFO  Dat - [Dat] The Passive Skills lookup table has been built.
+2025-08-03 16:38:10,533 [24] INFO  LokiPoe - IGS = 2147EC01A20.
+2025-08-03 16:38:12,144 [24] DEBUG ThirdPartyLoader - Loading start.
+2025-08-03 16:38:12,155 [24] DEBUG ThirdPartyLoader - Now loading [ExampleMover].
+2025-08-03 16:38:12,161 [24] DEBUG ThirdPartyLoader - [ExampleMover] will be loaded as [ExampleMover]. The base path is [].
+2025-08-03 16:38:12,161 [24] DEBUG ThirdPartyLoader - Now loading [ExamplePlugin].
+2025-08-03 16:38:12,162 [24] DEBUG ThirdPartyLoader - [ExamplePlugin] will be loaded as [ExamplePlugin]. The base path is [].
+2025-08-03 16:38:12,162 [24] DEBUG ThirdPartyLoader - Now loading [ExampleRoutine].
+2025-08-03 16:38:12,163 [24] DEBUG ThirdPartyLoader - [ExampleRoutine] will be loaded as [ExampleRoutine]. The base path is [].
+2025-08-03 16:38:12,163 [24] DEBUG ThirdPartyLoader - Now loading [Legacy].
+2025-08-03 16:38:12,164 [24] DEBUG ThirdPartyLoader - [Legacy] will be loaded as [Legacy]. The base path is [].
+2025-08-03 16:38:12,164 [24] DEBUG ThirdPartyLoader - Now loading [NullBot].
+2025-08-03 16:38:12,164 [24] DEBUG ThirdPartyLoader - [NullBot] will be loaded as [NullBot]. The base path is [].
+2025-08-03 16:38:12,164 [24] DEBUG ThirdPartyLoader - Now loading [ObjectExplorer].
+2025-08-03 16:38:12,165 [24] DEBUG ThirdPartyLoader - [ObjectExplorer] will be loaded as [ObjectExplorer]. The base path is [].
+2025-08-03 16:38:12,165 [24] DEBUG ThirdPartyLoader - Now loading [PatherExplorer].
+2025-08-03 16:38:12,165 [24] DEBUG ThirdPartyLoader - [PatherExplorer] will be loaded as [PatherExplorer]. The base path is [].
+2025-08-03 16:38:12,166 [24] DEBUG ThirdPartyLoader - Now loading [PluginLoader].
+2025-08-03 16:38:12,166 [24] DEBUG ThirdPartyLoader - [PluginLoader] will be loaded as [PluginLoader]. The base path is [].
+2025-08-03 16:38:12,166 [24] DEBUG ThirdPartyLoader - Now loading [SkillPlayerMover].
+2025-08-03 16:38:12,167 [24] DEBUG ThirdPartyLoader - [SkillPlayerMover] will be loaded as [SkillPlayerMover]. The base path is [].
+2025-08-03 16:38:12,168 [24] INFO  ThirdPartyLoader - Now asynchronously compiling dependency free content...
+2025-08-03 16:38:16,613 [17] INFO  ThirdPartyLoader - Legacy
+2025-08-03 16:38:16,619 [17] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:38:16,619 [19] DEBUG PluginLoader - [ExPlugins Autoupdater] Downloading archive.
+2025-08-03 16:38:16,620 [17] INFO  ThirdPartyLoader -                    [Plugins] : DevTab (DevTab: 0.0.1.1)
+2025-08-03 16:38:16,623 [17] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:38:16,623 [17] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:38:16,624 [17] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 16:38:16,624 [25] INFO  ThirdPartyLoader - ObjectExplorer
+2025-08-03 16:38:16,624 [25] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:38:16,624 [25] INFO  ThirdPartyLoader -                    [Plugins] : ObjectExplorer (ObjectExplorer: 0.0.1.1)
+2025-08-03 16:38:16,625 [25] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:38:16,625 [25] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:38:16,625 [25] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 16:38:16,625 [23] INFO  ThirdPartyLoader - PatherExplorer
+2025-08-03 16:38:16,626 [23] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:38:16,626 [23] INFO  ThirdPartyLoader -                    [Plugins] : PatherExplorer (PatherExplorer: 0.0.1.4)
+2025-08-03 16:38:16,626 [23] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:38:16,626 [23] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:38:16,627 [23] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 16:38:16,631 [13] INFO  ThirdPartyLoader - NullBot
+2025-08-03 16:38:16,632 [13] INFO  ThirdPartyLoader -                    [Bots] : NullBot (NullBot: 1.0)
+2025-08-03 16:38:16,633 [13] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-03 16:38:16,633 [13] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:38:16,633 [13] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:38:16,633 [13] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 16:38:16,633 [24] INFO  ThirdPartyLoader - ExampleMover
+2025-08-03 16:38:16,634 [24] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:38:16,634 [24] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-03 16:38:16,634 [24] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:38:16,635 [24] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:38:16,635 [24] INFO  ThirdPartyLoader -                    [PlayerMovers] : ExampleMover (ExampleMover: 1.0)
+2025-08-03 16:38:16,635 [21] INFO  ThirdPartyLoader - SkillPlayerMover
+2025-08-03 16:38:16,636 [21] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:38:16,636 [21] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-03 16:38:16,637 [21] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:38:16,637 [21] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:38:16,637 [21] INFO  ThirdPartyLoader -                    [PlayerMovers] : SkillPlayerMover (SkillPlayerMover: 0.4.0.12)
+2025-08-03 16:38:16,637 [10] INFO  ThirdPartyLoader - ExamplePlugin
+2025-08-03 16:38:16,638 [10] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:38:16,638 [10] INFO  ThirdPartyLoader -                    [Plugins] : ExamplePlugin (ExamplePlugin: 1.0)
+2025-08-03 16:38:16,638 [10] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:38:16,638 [10] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:38:16,639 [10] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 16:38:16,639 [9] INFO  ThirdPartyLoader - ExampleRoutine
+2025-08-03 16:38:16,639 [9] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:38:16,639 [9] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-03 16:38:16,640 [9] INFO  ThirdPartyLoader -                    [Routines] : ExampleRoutine (ExampleRoutine: 1.0)
+2025-08-03 16:38:16,640 [9] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:38:16,640 [9] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 16:38:17,511 [19] DEBUG PluginLoader - [ExPlugins Autoupdater] Archive downloaded in 888ms. Size: 1,967898 MB
+2025-08-03 16:38:17,547 [19] DEBUG PluginLoader - [ExPlugins Autoupdater] Archive decompressed in 35ms.
+2025-08-03 16:38:17,773 [19] INFO  PluginLoader - [ExPlugins Autoupdater] Loaded: [ExPlugins] v1.6.11.7c <Seusheque> - [ExPlugins] container
+2025-08-03 16:38:17,774 [19] INFO  ThirdPartyLoader - PluginLoader
+2025-08-03 16:38:17,774 [19] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:38:17,774 [19] INFO  ThirdPartyLoader -                    [Plugins] : PluginLoader (ExPlugins Autoupdater: 2.0)
+2025-08-03 16:38:17,774 [19] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:38:17,774 [19] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:38:17,774 [19] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 16:38:17,774 [24] INFO  ThirdPartyLoader - Content compiled in 00:00:05.6064994.
+2025-08-03 16:38:17,775 [24] DEBUG ThirdPartyLoader - Loading finished!
+2025-08-03 16:38:18,117 [24] INFO  Dat - Now creating the Stats cache.
+2025-08-03 16:38:19,995 [24] INFO  Utility - [Initialize] ExPlugins.EXtensions.EXtensions
+2025-08-03 16:38:20,645 [24] DEBUG GlobalLog - [EXtensions] Telemetry worker started
+2025-08-03 16:38:20,654 [24] INFO  Utility - [Initialize] DreamPoeBot.Loki.Bot.SkillBlacklist
+2025-08-03 16:38:20,718 [24] INFO  Utility - [Initialize] NullBot.NullBot
+2025-08-03 16:38:20,732 [24] INFO  Utility - [Initialize] ExPlugins.FollowBotEx.FollowBotEx
+2025-08-03 16:38:20,804 [24] ERROR GlobalLog - Found 1 invalid entries in collection ZanaMods.
+2025-08-03 16:38:20,805 [24] INFO  Utility - [Initialize] ExPlugins.MapBotEx.MapBotEx
+2025-08-03 16:38:20,815 [24] INFO  Utility - [Initialize] LF
+2025-08-03 16:38:20,832 [24] INFO  Utility - [Initialize] lF
+2025-08-03 16:38:20,837 [1] INFO  ItemEvaluator - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2025-08-03 16:38:20,917 [19] DEBUG GlobalLog - [ImportMetrics] Setting character name to: Character [Autologin-fallback]
+2025-08-03 16:38:20,923 [24] INFO  Utility - [Initialize] ExampleRoutine.ExampleRoutine
+2025-08-03 16:38:20,925 [24] INFO  ExampleRoutine - Name: SingleTargetMeleeSlot (System.Int32)
+2025-08-03 16:38:20,926 [24] INFO  ExampleRoutine - Name: SingleTargetRangedSlot (System.Int32)
+2025-08-03 16:38:20,926 [24] INFO  ExampleRoutine - Name: AoeMeleeSlot (System.Int32)
+2025-08-03 16:38:20,927 [24] INFO  ExampleRoutine - Name: AoeRangedSlot (System.Int32)
+2025-08-03 16:38:20,927 [24] INFO  ExampleRoutine - Name: FallbackSlot (System.Int32)
+2025-08-03 16:38:20,927 [24] INFO  ExampleRoutine - Name: CombatRange (System.Int32)
+2025-08-03 16:38:20,927 [24] INFO  ExampleRoutine - Name: MaxMeleeRange (System.Int32)
+2025-08-03 16:38:20,928 [24] INFO  ExampleRoutine - Name: MaxRangeRange (System.Int32)
+2025-08-03 16:38:20,928 [24] INFO  ExampleRoutine - Name: SkipShrines (System.Boolean)
+2025-08-03 16:38:20,928 [24] INFO  ExampleRoutine - Name: AoePackSize (System.Int32)
+2025-08-03 16:38:20,928 [24] INFO  ExampleRoutine - Name: AlwaysAttackInPlace (System.Boolean)
+2025-08-03 16:38:20,967 [24] INFO  Utility - [Initialize] Gc
+2025-08-03 16:38:21,025 [24] INFO  Utility - [Initialize] ExampleMover.ExampleMover
+2025-08-03 16:38:21,041 [24] INFO  Utility - [Initialize] SkillPlayerMover.SkillPlayerMover
+2025-08-03 16:38:21,058 [24] INFO  Utility - [Initialize] ExPlugins.SkillPlayerMoverEx.SkillPlayerMoverEx
+2025-08-03 16:38:21,243 [24] INFO  Utility - [Initialize] J4
+2025-08-03 16:38:21,243 [24] INFO  Utility - [Initialize] z0
+2025-08-03 16:38:21,248 [24] INFO  Utility - [Initialize] N0
+2025-08-03 16:38:21,252 [24] INFO  Utility - [Initialize] M0
+2025-08-03 16:38:21,262 [24] INFO  Utility - [Initialize] H0
+2025-08-03 16:38:21,266 [24] INFO  Utility - [Initialize] S0
+2025-08-03 16:38:21,278 [24] INFO  Utility - [Initialize] P0
+2025-08-03 16:38:21,281 [24] INFO  Utility - [Initialize] Legacy.DevTab.DevTab
+2025-08-03 16:38:21,294 [24] INFO  Utility - [Initialize] ew
+2025-08-03 16:38:21,297 [24] INFO  Utility - [Initialize] ExamplePlugin.ExamplePlugin
+2025-08-03 16:38:21,298 [24] INFO  Utility - [Initialize] PluginLoader.PluginLoader
+2025-08-03 16:38:21,309 [24] INFO  Utility - [Initialize] gw
+2025-08-03 16:38:21,826 [19] INFO  Dat - Now reloading the WorldArea cache.
+2025-08-03 16:38:21,858 [24] DEBUG GlobalLog - [ExPluginsAuthCore] Session closed
+2025-08-03 16:38:21,884 [19] INFO  Dat - The WorldArea cache has been reloaded.
+2025-08-03 16:38:22,156 [24] DEBUG GlobalLog - [WebHelper:GetFile][OK]
+2025-08-03 16:38:22,159 [24] INFO  Utility - [Initialize] Fw
+2025-08-03 16:38:22,168 [24] INFO  Utility - [Initialize] uw
+2025-08-03 16:38:22,181 [24] INFO  Utility - [Initialize] ExPlugins.GemLevelerEx.GemLevelerEx
+2025-08-03 16:38:22,191 [24] INFO  Utility - [Initialize] pw
+2025-08-03 16:38:22,199 [24] INFO  Utility - [Initialize] ow
+2025-08-03 16:38:22,252 [24] INFO  Utility - [Initialize] ExPlugins.ItemFilterEx.ItemFilterEx
+2025-08-03 16:38:22,264 [24] INFO  Utility - [Initialize] dF
+2025-08-03 16:38:22,278 [24] INFO  Utility - [Initialize] IF
+2025-08-03 16:38:22,281 [24] INFO  Utility - [Initialize] ObjectExplorer.ObjectExplorer
+2025-08-03 16:38:22,302 [24] INFO  Utility - [Initialize] uF
+2025-08-03 16:38:22,331 [24] INFO  Utility - [Initialize] PatherExplorer.PatherExplorer
+2025-08-03 16:38:22,331 [24] INFO  Utility - [Initialize] yc
+2025-08-03 16:38:22,357 [24] INFO  Utility - [Initialize] ExPlugins.StashManager.StashManager
+2025-08-03 16:38:22,423 [24] INFO  Utility - [Initialize] Pc
+2025-08-03 16:38:22,423 [24] INFO  PluginManager - [Enable] Legacy.DevTab.DevTab
+2025-08-03 16:38:22,424 [24] INFO  PluginManager - [Enable] PluginLoader.PluginLoader
+2025-08-03 16:38:22,424 [24] INFO  PluginManager - [Enable] gw
+2025-08-03 16:38:22,425 [24] INFO  PluginManager - [Enable] pw
+2025-08-03 16:38:22,425 [24] INFO  PluginManager - [Enable] ObjectExplorer.ObjectExplorer
+2025-08-03 16:38:22,568 [1] DEBUG BotManagerGui - Current 'Bot' set to MapBotEx.
+2025-08-03 16:38:22,906 [1] DEBUG RoutineManagerGui - Current 'Routine' set to SqRoutine.
+2025-08-03 16:38:23,288 [1] DEBUG MoverManagerGui - Current 'PlayerMover' set to SkillPlayerMoverEx.
+2025-08-03 16:38:23,333 [24] INFO  BotWindow - Registering default Hotkeys:
+2025-08-03 16:38:23,336 [24] INFO  BotWindow - 
+GuideText
+GuideLink
+2025-08-03 16:38:23,585 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to True.
+2025-08-03 16:38:23,586 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-03 16:38:23,587 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 5.
+2025-08-03 16:38:23,587 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to False.
+2025-08-03 16:38:23,587 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-03 16:38:23,588 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 4.
+2025-08-03 16:38:23,589 [29] DEBUG GlobalLog - [ComplexExplorer] Creating new level anchor {253, 198} (distance: 0)
+2025-08-03 16:38:23,591 [29] WARN  GlobalLog - [CombatAreaCache] Created cache for "HideoutTwilightTemple:60" (hash: 3637974513)
+2025-08-03 16:41:26,211 [19] ERROR GlobalLog - Bot is stopped for 3,09 minutes. Killing POE!
+2025-08-03 16:41:27,827 [19] ERROR GlobalLog - Bot is stopped for 3,12 minutes. Killing POE!
+2025-08-03 16:41:28,979 [22] INFO  GameController - The Game Proces is closed, now terminating DPB
+2025-08-03 16:41:29,331 [19] ERROR GlobalLog - [ImportMetrics] Exception: System.InvalidOperationException: Невозможно обработать запрос, так как процесс (34040) завершил свою работу.
+   в System.Diagnostics.Process.GetProcessHandle(Int32 access, Boolean throwIfExited)
+   в System.Diagnostics.Process.Kill()
+   в ExPlugins.EXtensions.WebHelper.SendTelemetry() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\WebHelper.cs:строка 166
+2025-08-03 16:41:29,983 [16] ERROR Class104 - Authentication thread exception: System.Threading.ThreadAbortException: Поток находился в процессе прерывания.
+   в System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   в System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   в DreamPoeBot.Structures.ns13.Class104.Class105.HeartbeatThread()

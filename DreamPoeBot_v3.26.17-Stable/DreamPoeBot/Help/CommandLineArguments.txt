@@ -1,0 +1,98 @@
+DreamPoeBot CommandLine Arguments
+Last Updated: July 8, 2021
+
+Argument: log_path
+Usage: Allows users to specify a sub-folder inside the "Logs" folder for logs to allow for better organization. Argument should be a valid Windows folder name.
+Example: --log_path:MyCharName1
+
+Argument: global_override
+Usage: Allows users to specify a new "GlobalSettings.json" file to avoid conflicts with multiple bots using the same installation folder.
+Example: --global_override:MyCharName1.json
+
+Argument: pid
+Usage: Allows users to attach DPB to an existing PoE process by PID
+Example: --pid:1234
+
+Argument: pname
+Usage: Allows users to attach DPB to an existing PoE process by processname
+Example: --pname:POE1
+
+Argument: noautoattach
+Usage: Allows users to disable DPB's autoattach feature if there's only 1 PoE process running.
+Example: --noautoattach
+
+Argument: bot
+Usage: Allows users to auto-select a bot by name rather than having to manually change it.
+Example: --bot:MyBotBase
+
+Argument: routine
+Usage: Allows users to auto-select a routine by name rather than having to manually change it.
+Example: --bot:MyRoutine
+
+Argument: mover
+Usage: Allows users to specify a PlayerMover rather than having to change it themselves.
+Example: --mover:MyMover
+
+Argument: silent
+Usage: Allows users to suppress most user-interaction required message boxes for automation.
+Example: --silent
+
+Argument: exitoncompileerrors
+Usage: Allows users to exit DPB if content compile errors were detected. 
+Example: --exitoncompileerrors
+Extra: LokiPoe.ApplicationExitCode is set to ApplicationExitCodes.CompileErrors (8)
+
+Argument: exitonloaderrors
+Usage: Allows users to exit DPB if content load errors were detected.
+Example: --exitonloaderrors
+Extra: LokiPoe.ApplicationExitCode is set to ApplicationExitCodes.LoadErrors (9)
+
+Argument: failwitherror
+Usage: Allows users to test their error handling logic by making the process exist with the specific error.
+Example: --failwitherror:8
+Extra: LokiPoe.ApplicationExitCode is set to the value specified.
+
+Argument: autostart
+Usage: Allows users to auto-start DPB after it is fully loaded.
+Example: --autostart
+Extra: Will be canceled if LokiPoe.CancelAutoStart is set to true.
+
+Argument: autominimize
+Usage: Allows users to auto-minimize DPB after it has been loaded.
+Example: --autominimize
+
+Argument: authkey
+Usage: Allows users to specify the auth key used to login to with.
+Example: --authkey:YourAuthkey
+
+Argument: autoauthlogin
+Usage: Allows users to auto-login via auth rather than having to do it manually.
+Example: --autoauthlogin
+Extra: Auto auth login will also happen if GlobalSettings.Instance.AutoAuthLogin is set to true.
+
+Argument: config
+Usage: Allows users to auto-select the configuration DreamPoeBot uses for settings.
+Example: --config:MyConfig1
+Extra: This will override GlobalSettings.Instance.LastUsedConfiguration
+
+Argument: forcedll
+Usage: Allows users to skip components compilation (plugins, bot, routine etc) and use the already compiled one to reduce the program loading time.
+Example: --forcedll
+Extra: If you make some change to your plugins, bot, routine etc etc, and forget to remove this argument, the new change will not be applyed.
+
+Argument: global_backup_directory
+Usage: Allows users to specify a backup directory for the GlobalSettings.json file, and reload the file befor the settings are loaded.
+Example: --global_backup_directory:PATHTOGLOBALSETTINGBACKUP
+Extra: This was added b/c sometime this files can corrupt if your sistem crash badly during settings save time, this should not uppen and usually indicate a problem.
+
+Argument: autoupdate
+Usage: Automatically start the update process in case an update exists.
+Example: --autoupdate
+
+Argument: autoupdatenorestart
+Usage: When DreamPoeBot update, this prevent the updater to restart DPB.
+Example: --autoupdatenorestart
+
+Argument: noupdate
+Usage: Completely  skip the update process.
+Example: --noupdate

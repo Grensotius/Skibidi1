@@ -1,0 +1,29 @@
+2025-08-06 03:47:01,561 [1] INFO  App - DreamPoeBot Version: 0.3.26.46
+Path: E:\Новая папка (2)\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\<ExeName>
+Arguments: E:\Новая папка (2)\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\DreamPoeBot.exe --autostart --config:Default --pid:3476 --silent
+
+OS Name: Майкрософт Windows 10 Домашняя
+OS Version: 10.0.19045
+OS Architecture: 64-разрядная
+InstalledUICulture: ru-RU [Russian (Russia)]
+CurrentUICulture: ru-RU [Russian (Russia)]
+CurrentCulture: ru-RU [Russian (Russia)]
+
+2025-08-06 03:47:01,579 [1] INFO  App - Now setting up JitProfiles...
+2025-08-06 03:47:01,580 [1] INFO  App - JitProfiles successfully setup!
+2025-08-06 03:47:01,583 [1] INFO  App - Now checking prerequisites...
+2025-08-06 03:47:01,583 [1] INFO  App - Prerequisite check complete!
+2025-08-06 03:47:08,159 [1] INFO  MainWindow - DreamPoeBot [0.3.26.46] is up to date!
+2025-08-06 03:47:08,214 [15] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-06 03:47:08,384 [15] INFO  Class104 - Region: eu
+2025-08-06 03:47:08,384 [15] INFO  Class104 - T: 5250586398709534021 
+2025-08-06 03:47:09,511 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2025-08-06 03:47:09,533 [13] INFO  LokiPoe - Initialize RDPather.
+2025-08-06 03:47:09,536 [13] INFO  LokiPoe - RDPather already running.
+2025-08-06 03:47:09,536 [13] INFO  LokiPoe - RDPather initialization complete.
+2025-08-06 03:47:10,231 [13] INFO  LokiPoe - Pattern scan completed.
+2025-08-06 03:47:10,241 [13] ERROR BotWindow - System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в DreamPoeBot.Loki.Controllers.GameStateController..ctor()
+   в DreamPoeBot.Loki.Controllers.GameController..ctor(Memory memory)
+   в DreamPoeBot.Loki.Game.LokiPoe.InitializeMemoryController(Offsets offs, Int32 pid)
+   в DreamPoeBot.Loki.Game.LokiPoe.SmartInitialize(Process process_0, String& error)

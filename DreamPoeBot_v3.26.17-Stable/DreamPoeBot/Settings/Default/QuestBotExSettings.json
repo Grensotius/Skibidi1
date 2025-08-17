@@ -1,0 +1,343 @@
+{
+  "ExplorationPercent": 85,
+  "MaxDeaths": 7,
+  "TrackMob": false,
+  "UseHideout": false,
+  "EnterCorruptedAreas": true,
+  "CheckGrindingFirst": false,
+  "GrindingRules": [],
+  "OptionalQuests": [
+    {
+      "Enabled": true,
+      "Name": "Mercy Mission",
+      "Id": "a1q5"
+    },
+    {
+      "Enabled": true,
+      "Name": "A Dirty Job",
+      "Id": "a1q8"
+    },
+    {
+      "Enabled": true,
+      "Name": "The Dweller of the Deep",
+      "Id": "a1q7"
+    },
+    {
+      "Enabled": true,
+      "Name": "The Marooned Mariner",
+      "Id": "a1q6"
+    },
+    {
+      "Enabled": true,
+      "Name": "The Way Forward",
+      "Id": "a1q9"
+    },
+    {
+      "Enabled": true,
+      "Name": "The Great White Beast",
+      "Id": "a2q10"
+    },
+    {
+      "Enabled": true,
+      "Name": "Through Sacred Ground",
+      "Id": "a2q5"
+    },
+    {
+      "Enabled": true,
+      "Name": "Victario's Secrets",
+      "Id": "a3q11"
+    },
+    {
+      "Enabled": true,
+      "Name": "A Swig of Hope",
+      "Id": "a3q13"
+    },
+    {
+      "Enabled": true,
+      "Name": "A Fixture of Fate",
+      "Id": "a3q12"
+    },
+    {
+      "Enabled": true,
+      "Name": "An Indomitable Spirit",
+      "Id": "a4q6"
+    },
+    {
+      "Enabled": true,
+      "Name": "In Service to Science",
+      "Id": "a5q3"
+    },
+    {
+      "Enabled": true,
+      "Name": "The King's Feast",
+      "Id": "a5q5"
+    },
+    {
+      "Enabled": true,
+      "Name": "Kitava's Torments",
+      "Id": "a5q7"
+    },
+    {
+      "Enabled": true,
+      "Name": "Fallen from Grace",
+      "Id": "a6q4"
+    },
+    {
+      "Enabled": true,
+      "Name": "Bestel's Epic",
+      "Id": "a6q5"
+    },
+    {
+      "Enabled": true,
+      "Name": "The Cloven One",
+      "Id": "a6q7"
+    },
+    {
+      "Enabled": true,
+      "Name": "The Puppet Mistress",
+      "Id": "a6q6"
+    },
+    {
+      "Enabled": true,
+      "Name": "The Silver Locket",
+      "Id": "a7q5"
+    },
+    {
+      "Enabled": true,
+      "Name": "In Memory of Greust",
+      "Id": "a7q8"
+    },
+    {
+      "Enabled": true,
+      "Name": "Queen of Despair",
+      "Id": "a7q9"
+    },
+    {
+      "Enabled": true,
+      "Name": "Kishara's Star",
+      "Id": "a7q6"
+    },
+    {
+      "Enabled": true,
+      "Name": "Love is Dead",
+      "Id": "a8q6"
+    },
+    {
+      "Enabled": true,
+      "Name": "The Gemling Legion",
+      "Id": "a8q7"
+    },
+    {
+      "Enabled": true,
+      "Name": "The Wings of Vastiri",
+      "Id": "a8q5"
+    },
+    {
+      "Enabled": true,
+      "Name": "Reflection of Terror",
+      "Id": "a8q4"
+    },
+    {
+      "Enabled": true,
+      "Name": "Queen of the Sands",
+      "Id": "a9q5"
+    },
+    {
+      "Enabled": true,
+      "Name": "Fastis Fortuna",
+      "Id": "a9q4"
+    },
+    {
+      "Enabled": true,
+      "Name": "The Ruler of Highgate",
+      "Id": "a9q2"
+    },
+    {
+      "Enabled": true,
+      "Name": "No Love for Old Ghosts",
+      "Id": "a10q4"
+    },
+    {
+      "Enabled": true,
+      "Name": "Vilenta's Vengeance",
+      "Id": "a10q6"
+    },
+    {
+      "Enabled": true,
+      "Name": "Map to Tsoatha",
+      "Id": "a10q5"
+    }
+  ],
+  "RewardQuests": [
+    {
+      "SelectedReward": "Any",
+      "Name": "Enemy at the Gate",
+      "Id": "a1q1"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Mercy Mission 1",
+      "Id": "a1q5"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Mercy Mission 2",
+      "Id": "a1q5b"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Breaking Some Eggs",
+      "Id": "a1q4"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "The Caged Brute 1",
+      "Id": "a1q2b"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "The Caged Brute 2",
+      "Id": "a1q2"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "The Siren's Cadence",
+      "Id": "a1q3"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Sharp and Cruel",
+      "Id": "a2q4"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "The Great White Beast",
+      "Id": "a2q10"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Intruders in Black",
+      "Id": "a2q6"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Through Sacred Ground",
+      "Id": "a2q5"
+    },
+    {
+      "SelectedReward": "Eramir",
+      "Name": "Deal with the Bandits",
+      "Id": "a2q7"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Lost in Love",
+      "Id": "a3q1"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "The Ribbon Spool",
+      "Id": "a3q4"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Sever the Right Hand",
+      "Id": "a3q8"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "A Swig of Hope",
+      "Id": "a3q13"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "A Fixture of Fate",
+      "Id": "a3q12"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Breaking the Seal",
+      "Id": "a4q2"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "The Eternal Nightmare",
+      "Id": "a4q1"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Return to Oriath",
+      "Id": "a5q1b"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "The Key to Freedom",
+      "Id": "a5q2"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Death to Purity",
+      "Id": "a5q4"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "The King's Feast",
+      "Id": "a5q5"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Bestel's Epic",
+      "Id": "a6q5"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Essence of Umbra",
+      "Id": "a6q2"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "The Silver Locket",
+      "Id": "a7q5"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Essence of the Artist",
+      "Id": "a7q2"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "In Memory of Greust",
+      "Id": "a7q8"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Essence of the Hag",
+      "Id": "a8q1"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "The Wings of Vastiri",
+      "Id": "a8q5"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "The Storm Blade",
+      "Id": "a9q3"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Safe Passage",
+      "Id": "a10q1"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Map to Tsoatha",
+      "Id": "a10q5"
+    },
+    {
+      "SelectedReward": "Any",
+      "Name": "Death and Rebirth",
+      "Id": "a10q2"
+    }
+  ]
+}

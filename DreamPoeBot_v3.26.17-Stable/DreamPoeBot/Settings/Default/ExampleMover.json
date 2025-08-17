@@ -1,0 +1,21 @@
+{
+  "ForceAdjustCombatAreas": false,
+  "ForcedAdjustmentAreas": [
+    {
+      "Value": "The City of Sarn"
+    },
+    {
+      "Value": "The Slums"
+    },
+    {
+      "Value": "The Quay"
+    },
+    {
+      "Value": "The Toxic Conduits"
+    }
+  ],
+  "PathRefreshRateMs": 30,
+  "AvoidWallHugging": true,
+  "MoveRange": 35,
+  "SingleUseDistance": 18
+}

@@ -1,0 +1,20 @@
+______          _____ _             _            _____     
+| ___ \        /  ___| |           | |          |  ___|    
+| |_/ /__   ___\ `--.| |_ __ _ _ __| |_ ___ _ __| |____  __
+|  __/ _ \ / _ \`--. \ __/ _` | '__| __/ _ \ '__|  __\ \/ /
+| | | (_) |  __/\__/ / || (_| | |  | ||  __/ |  | |___>  < 
+\_|  \___/ \___\____/ \__\__,_|_|   \__\___|_|  \____/_/\_\
+                                                           
+                                                           
+
+Auth [OK]
+Path of Exile launched successfully: DreamPoeBot[36724]
+Window title changed to: Default
+Waiting 12,0 sec to make sure POE is loaded
+POE window closed! Abort
+Failed to launch the application: WaitForInputIdle failed.  This could be because the process does not have a graphical interface.
+Failed to launch the application: WaitForInputIdle failed.  This could be because the process does not have a graphical interface.
+Path of Exile launched successfully: PathOfExileSteam[36112]
+Failed to find window for the process within 5 seconds.
+Path of Exile launched successfully: PathOfExileSteam[35516]
+Failed to find window for the process within 5 seconds.

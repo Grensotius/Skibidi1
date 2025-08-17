@@ -1,0 +1,48 @@
+2025-08-07 23:37:33,506 [1] INFO  App - DreamPoeBot Version: 0.3.26.46
+Path: E:\Новая папка (2)\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\<ExeName>
+Arguments: E:\Новая папка (2)\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\DreamPoeBot.exe --autostart --config:Default --pid:5184 --silent
+
+OS Name: Майкрософт Windows 10 Pro
+OS Version: 10.0.19045
+OS Architecture: 64-разрядная
+InstalledUICulture: ru-RU [Russian (Russia)]
+CurrentUICulture: ru-RU [Russian (Russia)]
+CurrentCulture: ru-RU [Russian (Russia)]
+
+2025-08-07 23:37:33,536 [1] INFO  App - Now setting up JitProfiles...
+2025-08-07 23:37:33,538 [1] INFO  App - JitProfiles successfully setup!
+2025-08-07 23:37:33,546 [1] INFO  App - Now checking prerequisites...
+2025-08-07 23:37:33,547 [1] INFO  App - Prerequisite check complete!
+2025-08-07 23:37:40,588 [1] INFO  MainWindow - DreamPoeBot [0.3.26.46] is up to date!
+2025-08-07 23:37:40,719 [15] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-07 23:37:40,963 [15] INFO  Class104 - Region: eu
+2025-08-07 23:37:40,963 [15] INFO  Class104 - T: 5250587977034588625 
+2025-08-07 23:37:42,161 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2025-08-07 23:37:42,192 [10] INFO  LokiPoe - Initialize RDPather.
+2025-08-07 23:37:42,197 [10] INFO  LokiPoe - RDPather already running.
+2025-08-07 23:37:42,197 [10] INFO  LokiPoe - RDPather initialization complete.
+2025-08-07 23:37:43,077 [10] INFO  LokiPoe - Pattern scan completed.
+2025-08-07 23:37:50,482 [10] INFO  Dat - [Dat] Now building the Stat lookup table.
+2025-08-07 23:37:51,446 [10] INFO  Dat - [Dat] The Stat lookup table has been built.
+2025-08-07 23:37:51,566 [10] INFO  LokiPoe - IGS = 1DA79501A20.
+2025-08-07 23:37:55,516 [10] DEBUG ThirdPartyLoader - Loading start.
+2025-08-07 23:37:55,554 [10] DEBUG ThirdPartyLoader - Now loading [ExampleMover].
+2025-08-07 23:37:55,582 [10] DEBUG ThirdPartyLoader - [ExampleMover] will be loaded as [ExampleMover]. The base path is [].
+2025-08-07 23:37:55,582 [10] DEBUG ThirdPartyLoader - Now loading [ExamplePlugin].
+2025-08-07 23:37:55,593 [10] DEBUG ThirdPartyLoader - [ExamplePlugin] will be loaded as [ExamplePlugin]. The base path is [].
+2025-08-07 23:37:55,594 [10] DEBUG ThirdPartyLoader - Now loading [ExampleRoutine].
+2025-08-07 23:37:55,607 [10] DEBUG ThirdPartyLoader - [ExampleRoutine] will be loaded as [ExampleRoutine]. The base path is [].
+2025-08-07 23:37:55,608 [10] DEBUG ThirdPartyLoader - Now loading [Legacy].
+2025-08-07 23:37:55,611 [10] DEBUG ThirdPartyLoader - [Legacy] will be loaded as [Legacy]. The base path is [].
+2025-08-07 23:37:55,611 [10] DEBUG ThirdPartyLoader - Now loading [NullBot].
+2025-08-07 23:37:55,617 [10] DEBUG ThirdPartyLoader - [NullBot] will be loaded as [NullBot]. The base path is [].
+2025-08-07 23:37:55,617 [10] DEBUG ThirdPartyLoader - Now loading [ObjectExplorer].
+2025-08-07 23:37:55,625 [10] DEBUG ThirdPartyLoader - [ObjectExplorer] will be loaded as [ObjectExplorer]. The base path is [].
+2025-08-07 23:37:55,626 [10] DEBUG ThirdPartyLoader - Now loading [PatherExplorer].
+2025-08-07 23:37:55,635 [10] DEBUG ThirdPartyLoader - [PatherExplorer] will be loaded as [PatherExplorer]. The base path is [].
+2025-08-07 23:37:55,636 [10] DEBUG ThirdPartyLoader - Now loading [PluginLoader].
+2025-08-07 23:37:55,648 [10] DEBUG ThirdPartyLoader - [PluginLoader] will be loaded as [PluginLoader]. The base path is [].
+2025-08-07 23:37:55,648 [10] DEBUG ThirdPartyLoader - Now loading [SkillPlayerMover].
+2025-08-07 23:37:55,655 [10] DEBUG ThirdPartyLoader - [SkillPlayerMover] will be loaded as [SkillPlayerMover]. The base path is [].
+2025-08-07 23:37:55,656 [10] INFO  ThirdPartyLoader - Now asynchronously compiling dependency free content...
+2025-08-07 23:37:56,621 [19] INFO  GameController - The Game Proces is closed, now terminating DPB

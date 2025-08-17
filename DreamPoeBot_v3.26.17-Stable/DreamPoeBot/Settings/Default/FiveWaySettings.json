@@ -1,0 +1,25 @@
+{
+  "OpenPortalOnCarryPosition": true,
+  "DoubleReset": false,
+  "UseUnrelenting": false,
+  "CarryPosition": {
+    "X": 617,
+    "Y": 615,
+    "IsZero": false
+  },
+  "ResetPosition": {
+    "X": 624,
+    "Y": 642,
+    "IsZero": false
+  },
+  "OutsidePosition": {
+    "X": 612,
+    "Y": 602,
+    "IsZero": false
+  },
+  "BotMode": 1,
+  "CarryName": null,
+  "ResetterName": "",
+  "CarryAttackSkill": "Kinetic Blast",
+  "CarryTrapSkill": "Lightning Spire Trap"
+}

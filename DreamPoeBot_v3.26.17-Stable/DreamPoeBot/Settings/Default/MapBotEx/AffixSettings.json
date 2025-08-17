@@ -1,0 +1,990 @@
+{
+  "Abhorrent": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Abundant": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Abyssal": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Aggressive": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Alva's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Ample": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Anarchic": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Antagonist's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Armoured": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Ascendant's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Avatar's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Bestial": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Bipedal": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Blessed": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Blighted": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Booming": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Bountiful": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Breachlord's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Buffered": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Burning": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Capricious": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Cartographer's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Ceremonial": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Chaining": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Conflagrating": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Conquered": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Corrupting": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Deadly": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Delirious": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Demonic": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Domination": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Elder's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Emanant": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Empowered": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Encrusted": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Endbringing": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Enthralled": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Essence": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Exceptional": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Exiled": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Fearsome": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Feasting": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Fecund": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Feral": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Fleet": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Freezing": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "General's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Gigantic": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Gilded": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Grounded": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Growling": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Harbinger's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Harrowing": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Haunting": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Heavy": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Hero's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Hexproof": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Hexwarded": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Highwayman's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Holding": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Hollow": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Hungering": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Impaling": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Impervious": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Impure": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Incombustible": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Kirac's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Labyrinthine": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Lucrative": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Lunar": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Luring": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Massive": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Mirrored": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Molten": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Multifarious": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Night": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Niko's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Abundance": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Acceleration": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Aggression": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Altars": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Ambush": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Animation": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Ascendancy": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Balance": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Bargains": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Beasts": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Betrayal": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Blight": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Blinding": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Bloodlines": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Brotherhood": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Carnage": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Cartography": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Challenge": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Champions": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Commanders": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Congealment": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Consecration": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Corruption": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Deadliness": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Delirium": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Desecration": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Divinity": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Domination": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Doubt": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Drought": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Echoes": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Elemental Weakness": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Embezzling": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Endurance": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Enervation": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Enfeeblement": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Essences": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Excellence": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Exiles": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Exposure": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Fate": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Fatigue": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Fear": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Fire": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Flames": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Fracturing": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Frenzy": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Giants": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Grasping": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Harvest": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Haste": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Hemomancy": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Hollows": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Ice": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Impedance": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Impotence": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Imprecision": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Incursion": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Influence": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Insulation": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Kalandra": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Lightning": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Many": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Mirages": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Miring": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Poison": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Power": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Precision": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Protection": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Protraction": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Punishment": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Riches": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Ruins": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Rust": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Scouting": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Sedition": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Silver": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Skirmishing": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Skittering": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Slaying": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Smothering": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Smuggling": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Splinters": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Stasis": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Suffering": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Swarming": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Temporal Chains": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Terror": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Tethers": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Thaumaturgy": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Abyss": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Breach": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Brinerot": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Call": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Circle": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Conqueror": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Dynasty": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Eater": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Exarch": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the First Ones": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Harbinger": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Legion": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Maven": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Mint": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Monsoon": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Mutewind": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Prism": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Redblade": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Ritual": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Scourge": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Trove": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Underground": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of the Vaal": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Torment": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Toughness": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Transience": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Transmogrification": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Ultimatum": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Venom": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Vulnerability": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Wealth": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Worlds": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "of Worship": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Oppressive": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Otherworldly": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Overlord's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Pallid": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Plentiful": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Potent": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Powerful": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Profane": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Punishing": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Regenerative": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Resistant": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Ritualistic": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Savage": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Shaper's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Shimmering": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Shining": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Shocking": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Singular": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Skeletal": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Slithering": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Smuggler's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Solar": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Splitting": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Squeaking": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Subterranean": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Syndicate's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Synthesised": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Thief's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Tiny": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Titan's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Tormented": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Traitor's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Trapped": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Trialmaster's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Twinned": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Twisted": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Undead": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Unstoppable": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Unwavering": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Vaal": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Vaalsmithed": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Valuable": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Villainous": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Warding": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Warlord's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Wealthy": {
+    "RerollMagic": false,
+    "RerollRare": false
+  },
+  "Yama's": {
+    "RerollMagic": false,
+    "RerollRare": false
+  }
+}

@@ -1,0 +1,124 @@
+'########:::'#######::'########::'######::'########::::'###::::'########::'########:'########:'########::'########:'##::::'##:
+ ##.... ##:'##.... ##: ##.....::'##... ##:... ##..::::'## ##::: ##.... ##:... ##..:: ##.....:: ##.... ##: ##.....::. ##::'##::
+ ##:::: ##: ##:::: ##: ##::::::: ##:::..::::: ##:::::'##:. ##:: ##:::: ##:::: ##:::: ##::::::: ##:::: ##: ##::::::::. ##'##:::
+ ########:: ##:::: ##: ######:::. ######::::: ##::::'##:::. ##: ########::::: ##:::: ######::: ########:: ######:::::. ###::::
+ ##.....::: ##:::: ##: ##...:::::..... ##:::: ##:::: #########: ##.. ##:::::: ##:::: ##...:::: ##.. ##::: ##...:::::: ## ##:::
+ ##:::::::: ##:::: ##: ##:::::::'##::: ##:::: ##:::: ##.... ##: ##::. ##::::: ##:::: ##::::::: ##::. ##:: ##:::::::: ##:. ##::
+ ##::::::::. #######:: ########:. ######::::: ##:::: ##:::: ##: ##:::. ##:::: ##:::: ########: ##:::. ##: ########: ##:::. ##:
+..::::::::::.......:::........:::......::::::..:::::..:::::..::..:::::..:::::..:::::........::..:::::..::........::..:::::..::
+
+Auth [OK]
+Path of Exile launched successfully: PathOfExile[22532]
+Window title changed to: Default
+Waiting 12,3 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[4492]
+'Default' added to watchlist
+Path of Exile launched successfully: PathOfExile[25896]
+Window title changed to: Default
+Waiting 13,8 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[24748]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[23752]
+Window title changed to: Default
+Waiting 13,0 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[16016]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[27188]
+Window title changed to: Default
+Waiting 13,6 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[24004]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[26404]
+Window title changed to: Default
+Waiting 14,2 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[30432]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[4772]
+Window title changed to: Default
+Waiting 14,8 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[29184]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[31040]
+Window title changed to: Default
+Waiting 14,8 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[3148]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[20532]
+Window title changed to: Default
+Waiting 12,4 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[25992]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+Auth [OK]
+Path of Exile launched successfully: PathOfExile[14032]
+Window title changed to: Default
+Waiting 12,2 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[24792]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[12640]
+Window title changed to: Default
+Waiting 14,7 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[30056]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[31240]
+Window title changed to: Default
+Waiting 13,8 sec to make sure POE is loaded
+POE window closed! Abort
+Auth [OK]
+Path of Exile launched successfully: PathOfExile[25080]
+Window title changed to: Default
+Waiting 14,1 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[26812]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[32104]
+Window title changed to: Default
+Waiting 13,5 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[19984]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[29236]
+Window title changed to: Default
+Waiting 13,1 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[23604]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[31416]
+Window title changed to: Default
+Waiting 14,8 sec to make sure POE is loaded
+Killing: PathOfExile:31416
+POE window closed! Abort
+Auth [OK]
+Path of Exile launched successfully: PathOfExile[29344]
+Window title changed to: Default
+Waiting 12,5 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[29248]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[31344]
+Window title changed to: Default
+Waiting 12,1 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[23348]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+Killing: PathOfExile:31344

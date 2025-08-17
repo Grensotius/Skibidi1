@@ -1,0 +1,19 @@
+{
+  "MapBotSkipCraft": false,
+  "OnMappingMaxMapsToStop": 20,
+  "OnMappingMinMapsToStart": 5,
+  "UberMapChaosSpentLimit": -1,
+  "UberMapToCraftLimit": -1,
+  "ApplyChisels": false,
+  "ChiselType": "Cartographer's Chisel",
+  "ApplyDeliOrbs": false,
+  "DeliOrbType": "Fine Delirium Orb",
+  "MaxDelirious": 60,
+  "DiscordNotifications": false,
+  "FinishedUberMapStashTab": "4",
+  "AfkBreaks": false,
+  "T17CraftEnabled": true,
+  "ZanaInfluCraftEnabled": false,
+  "ZanaMapsUseExalt": false,
+  "MapProfiles": []
+}

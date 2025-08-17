@@ -1,0 +1,23 @@
+
+All Hotkeys Must be pressed with THE GAME WINDOW FOCUSED!!!
+
+
+StartStopBot: Alt-Shift-S
+
+FocusBotWindow: Alt-Shift-W
+
+DebugMouseCursorPos: Alt-Shift-X
+
+ProcessHookManager.Enable: Alt-Shift-E
+
+ProcessHookManager.Disable: Alt-Shift-D
+
+ProcessHookManager.ClearAllKeys: Alt-Shift-R
+
+DumpTGT under Played: Alt-Shift-T
+
+DumpFrameUnderCursor: Alt-Shift-A
+
+DumpDelveCelUnderCursor: Alt-Shift-L
+
+ToggleRender: Alt-Shift-Z

@@ -1,0 +1,1071 @@
+{
+  "SelectedInfluence": 2,
+  "UseSixSlotMapDevice": true,
+  "HandleDeliriumSpawners": false,
+  "UseFiveSlotMapDevice": false,
+  "IsOnRun": false,
+  "AltarsEnabled": false,
+  "MinAltarTotalWeight": 0,
+  "SyndicateLabExploration": false,
+  "AnointMaps": true,
+  "RunRituals": true,
+  "LeaveAfterRituals": false,
+  "StartLegions": false,
+  "RitualRewardMinValue": 15,
+  "ActivateDelirium": false,
+  "MaxDeliriumLevel": 7,
+  "OpenBreaches": false,
+  "EnableSyndicate": true,
+  "OnlyRunEnchantedMaps": false,
+  "EnableHarvest": false,
+  "EnableAbyss": false,
+  "PickSulphite": false,
+  "RunConqMaps": false,
+  "RunElderMaps": false,
+  "RunBreachstones": false,
+  "RunZanaInfluencedMaps": false,
+  "SocketVoidstonesFromInventory": false,
+  "UseSextants": false,
+  "UseMapDeviceMods": true,
+  "BuyMapsFromKirac": false,
+  "CachedKiracMissions": 259,
+  "OpenMavenIvitations": false,
+  "OpenMiniBossQuestInvitations": false,
+  "OpenBossQuestInvitations": false,
+  "MinTierToUsePrioritisedScarabs": 16,
+  "RunBlightedMaps": false,
+  "RunBlightRavagedMaps": false,
+  "AlchBlightedMaps": false,
+  "AlchRavagedMaps": false,
+  "VaalBlightedMaps": false,
+  "RunKiracMissions": false,
+  "MinMapTier": 16,
+  "MaxMapTier": 16,
+  "MobRemaining": 20,
+  "ExplorationPercent": 85,
+  "EnterCorruptedAreas": false,
+  "RunUnId": false,
+  "ReturnForChaosRecipe": false,
+  "SellMaps": false,
+  "SellIgnoredMaps": true,
+  "MaxSellTier": 10,
+  "MaxSellPriority": 10,
+  "MinMapAmount": 7,
+  "AtlasExplorationEnabled": false,
+  "KiracChecked": true,
+  "BossRushMode": false,
+  "UpgradePantheon": false,
+  "IgnoreAffinityMaps": true,
+  "HarvestExtractorKite": true,
+  "LeaveAfterHarvest": false,
+  "HarvestCropRotation": false,
+  "RotaColor": "Yellow",
+  "ScourAllMaps": true,
+  "TiersToCache": "16",
+  "MagicUpgrade": {
+    "TierEnabled": false,
+    "Tier": 1,
+    "PriorityEnabled": false,
+    "Priority": 0
+  },
+  "RareUpgrade": {
+    "TierEnabled": false,
+    "Tier": 1,
+    "PriorityEnabled": false,
+    "Priority": 0
+  },
+  "ChiselUpgrade": {
+    "TierEnabled": false,
+    "Tier": 1,
+    "PriorityEnabled": false,
+    "Priority": 0
+  },
+  "VaalUpgrade": {
+    "TierEnabled": false,
+    "Tier": 1,
+    "PriorityEnabled": false,
+    "Priority": 0
+  },
+  "MagicRareUpgrade": {
+    "TierEnabled": false,
+    "Tier": 1,
+    "PriorityEnabled": false,
+    "Priority": 0
+  },
+  "DeliriumUpgrade": {
+    "TierEnabled": false,
+    "Tier": 1,
+    "PriorityEnabled": false,
+    "Priority": 0
+  },
+  "MaxDelirious": 40,
+  "MinMapIIQMinTier": 16,
+  "MinMapIIQ": 40,
+  "UseChargedCompass": true,
+  "AuraSwapSlot": 12,
+  "ReplaceAuraSkillName": "",
+  "ExistingRares": 0,
+  "RerollMethod": 0,
+  "PrioScarabs": [
+    {
+      "Name": "Anarchy Scarab"
+    },
+    {
+      "Name": "Anarchy Scarab"
+    },
+    {
+      "Name": "Anarchy Scarab of Gigantification"
+    },
+    {
+      "Name": "Anarchy Scarab of Gigantification"
+    },
+    {
+      "Name": "Anarchy Scarab of Partnership"
+    }
+  ],
+  "EnchantsToPrioritize": [],
+  "ItemNamesToIgnoreInTotalChaosValueCalc": [],
+  "AnointOils": [],
+  "GolemsToSummon": [],
+  "ItemsInDevice": [
+    {
+      "Item": "Anarchy Scarab of Gigantification",
+      "Amount": 17
+    },
+    {
+      "Item": "Anarchy Scarab",
+      "Amount": 17
+    },
+    {
+      "Item": "Anarchy Scarab of Gigantification",
+      "Amount": 17
+    },
+    {
+      "Item": "Anarchy Scarab of Partnership",
+      "Amount": 17
+    },
+    {
+      "Item": "Anarchy Scarab",
+      "Amount": 17
+    }
+  ],
+  "BlacklistedDeliOrbs": [],
+  "WhitelistedAllflames": [],
+  "ZanaMods": [
+    {
+      "Name": "Anarchy",
+      "OnlyIfFree": false,
+      "StopBotIfCantAfford": true
+    }
+  ],
+  "_altarUpsidesList": [
+    {
+      "Name": "+#% to maximum Fire Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% to Fire Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% to maximum Chaos Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% to Chaos Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Chaos Orbs",
+      "Weight": 0
+    },
+    {
+      "Name": "Gain #% of Physical Damage as Extra Damage of a random Element",
+      "Weight": 0
+    },
+    {
+      "Name": "Inflict Fire, Cold, and Lightning Exposure on Hit",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Cartographer's Chisel",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to be targeted by a Meteor when you use a Flask",
+      "Weight": 0
+    },
+    {
+      "Name": "#% increased Quantity of Items found in this Area",
+      "Weight": 0
+    },
+    {
+      "Name": "Gain #% of Physical Damage as Extra Chaos Damage",
+      "Weight": 0
+    },
+    {
+      "Name": "Poison on Hit",
+      "Weight": 0
+    },
+    {
+      "Name": "All Damage from Hits can Poison",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Instilling Orbs",
+      "Weight": 0
+    },
+    {
+      "Name": "Gain #% of Physical Damage as Extra Cold Damage",
+      "Weight": 0
+    },
+    {
+      "Name": "Cover Enemies in Frost on Hit",
+      "Weight": 0
+    },
+    {
+      "Name": "Hits always Shock",
+      "Weight": 0
+    },
+    {
+      "Name": "Gain #% of Physical Damage as Extra Lightning Damage",
+      "Weight": 0
+    },
+    {
+      "Name": "All Damage can Shock",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Greater Eldritch Ichors",
+      "Weight": 0
+    },
+    {
+      "Name": "Drops Chilled Ground on Death, lasting # seconds",
+      "Weight": 0
+    },
+    {
+      "Name": "Hits have #% chance to ignore Enemy Physical Damage Reduction",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Greater Eldritch Ichor",
+      "Weight": 0
+    },
+    {
+      "Name": "Skills fire # additional Projectiles",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Jeweller's Orb",
+      "Weight": 0
+    },
+    {
+      "Name": "Nearby Enemies Gain #% of their Physical Damage as Extra Cold Damage",
+      "Weight": 0
+    },
+    {
+      "Name": "Non-Damaging Ailments you inflict are reflected back to you",
+      "Weight": 0
+    },
+    {
+      "Name": "Unique Items dropped by slain Enemies have #% chance to be Duplicated",
+      "Weight": 0
+    },
+    {
+      "Name": "#% reduced Recovery Rate of Life, Mana and Energy Shield per Endurance Charge",
+      "Weight": 0
+    },
+    {
+      "Name": "Projectiles are fired in random directions",
+      "Weight": 0
+    },
+    {
+      "Name": "#% increased Rarity of Items found in this Area",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to remove a random Charge from Enemy on Hit",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to create Shocked Ground on Death, lasting # seconds",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Grand Eldritch Ichor",
+      "Weight": 0
+    },
+    {
+      "Name": "Gain #% of Maximum Life as Extra Maximum Energy Shield",
+      "Weight": 0
+    },
+    {
+      "Name": "All Damage with Hits can Chill",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Orbs of Fusing",
+      "Weight": 0
+    },
+    {
+      "Name": "-#% additional Physical Damage Reduction",
+      "Weight": 0
+    },
+    {
+      "Name": "#% additional Physical Damage Reduction",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% to maximum Cold Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% to Cold Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% to maximum Lightning Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% to Lightning Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "#% Global chance to Blind Enemies on hit",
+      "Weight": 0
+    },
+    {
+      "Name": "#% increased Blind Effect",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Lesser Eldritch Ichors",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Orb of Scouring",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Divination Cards which reward Basic Currency",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Blessed Orb",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Chromatic Orbs",
+      "Weight": 0
+    },
+    {
+      "Name": "-#% to Cold Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "-#% to Lightning Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "Damage Penetrates #% of Enemy Elemental Resistances",
+      "Weight": 0
+    },
+    {
+      "Name": "All Damage taken from Hits can Sap you",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to be Sapped when Hit",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Incursion Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "Inflict # Grasping Vine on Hit",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Divination Card which rewards Basic Currency",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Jeweller's Orbs",
+      "Weight": 0
+    },
+    {
+      "Name": "-#% to Critical Strike Multiplier per Power Charge",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Divination Card which rewards Gems",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance for Enemies to drop Chilled Ground when Hitting you, no more than once every # seconds",
+      "Weight": 0
+    },
+    {
+      "Name": "Nearby Enemies Gain #% of their Physical Damage as Extra Lightning Damage",
+      "Weight": 0
+    },
+    {
+      "Name": "Prevent +#% of Suppressed Spell Damage",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% chance to Suppress Spell Damage",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Divination Card which rewards Quality Gems",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance for Enemies to drop Shocked Ground when Hitting you, no more than once every # seconds",
+      "Weight": 0
+    },
+    {
+      "Name": "#% reduced Defences per Frenzy Charge",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Lesser Eldritch Ichor",
+      "Weight": 0
+    },
+    {
+      "Name": "#% increased Attack Speed",
+      "Weight": 0
+    },
+    {
+      "Name": "#% increased Cast Speed",
+      "Weight": 0
+    },
+    {
+      "Name": "#% increased Movement Speed",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Chromatic Orb",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Orb of Alteration",
+      "Weight": 0
+    },
+    {
+      "Name": "Divination Cards dropped by slain Enemies have #% chance to be Duplicated",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Orbs of Scouring",
+      "Weight": 0
+    },
+    {
+      "Name": "Scarabs dropped by slain Enemies have #% chance to be Duplicated",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Orbs of Alteration",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Divination Cards which reward Quality Gems",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Grand Eldritch Ichors",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Delirium Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Ultimatum Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Maps dropped by slain Enemies have #% chance to be Duplicated",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Betrayal Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Basic Currency Items dropped by slain Enemies have #% chance to be Duplicated",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Bestiary Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Ritual Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Orb of Fusing",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Ultimatum Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Divination Cards which reward Gems",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Divination Cards which reward Levelled Gems",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Exalted Orb",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Divination Card which rewards League Currency",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Kalguuran Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Harvest Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Blessed Orbs",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Regal Orb",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Breach Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Harvest Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Betrayal Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Divination Cards which reward League Currency",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Divination Card which rewards Levelled Gems",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Divine Orb",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Blight Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Incursion Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Divine Orbs",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Kalguuran Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Legion Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Divination Cards which reward other Divination Cards",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Legion Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Ritual Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Expedition Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Bestiary Scarab",
+      "Weight": 0
+    }
+  ],
+  "AltarUpsidesList": [
+    {
+      "Name": "+#% to maximum Fire Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% to Fire Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% to maximum Chaos Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% to Chaos Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Chaos Orbs",
+      "Weight": 0
+    },
+    {
+      "Name": "Gain #% of Physical Damage as Extra Damage of a random Element",
+      "Weight": 0
+    },
+    {
+      "Name": "Inflict Fire, Cold, and Lightning Exposure on Hit",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Cartographer's Chisel",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to be targeted by a Meteor when you use a Flask",
+      "Weight": 0
+    },
+    {
+      "Name": "#% increased Quantity of Items found in this Area",
+      "Weight": 0
+    },
+    {
+      "Name": "Gain #% of Physical Damage as Extra Chaos Damage",
+      "Weight": 0
+    },
+    {
+      "Name": "Poison on Hit",
+      "Weight": 0
+    },
+    {
+      "Name": "All Damage from Hits can Poison",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Instilling Orbs",
+      "Weight": 0
+    },
+    {
+      "Name": "Gain #% of Physical Damage as Extra Cold Damage",
+      "Weight": 0
+    },
+    {
+      "Name": "Cover Enemies in Frost on Hit",
+      "Weight": 0
+    },
+    {
+      "Name": "Hits always Shock",
+      "Weight": 0
+    },
+    {
+      "Name": "Gain #% of Physical Damage as Extra Lightning Damage",
+      "Weight": 0
+    },
+    {
+      "Name": "All Damage can Shock",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Greater Eldritch Ichors",
+      "Weight": 0
+    },
+    {
+      "Name": "Drops Chilled Ground on Death, lasting # seconds",
+      "Weight": 0
+    },
+    {
+      "Name": "Hits have #% chance to ignore Enemy Physical Damage Reduction",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Greater Eldritch Ichor",
+      "Weight": 0
+    },
+    {
+      "Name": "Skills fire # additional Projectiles",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Jeweller's Orb",
+      "Weight": 0
+    },
+    {
+      "Name": "Nearby Enemies Gain #% of their Physical Damage as Extra Cold Damage",
+      "Weight": 0
+    },
+    {
+      "Name": "Non-Damaging Ailments you inflict are reflected back to you",
+      "Weight": 0
+    },
+    {
+      "Name": "Unique Items dropped by slain Enemies have #% chance to be Duplicated",
+      "Weight": 0
+    },
+    {
+      "Name": "#% reduced Recovery Rate of Life, Mana and Energy Shield per Endurance Charge",
+      "Weight": 0
+    },
+    {
+      "Name": "Projectiles are fired in random directions",
+      "Weight": 0
+    },
+    {
+      "Name": "#% increased Rarity of Items found in this Area",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to remove a random Charge from Enemy on Hit",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to create Shocked Ground on Death, lasting # seconds",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Grand Eldritch Ichor",
+      "Weight": 0
+    },
+    {
+      "Name": "Gain #% of Maximum Life as Extra Maximum Energy Shield",
+      "Weight": 0
+    },
+    {
+      "Name": "All Damage with Hits can Chill",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Orbs of Fusing",
+      "Weight": 0
+    },
+    {
+      "Name": "-#% additional Physical Damage Reduction",
+      "Weight": 0
+    },
+    {
+      "Name": "#% additional Physical Damage Reduction",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% to maximum Cold Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% to Cold Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% to maximum Lightning Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% to Lightning Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "#% Global chance to Blind Enemies on hit",
+      "Weight": 0
+    },
+    {
+      "Name": "#% increased Blind Effect",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Lesser Eldritch Ichors",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Orb of Scouring",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Divination Cards which reward Basic Currency",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Blessed Orb",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Chromatic Orbs",
+      "Weight": 0
+    },
+    {
+      "Name": "-#% to Cold Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "-#% to Lightning Resistance",
+      "Weight": 0
+    },
+    {
+      "Name": "Damage Penetrates #% of Enemy Elemental Resistances",
+      "Weight": 0
+    },
+    {
+      "Name": "All Damage taken from Hits can Sap you",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to be Sapped when Hit",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Incursion Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "Inflict # Grasping Vine on Hit",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Divination Card which rewards Basic Currency",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Jeweller's Orbs",
+      "Weight": 0
+    },
+    {
+      "Name": "-#% to Critical Strike Multiplier per Power Charge",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Divination Card which rewards Gems",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance for Enemies to drop Chilled Ground when Hitting you, no more than once every # seconds",
+      "Weight": 0
+    },
+    {
+      "Name": "Nearby Enemies Gain #% of their Physical Damage as Extra Lightning Damage",
+      "Weight": 0
+    },
+    {
+      "Name": "Prevent +#% of Suppressed Spell Damage",
+      "Weight": 0
+    },
+    {
+      "Name": "+#% chance to Suppress Spell Damage",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Divination Card which rewards Quality Gems",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance for Enemies to drop Shocked Ground when Hitting you, no more than once every # seconds",
+      "Weight": 0
+    },
+    {
+      "Name": "#% reduced Defences per Frenzy Charge",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Lesser Eldritch Ichor",
+      "Weight": 0
+    },
+    {
+      "Name": "#% increased Attack Speed",
+      "Weight": 0
+    },
+    {
+      "Name": "#% increased Cast Speed",
+      "Weight": 0
+    },
+    {
+      "Name": "#% increased Movement Speed",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Chromatic Orb",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Orb of Alteration",
+      "Weight": 0
+    },
+    {
+      "Name": "Divination Cards dropped by slain Enemies have #% chance to be Duplicated",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Orbs of Scouring",
+      "Weight": 0
+    },
+    {
+      "Name": "Scarabs dropped by slain Enemies have #% chance to be Duplicated",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Orbs of Alteration",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Divination Cards which reward Quality Gems",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Grand Eldritch Ichors",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Delirium Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Ultimatum Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Maps dropped by slain Enemies have #% chance to be Duplicated",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Betrayal Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Basic Currency Items dropped by slain Enemies have #% chance to be Duplicated",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Bestiary Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Ritual Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Orb of Fusing",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Ultimatum Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Divination Cards which reward Gems",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Divination Cards which reward Levelled Gems",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Exalted Orb",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Divination Card which rewards League Currency",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Kalguuran Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Harvest Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Blessed Orbs",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Regal Orb",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Breach Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Harvest Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Betrayal Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Divination Cards which reward League Currency",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Divination Card which rewards Levelled Gems",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Divine Orb",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Blight Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Incursion Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Divine Orbs",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Kalguuran Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Legion Scarabs",
+      "Weight": 0
+    },
+    {
+      "Name": "Final Boss drops # additional Divination Cards which reward other Divination Cards",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Legion Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Ritual Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Expedition Scarab",
+      "Weight": 0
+    },
+    {
+      "Name": "#% chance to drop an additional Bestiary Scarab",
+      "Weight": 0
+    }
+  ],
+  "_altarDownsideList": [],
+  "AltarDownsideList": []
+}

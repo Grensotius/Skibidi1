@@ -1,0 +1,114 @@
+{
+  "DebugMode": false,
+  "UpgradeInPremTabs": true,
+  "MaxEssenceTier": "Deafening",
+  "MinStackToSell": 3,
+  "ShouldSellAllEssences": false,
+  "ShouldSellAllGems": false,
+  "ShouldSellTrashScarabs": false,
+  "ShouldSellMaps": true,
+  "ShouldSellEssences": true,
+  "ShouldSellIncubators": false,
+  "ShoulApplyIncubators": true,
+  "ShouldSellFossils": false,
+  "ShouldSellMavenInvitations": true,
+  "ShouldSellUberLabOfferingsWhenUberLabCompleted": true,
+  "ShouldMakeClusterJewelRecipe": false,
+  "MinimumItemLevelToMakeClusterJewelRecipe": 84,
+  "ClusterMaxValue": 50,
+  "TabNamesToIgnore": [
+    {
+      "Name": "IGNORED TAB"
+    }
+  ],
+  "ItemsToIgnore": [
+    {
+      "Name": "Headhunter"
+    }
+  ],
+  "ItemsToForceSell": [
+    {
+      "Name": "Lesser Eldritch Ember"
+    },
+    {
+      "Name": "Lesser Eldritch Ichor"
+    }
+  ],
+  "ItemsToSellInStack": [
+    {
+      "Name": "Clear Oil"
+    },
+    {
+      "Name": "Sepia Oil"
+    },
+    {
+      "Name": "Amber Oil"
+    }
+  ],
+  "MapLimits": [
+    {
+      "MapTier": 1,
+      "Amount": 3
+    },
+    {
+      "MapTier": 2,
+      "Amount": 3
+    },
+    {
+      "MapTier": 3,
+      "Amount": 3
+    },
+    {
+      "MapTier": 4,
+      "Amount": 3
+    },
+    {
+      "MapTier": 5,
+      "Amount": 3
+    },
+    {
+      "MapTier": 6,
+      "Amount": 5
+    },
+    {
+      "MapTier": 7,
+      "Amount": 5
+    },
+    {
+      "MapTier": 8,
+      "Amount": 5
+    },
+    {
+      "MapTier": 9,
+      "Amount": 5
+    },
+    {
+      "MapTier": 10,
+      "Amount": 15
+    },
+    {
+      "MapTier": 11,
+      "Amount": 15
+    },
+    {
+      "MapTier": 12,
+      "Amount": 15
+    },
+    {
+      "MapTier": 13,
+      "Amount": 15
+    },
+    {
+      "MapTier": 14,
+      "Amount": 15
+    },
+    {
+      "MapTier": 15,
+      "Amount": 15
+    },
+    {
+      "MapTier": 16,
+      "Amount": 15
+    }
+  ]
+}

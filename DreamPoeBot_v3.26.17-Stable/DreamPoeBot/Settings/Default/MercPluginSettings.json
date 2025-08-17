@@ -1,0 +1,28 @@
+{
+  "MercenaryInteract": true,
+  "MercRevive": true,
+  "MercHire": false,
+  "MercExile": false,
+  "MercRushMode": false,
+  "MercStatsToExile": [],
+  "MercHireMinLvl": 83,
+  "MercSkillsCount": 2,
+  "MercSkillsNeeded": [
+    {
+      "SkillName": "Enduring Cry",
+      "SupportsNeeded": null,
+      "Enabled": true
+    },
+    {
+      "SkillName": "Determination",
+      "SupportsNeeded": null,
+      "Enabled": true
+    },
+    {
+      "SkillName": "Kinetic Bolt",
+      "SupportsNeeded": "Chain,Greater Multiple Projectiles",
+      "Enabled": false
+    }
+  ],
+  "Statistics": []
+}

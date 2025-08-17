@@ -1,0 +1,38 @@
+{
+  "StashTab": null,
+  "MinILvl": 60,
+  "RecipeLimits": [
+    {
+      "Type": 0,
+      "Amount": 4
+    },
+    {
+      "Type": 1,
+      "Amount": 2
+    },
+    {
+      "Type": 2,
+      "Amount": 2
+    },
+    {
+      "Type": 3,
+      "Amount": 2
+    },
+    {
+      "Type": 4,
+      "Amount": 2
+    },
+    {
+      "Type": 5,
+      "Amount": 2
+    },
+    {
+      "Type": 6,
+      "Amount": 20
+    },
+    {
+      "Type": 7,
+      "Amount": 40
+    }
+  ]
+}

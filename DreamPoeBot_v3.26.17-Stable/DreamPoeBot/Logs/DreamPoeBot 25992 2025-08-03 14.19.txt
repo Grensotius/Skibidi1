@@ -1,0 +1,31 @@
+2025-08-03 14:19:37,071 [1] INFO  App - DreamPoeBot Version: 0.3.26.46
+Path: E:\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\<ExeName>
+Arguments: E:\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\DreamPoeBot.exe --autostart --config:Default --pid:20532 --silent
+
+OS Name: Майкрософт Windows 10 Домашняя
+OS Version: 10.0.19045
+OS Architecture: 64-разрядная
+InstalledUICulture: ru-RU [Russian (Russia)]
+CurrentUICulture: ru-RU [Russian (Russia)]
+CurrentCulture: ru-RU [Russian (Russia)]
+
+2025-08-03 14:19:37,089 [1] INFO  App - Now setting up JitProfiles...
+2025-08-03 14:19:37,090 [1] INFO  App - JitProfiles successfully setup!
+2025-08-03 14:19:37,095 [1] INFO  App - Now checking prerequisites...
+2025-08-03 14:19:37,095 [1] INFO  App - Prerequisite check complete!
+2025-08-03 14:19:43,748 [1] INFO  MainWindow - DreamPoeBot [0.3.26.46] is up to date!
+2025-08-03 14:19:43,827 [15] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-03 14:19:43,993 [15] INFO  Class104 - Region: eu
+2025-08-03 14:19:43,993 [15] INFO  Class104 - T: 5250584186265661345 
+2025-08-03 14:19:45,118 [1] ERROR Class98 - Invalid PID specifier passed to the command line: 20532
+2025-08-03 14:19:49,393 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2025-08-03 14:19:49,640 [1] ERROR App - [Application_DispatcherUnhandledException] Unhandled exception
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DreamPoeBot.Hooks.Hooking.Deinitialize()
+   at DreamPoeBot.Loki.Game.LokiPoe.Deinitializer()
+   at DreamPoeBot.App.OnExit(ExitEventArgs e)
+   at System.Windows.Application.DoShutdown()
+   at System.Windows.Application.ShutdownImpl()
+   at System.Windows.Application.ShutdownCallback(Object arg)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)

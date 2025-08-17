@@ -1,0 +1,13 @@
+{
+  "SingleTargetMeleeSlot": -1,
+  "SingleTargetRangedSlot": -1,
+  "AoeMeleeSlot": -1,
+  "AoeRangedSlot": -1,
+  "FallbackSlot": -1,
+  "CombatRange": 70,
+  "MaxMeleeRange": 20,
+  "MaxRangeRange": 40,
+  "SkipShrines": false,
+  "AoePackSize": 3,
+  "AlwaysAttackInPlace": false
+}

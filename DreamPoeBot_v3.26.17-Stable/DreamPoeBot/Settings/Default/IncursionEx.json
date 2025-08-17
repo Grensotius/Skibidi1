@@ -1,0 +1,137 @@
+{
+  "PortalBeforeIncursion": false,
+  "IncursionRooms": [
+    {
+      "Name": "Armourer's Workshop",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Corruption Chamber",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Explosives Room",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Flame Workshop",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Gemcutter's Workshop",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Guardhouse",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Hatchery",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Jeweller's Workshop",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Lightning Workshop",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Poison Garden",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Pools of Restoration",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Royal Meeting Room",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Sacrificial Chamber",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Shrine of Empowerment",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Sparring Room",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Splinter Research Lab",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Storage Room",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Surveyor's Study",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Tempest Generator",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Trap Workshop",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Vault",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    },
+    {
+      "Name": "Workshop",
+      "PriorityAction": 0,
+      "NoChange": false,
+      "NoUpgrade": false
+    }
+  ]
+}

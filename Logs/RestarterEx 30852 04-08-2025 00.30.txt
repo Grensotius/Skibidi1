@@ -1,0 +1,38 @@
+ ######                 #####                                          #######        
+ #     #  ####  ###### #     # #####   ##   #####  ##### ###### #####  #       #    # 
+ #     # #    # #      #         #    #  #  #    #   #   #      #    # #        #  #  
+ ######  #    # #####   #####    #   #    # #    #   #   #####  #    # #####     ##   
+ #       #    # #            #   #   ###### #####    #   #      #####  #         ##   
+ #       #    # #      #     #   #   #    # #   #    #   #      #   #  #        #  #  
+ #        ####  ######  #####    #   #    # #    #   #   ###### #    # ####### #    # 
+                                                                                      
+
+Auth [OK]
+Path of Exile launched successfully: PathOfExile[34476]
+Window title changed to: Default
+Waiting 14,4 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[34212]
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[25176]
+Window title changed to: Default
+Waiting 12,9 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[15488]
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[17400]
+Window title changed to: Default
+Waiting 14,9 sec to make sure POE is loaded
+Killing: PathOfExile:17400
+POE window closed! Abort
+Auth [OK]
+Path of Exile launched successfully: PathOfExile[23048]
+Window title changed to: Default
+Waiting 13,4 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[9544]
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[22620]
+Window title changed to: Default
+Waiting 12,9 sec to make sure POE is loaded
+Killing: PathOfExile:22620

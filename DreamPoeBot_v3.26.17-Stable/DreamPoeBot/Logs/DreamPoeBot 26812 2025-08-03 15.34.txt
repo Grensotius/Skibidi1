@@ -1,0 +1,726 @@
+2025-08-03 15:34:28,408 [1] INFO  App - DreamPoeBot Version: 0.3.26.46
+Path: E:\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\<ExeName>
+Arguments: E:\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\DreamPoeBot.exe --autostart --config:Default --pid:25080 --silent
+
+OS Name: Майкрософт Windows 10 Домашняя
+OS Version: 10.0.19045
+OS Architecture: 64-разрядная
+InstalledUICulture: ru-RU [Russian (Russia)]
+CurrentUICulture: ru-RU [Russian (Russia)]
+CurrentCulture: ru-RU [Russian (Russia)]
+
+2025-08-03 15:34:28,432 [1] INFO  App - Now setting up JitProfiles...
+2025-08-03 15:34:28,434 [1] INFO  App - JitProfiles successfully setup!
+2025-08-03 15:34:28,439 [1] INFO  App - Now checking prerequisites...
+2025-08-03 15:34:28,440 [1] INFO  App - Prerequisite check complete!
+2025-08-03 15:34:35,270 [1] INFO  MainWindow - DreamPoeBot [0.3.26.46] is up to date!
+2025-08-03 15:34:35,385 [15] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-03 15:34:35,559 [15] INFO  Class104 - Region: eu
+2025-08-03 15:34:35,559 [15] INFO  Class104 - T: 5250584231181242903 
+2025-08-03 15:34:36,750 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2025-08-03 15:34:36,806 [13] INFO  LokiPoe - Initialize RDPather.
+2025-08-03 15:34:36,814 [13] INFO  LokiPoe - RDPather already running.
+2025-08-03 15:34:36,815 [13] INFO  LokiPoe - RDPather initialization complete.
+2025-08-03 15:34:37,704 [13] INFO  LokiPoe - Pattern scan completed.
+2025-08-03 15:34:44,448 [13] INFO  Dat - [Dat] Now building the Stat lookup table.
+2025-08-03 15:34:45,300 [13] INFO  Dat - [Dat] The Stat lookup table has been built.
+2025-08-03 15:34:45,358 [13] INFO  Dat - [Dat] Now building the Passive Skills lookup table.
+2025-08-03 15:34:45,537 [13] INFO  Dat - [Dat] The Passive Skills lookup table has been built.
+2025-08-03 15:34:45,602 [13] INFO  LokiPoe - IGS = 1C363501A20.
+2025-08-03 15:34:47,542 [13] DEBUG ThirdPartyLoader - Loading start.
+2025-08-03 15:34:47,556 [13] DEBUG ThirdPartyLoader - Now loading [ExampleMover].
+2025-08-03 15:34:47,563 [13] DEBUG ThirdPartyLoader - [ExampleMover] will be loaded as [ExampleMover]. The base path is [].
+2025-08-03 15:34:47,564 [13] DEBUG ThirdPartyLoader - Now loading [ExamplePlugin].
+2025-08-03 15:34:47,564 [13] DEBUG ThirdPartyLoader - [ExamplePlugin] will be loaded as [ExamplePlugin]. The base path is [].
+2025-08-03 15:34:47,565 [13] DEBUG ThirdPartyLoader - Now loading [ExampleRoutine].
+2025-08-03 15:34:47,565 [13] DEBUG ThirdPartyLoader - [ExampleRoutine] will be loaded as [ExampleRoutine]. The base path is [].
+2025-08-03 15:34:47,565 [13] DEBUG ThirdPartyLoader - Now loading [Legacy].
+2025-08-03 15:34:47,566 [13] DEBUG ThirdPartyLoader - [Legacy] will be loaded as [Legacy]. The base path is [].
+2025-08-03 15:34:47,566 [13] DEBUG ThirdPartyLoader - Now loading [NullBot].
+2025-08-03 15:34:47,567 [13] DEBUG ThirdPartyLoader - [NullBot] will be loaded as [NullBot]. The base path is [].
+2025-08-03 15:34:47,567 [13] DEBUG ThirdPartyLoader - Now loading [ObjectExplorer].
+2025-08-03 15:34:47,567 [13] DEBUG ThirdPartyLoader - [ObjectExplorer] will be loaded as [ObjectExplorer]. The base path is [].
+2025-08-03 15:34:47,568 [13] DEBUG ThirdPartyLoader - Now loading [PatherExplorer].
+2025-08-03 15:34:47,568 [13] DEBUG ThirdPartyLoader - [PatherExplorer] will be loaded as [PatherExplorer]. The base path is [].
+2025-08-03 15:34:47,568 [13] DEBUG ThirdPartyLoader - Now loading [PluginLoader].
+2025-08-03 15:34:47,569 [13] DEBUG ThirdPartyLoader - [PluginLoader] will be loaded as [PluginLoader]. The base path is [].
+2025-08-03 15:34:47,569 [13] DEBUG ThirdPartyLoader - Now loading [SkillPlayerMover].
+2025-08-03 15:34:47,569 [13] DEBUG ThirdPartyLoader - [SkillPlayerMover] will be loaded as [SkillPlayerMover]. The base path is [].
+2025-08-03 15:34:47,570 [13] INFO  ThirdPartyLoader - Now asynchronously compiling dependency free content...
+2025-08-03 15:34:51,834 [19] INFO  ThirdPartyLoader - PatherExplorer
+2025-08-03 15:34:51,843 [19] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 15:34:51,844 [19] INFO  ThirdPartyLoader -                    [Plugins] : PatherExplorer (PatherExplorer: 0.0.1.4)
+2025-08-03 15:34:51,845 [19] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 15:34:51,845 [19] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 15:34:51,845 [19] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 15:34:51,846 [17] INFO  ThirdPartyLoader - Legacy
+2025-08-03 15:34:51,846 [17] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 15:34:51,846 [17] INFO  ThirdPartyLoader -                    [Plugins] : DevTab (DevTab: 0.0.1.1)
+2025-08-03 15:34:51,844 [15] DEBUG PluginLoader - [ExPlugins Autoupdater] Downloading archive.
+2025-08-03 15:34:51,846 [17] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 15:34:51,851 [17] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 15:34:51,851 [17] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 15:34:51,851 [18] INFO  ThirdPartyLoader - SkillPlayerMover
+2025-08-03 15:34:51,851 [18] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 15:34:51,851 [18] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-03 15:34:51,852 [18] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 15:34:51,852 [18] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 15:34:51,852 [18] INFO  ThirdPartyLoader -                    [PlayerMovers] : SkillPlayerMover (SkillPlayerMover: 0.4.0.12)
+2025-08-03 15:34:51,853 [25] INFO  ThirdPartyLoader - ExamplePlugin
+2025-08-03 15:34:51,853 [25] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 15:34:51,854 [25] INFO  ThirdPartyLoader -                    [Plugins] : ExamplePlugin (ExamplePlugin: 1.0)
+2025-08-03 15:34:51,854 [25] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 15:34:51,854 [25] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 15:34:51,855 [25] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 15:34:51,855 [13] INFO  ThirdPartyLoader - ExampleMover
+2025-08-03 15:34:51,856 [13] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 15:34:51,856 [13] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-03 15:34:51,856 [13] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 15:34:51,856 [13] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 15:34:51,857 [13] INFO  ThirdPartyLoader -                    [PlayerMovers] : ExampleMover (ExampleMover: 1.0)
+2025-08-03 15:34:51,857 [10] INFO  ThirdPartyLoader - NullBot
+2025-08-03 15:34:51,857 [10] INFO  ThirdPartyLoader -                    [Bots] : NullBot (NullBot: 1.0)
+2025-08-03 15:34:51,858 [10] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-03 15:34:51,858 [10] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 15:34:51,858 [10] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 15:34:51,858 [10] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 15:34:51,859 [11] INFO  ThirdPartyLoader - ExampleRoutine
+2025-08-03 15:34:51,859 [11] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 15:34:51,859 [11] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-03 15:34:51,859 [11] INFO  ThirdPartyLoader -                    [Routines] : ExampleRoutine (ExampleRoutine: 1.0)
+2025-08-03 15:34:51,860 [11] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 15:34:51,860 [11] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 15:34:51,860 [22] INFO  ThirdPartyLoader - ObjectExplorer
+2025-08-03 15:34:51,860 [22] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 15:34:51,861 [22] INFO  ThirdPartyLoader -                    [Plugins] : ObjectExplorer (ObjectExplorer: 0.0.1.1)
+2025-08-03 15:34:51,861 [22] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 15:34:51,861 [22] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 15:34:51,861 [22] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 15:34:52,648 [15] DEBUG PluginLoader - [ExPlugins Autoupdater] Archive downloaded in 797ms. Size: 1,967898 MB
+2025-08-03 15:34:52,684 [15] DEBUG PluginLoader - [ExPlugins Autoupdater] Archive decompressed in 35ms.
+2025-08-03 15:34:52,913 [15] INFO  PluginLoader - [ExPlugins Autoupdater] Loaded: [ExPlugins] v1.6.11.7c <Seusheque> - [ExPlugins] container
+2025-08-03 15:34:52,914 [15] INFO  ThirdPartyLoader - PluginLoader
+2025-08-03 15:34:52,914 [15] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 15:34:52,914 [15] INFO  ThirdPartyLoader -                    [Plugins] : PluginLoader (ExPlugins Autoupdater: 2.0)
+2025-08-03 15:34:52,915 [15] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 15:34:52,915 [15] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 15:34:52,915 [15] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 15:34:52,915 [13] INFO  ThirdPartyLoader - Content compiled in 00:00:05.3448257.
+2025-08-03 15:34:52,916 [13] DEBUG ThirdPartyLoader - Loading finished!
+2025-08-03 15:34:53,414 [13] INFO  Dat - Now creating the Stats cache.
+2025-08-03 15:34:55,703 [13] INFO  Utility - [Initialize] ExPlugins.EXtensions.EXtensions
+2025-08-03 15:34:56,459 [13] DEBUG GlobalLog - [EXtensions] Telemetry worker started
+2025-08-03 15:34:56,470 [13] INFO  Utility - [Initialize] DreamPoeBot.Loki.Bot.SkillBlacklist
+2025-08-03 15:34:56,566 [13] INFO  Utility - [Initialize] NullBot.NullBot
+2025-08-03 15:34:56,586 [13] INFO  Utility - [Initialize] ExPlugins.FollowBotEx.FollowBotEx
+2025-08-03 15:34:56,685 [13] INFO  Utility - [Initialize] ExPlugins.MapBotEx.MapBotEx
+2025-08-03 15:34:56,697 [13] INFO  Utility - [Initialize] LF
+2025-08-03 15:34:56,723 [13] INFO  Utility - [Initialize] lF
+2025-08-03 15:34:56,729 [1] INFO  ItemEvaluator - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2025-08-03 15:34:56,834 [13] INFO  Utility - [Initialize] ExampleRoutine.ExampleRoutine
+2025-08-03 15:34:56,837 [13] INFO  ExampleRoutine - Name: SingleTargetMeleeSlot (System.Int32)
+2025-08-03 15:34:56,838 [13] INFO  ExampleRoutine - Name: SingleTargetRangedSlot (System.Int32)
+2025-08-03 15:34:56,839 [13] INFO  ExampleRoutine - Name: AoeMeleeSlot (System.Int32)
+2025-08-03 15:34:56,839 [13] INFO  ExampleRoutine - Name: AoeRangedSlot (System.Int32)
+2025-08-03 15:34:56,839 [13] INFO  ExampleRoutine - Name: FallbackSlot (System.Int32)
+2025-08-03 15:34:56,840 [13] INFO  ExampleRoutine - Name: CombatRange (System.Int32)
+2025-08-03 15:34:56,840 [13] INFO  ExampleRoutine - Name: MaxMeleeRange (System.Int32)
+2025-08-03 15:34:56,840 [13] INFO  ExampleRoutine - Name: MaxRangeRange (System.Int32)
+2025-08-03 15:34:56,840 [13] INFO  ExampleRoutine - Name: SkipShrines (System.Boolean)
+2025-08-03 15:34:56,841 [13] INFO  ExampleRoutine - Name: AoePackSize (System.Int32)
+2025-08-03 15:34:56,841 [13] INFO  ExampleRoutine - Name: AlwaysAttackInPlace (System.Boolean)
+2025-08-03 15:34:56,847 [17] DEBUG GlobalLog - [ImportMetrics] Setting character name to: Character [Autologin-fallback]
+2025-08-03 15:34:56,890 [13] INFO  Utility - [Initialize] Gc
+2025-08-03 15:34:56,980 [13] INFO  Utility - [Initialize] SkillPlayerMover.SkillPlayerMover
+2025-08-03 15:34:56,986 [13] INFO  Utility - [Initialize] ExampleMover.ExampleMover
+2025-08-03 15:34:57,007 [13] INFO  Utility - [Initialize] ExPlugins.SkillPlayerMoverEx.SkillPlayerMoverEx
+2025-08-03 15:34:57,237 [13] INFO  Utility - [Initialize] J4
+2025-08-03 15:34:57,239 [13] INFO  Utility - [Initialize] z0
+2025-08-03 15:34:57,245 [13] INFO  Utility - [Initialize] N0
+2025-08-03 15:34:57,251 [13] INFO  Utility - [Initialize] M0
+2025-08-03 15:34:57,262 [13] INFO  Utility - [Initialize] H0
+2025-08-03 15:34:57,268 [13] INFO  Utility - [Initialize] S0
+2025-08-03 15:34:57,282 [13] INFO  Utility - [Initialize] P0
+2025-08-03 15:34:57,285 [13] INFO  Utility - [Initialize] Legacy.DevTab.DevTab
+2025-08-03 15:34:57,299 [13] INFO  Utility - [Initialize] ew
+2025-08-03 15:34:57,302 [13] INFO  Utility - [Initialize] ExamplePlugin.ExamplePlugin
+2025-08-03 15:34:57,302 [13] INFO  Utility - [Initialize] PluginLoader.PluginLoader
+2025-08-03 15:34:57,314 [13] INFO  Utility - [Initialize] gw
+2025-08-03 15:34:57,670 [13] DEBUG GlobalLog - [ExPluginsAuthCore] Session closed
+2025-08-03 15:34:57,720 [17] INFO  Dat - Now reloading the WorldArea cache.
+2025-08-03 15:34:57,795 [17] INFO  Dat - The WorldArea cache has been reloaded.
+2025-08-03 15:34:57,947 [13] DEBUG GlobalLog - [WebHelper:GetFile][OK]
+2025-08-03 15:34:57,950 [13] INFO  Utility - [Initialize] Fw
+2025-08-03 15:34:57,961 [13] INFO  Utility - [Initialize] uw
+2025-08-03 15:34:57,975 [13] INFO  Utility - [Initialize] ExPlugins.GemLevelerEx.GemLevelerEx
+2025-08-03 15:34:57,989 [13] INFO  Utility - [Initialize] pw
+2025-08-03 15:34:57,998 [13] INFO  Utility - [Initialize] ow
+2025-08-03 15:34:58,054 [13] INFO  Utility - [Initialize] ExPlugins.ItemFilterEx.ItemFilterEx
+2025-08-03 15:34:58,068 [13] INFO  Utility - [Initialize] dF
+2025-08-03 15:34:58,084 [13] INFO  Utility - [Initialize] IF
+2025-08-03 15:34:58,086 [13] INFO  Utility - [Initialize] ObjectExplorer.ObjectExplorer
+2025-08-03 15:34:58,106 [13] INFO  Utility - [Initialize] uF
+2025-08-03 15:34:58,138 [13] INFO  Utility - [Initialize] PatherExplorer.PatherExplorer
+2025-08-03 15:34:58,139 [13] INFO  Utility - [Initialize] yc
+2025-08-03 15:34:58,165 [13] INFO  Utility - [Initialize] ExPlugins.StashManager.StashManager
+2025-08-03 15:34:58,228 [13] INFO  Utility - [Initialize] Pc
+2025-08-03 15:34:58,229 [13] INFO  PluginManager - [Enable] Legacy.DevTab.DevTab
+2025-08-03 15:34:58,230 [13] INFO  PluginManager - [Enable] PluginLoader.PluginLoader
+2025-08-03 15:34:58,230 [13] INFO  PluginManager - [Enable] gw
+2025-08-03 15:34:58,231 [13] INFO  PluginManager - [Enable] pw
+2025-08-03 15:34:58,231 [13] INFO  PluginManager - [Enable] ObjectExplorer.ObjectExplorer
+2025-08-03 15:34:58,384 [1] DEBUG BotManagerGui - Current 'Bot' set to MapBotEx.
+2025-08-03 15:34:58,617 [1] DEBUG RoutineManagerGui - Current 'Routine' set to SqRoutine.
+2025-08-03 15:34:59,129 [1] DEBUG MoverManagerGui - Current 'PlayerMover' set to SkillPlayerMoverEx.
+2025-08-03 15:34:59,187 [13] INFO  BotWindow - Registering default Hotkeys:
+2025-08-03 15:34:59,190 [13] INFO  BotWindow - 
+GuideText
+GuideLink
+2025-08-03 15:34:59,232 [13] INFO  BotManager - [Start] Now creating the BotThread.
+2025-08-03 15:34:59,475 [35] INFO  BotManager - [Start] ExPlugins.MapBotEx.MapBotEx
+2025-08-03 15:34:59,478 [35] ERROR GlobalLog - [MapBotEx] Hotkey for opening portal not set! Consider setting it in config. [Ingame settings -> Input -> Portal]
+2025-08-03 15:34:59,480 [35] INFO  ItemEvaluator - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2025-08-03 15:34:59,663 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [MainUtilityTask] This task places any item left on the cursor into the inventory..
+2025-08-03 15:34:59,666 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LeaveAreaTask] Task to prematurely leave an area..
+2025-08-03 15:34:59,666 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AfkTask] Persistent AFK Task.
+2025-08-03 15:34:59,667 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HandleFollowersTask] Task to handle follower invites/kicks..
+2025-08-03 15:34:59,667 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HandleBlockingChestsTask] This task will handle breaking any blocking chests that interfere with movement..
+2025-08-03 15:34:59,668 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HandleBlockingObjectTask] Task that handles various blocking objects..
+2025-08-03 15:34:59,668 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [DeliriumTask] Task that handle delirium..
+2025-08-03 15:34:59,669 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask] This task executes routine logic for combat..
+2025-08-03 15:34:59,669 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [IdTask] Task that handles item identification..
+2025-08-03 15:34:59,669 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CastAuraTask] Task for casting auras before entering a map..
+2025-08-03 15:34:59,670 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AbyssTask] This task will follow Abyss nodes..
+2025-08-03 15:34:59,670 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [InteractTask] Task for opening chests, strongboxes and shrines..
+2025-08-03 15:34:59,671 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CorruptedAreaTask] Task that handles corrupted side areas..
+2025-08-03 15:34:59,671 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [SyndicateTask] SyndicateTask.
+2025-08-03 15:34:59,671 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [StashTask] Task that handles item stashing.
+2025-08-03 15:34:59,672 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [RestockCurrencyTask] Task that takes currency from stash if needed.
+2025-08-03 15:34:59,672 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AfflictionExplorationTask] Task that explores affliction league submap.
+2025-08-03 15:34:59,672 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HarvestTask] Task that handles harvest events on maps.
+2025-08-03 15:34:59,673 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [MapExplorationTask] Task that handles map exploration..
+2025-08-03 15:34:59,673 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [KillBossTask] Task for killing map boss..
+2025-08-03 15:34:59,673 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FinishMapTask] Task for leaving current map..
+2025-08-03 15:34:59,674 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AssignPantheonTask] This task assign pantheon as per configuration..
+2025-08-03 15:34:59,674 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [BuyMapsFromKiracTask] Task for buying maps from Kirac after missions..
+2025-08-03 15:34:59,675 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [SellTask] Task that handles item selling..
+2025-08-03 15:34:59,676 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [VendorTask] Task for exchanging various items with vendors..
+2025-08-03 15:34:59,677 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AtlasQuestsTask] Task for finishing Tangle quests..
+2025-08-03 15:34:59,677 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [SellMapTask] Task for selling maps.
+2025-08-03 15:34:59,678 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ReturnToMapTask] This task returns to opened map.
+2025-08-03 15:34:59,678 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TakeMapTask] Task for taking maps from the stash..
+2025-08-03 15:34:59,679 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [StartMapTask] Task for starting maps/simulacrums/etc via Map Device..
+2025-08-03 15:34:59,679 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FallbackTask] This task is the last task executed. It should not execute..
+2025-08-03 15:34:59,680 [35] INFO  PluginManager - [Start] Legacy.DevTab.DevTab
+2025-08-03 15:34:59,680 [35] INFO  PluginManager - [Start] PluginLoader.PluginLoader
+2025-08-03 15:34:59,681 [35] INFO  PluginManager - [Start] gw
+2025-08-03 15:34:59,681 [35] INFO  PluginManager - [Start] pw
+2025-08-03 15:34:59,687 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to True.
+2025-08-03 15:34:59,687 [35] INFO  PluginManager - [Start] ObjectExplorer.ObjectExplorer
+2025-08-03 15:34:59,689 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-03 15:34:59,690 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 5.
+2025-08-03 15:34:59,690 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to False.
+2025-08-03 15:34:59,691 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-03 15:34:59,690 [35] INFO  RoutineManager - [Start] Gc
+2025-08-03 15:34:59,691 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 4.
+2025-08-03 15:34:59,693 [29] DEBUG GlobalLog - [ComplexExplorer] Creating new level anchor {319, 181} (distance: 0)
+2025-08-03 15:34:59,694 [35] INFO  LokiPoe - [Input] InputEventDelayMs = 50.
+2025-08-03 15:34:59,695 [35] WARN  GlobalLog - [Start] MsBetweenTicks: 80.
+2025-08-03 15:34:59,695 [35] WARN  GlobalLog - [Start] InputEventDelay: 50.
+2025-08-03 15:34:59,695 [35] WARN  GlobalLog - [Start] KeyPickup: Disabled.
+2025-08-03 15:34:59,696 [35] WARN  GlobalLog - [Start] NetworkingMode: Auto.
+2025-08-03 15:34:59,696 [35] WARN  GlobalLog - [Start] ExPlugins Version: 1.6.11.7c
+2025-08-03 15:34:59,697 [35] ERROR GlobalLog - [SqRoutine] Key pickup set to: Disabled. Please set it to UseBoundKey
+2025-08-03 15:34:59,696 [29] WARN  GlobalLog - [CombatAreaCache] Created cache for "HideoutTwilightTemple:60" (hash: 3637974513)
+2025-08-03 15:34:59,697 [35] INFO  PlayerMoverManager - [PlayerMoverManager.Start] ExPlugins.SkillPlayerMoverEx.SkillPlayerMoverEx
+2025-08-03 15:34:59,703 [35] INFO  ExilePather - [ExilePather] BlockTrialOfAscendancy = Enabled.
+2025-08-03 15:34:59,704 [35] INFO  ExilePather - [ExilePather] BlockLockedDoors = Enabled.
+2025-08-03 15:34:59,719 [35] DEBUG GlobalLog - [MapBotEx] ExilePather is not ready yet.
+2025-08-03 15:34:59,838 [35] INFO  ExilePather - [ExilePather] Now creating the navmesh. [Force: False]
+2025-08-03 15:34:59,863 [35] INFO  ExilePather - [ExilePather] The navmesh has been created. Now waiting to be in game.
+2025-08-03 15:34:59,864 [35] INFO  ExilePather - [ExilePather] We are in game now, waiting area generation to complete for: Divided Hideout (HideoutTwilightTemple).
+2025-08-03 15:34:59,950 [35] INFO  ExilePather - [ExilePather] The pathfinder has been reloaded. Now calling 'CheckForUpdates'
+2025-08-03 15:34:59,966 [35] INFO  ExilePather - [ExilePather] Now calling 'FastWalkablePositionFor' to prime the library.
+2025-08-03 15:34:59,990 [35] INFO  ExilePather - [ExilePather] 'CheckForUpdates' has completed. ExilePather is now ready to use!
+2025-08-03 15:35:00,000 [35] INFO  GlobalLog - [Events] Area changed (null -> Divided Hideout:3637974513)
+2025-08-03 15:35:00,044 [35] INFO  GlobalLog - [CombatAreaCache] Resetting unwalkable flags on all cached objects.
+2025-08-03 15:35:00,068 [35] INFO  Dat - Now creating the ActiveSkills cache.
+2025-08-03 15:35:00,237 [35] WARN  GlobalLog - [SqRoutine] Castable skills:
+2025-08-03 15:35:00,238 [35] INFO  GlobalLog - ======================
+2025-08-03 15:35:00,282 [35] INFO  GlobalLog - [Kinetic Blast] | RButton | links: 6 | canUse: True
+2025-08-03 15:35:00,283 [35] INFO  GlobalLog - [Temporal Chains] | MButton | links: 1 | canUse: True
+2025-08-03 15:35:00,288 [35] INFO  GlobalLog - [Frostblink] | W | links: 1 | canUse: True
+2025-08-03 15:35:00,289 [35] INFO  GlobalLog - [Default Attack] | None | links: 1 | canUse: False
+2025-08-03 15:35:00,289 [35] INFO  GlobalLog - [Order: To me!] | None | links: 1 | canUse: False
+2025-08-03 15:35:00,299 [35] INFO  GlobalLog - [Vaal Haste] | E | links: 2 | canUse: False
+2025-08-03 15:35:00,300 [35] INFO  GlobalLog - [Shield Charge] | Q | links: 2 | canUse: True
+2025-08-03 15:35:00,301 [35] INFO  GlobalLog - ======================
+2025-08-03 15:35:00,312 [35] ERROR GlobalLog - Utility skills changed. Please check your SqRoutine settings and refresh vaal skills. Added skills:Temporal Chains
+2025-08-03 15:35:00,315 [35] INFO  BotManager - [Stop] Now requesting the BotThread to stop.
+2025-08-03 15:35:00,335 [35] INFO  GlobalLog - [CastAuraTask] Haste reserv: 33,82% Mana blacklisted: False
+2025-08-03 15:35:00,336 [35] INFO  GlobalLog - [CastAuraTask] Arctic Armour reserv: 18,38% Mana blacklisted: False
+2025-08-03 15:35:00,337 [35] INFO  GlobalLog - [CastAuraTask] Flesh and Stone reserv: 18,38% Mana blacklisted: False
+2025-08-03 15:35:00,337 [35] INFO  GlobalLog - [CastAuraTask] Herald of Ash reserv: 16,91% Mana blacklisted: False
+2025-08-03 15:35:00,337 [35] INFO  GlobalLog - [CastAuraTask] Tempest Shield reserv: 16,91% Mana blacklisted: False
+2025-08-03 15:35:00,338 [35] INFO  GlobalLog - [CastAuraTask] Clarity reserv: 12,35% Mana blacklisted: False
+2025-08-03 15:35:00,338 [35] INFO  GlobalLog - [CastAuraTask] Temporal Rift reserv: 8,82% Mana blacklisted: False
+2025-08-03 15:35:00,358 [35] WARN  GlobalLog - [SkillPlayerMoverEx] Skills refreshed!
+2025-08-03 15:35:00,442 [35] INFO  BotManager - [Stop] ExPlugins.MapBotEx.MapBotEx
+2025-08-03 15:35:00,445 [35] INFO  PluginManager - [Stop] Legacy.DevTab.DevTab
+2025-08-03 15:35:00,446 [35] INFO  PluginManager - [Stop] PluginLoader.PluginLoader
+2025-08-03 15:35:00,447 [35] INFO  PluginManager - [Stop] gw
+2025-08-03 15:35:00,574 [35] DEBUG GlobalLog - [ExPluginsAuthCore] Session closed
+2025-08-03 15:35:00,574 [35] INFO  PluginManager - [Stop] pw
+2025-08-03 15:35:00,575 [35] INFO  PluginManager - [Stop] ObjectExplorer.ObjectExplorer
+2025-08-03 15:35:00,576 [35] INFO  RoutineManager - [Stop] Gc
+2025-08-03 15:35:00,576 [35] WARN  GlobalLog - [Stop] ExPlugins Version: 1.6.11.7c
+2025-08-03 15:35:00,576 [35] INFO  PlayerMoverManager - [PlayerMoverManager.Stop] ExPlugins.SkillPlayerMoverEx.SkillPlayerMoverEx
+2025-08-03 15:35:01,580 [35] ERROR BotManager - [Stop] Exception during execution:
+DreamPoeBot.Loki.Coroutine.CoroutineStoppedException: Coroutine was stopped
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Class66.method_1()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Struct16.System.Runtime.CompilerServices.IAsyncStateMachine.MoveNext()
+   в System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   в System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   в System.Runtime.CompilerServices.AsyncMethodBuilderCore.MoveNextRunner.Run()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Dispose()
+   в ExPlugins.MapBotEx.MapBotEx.Stop() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 183
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_StopEvents(IBot ibot_1)
+2025-08-03 15:35:01,580 [35] DEBUG BotManager - [BotThreadFunction] An InjectionDesyncException was detected. DreamPoeBot.Loki.Coroutine.CoroutineStoppedException: Coroutine was stopped
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Class66.method_1()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Struct16.System.Runtime.CompilerServices.IAsyncStateMachine.MoveNext()
+   в System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   в System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   в System.Runtime.CompilerServices.AsyncMethodBuilderCore.MoveNextRunner.Run()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Dispose()
+   в ExPlugins.MapBotEx.MapBotEx.Stop() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 183
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_StopEvents(IBot ibot_1)
+   в DreamPoeBot.Loki.Bot.BotManager.BotThreadFunction()
+2025-08-03 15:35:01,581 [35] DEBUG BotManager - [StopReason] utility_skills_changed => Utility skills changed. Please check your SqRoutine settings and refresh vaal skills. Added skills:Temporal Chains
+2025-08-03 15:35:42,698 [1] DEBUG GlobalLog - Kinetic Blast
+2025-08-03 15:35:42,699 [1] DEBUG GlobalLog - Shield Charge
+2025-08-03 15:35:42,699 [1] DEBUG GlobalLog - Move
+2025-08-03 15:35:42,699 [1] DEBUG GlobalLog - Frostblink
+2025-08-03 15:35:42,700 [1] DEBUG GlobalLog - Temporal Chains
+2025-08-03 15:36:40,152 [1] DEBUG GlobalLog - Kinetic Blast
+2025-08-03 15:36:40,153 [1] DEBUG GlobalLog - Shield Charge
+2025-08-03 15:36:40,153 [1] DEBUG GlobalLog - Move
+2025-08-03 15:36:40,153 [1] DEBUG GlobalLog - Frostblink
+2025-08-03 15:36:40,154 [1] DEBUG GlobalLog - Temporal Chains
+2025-08-03 15:36:56,077 [1] INFO  BotManager - [Start] Now creating the BotThread.
+2025-08-03 15:36:56,235 [37] INFO  BotManager - [Start] ExPlugins.MapBotEx.MapBotEx
+2025-08-03 15:36:56,235 [37] ERROR GlobalLog - [MapBotEx] Hotkey for opening portal not set! Consider setting it in config. [Ingame settings -> Input -> Portal]
+2025-08-03 15:36:56,235 [37] INFO  ItemEvaluator - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2025-08-03 15:36:56,343 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [MainUtilityTask] This task places any item left on the cursor into the inventory..
+2025-08-03 15:36:56,343 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LeaveAreaTask] Task to prematurely leave an area..
+2025-08-03 15:36:56,343 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AfkTask] Persistent AFK Task.
+2025-08-03 15:36:56,344 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HandleFollowersTask] Task to handle follower invites/kicks..
+2025-08-03 15:36:56,344 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HandleBlockingChestsTask] This task will handle breaking any blocking chests that interfere with movement..
+2025-08-03 15:36:56,344 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HandleBlockingObjectTask] Task that handles various blocking objects..
+2025-08-03 15:36:56,345 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [DeliriumTask] Task that handle delirium..
+2025-08-03 15:36:56,345 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask] This task executes routine logic for combat..
+2025-08-03 15:36:56,345 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [IdTask] Task that handles item identification..
+2025-08-03 15:36:56,348 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CastAuraTask] Task for casting auras before entering a map..
+2025-08-03 15:36:56,349 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AbyssTask] This task will follow Abyss nodes..
+2025-08-03 15:36:56,349 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [InteractTask] Task for opening chests, strongboxes and shrines..
+2025-08-03 15:36:56,350 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CorruptedAreaTask] Task that handles corrupted side areas..
+2025-08-03 15:36:56,351 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [SyndicateTask] SyndicateTask.
+2025-08-03 15:36:56,351 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [StashTask] Task that handles item stashing.
+2025-08-03 15:36:56,352 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [RestockCurrencyTask] Task that takes currency from stash if needed.
+2025-08-03 15:36:56,352 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AfflictionExplorationTask] Task that explores affliction league submap.
+2025-08-03 15:36:56,353 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HarvestTask] Task that handles harvest events on maps.
+2025-08-03 15:36:56,353 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [MapExplorationTask] Task that handles map exploration..
+2025-08-03 15:36:56,354 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [KillBossTask] Task for killing map boss..
+2025-08-03 15:36:56,354 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FinishMapTask] Task for leaving current map..
+2025-08-03 15:36:56,355 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AssignPantheonTask] This task assign pantheon as per configuration..
+2025-08-03 15:36:56,355 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [BuyMapsFromKiracTask] Task for buying maps from Kirac after missions..
+2025-08-03 15:36:56,356 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [SellTask] Task that handles item selling..
+2025-08-03 15:36:56,356 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [VendorTask] Task for exchanging various items with vendors..
+2025-08-03 15:36:56,357 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AtlasQuestsTask] Task for finishing Tangle quests..
+2025-08-03 15:36:56,357 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [SellMapTask] Task for selling maps.
+2025-08-03 15:36:56,358 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ReturnToMapTask] This task returns to opened map.
+2025-08-03 15:36:56,358 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TakeMapTask] Task for taking maps from the stash..
+2025-08-03 15:36:56,358 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [StartMapTask] Task for starting maps/simulacrums/etc via Map Device..
+2025-08-03 15:36:56,359 [37] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FallbackTask] This task is the last task executed. It should not execute..
+2025-08-03 15:36:56,359 [37] INFO  PluginManager - [Start] Legacy.DevTab.DevTab
+2025-08-03 15:36:56,359 [37] INFO  PluginManager - [Start] PluginLoader.PluginLoader
+2025-08-03 15:36:56,359 [37] INFO  PluginManager - [Start] gw
+2025-08-03 15:36:56,359 [37] INFO  PluginManager - [Start] pw
+2025-08-03 15:36:56,360 [37] INFO  PluginManager - [Start] ObjectExplorer.ObjectExplorer
+2025-08-03 15:36:56,360 [37] INFO  RoutineManager - [Start] Gc
+2025-08-03 15:36:56,360 [37] INFO  LokiPoe - [Input] InputEventDelayMs = 50.
+2025-08-03 15:36:56,361 [37] WARN  GlobalLog - [Start] MsBetweenTicks: 80.
+2025-08-03 15:36:56,361 [37] WARN  GlobalLog - [Start] InputEventDelay: 50.
+2025-08-03 15:36:56,361 [37] WARN  GlobalLog - [Start] KeyPickup: Disabled.
+2025-08-03 15:36:56,361 [37] WARN  GlobalLog - [Start] NetworkingMode: Auto.
+2025-08-03 15:36:56,362 [37] WARN  GlobalLog - [Start] ExPlugins Version: 1.6.11.7c
+2025-08-03 15:36:56,362 [37] ERROR GlobalLog - [SqRoutine] Key pickup set to: Disabled. Please set it to UseBoundKey
+2025-08-03 15:36:56,362 [37] INFO  PlayerMoverManager - [PlayerMoverManager.Start] ExPlugins.SkillPlayerMoverEx.SkillPlayerMoverEx
+2025-08-03 15:36:56,446 [37] DEBUG GlobalLog - [PoeNinjaTracker] Loading item prices for Mercenaries
+2025-08-03 15:36:56,670 [37] DEBUG GlobalLog - [PoeNinjaTracker] Loaded prices from ExPluginsCache/ItemDumps-1.6.11.7c/PriceBackup_Mercenaries.json
+2025-08-03 15:36:56,670 [37] DEBUG GlobalLog - [PoeNinjaTracker] Currencies count: 112
+2025-08-03 15:36:56,671 [37] DEBUG GlobalLog - [PoeNinjaTracker] Fragments count: 85
+2025-08-03 15:36:56,671 [37] DEBUG GlobalLog - [PoeNinjaTracker] Gems count: 7202
+2025-08-03 15:36:56,671 [37] DEBUG GlobalLog - [PoeNinjaTracker] Clusters count: 850
+2025-08-03 15:36:56,671 [37] DEBUG GlobalLog - [PoeNinjaTracker] Uniques items count: 1702
+2025-08-03 15:36:56,672 [37] DEBUG GlobalLog - [PoeNinjaTracker] Rest items count: 1958
+2025-08-03 15:36:56,691 [37] WARN  GlobalLog - [SqRoutine] Castable skills:
+2025-08-03 15:36:56,691 [37] INFO  GlobalLog - ======================
+2025-08-03 15:36:56,693 [37] INFO  GlobalLog - [Kinetic Blast] | RButton | links: 6 | canUse: True
+2025-08-03 15:36:56,693 [37] INFO  GlobalLog - [Temporal Chains] | MButton | links: 1 | canUse: True
+2025-08-03 15:36:56,694 [37] INFO  GlobalLog - [Frostblink] | W | links: 1 | canUse: True
+2025-08-03 15:36:56,694 [37] INFO  GlobalLog - [Default Attack] | None | links: 1 | canUse: False
+2025-08-03 15:36:56,694 [37] INFO  GlobalLog - [Order: To me!] | None | links: 1 | canUse: False
+2025-08-03 15:36:56,695 [37] INFO  GlobalLog - [Vaal Haste] | E | links: 2 | canUse: False
+2025-08-03 15:36:56,695 [37] INFO  GlobalLog - [Shield Charge] | Q | links: 2 | canUse: True
+2025-08-03 15:36:56,695 [37] INFO  GlobalLog - ======================
+2025-08-03 15:36:56,700 [37] INFO  GlobalLog - [CastAuraTask] Haste reserv: 33,82% Mana blacklisted: False
+2025-08-03 15:36:56,701 [37] INFO  GlobalLog - [CastAuraTask] Arctic Armour reserv: 18,38% Mana blacklisted: False
+2025-08-03 15:36:56,701 [37] INFO  GlobalLog - [CastAuraTask] Flesh and Stone reserv: 18,38% Mana blacklisted: False
+2025-08-03 15:36:56,701 [37] INFO  GlobalLog - [CastAuraTask] Herald of Ash reserv: 16,91% Mana blacklisted: False
+2025-08-03 15:36:56,701 [37] INFO  GlobalLog - [CastAuraTask] Tempest Shield reserv: 16,91% Mana blacklisted: False
+2025-08-03 15:36:56,701 [37] INFO  GlobalLog - [CastAuraTask] Clarity reserv: 12,35% Mana blacklisted: False
+2025-08-03 15:36:56,702 [37] INFO  GlobalLog - [CastAuraTask] Temporal Rift reserv: 8,82% Mana blacklisted: False
+2025-08-03 15:36:56,703 [37] WARN  GlobalLog - [SkillPlayerMoverEx] Skills refreshed!
+2025-08-03 15:36:56,790 [37] DEBUG GlobalLog - [MainUtilityTask] Opening map
+2025-08-03 15:36:56,793 [37] INFO  LokiPoe - [InjectKeyEvent1] 111 ms sleep for 9.
+2025-08-03 15:36:57,137 [37] INFO  GlobalLog - Phoenix Ward
+2025-08-03 15:36:57,138 [37] INFO  GlobalLog - Warped Timepiece
+2025-08-03 15:36:57,142 [37] INFO  GlobalLog - Rage Spire
+2025-08-03 15:36:57,142 [37] INFO  GlobalLog - Esh's Mirror
+2025-08-03 15:36:57,143 [37] INFO  GlobalLog - Nimis
+2025-08-03 15:36:57,144 [37] INFO  GlobalLog - Death Rush
+2025-08-03 15:36:57,144 [37] INFO  GlobalLog - Inpulsa's Broken Heart
+2025-08-03 15:36:57,145 [37] INFO  GlobalLog - Headhunter
+2025-08-03 15:36:57,146 [37] INFO  GlobalLog - Cataclysm Fist
+2025-08-03 15:36:57,146 [37] INFO  GlobalLog - Replica Voidwalker
+2025-08-03 15:36:57,155 [37] INFO  GlobalLog - Alchemist's Diamond Flask of the Cheetah
+2025-08-03 15:36:57,155 [37] WARN  GlobalLog - [MainUtilityTask] Equipped items updated
+2025-08-03 15:36:57,271 [37] DEBUG GlobalLog - [MainUtilityTask] Initializing chat.
+2025-08-03 15:36:57,344 [37] INFO  LokiPoe - [InjectKeyEvent1] 77 ms sleep for 13.
+2025-08-03 15:36:59,490 [11] DEBUG GlobalLog - [ExPluginsAuthCore] Session closed
+2025-08-03 15:36:59,721 [37] WARN  GlobalLog - [MainUtilityTask] Should check map device!
+2025-08-03 15:36:59,729 [37] DEBUG GlobalLog - [OpenMapDevice] Found MTX map device [Metadata/MapDevices/BellTowerMapDevice/BellTowerMapDeviceSound.ao]. Making adjustments!
+2025-08-03 15:37:00,808 [37] DEBUG GlobalLog - [WaitFor] Wait for Map Device opening success after 0,83 sec
+2025-08-03 15:37:00,809 [37] DEBUG GlobalLog - [OpenMapDevice] Map Device has been successfully opened.
+2025-08-03 15:37:00,922 [37] DEBUG GlobalLog - [MainUtilityTask] Need to fully cache stash.
+2025-08-03 15:37:00,928 [37] DEBUG GlobalLog - [OpenStash] Opening stash.
+2025-08-03 15:37:00,937 [37] INFO  Dat - Now creating the MinimapIcons cache.
+2025-08-03 15:37:00,953 [37] INFO  LokiPoe - [InjectKeyEvent1] 71 ms sleep for 27.
+2025-08-03 15:37:01,145 [37] DEBUG GlobalLog - [MoveAtOnce] Moving to Stash at {242, 193} (distance: 158)
+2025-08-03 15:37:01,147 [37] DEBUG GlobalLog - [MoveTowards] Moving towards Stash at {242, 193} (distance: 158)
+2025-08-03 15:37:01,345 [37] WARN  GlobalLog - [SkillPlayerMoverEx] Found MoveOnly at slot 8!
+2025-08-03 15:37:01,409 [37] INFO  LokiPoe - [InjectKeyEvent1] 61 ms sleep for 84.
+2025-08-03 15:37:02,148 [37] DEBUG GlobalLog - [MoveAtOnce] Moving to Stash at {242, 193} (distance: 102,6824)
+2025-08-03 15:37:02,149 [37] DEBUG GlobalLog - [MoveTowards] Moving towards Stash at {242, 193} (distance: 102)
+2025-08-03 15:37:03,180 [37] DEBUG GlobalLog - [MoveAtOnce] Moving to Stash at {242, 193} (distance: 12,59455)
+2025-08-03 15:37:03,180 [37] DEBUG GlobalLog - [MoveTowards] Moving towards Stash at {242, 193} (distance: 12)
+2025-08-03 15:37:04,017 [37] DEBUG GlobalLog - [SetupTabsTask] Currency tab: Cur
+2025-08-03 15:37:04,018 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Cur => 3. [MainUtilityTask]
+2025-08-03 15:37:04,043 [37] INFO  LokiPoe - [InjectKeyEvent1] 122 ms sleep for 39.
+2025-08-03 15:37:04,636 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 3 => 4. [MainUtilityTask]
+2025-08-03 15:37:05,097 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 4 => 5. [MainUtilityTask]
+2025-08-03 15:37:05,528 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 5 => 6. [MainUtilityTask]
+2025-08-03 15:37:05,921 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 6 => 7. [MainUtilityTask]
+2025-08-03 15:37:06,414 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 7 => 8. [MainUtilityTask]
+2025-08-03 15:37:06,915 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 8 => 9. [MainUtilityTask]
+2025-08-03 15:37:07,417 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 9 => $$. [MainUtilityTask]
+2025-08-03 15:37:07,644 [37] DEBUG GlobalLog - [SetupTabsTask] Public tab: $$
+2025-08-03 15:37:07,955 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: $$ => $$$. [MainUtilityTask]
+2025-08-03 15:37:08,214 [37] DEBUG GlobalLog - [SetupTabsTask] Public tab: $$$
+2025-08-03 15:37:08,453 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: $$$ => $. [MainUtilityTask]
+2025-08-03 15:37:08,630 [37] DEBUG GlobalLog - [SetupTabsTask] Public tab: $
+2025-08-03 15:37:08,865 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: $ => 2. [MainUtilityTask]
+2025-08-03 15:37:09,625 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 2 => Fragment. [MainUtilityTask]
+2025-08-03 15:37:09,862 [37] DEBUG GlobalLog - [SetupTabsTask] Public tab: Fragment
+2025-08-03 15:37:10,162 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Fragment => Map. [MainUtilityTask]
+2025-08-03 15:37:10,631 [37] DEBUG GlobalLog - 19:Baran, The Crusader slots: 60
+2025-08-03 15:37:10,970 [37] DEBUG GlobalLog - 19:Baran, The Crusader slots: 0
+2025-08-03 15:37:10,987 [37] WARN  GlobalLog - [CacheMapTabs] Atlas exploration enabled. Checking all tiers
+2025-08-03 15:37:11,619 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Veritania, The Redeemer] success after 0,46 sec
+2025-08-03 15:37:12,205 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Al-Hezmin, The Hunter] success after 0,46 sec
+2025-08-03 15:37:12,728 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Drox, The Warlord] success after 0,37 sec
+2025-08-03 15:37:13,144 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [The Enslaver] success after 0,28 sec
+2025-08-03 15:37:13,652 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [The Eradicator] success after 0,37 sec
+2025-08-03 15:37:14,255 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [The Constrictor] success after 0,46 sec
+2025-08-03 15:37:14,668 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [The Purifier] success after 0,27 sec
+2025-08-03 15:37:15,177 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Pit of the Chimera] success after 0,37 sec
+2025-08-03 15:37:15,793 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Lair of the Hydra] success after 0,46 sec
+2025-08-03 15:37:16,394 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Forge of the Phoenix] success after 0,46 sec
+2025-08-03 15:37:16,887 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Maze of the Minotaur] success after 0,37 sec
+2025-08-03 15:37:17,456 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Valdo's Puzzle Box] success after 0,46 sec
+2025-08-03 15:37:17,518 [37] INFO  GlobalLog - [CacheMapTabs] Adding info for T19 : [163][Baran, The Crusader|Veritania, The Redeemer|Al-Hezmin, The Hunter|Drox, The Warlord|The Enslaver|The Eradicator|The Constrictor|The Purifier|Pit of the Chimera|Lair of the Hydra|Forge of the Phoenix|Maze of the Minotaur|Valdo's Puzzle Box]
+2025-08-03 15:37:18,164 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Dunes Map] success after 0,37 sec
+2025-08-03 15:37:18,765 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Jungle Valley Map] success after 0,46 sec
+2025-08-03 15:37:19,304 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Toxic Sewer Map] success after 0,37 sec
+2025-08-03 15:37:19,366 [37] INFO  GlobalLog - [CacheMapTabs] Adding info for T16 : [115][Dunes|Jungle Valley|Toxic Sewer]
+2025-08-03 15:37:19,966 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Abomination Map] success after 0,46 sec
+2025-08-03 15:37:20,459 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Citadel Map] success after 0,37 sec
+2025-08-03 15:37:20,969 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Fortress Map] success after 0,37 sec
+2025-08-03 15:37:21,537 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Sanctuary Map] success after 0,37 sec
+2025-08-03 15:37:22,046 [37] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Ziggurat Map] success after 0,37 sec
+2025-08-03 15:37:22,103 [37] INFO  GlobalLog - [CacheMapTabs] Adding info for T17 : [154][Abomination|Citadel|Fortress|Sanctuary|Ziggurat]
+2025-08-03 15:37:22,110 [37] WARN  GlobalLog - [CacheMapTabs] Map tab Map cached successfully.
+2025-08-03 15:37:22,111 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Map => Ess. [MainUtilityTask]
+2025-08-03 15:37:22,583 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Ess => 1. [MainUtilityTask]
+2025-08-03 15:37:23,062 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 1 => GEM. [MainUtilityTask]
+2025-08-03 15:37:23,490 [37] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-03 15:37:23,491 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: GEM => Divination. [MainUtilityTask]
+2025-08-03 15:37:23,889 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Divination => Oil. [MainUtilityTask]
+2025-08-03 15:37:24,455 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Oil => 11. [MainUtilityTask]
+2025-08-03 15:37:25,311 [37] WARN  GlobalLog - Tabs amount: 20
+2025-08-03 15:37:25,430 [37] DEBUG TaskManagerBase<ITask> - [Remove] Now removing [HandleFollowersTask].
+2025-08-03 15:37:25,431 [37] DEBUG GlobalLog - [Remove HandleFollowersTask success.
+2025-08-03 15:37:25,494 [37] INFO  GlobalLog - [CastAuraTask] Found 1 aura(s) for casting.
+2025-08-03 15:37:25,586 [37] ERROR GlobalLog - [CastAuraTask] We cannot cast [Haste] because Max Mana (858) - actual reserved (681,25) - cost (290,18) - reserved (106) = (-219,4301) < 0.. Temporarily ignoring it.
+2025-08-03 15:37:25,741 [37] DEBUG GlobalLog - [OpenStash] Opening stash.
+2025-08-03 15:37:26,078 [37] DEBUG GlobalLog - [StashTask] All tabs specified in stashing rules exist in stash.
+2025-08-03 15:37:26,084 [37] DEBUG GlobalLog - [RestockCurrencyTask] Restock is needed for "Ritual Vessel". Current count: 0. Count to restock: 4. In stash: 42.
+2025-08-03 15:37:26,085 [37] DEBUG GlobalLog - [RestockCurrencyTask] Now going to restock "Ritual Vessel".
+2025-08-03 15:37:26,091 [37] DEBUG GlobalLog - [FindTabWithItem] Found 42 Ritual Vessel in Fragment
+2025-08-03 15:37:26,093 [37] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 11 => Fragment. [WithdrawItem]
+2025-08-03 15:37:26,122 [37] INFO  LokiPoe - [InjectKeyEvent1] 90 ms sleep for 37.
+2025-08-03 15:37:27,944 [37] DEBUG GlobalLog - [FastMoveCustomTabItem] Fast moving "Ritual Vessel" from "Fragment" tab.
+2025-08-03 15:37:28,170 [37] DEBUG GlobalLog - [WaitFor] Wait for fast move from premium stash tab success after 0,09 sec
+2025-08-03 15:37:28,474 [37] ERROR GlobalLog - [ReturnToMapTask] Can't find any active map portal!
+2025-08-03 15:37:28,624 [37] DEBUG GlobalLog - [StartMapTask] Should run Kirac mission!
+2025-08-03 15:37:28,630 [37] DEBUG GlobalLog - [TryTo] Open Map Device attempt: 1/3
+2025-08-03 15:37:28,725 [37] DEBUG GlobalLog - [OpenMapDevice] Found MTX map device [Metadata/MapDevices/BellTowerMapDevice/BellTowerMapDeviceSound.ao]. Making adjustments!
+2025-08-03 15:37:28,726 [37] DEBUG GlobalLog - [MoveAtOnce] Moving to Map Device at {395, 134} (distance: 165)
+2025-08-03 15:37:28,727 [37] DEBUG GlobalLog - [MoveTowards] Moving towards Map Device at {395, 134} (distance: 165)
+2025-08-03 15:37:29,063 [37] DEBUG GlobalLog - [MoveTowards] Moving towards Map Device at {395, 134} (distance: 145)
+2025-08-03 15:37:29,741 [37] DEBUG GlobalLog - [MoveAtOnce] Moving to Map Device at {395, 134} (distance: 84,37447)
+2025-08-03 15:37:30,095 [37] DEBUG GlobalLog - [MoveTowards] Moving towards Map Device at {395, 134} (distance: 53)
+2025-08-03 15:37:30,742 [37] DEBUG GlobalLog - [MoveAtOnce] Moving to Map Device at {395, 134} (distance: 0)
+2025-08-03 15:37:31,126 [37] DEBUG GlobalLog - [OpenMapDevice] Map Device has been successfully opened.
+2025-08-03 15:37:31,326 [37] WARN  GlobalLog - [StartMapTask] Kirac mission UI opened.
+2025-08-03 15:37:31,331 [37] DEBUG GlobalLog - [Colosseum Map] Affix: Ceremonial is not banned
+2025-08-03 15:37:31,331 [37] DEBUG GlobalLog - [Colosseum Map] Affix: of Endurance is not banned
+2025-08-03 15:37:31,332 [37] DEBUG GlobalLog - [Colosseum Map] Affix: Multifarious is not banned
+2025-08-03 15:37:31,332 [37] DEBUG GlobalLog - [Colosseum Map] Affix: Chaining is not banned
+2025-08-03 15:37:31,333 [37] DEBUG GlobalLog - [Belfry Map] Affix: Armoured is not banned
+2025-08-03 15:37:31,334 [37] DEBUG GlobalLog - [Belfry Map] Affix: Fecund is not banned
+2025-08-03 15:37:31,334 [37] DEBUG GlobalLog - [Belfry Map] Affix: Antagonist's is not banned
+2025-08-03 15:37:31,335 [37] DEBUG GlobalLog - [Belfry Map] Affix: Shocking is not banned
+2025-08-03 15:37:31,335 [37] DEBUG GlobalLog - [Belfry Map] Affix: of Stasis is not banned
+2025-08-03 15:37:31,336 [37] DEBUG GlobalLog - [Belfry Map] Affix: of Enervation is not banned
+2025-08-03 15:37:31,336 [37] DEBUG GlobalLog - [Belfry Map] Affix: of Impedance is not banned
+2025-08-03 15:37:31,336 [37] DEBUG GlobalLog - [Belfry Map] Affix: of Carnage is not banned
+2025-08-03 15:37:31,337 [37] DEBUG GlobalLog - [Bazaar Map] Affix: Savage is not banned
+2025-08-03 15:37:31,337 [37] DEBUG GlobalLog - [Bazaar Map] Affix: of Frenzy is not banned
+2025-08-03 15:37:31,338 [37] DEBUG GlobalLog - [Bazaar Map] Affix: Freezing is not banned
+2025-08-03 15:37:31,338 [37] DEBUG GlobalLog - [Bazaar Map] Affix: Overlord's is not banned
+2025-08-03 15:37:31,339 [37] DEBUG GlobalLog - [Cursed Crypt Map] Affix: of Vulnerability is not banned
+2025-08-03 15:37:31,339 [37] DEBUG GlobalLog - [Cursed Crypt Map] Affix: Shocking is not banned
+2025-08-03 15:37:31,340 [37] DEBUG GlobalLog - [Cursed Crypt Map] Affix: of Toughness is not banned
+2025-08-03 15:37:31,340 [37] DEBUG GlobalLog - [Cursed Crypt Map] Affix: Armoured is not banned
+2025-08-03 15:37:31,341 [37] DEBUG GlobalLog - [Cursed Crypt Map] Affix: of Giants is not banned
+2025-08-03 15:37:31,344 [37] DEBUG GlobalLog - [Wharf Map] Affix: of Consecration is not banned
+2025-08-03 15:37:31,345 [37] DEBUG GlobalLog - [Wharf Map] Affix: Burning is not banned
+2025-08-03 15:37:31,345 [37] DEBUG GlobalLog - [Wharf Map] Affix: Ceremonial is not banned
+2025-08-03 15:37:31,346 [37] DEBUG GlobalLog - [Wharf Map] Affix: of Fatigue is not banned
+2025-08-03 15:37:31,346 [37] DEBUG GlobalLog - [Wharf Map] Affix: of Enfeeblement is not banned
+2025-08-03 15:37:31,346 [37] DEBUG GlobalLog - [Wharf Map] Affix: Enthralled is not banned
+2025-08-03 15:37:31,347 [37] DEBUG GlobalLog - [Park Map] Affix: of Exposure is not banned
+2025-08-03 15:37:31,347 [37] DEBUG GlobalLog - [Park Map] Affix: Overlord's is not banned
+2025-08-03 15:37:31,347 [37] DEBUG GlobalLog - [Park Map] Affix: Punishing is not banned
+2025-08-03 15:37:31,348 [37] DEBUG GlobalLog - [Park Map] Affix: of Imprecision is not banned
+2025-08-03 15:37:31,348 [37] DEBUG GlobalLog - [Park Map] Affix: Mirrored is not banned
+2025-08-03 15:37:31,349 [37] DEBUG GlobalLog - [Colosseum Map] Affix: Profane is not banned
+2025-08-03 15:37:31,349 [37] DEBUG GlobalLog - [Colosseum Map] Affix: Hexproof is not banned
+2025-08-03 15:37:31,350 [37] DEBUG GlobalLog - [Colosseum Map] Affix: Freezing is not banned
+2025-08-03 15:37:31,350 [37] DEBUG GlobalLog - [Colosseum Map] Affix: of Miring is not banned
+2025-08-03 15:37:31,350 [37] DEBUG GlobalLog - [Maze Map] Affix: Twinned is not banned
+2025-08-03 15:37:31,351 [37] DEBUG GlobalLog - [Maze Map] Affix: Antagonist's is not banned
+2025-08-03 15:37:31,351 [37] DEBUG GlobalLog - [Maze Map] Affix: Savage is not banned
+2025-08-03 15:37:31,351 [37] DEBUG GlobalLog - [Maze Map] Affix: Mirrored is not banned
+2025-08-03 15:37:31,352 [37] DEBUG GlobalLog - [Maze Map] Affix: of Venom is not banned
+2025-08-03 15:37:31,352 [37] DEBUG GlobalLog - [Maze Map] Affix: of Enfeeblement is not banned
+2025-08-03 15:37:31,352 [37] DEBUG GlobalLog - [Maze Map] Affix: of Impotence is not banned
+2025-08-03 15:37:31,353 [37] DEBUG GlobalLog - [Maze Map] Affix: of Congealment is not banned
+2025-08-03 15:37:31,353 [37] DEBUG GlobalLog - [Peninsula Map] Affix: Chaining is not banned
+2025-08-03 15:37:31,353 [37] DEBUG GlobalLog - [Peninsula Map] Affix: of Venom is not banned
+2025-08-03 15:37:31,354 [37] DEBUG GlobalLog - [Peninsula Map] Affix: Empowered is not banned
+2025-08-03 15:37:31,354 [37] DEBUG GlobalLog - [Peninsula Map] Affix: of Temporal Chains is not banned
+2025-08-03 15:37:31,355 [37] DEBUG GlobalLog - [Cursed Crypt Map] Affix: of Rust is not banned
+2025-08-03 15:37:31,355 [37] DEBUG GlobalLog - [Cursed Crypt Map] Affix: of Elemental Weakness is not banned
+2025-08-03 15:37:31,356 [37] DEBUG GlobalLog - [Cursed Crypt Map] Affix: Fecund is not banned
+2025-08-03 15:37:31,356 [37] DEBUG GlobalLog - [Cursed Crypt Map] Affix: Unstoppable is not banned
+2025-08-03 15:37:31,357 [37] DEBUG GlobalLog - [Racecourse Map] Affix: of Stasis is not banned
+2025-08-03 15:37:31,357 [37] DEBUG GlobalLog - [Racecourse Map] Affix: Freezing is not banned
+2025-08-03 15:37:31,357 [37] DEBUG GlobalLog - [Racecourse Map] Affix: Armoured is not banned
+2025-08-03 15:37:31,362 [37] DEBUG GlobalLog - [Racecourse Map] Affix: of Rust is not banned
+2025-08-03 15:37:31,404 [37] WARN  GlobalLog - [StartMapTask] Map of choice: [Untouched Bank Park Map prio: 10048] tier: 16 rarity Rare
+2025-08-03 15:37:32,143 [37] DEBUG GlobalLog - [StartMapTask] Successfully switched map!
+2025-08-03 15:37:32,496 [37] WARN  GlobalLog - [StartMapTask] Successfully activated Kirac mission map!
+2025-08-03 15:37:32,774 [37] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (0,27/11,4)
+2025-08-03 15:37:33,051 [37] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (0,55/11,4)
+2025-08-03 15:37:33,328 [37] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (0,83/11,4)
+2025-08-03 15:37:33,605 [37] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (1,1/11,4)
+2025-08-03 15:37:33,882 [37] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (1,38/11,4)
+2025-08-03 15:37:34,159 [37] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (1,66/11,4)
+2025-08-03 15:37:34,437 [37] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (1,93/11,4)
+2025-08-03 15:37:34,438 [37] DEBUG GlobalLog - [WaitFor] Wait for portal spawn success after 1,94 sec
+2025-08-03 15:37:34,469 [37] WARN  GlobalLog - Portal: [Park] at {395, 153} (distance: 19) found. Taking it!
+2025-08-03 15:37:35,950 [37] DEBUG GlobalLog - [TakePortal] Now going to take [Park] at {395, 153} (distance: 19)
+2025-08-03 15:37:37,070 [37] DEBUG GlobalLog - [WaitFor] Wait for Loading screen success after 0,92 sec
+2025-08-03 15:37:37,162 [37] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 15:37:38,270 [37] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 15:37:39,441 [37] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 15:37:40,549 [37] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 15:37:41,535 [29] WARN  GlobalLog - [ComplexExplorer] Initializing Explorer for: Park:3271297708. [03.08.2025 15:37:41]
+2025-08-03 15:37:41,537 [29] DEBUG GlobalLog - [MapData] Name: Park
+2025-08-03 15:37:41,537 [29] DEBUG GlobalLog - [MapData] Type: Regular
+2025-08-03 15:37:41,538 [29] DEBUG GlobalLog - [MapData] Monster remaining: 20
+2025-08-03 15:37:41,538 [29] DEBUG GlobalLog - [MapData] Exploration percent: 85
+2025-08-03 15:37:41,539 [29] DEBUG GlobalLog - [MapData] BossRush: False
+2025-08-03 15:37:41,539 [29] DEBUG GlobalLog - [MapData] Fast transition: False
+2025-08-03 15:37:41,539 [29] DEBUG GlobalLog - [MapData] Final pulses: -1
+2025-08-03 15:37:41,539 [29] DEBUG GlobalLog - [MapData] Bosses: Suncaller Asha
+2025-08-03 15:37:41,540 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to True.
+2025-08-03 15:37:41,540 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-03 15:37:41,540 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 5.
+2025-08-03 15:37:41,540 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to False.
+2025-08-03 15:37:41,541 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-03 15:37:41,541 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 4.
+2025-08-03 15:37:41,541 [29] DEBUG GlobalLog - [ComplexExplorer] Creating new level anchor {930, 1582} (distance: 0)
+2025-08-03 15:37:41,541 [29] WARN  GlobalLog - [CombatAreaCache] Created cache for "MapWorldsPark:80" (hash: 3271297708)
+2025-08-03 15:37:41,563 [29] INFO  GlobalLog - [LeaveAreaTask] Reset.
+2025-08-03 15:37:41,564 [29] WARN  GlobalLog - [HarvestTask] Reset.
+2025-08-03 15:37:41,564 [29] INFO  GlobalLog - [MapExplorationTask] Reset.
+2025-08-03 15:37:41,565 [29] DEBUG GlobalLog - [MapData] Name: Park
+2025-08-03 15:37:41,565 [29] DEBUG GlobalLog - [MapData] Type: Regular
+2025-08-03 15:37:41,566 [29] DEBUG GlobalLog - [MapData] Monster remaining: 20
+2025-08-03 15:37:41,566 [29] DEBUG GlobalLog - [MapData] Exploration percent: 85
+2025-08-03 15:37:41,566 [29] DEBUG GlobalLog - [MapData] BossRush: False
+2025-08-03 15:37:41,567 [29] DEBUG GlobalLog - [MapData] Fast transition: False
+2025-08-03 15:37:41,567 [29] DEBUG GlobalLog - [MapData] Final pulses: -1
+2025-08-03 15:37:41,567 [29] DEBUG GlobalLog - [MapData] Bosses: Suncaller Asha
+2025-08-03 15:37:41,568 [29] INFO  GlobalLog - [KillBossTask] Reset.
+2025-08-03 15:37:41,570 [29] INFO  GlobalLog - [KillBossTask] Boss range: 15
+2025-08-03 15:37:41,571 [29] WARN  GlobalLog - [MapBotEx] New map has been entered: Park (T16).
+2025-08-03 15:37:41,599 [37] INFO  ExilePather - [ExilePather] Now creating the navmesh. [Force: False]
+2025-08-03 15:37:41,627 [37] INFO  ExilePather - [ExilePather] The navmesh has been created. Now waiting to be in game.
+2025-08-03 15:37:41,627 [37] INFO  ExilePather - [ExilePather] We are in game now, waiting area generation to complete for: Park (MapWorldsPark).
+2025-08-03 15:37:42,920 [37] INFO  ExilePather - [ExilePather] The pathfinder has been reloaded. Now calling 'CheckForUpdates'
+2025-08-03 15:37:42,921 [37] INFO  ExilePather - [ExilePather] Now calling 'FastWalkablePositionFor' to prime the library.
+2025-08-03 15:37:42,922 [37] INFO  ExilePather - [ExilePather] 'CheckForUpdates' has completed. ExilePather is now ready to use!
+2025-08-03 15:37:42,922 [37] INFO  GlobalLog - [Events] Area changed (Divided Hideout:3637974513 -> Park:3271297708)
+2025-08-03 15:37:42,923 [37] INFO  GlobalLog - [CombatAreaCache] Resetting unwalkable flags on all cached objects.
+2025-08-03 15:37:42,923 [37] INFO  GlobalLog - [Events] Combat area changed (null -> Park)
+2025-08-03 15:37:42,924 [37] WARN  GlobalLog - [AfflictionExplorationTask] Reset.
+2025-08-03 15:37:42,931 [37] WARN  GlobalLog - [SqRoutine] Castable skills:
+2025-08-03 15:37:42,932 [37] INFO  GlobalLog - ======================
+2025-08-03 15:37:42,933 [37] INFO  GlobalLog - [Kinetic Blast] | RButton | links: 6 | canUse: True
+2025-08-03 15:37:42,933 [37] INFO  GlobalLog - [Temporal Chains] | MButton | links: 1 | canUse: True
+2025-08-03 15:37:42,934 [37] INFO  GlobalLog - [Frostblink] | W | links: 1 | canUse: True
+2025-08-03 15:37:42,934 [37] INFO  GlobalLog - [Default Attack] | None | links: 1 | canUse: False
+2025-08-03 15:37:42,934 [37] INFO  GlobalLog - [Order: To me!] | None | links: 1 | canUse: False
+2025-08-03 15:37:42,934 [37] INFO  GlobalLog - [Vaal Haste] | E | links: 2 | canUse: False
+2025-08-03 15:37:42,935 [37] INFO  GlobalLog - [Shield Charge] | Q | links: 2 | canUse: True
+2025-08-03 15:37:42,935 [37] INFO  GlobalLog - ======================
+2025-08-03 15:37:42,949 [37] DEBUG GridExplorer - [GridExplorer] Now segmenting the current area.
+2025-08-03 15:37:43,443 [37] DEBUG GridExplorer - [GridExplorer] Processing Harvest data.
+2025-08-03 15:37:43,443 [37] DEBUG GridExplorer - [GridExplorer] Harvest NOT Detected!.
+2025-08-03 15:37:43,444 [37] DEBUG GridExplorer - [GridExplorer] Processing Incursion data.
+2025-08-03 15:37:43,444 [37] DEBUG GridExplorer - [GridExplorer] Incursion NOT Detected!.
+2025-08-03 15:37:43,444 [37] DEBUG GridExplorer - [GridExplorer] Processing Afliction data.
+2025-08-03 15:37:43,445 [37] DEBUG GridExplorer - [GridExplorer] Afliction NOT Detected!.
+2025-08-03 15:37:43,445 [37] DEBUG GridExplorer - [GridExplorer] Processing Syndicate Data.
+2025-08-03 15:37:43,445 [37] DEBUG GridExplorer - [GridExplorer] Syndicate NOT Detected!.
+2025-08-03 15:37:43,445 [37] DEBUG GridExplorer - [GridExplorer] Processing Ultimatum Data.
+2025-08-03 15:37:43,445 [37] DEBUG GridExplorer - [GridExplorer] Ultimatum Detected!.
+2025-08-03 15:37:43,447 [37] DEBUG GridExplorer - [GridExplorer-DisableUltimatum] Disable Ultimatum data.
+2025-08-03 15:37:43,449 [37] DEBUG GridExplorer - [GridExplorer-DisableUltimatum] Marked 45 nodes as Ignored.
+2025-08-03 15:37:43,449 [37] DEBUG GridExplorer - [GridExplorer] Area segmentation complete 00:00:00.5003416.
+2025-08-03 15:37:43,826 [37] DEBUG GlobalLog - [CancelGracePeriod] Grace period detected! Moving a bit.
+2025-08-03 15:37:43,829 [37] DEBUG GlobalLog - [MoveAtOnce] Moving to move away position at {930, 1607} (distance: 25)
+2025-08-03 15:37:43,830 [37] DEBUG GlobalLog - [MoveTowards] Moving towards move away position at {930, 1607} (distance: 25)
+2025-08-03 15:37:44,153 [37] DEBUG GlobalLog - [MoveTowards] Moving towards move away position at {930, 1607} (distance: 5)
+2025-08-03 15:37:45,778 [37] INFO  GlobalLog - [CastAuraTask] Found 1 aura(s) for casting.
+2025-08-03 15:37:45,784 [37] ERROR GlobalLog - [CastAuraTask] We cannot cast [Haste] because Max Mana (858) - actual reserved (681,25) - cost (290,18) - reserved (106) = (-219,4301) < 0.. Temporarily ignoring it.
+2025-08-03 15:37:45,937 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1035, 1587} [7,23%].
+2025-08-03 15:37:46,542 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1058, 1587} [7,77%].
+2025-08-03 15:37:47,173 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1127, 1587} [9,32%].
+2025-08-03 15:37:47,728 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1173, 1587} [10,39%].
+2025-08-03 15:37:48,345 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1219, 1587} [11,33%].
+2025-08-03 15:37:48,784 [37] DEBUG GlobalLog - [CombatAreaCache] Uncategorized object: Metadata/NPC/League/Ultimatum/UltimatumNPC. Ignoring.
+2025-08-03 15:37:48,929 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1288, 1587} [12,87%].
+2025-08-03 15:37:49,529 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1334, 1587} [13,95%].
+2025-08-03 15:37:50,129 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1380, 1587} [15,02%].
+2025-08-03 15:37:50,822 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1449, 1587} [17,18%].
+2025-08-03 15:37:51,457 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1518, 1587} [18,66%].
+2025-08-03 15:37:52,182 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1564, 1587} [19,73%].
+2025-08-03 15:37:52,932 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1633, 1587} [21,29%].
+2025-08-03 15:37:53,642 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1564, 1472} [22,16%].
+2025-08-03 15:37:54,363 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1564, 1403} [23,98%].
+2025-08-03 15:37:55,196 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1656, 1403} [25,99%].
+2025-08-03 15:37:55,942 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1656, 1403} [26,60%].
+2025-08-03 15:37:56,695 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1702, 1380} [27,67%].
+2025-08-03 15:37:57,474 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1748, 1380} [28,83%].
+2025-08-03 15:37:58,151 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1702, 1265} [29,57%].
+2025-08-03 15:37:58,843 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1725, 1219} [30,78%].
+2025-08-03 15:37:59,584 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1725, 1150} [32,08%].
+2025-08-03 15:38:00,260 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1725, 1081} [33,62%].
+2025-08-03 15:38:00,997 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1725, 1035} [35,04%].
+2025-08-03 15:38:01,784 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1656, 997} [36,58%].
+2025-08-03 15:38:01,968 [37] WARN  GlobalLog - [CombatAreaCache:Essence] Registering [Noble Dead] at {1733, 915} (distance: 168)
+2025-08-03 15:38:02,569 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1794, 1035} [38,00%].
+2025-08-03 15:38:03,278 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1725, 897} [38,87%].
+2025-08-03 15:38:03,458 [37] WARN  GlobalLog - [CombatAreaCache:Essence] Registering [Daemon] at {1606, 841} (distance: 215)
+2025-08-03 15:38:04,047 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1725, 851} [39,95%].
+2025-08-03 15:38:04,607 [37] WARN  GlobalLog - [KillBossTask] Registering [Suncaller Asha] at {1747, 805} (distance: 105)
+2025-08-03 15:38:04,850 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1618, 920} [41,56%].
+2025-08-03 15:38:05,634 [37] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {1679, 782} [42,23%].
+2025-08-03 15:38:05,801 [37] INFO  GlobalLog - [Events] Player died (1)
+2025-08-03 15:38:05,803 [37] INFO  GlobalLog - [SqRoutine] Total Deaths For Instance 1!
+2025-08-03 15:38:05,897 [37] DEBUG GlobalLog - [Resurrect] Now going to resurrect to checkpoint.
+2025-08-03 15:38:05,898 [37] WARN  GlobalLog - [Resurrect] Waiting for 1666ms before resurrection
+2025-08-03 15:38:07,647 [37] DEBUG GlobalLog - [Resurrect] Attempt: 1/2
+2025-08-03 15:38:09,799 [1] INFO  BotManager - [Stop] Now requesting the BotThread to stop.
+2025-08-03 15:38:09,818 [37] INFO  BotManager - [Stop] ExPlugins.MapBotEx.MapBotEx
+2025-08-03 15:38:09,819 [37] INFO  PluginManager - [Stop] Legacy.DevTab.DevTab
+2025-08-03 15:38:09,819 [37] INFO  PluginManager - [Stop] PluginLoader.PluginLoader
+2025-08-03 15:38:09,819 [37] INFO  PluginManager - [Stop] gw
+2025-08-03 15:38:09,947 [37] DEBUG GlobalLog - [ExPluginsAuthCore] Session closed
+2025-08-03 15:38:09,947 [37] INFO  PluginManager - [Stop] pw
+2025-08-03 15:38:09,947 [37] INFO  PluginManager - [Stop] ObjectExplorer.ObjectExplorer
+2025-08-03 15:38:09,948 [37] INFO  RoutineManager - [Stop] Gc
+2025-08-03 15:38:09,948 [37] WARN  GlobalLog - [Stop] ExPlugins Version: 1.6.11.7c
+2025-08-03 15:38:09,948 [37] INFO  PlayerMoverManager - [PlayerMoverManager.Stop] ExPlugins.SkillPlayerMoverEx.SkillPlayerMoverEx
+2025-08-03 15:38:10,958 [37] ERROR BotManager - [Stop] Exception during execution:
+DreamPoeBot.Loki.Coroutine.CoroutineStoppedException: Coroutine was stopped
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Class66.method_1()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Struct16.System.Runtime.CompilerServices.IAsyncStateMachine.MoveNext()
+   в System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   в System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   в System.Runtime.CompilerServices.AsyncMethodBuilderCore.MoveNextRunner.Run()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Dispose()
+   в ExPlugins.MapBotEx.MapBotEx.Stop() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 183
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_StopEvents(IBot ibot_1)
+2025-08-03 15:38:10,958 [37] DEBUG BotManager - [BotThreadFunction] An InjectionDesyncException was detected. DreamPoeBot.Loki.Coroutine.CoroutineStoppedException: Coroutine was stopped
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Class66.method_1()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Struct16.System.Runtime.CompilerServices.IAsyncStateMachine.MoveNext()
+   в System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   в System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   в System.Runtime.CompilerServices.AsyncMethodBuilderCore.MoveNextRunner.Run()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Dispose()
+   в ExPlugins.MapBotEx.MapBotEx.Stop() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 183
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_StopEvents(IBot ibot_1)
+   в DreamPoeBot.Loki.Bot.BotManager.BotThreadFunction()
+2025-08-03 15:38:10,958 [37] DEBUG BotManager - [StopReason] core_gui_button => The user has pressed the Stop button.
+2025-08-03 15:40:51,190 [1] DEBUG GlobalLog - Kinetic Blast
+2025-08-03 15:40:51,191 [1] DEBUG GlobalLog - Shield Charge
+2025-08-03 15:40:51,191 [1] DEBUG GlobalLog - Move
+2025-08-03 15:40:51,192 [1] DEBUG GlobalLog - Frostblink
+2025-08-03 15:40:51,192 [1] DEBUG GlobalLog - Temporal Chains
+2025-08-03 15:41:21,300 [17] ERROR GlobalLog - Bot is stopped for 3,17 minutes. Killing POE!
+2025-08-03 15:41:22,910 [17] ERROR GlobalLog - Bot is stopped for 3,20 minutes. Killing POE!
+2025-08-03 15:41:24,411 [17] ERROR GlobalLog - [ImportMetrics] Exception: System.InvalidOperationException: Невозможно обработать запрос, так как процесс (25080) завершил свою работу.
+   в System.Diagnostics.Process.GetProcessHandle(Int32 access, Boolean throwIfExited)
+   в System.Diagnostics.Process.Kill()
+   в ExPlugins.EXtensions.WebHelper.SendTelemetry() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\WebHelper.cs:строка 166
+2025-08-03 15:41:24,596 [20] INFO  GameController - The Game Proces is closed, now terminating DPB

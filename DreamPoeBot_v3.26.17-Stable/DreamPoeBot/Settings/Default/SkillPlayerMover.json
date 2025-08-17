@@ -1,0 +1,62 @@
+{
+  "ForceAdjustCombatAreas": false,
+  "ForcedAdjustmentAreas": [
+    {
+      "Value": "The City of Sarn"
+    },
+    {
+      "Value": "The Slums"
+    },
+    {
+      "Value": "The Quay"
+    },
+    {
+      "Value": "The Toxic Conduits"
+    }
+  ],
+  "PathRefreshRateMs": 32,
+  "DebugAdjustments": false,
+  "DebugInputApi": false,
+  "AvoidWallHugging": true,
+  "MoveRange": 33,
+  "SingleUseDistance": 18,
+  "MoveMinManaValue": 20,
+  "IgnoreMobsValue": false,
+  "UseBloodMagicValue": false,
+  "EnableLwValue": false,
+  "LwMinDistValue": 20,
+  "LwMaxDistValue": 65,
+  "EnableBaValue": false,
+  "BaMinDistValue": 20,
+  "BaMaxDistValue": 65,
+  "EnableFdValue": false,
+  "FdMinDistValue": 27,
+  "FdMaxDistValue": 65,
+  "EnableLsValue": false,
+  "LsMinDistValue": 25,
+  "LsMaxDistValue": 65,
+  "EnablePrValue": false,
+  "PrMinDistValue": 1,
+  "PrMaxDistValue": 120,
+  "EnableWbValue": false,
+  "WbMinDistValue": 25,
+  "WbMaxDistValue": 65,
+  "EnableScValue": false,
+  "ScMinDistValue": 27,
+  "ScMaxDistValue": 65,
+  "EnableFrValue": false,
+  "FrMinDistValue": 20,
+  "FrMaxDistValue": 65,
+  "EnableWsValue": false,
+  "WsMinDistValue": 1,
+  "WsMaxDistValue": 120,
+  "EnableFbValue": false,
+  "FbMinDistValue": 33,
+  "FbMaxDistValue": 65,
+  "EnableBsValue": false,
+  "BsMinDistValue": 33,
+  "BsMaxDistValue": 65,
+  "EnableDsValue": false,
+  "DsMinDistValue": 33,
+  "DsMaxDistValue": 65
+}

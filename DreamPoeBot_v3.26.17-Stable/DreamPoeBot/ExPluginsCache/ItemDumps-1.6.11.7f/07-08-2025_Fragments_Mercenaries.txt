@@ -1,0 +1,83 @@
+[Syndicate Medallion]:1305,6c
+[Cosmic Reliquary Key]:1228,8c
+[Shiny Reliquary Key]:1144,32c
+[Decaying Reliquary Key]:614,4c
+[Echo of Reverence]:614,4c
+[Chayula's Flawless Breachstone]:522,24c
+[Archive Reliquary Key]:460,8c
+[Echo of Loneliness]:384c
+[Forgotten Reliquary Key]:279,55c
+[Gift to the Goddess]:230,4c
+[Tul's Flawless Breachstone]:230,4c
+[An Audience With The King]:230,4c
+[Echo of Trauma]:230,4c
+[Uul-Netol's Flawless Breachstone]:219,65c
+[Voidborn Reliquary Key]:215,04c
+[Xoph's Flawless Breachstone]:207,36c
+[Oubliette Reliquary Key]:184,32c
+[Esh's Flawless Breachstone]:162,88c
+[Chayula's Breachstone]:153,6c
+[The Maven's Writ]:153,6c
+[Reality Fragment]:153,6c
+[Fragment of Terror]:125c
+[Decaying Fragment]:125c
+[Devouring Fragment]:125c
+[Fragment of Emptiness]:110c
+[Valdo's Puzzle Box]:88c
+[Sacred Blossom]:85c
+[Fragment of Shape]:80c
+[Fragment of Knowledge]:75c
+[Unrelenting Timeless Maraketh Emblem]:50c
+[Unrelenting Timeless Vaal Emblem]:41,4c
+[Unrelenting Timeless Karui Emblem]:40c
+[Cosmic Fragment]:40c
+[Blazing Fragment]:40c
+[Simulacrum]:38,4c
+[Uul-Netol's Breachstone]:36,8c
+[Timeless Maraketh Emblem]:30c
+[Fragment of Constriction]:30c
+[Dedication to the Goddess]:30c
+[Unrelenting Timeless Templar Emblem]:30c
+[Fragment of Enslavement]:29,1c
+[Fragment of Purification]:28,5c
+[Fragment of Eradication]:25c
+[Baran's Crest]:25c
+[Drox's Crest]:24c
+[Mortal Ignorance]:20c
+[Al-Hezmin's Crest]:20c
+[Awakening Fragment]:20c
+[Synthesising Fragment]:20c
+[Crescent Splinter]:17,5c
+[Veritania's Crest]:15c
+[Timeless Templar Emblem]:11,6c
+[Xoph's Breachstone]:10c
+[Fragment of the Minotaur]:9c
+[Fragment of the Hydra]:8,8c
+[Fragment of the Chimera]:8c
+[Esh's Breachstone]:8c
+[Tribute to the Goddess]:8c
+[Mortal Hope]:7,7c
+[Tul's Breachstone]:7,5c
+[Fragment of the Phoenix]:6,7c
+[Mortal Grief]:6c
+[Mortal Rage]:6c
+[Timeless Vaal Emblem]:5c
+[Timeless Eternal Emblem]:2,56c
+[Sacrifice at Midnight]:2c
+[Offering to the Goddess]:2c
+[Splinter of Chayula]:2c
+[Timeless Karui Emblem]:2c
+[Sacrifice at Dusk]:1c
+[Sacrifice at Dawn]:1c
+[Sacrifice at Noon]:1c
+[Splinter of Xoph]:1c
+[Splinter of Tul]:1c
+[Splinter of Esh]:1c
+[Splinter of Uul-Netol]:1c
+[Divine Vessel]:1c
+[Timeless Karui Splinter]:1c
+[Timeless Maraketh Splinter]:1c
+[Timeless Eternal Empire Splinter]:1c
+[Timeless Templar Splinter]:1c
+[Timeless Vaal Splinter]:1c
+[Simulacrum Splinter]:1c

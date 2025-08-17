@@ -1,0 +1,79 @@
+2025-08-03 01:11:14,868 [1] INFO  App - DreamPoeBot Version: 0.3.26.46
+Path: C:\Users\<Username>\AppData\Local\Temp\Rar$EXa2724.40528\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\<ExeName>
+Arguments: C:\Users\grens\AppData\Local\Temp\Rar$EXa2724.40528\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\DreamPoeBot.exe
+
+OS Name: Майкрософт Windows 10 Домашняя
+OS Version: 10.0.19045
+OS Architecture: 64-разрядная
+InstalledUICulture: ru-RU [Russian (Russia)]
+CurrentUICulture: ru-RU [Russian (Russia)]
+CurrentCulture: ru-RU [Russian (Russia)]
+
+2025-08-03 01:11:14,886 [1] INFO  App - Now setting up JitProfiles...
+2025-08-03 01:11:14,887 [1] INFO  App - JitProfiles successfully setup!
+2025-08-03 01:11:14,892 [1] INFO  App - Now checking prerequisites...
+2025-08-03 01:11:14,892 [1] INFO  App - Prerequisite check complete!
+2025-08-03 01:11:29,453 [1] INFO  MainWindow - DreamPoeBot [0.3.26.46] is up to date!
+2025-08-03 01:12:17,194 [8] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-03 01:12:17,362 [8] INFO  Class104 - The connection with the Auth server were lost and could not be reestablished for more than 1 minute, the bot is now closing.
+2025-08-03 01:12:17,364 [8] ERROR Class104 - Error
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в DreamPoeBot.Hooks.Hooking.Deinitialize()
+   в DreamPoeBot.Structures.ns13.Class104.Class105.LogAuthErrorAndTerminateDPB(Object sender, EventArgs e)
+   в DreamPoeBot.Structures.AClientHelper.AClientWrapper.LoginRequest(String string_4, Byte byte_1, Int64 long_0)
+   в DreamPoeBot.Structures.ns13.Class104.Class106.LoginRequest(AClientWrapper class41_0)
+2025-08-03 01:12:17,457 [8] INFO  LoginWindow - AttemptLogin failed for the current key, waiting 1s then trying next one...
+2025-08-03 01:12:18,459 [8] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-03 01:12:18,615 [8] INFO  Class104 - The connection with the Auth server were lost and could not be reestablished for more than 1 minute, the bot is now closing.
+2025-08-03 01:12:18,616 [8] ERROR Class104 - Error
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в DreamPoeBot.Hooks.Hooking.Deinitialize()
+   в DreamPoeBot.Structures.ns13.Class104.Class105.LogAuthErrorAndTerminateDPB(Object sender, EventArgs e)
+   в DreamPoeBot.Structures.AClientHelper.AClientWrapper.LoginRequest(String string_4, Byte byte_1, Int64 long_0)
+   в DreamPoeBot.Structures.ns13.Class104.Class106.LoginRequest(AClientWrapper class41_0)
+2025-08-03 01:12:18,710 [8] INFO  LoginWindow - AttemptLogin failed for the current key, waiting 1s then trying next one...
+2025-08-03 01:12:19,711 [8] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-03 01:12:19,861 [8] INFO  Class104 - The connection with the Auth server were lost and could not be reestablished for more than 1 minute, the bot is now closing.
+2025-08-03 01:12:19,861 [8] ERROR Class104 - Error
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в DreamPoeBot.Hooks.Hooking.Deinitialize()
+   в DreamPoeBot.Structures.ns13.Class104.Class105.LogAuthErrorAndTerminateDPB(Object sender, EventArgs e)
+   в DreamPoeBot.Structures.AClientHelper.AClientWrapper.LoginRequest(String string_4, Byte byte_1, Int64 long_0)
+   в DreamPoeBot.Structures.ns13.Class104.Class106.LoginRequest(AClientWrapper class41_0)
+2025-08-03 01:12:19,952 [8] INFO  LoginWindow - AttemptLogin failed for the current key, waiting 1s then trying next one...
+2025-08-03 01:12:20,953 [8] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-03 01:12:21,109 [8] INFO  Class104 - The connection with the Auth server were lost and could not be reestablished for more than 1 minute, the bot is now closing.
+2025-08-03 01:12:21,109 [8] ERROR Class104 - Error
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в DreamPoeBot.Hooks.Hooking.Deinitialize()
+   в DreamPoeBot.Structures.ns13.Class104.Class105.LogAuthErrorAndTerminateDPB(Object sender, EventArgs e)
+   в DreamPoeBot.Structures.AClientHelper.AClientWrapper.LoginRequest(String string_4, Byte byte_1, Int64 long_0)
+   в DreamPoeBot.Structures.ns13.Class104.Class106.LoginRequest(AClientWrapper class41_0)
+2025-08-03 01:12:21,205 [8] INFO  LoginWindow - AttemptLogin failed for the current key, waiting 1s then trying next one...
+2025-08-03 01:12:22,207 [8] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-03 01:12:22,359 [8] INFO  Class104 - The connection with the Auth server were lost and could not be reestablished for more than 1 minute, the bot is now closing.
+2025-08-03 01:12:22,359 [8] ERROR Class104 - Error
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в DreamPoeBot.Hooks.Hooking.Deinitialize()
+   в DreamPoeBot.Structures.ns13.Class104.Class105.LogAuthErrorAndTerminateDPB(Object sender, EventArgs e)
+   в DreamPoeBot.Structures.AClientHelper.AClientWrapper.LoginRequest(String string_4, Byte byte_1, Int64 long_0)
+   в DreamPoeBot.Structures.ns13.Class104.Class106.LoginRequest(AClientWrapper class41_0)
+2025-08-03 01:12:22,451 [8] INFO  LoginWindow - AttemptLogin failed for the current key, waiting 1s then trying next one...
+2025-08-03 01:12:23,452 [8] ERROR LoginWindow - There was an error authenticating your key with the server. Please try again or use a different key.
+
+System.NullReferenceException: Ссылка на объект не указывает на экземпляр объекта.
+   в DreamPoeBot.Hooks.Hooking.Deinitialize()
+   в DreamPoeBot.Structures.ns13.Class104.Class105.LogAuthErrorAndTerminateDPB(Object sender, EventArgs e)
+   в DreamPoeBot.Structures.AClientHelper.AClientWrapper.LoginRequest(String string_4, Byte byte_1, Int64 long_0)
+   в DreamPoeBot.Structures.ns13.Class104.Class106.LoginRequest(AClientWrapper class41_0)
+2025-08-03 01:12:32,753 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2025-08-03 01:12:32,761 [1] ERROR App - [Application_DispatcherUnhandledException] Unhandled exception
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DreamPoeBot.Hooks.Hooking.Deinitialize()
+   at DreamPoeBot.Loki.Game.LokiPoe.Deinitializer()
+   at DreamPoeBot.App.OnExit(ExitEventArgs e)
+   at System.Windows.Application.DoShutdown()
+   at System.Windows.Application.ShutdownImpl()
+   at System.Windows.Application.ShutdownCallback(Object arg)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)

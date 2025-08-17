@@ -1,0 +1,1250 @@
+2025-08-03 16:15:30,485 [1] INFO  App - DreamPoeBot Version: 0.3.26.46
+Path: E:\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\<ExeName>
+Arguments: E:\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\DreamPoeBot.exe --autostart --config:Default --pid:31344 --silent
+
+OS Name: Майкрософт Windows 10 Домашняя
+OS Version: 10.0.19045
+OS Architecture: 64-разрядная
+InstalledUICulture: ru-RU [Russian (Russia)]
+CurrentUICulture: ru-RU [Russian (Russia)]
+CurrentCulture: ru-RU [Russian (Russia)]
+
+2025-08-03 16:15:30,518 [1] INFO  App - Now setting up JitProfiles...
+2025-08-03 16:15:30,520 [1] INFO  App - JitProfiles successfully setup!
+2025-08-03 16:15:30,528 [1] INFO  App - Now checking prerequisites...
+2025-08-03 16:15:30,529 [1] INFO  App - Prerequisite check complete!
+2025-08-03 16:15:37,369 [1] INFO  MainWindow - DreamPoeBot [0.3.26.46] is up to date!
+2025-08-03 16:15:37,461 [15] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-03 16:15:37,688 [15] INFO  Class104 - Region: eu
+2025-08-03 16:15:37,688 [15] INFO  Class104 - T: 5250584255802009501 
+2025-08-03 16:15:38,897 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2025-08-03 16:15:38,950 [10] INFO  LokiPoe - Initialize RDPather.
+2025-08-03 16:15:38,958 [10] INFO  LokiPoe - RDPather already running.
+2025-08-03 16:15:38,959 [10] INFO  LokiPoe - RDPather initialization complete.
+2025-08-03 16:15:39,792 [10] INFO  LokiPoe - Pattern scan completed.
+2025-08-03 16:15:46,658 [10] INFO  Dat - [Dat] Now building the Stat lookup table.
+2025-08-03 16:15:47,556 [10] INFO  Dat - [Dat] The Stat lookup table has been built.
+2025-08-03 16:15:47,629 [10] INFO  Dat - [Dat] Now building the Passive Skills lookup table.
+2025-08-03 16:15:47,808 [10] INFO  Dat - [Dat] The Passive Skills lookup table has been built.
+2025-08-03 16:15:47,858 [10] INFO  LokiPoe - IGS = 173F9101A20.
+2025-08-03 16:15:49,388 [10] DEBUG ThirdPartyLoader - Loading start.
+2025-08-03 16:15:49,400 [10] DEBUG ThirdPartyLoader - Now loading [ExampleMover].
+2025-08-03 16:15:49,406 [10] DEBUG ThirdPartyLoader - [ExampleMover] will be loaded as [ExampleMover]. The base path is [].
+2025-08-03 16:15:49,407 [10] DEBUG ThirdPartyLoader - Now loading [ExamplePlugin].
+2025-08-03 16:15:49,407 [10] DEBUG ThirdPartyLoader - [ExamplePlugin] will be loaded as [ExamplePlugin]. The base path is [].
+2025-08-03 16:15:49,408 [10] DEBUG ThirdPartyLoader - Now loading [ExampleRoutine].
+2025-08-03 16:15:49,408 [10] DEBUG ThirdPartyLoader - [ExampleRoutine] will be loaded as [ExampleRoutine]. The base path is [].
+2025-08-03 16:15:49,408 [10] DEBUG ThirdPartyLoader - Now loading [Legacy].
+2025-08-03 16:15:49,409 [10] DEBUG ThirdPartyLoader - [Legacy] will be loaded as [Legacy]. The base path is [].
+2025-08-03 16:15:49,410 [10] DEBUG ThirdPartyLoader - Now loading [NullBot].
+2025-08-03 16:15:49,410 [10] DEBUG ThirdPartyLoader - [NullBot] will be loaded as [NullBot]. The base path is [].
+2025-08-03 16:15:49,410 [10] DEBUG ThirdPartyLoader - Now loading [ObjectExplorer].
+2025-08-03 16:15:49,411 [10] DEBUG ThirdPartyLoader - [ObjectExplorer] will be loaded as [ObjectExplorer]. The base path is [].
+2025-08-03 16:15:49,411 [10] DEBUG ThirdPartyLoader - Now loading [PatherExplorer].
+2025-08-03 16:15:49,411 [10] DEBUG ThirdPartyLoader - [PatherExplorer] will be loaded as [PatherExplorer]. The base path is [].
+2025-08-03 16:15:49,411 [10] DEBUG ThirdPartyLoader - Now loading [PluginLoader].
+2025-08-03 16:15:49,412 [10] DEBUG ThirdPartyLoader - [PluginLoader] will be loaded as [PluginLoader]. The base path is [].
+2025-08-03 16:15:49,412 [10] DEBUG ThirdPartyLoader - Now loading [SkillPlayerMover].
+2025-08-03 16:15:49,412 [10] DEBUG ThirdPartyLoader - [SkillPlayerMover] will be loaded as [SkillPlayerMover]. The base path is [].
+2025-08-03 16:15:49,413 [10] INFO  ThirdPartyLoader - Now asynchronously compiling dependency free content...
+2025-08-03 16:15:54,235 [21] INFO  ThirdPartyLoader - ExampleRoutine
+2025-08-03 16:15:54,238 [20] DEBUG PluginLoader - [ExPlugins Autoupdater] Downloading archive.
+2025-08-03 16:15:54,240 [21] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:15:54,242 [21] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-03 16:15:54,243 [21] INFO  ThirdPartyLoader -                    [Routines] : ExampleRoutine (ExampleRoutine: 1.0)
+2025-08-03 16:15:54,244 [21] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:15:54,244 [21] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 16:15:54,245 [25] INFO  ThirdPartyLoader - SkillPlayerMover
+2025-08-03 16:15:54,245 [25] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:15:54,245 [25] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-03 16:15:54,245 [25] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:15:54,245 [25] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:15:54,246 [25] INFO  ThirdPartyLoader -                    [PlayerMovers] : SkillPlayerMover (SkillPlayerMover: 0.4.0.12)
+2025-08-03 16:15:54,246 [9] INFO  ThirdPartyLoader - PatherExplorer
+2025-08-03 16:15:54,247 [9] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:15:54,247 [9] INFO  ThirdPartyLoader -                    [Plugins] : PatherExplorer (PatherExplorer: 0.0.1.4)
+2025-08-03 16:15:54,247 [9] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:15:54,248 [9] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:15:54,248 [9] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 16:15:54,266 [10] INFO  ThirdPartyLoader - ExampleMover
+2025-08-03 16:15:54,267 [10] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:15:54,267 [10] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-03 16:15:54,267 [10] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:15:54,267 [10] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:15:54,268 [10] INFO  ThirdPartyLoader -                    [PlayerMovers] : ExampleMover (ExampleMover: 1.0)
+2025-08-03 16:15:54,268 [18] INFO  ThirdPartyLoader - NullBot
+2025-08-03 16:15:54,269 [18] INFO  ThirdPartyLoader -                    [Bots] : NullBot (NullBot: 1.0)
+2025-08-03 16:15:54,269 [18] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-03 16:15:54,269 [18] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:15:54,269 [18] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:15:54,269 [18] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 16:15:54,274 [12] INFO  ThirdPartyLoader - ObjectExplorer
+2025-08-03 16:15:54,275 [12] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:15:54,275 [12] INFO  ThirdPartyLoader -                    [Plugins] : ObjectExplorer (ObjectExplorer: 0.0.1.1)
+2025-08-03 16:15:54,276 [12] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:15:54,276 [12] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:15:54,276 [12] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 16:15:54,276 [22] INFO  ThirdPartyLoader - ExamplePlugin
+2025-08-03 16:15:54,276 [22] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:15:54,277 [22] INFO  ThirdPartyLoader -                    [Plugins] : ExamplePlugin (ExamplePlugin: 1.0)
+2025-08-03 16:15:54,277 [22] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:15:54,277 [22] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:15:54,277 [22] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 16:15:54,283 [17] INFO  ThirdPartyLoader - Legacy
+2025-08-03 16:15:54,283 [17] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:15:54,284 [17] INFO  ThirdPartyLoader -                    [Plugins] : DevTab (DevTab: 0.0.1.1)
+2025-08-03 16:15:54,284 [17] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:15:54,284 [17] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:15:54,284 [17] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 16:15:54,758 [20] DEBUG PluginLoader - [ExPlugins Autoupdater] Archive downloaded in 516ms. Size: 1,967898 MB
+2025-08-03 16:15:54,800 [20] DEBUG PluginLoader - [ExPlugins Autoupdater] Archive decompressed in 41ms.
+2025-08-03 16:15:55,048 [20] INFO  PluginLoader - [ExPlugins Autoupdater] Loaded: [ExPlugins] v1.6.11.7c <Seusheque> - [ExPlugins] container
+2025-08-03 16:15:55,049 [20] INFO  ThirdPartyLoader - PluginLoader
+2025-08-03 16:15:55,049 [20] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-03 16:15:55,050 [20] INFO  ThirdPartyLoader -                    [Plugins] : PluginLoader (ExPlugins Autoupdater: 2.0)
+2025-08-03 16:15:55,050 [20] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-03 16:15:55,050 [20] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-03 16:15:55,050 [20] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-03 16:15:55,051 [10] INFO  ThirdPartyLoader - Content compiled in 00:00:05.6371889.
+2025-08-03 16:15:55,052 [10] DEBUG ThirdPartyLoader - Loading finished!
+2025-08-03 16:15:55,508 [10] INFO  Dat - Now creating the Stats cache.
+2025-08-03 16:15:57,841 [10] INFO  Utility - [Initialize] ExPlugins.EXtensions.EXtensions
+2025-08-03 16:15:58,655 [10] DEBUG GlobalLog - [EXtensions] Telemetry worker started
+2025-08-03 16:15:58,672 [10] INFO  Utility - [Initialize] DreamPoeBot.Loki.Bot.SkillBlacklist
+2025-08-03 16:15:58,757 [10] INFO  Utility - [Initialize] NullBot.NullBot
+2025-08-03 16:15:58,788 [10] INFO  Utility - [Initialize] ExPlugins.FollowBotEx.FollowBotEx
+2025-08-03 16:15:58,907 [10] INFO  Utility - [Initialize] ExPlugins.MapBotEx.MapBotEx
+2025-08-03 16:15:58,925 [10] INFO  Utility - [Initialize] LF
+2025-08-03 16:15:58,947 [10] INFO  Utility - [Initialize] lF
+2025-08-03 16:15:58,952 [1] INFO  ItemEvaluator - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2025-08-03 16:15:59,049 [18] DEBUG GlobalLog - [ImportMetrics] Setting character name to: Character [Autologin-fallback]
+2025-08-03 16:15:59,079 [10] INFO  Utility - [Initialize] ExampleRoutine.ExampleRoutine
+2025-08-03 16:15:59,082 [10] INFO  ExampleRoutine - Name: SingleTargetMeleeSlot (System.Int32)
+2025-08-03 16:15:59,083 [10] INFO  ExampleRoutine - Name: SingleTargetRangedSlot (System.Int32)
+2025-08-03 16:15:59,084 [10] INFO  ExampleRoutine - Name: AoeMeleeSlot (System.Int32)
+2025-08-03 16:15:59,084 [10] INFO  ExampleRoutine - Name: AoeRangedSlot (System.Int32)
+2025-08-03 16:15:59,084 [10] INFO  ExampleRoutine - Name: FallbackSlot (System.Int32)
+2025-08-03 16:15:59,085 [10] INFO  ExampleRoutine - Name: CombatRange (System.Int32)
+2025-08-03 16:15:59,085 [10] INFO  ExampleRoutine - Name: MaxMeleeRange (System.Int32)
+2025-08-03 16:15:59,085 [10] INFO  ExampleRoutine - Name: MaxRangeRange (System.Int32)
+2025-08-03 16:15:59,085 [10] INFO  ExampleRoutine - Name: SkipShrines (System.Boolean)
+2025-08-03 16:15:59,085 [10] INFO  ExampleRoutine - Name: AoePackSize (System.Int32)
+2025-08-03 16:15:59,086 [10] INFO  ExampleRoutine - Name: AlwaysAttackInPlace (System.Boolean)
+2025-08-03 16:15:59,148 [10] INFO  Utility - [Initialize] Gc
+2025-08-03 16:15:59,240 [10] INFO  Utility - [Initialize] SkillPlayerMover.SkillPlayerMover
+2025-08-03 16:15:59,247 [10] INFO  Utility - [Initialize] ExampleMover.ExampleMover
+2025-08-03 16:15:59,274 [10] INFO  Utility - [Initialize] ExPlugins.SkillPlayerMoverEx.SkillPlayerMoverEx
+2025-08-03 16:15:59,499 [10] INFO  Utility - [Initialize] J4
+2025-08-03 16:15:59,499 [10] INFO  Utility - [Initialize] z0
+2025-08-03 16:15:59,506 [10] INFO  Utility - [Initialize] N0
+2025-08-03 16:15:59,511 [10] INFO  Utility - [Initialize] M0
+2025-08-03 16:15:59,524 [10] INFO  Utility - [Initialize] H0
+2025-08-03 16:15:59,529 [10] INFO  Utility - [Initialize] S0
+2025-08-03 16:15:59,543 [10] INFO  Utility - [Initialize] P0
+2025-08-03 16:15:59,556 [10] INFO  Utility - [Initialize] Legacy.DevTab.DevTab
+2025-08-03 16:15:59,595 [10] INFO  Utility - [Initialize] ew
+2025-08-03 16:15:59,598 [10] INFO  Utility - [Initialize] ExamplePlugin.ExamplePlugin
+2025-08-03 16:15:59,598 [10] INFO  Utility - [Initialize] PluginLoader.PluginLoader
+2025-08-03 16:15:59,609 [10] INFO  Utility - [Initialize] gw
+2025-08-03 16:16:00,052 [10] DEBUG GlobalLog - [ExPluginsAuthCore] Session closed
+2025-08-03 16:16:00,157 [18] INFO  Dat - Now reloading the WorldArea cache.
+2025-08-03 16:16:00,224 [18] INFO  Dat - The WorldArea cache has been reloaded.
+2025-08-03 16:16:00,338 [10] DEBUG GlobalLog - [WebHelper:GetFile][OK]
+2025-08-03 16:16:00,341 [10] INFO  Utility - [Initialize] Fw
+2025-08-03 16:16:00,351 [10] INFO  Utility - [Initialize] uw
+2025-08-03 16:16:00,366 [10] INFO  Utility - [Initialize] ExPlugins.GemLevelerEx.GemLevelerEx
+2025-08-03 16:16:00,377 [10] INFO  Utility - [Initialize] pw
+2025-08-03 16:16:00,394 [10] INFO  Utility - [Initialize] ow
+2025-08-03 16:16:00,450 [10] INFO  Utility - [Initialize] ExPlugins.ItemFilterEx.ItemFilterEx
+2025-08-03 16:16:00,463 [10] INFO  Utility - [Initialize] dF
+2025-08-03 16:16:00,484 [10] INFO  Utility - [Initialize] IF
+2025-08-03 16:16:00,487 [10] INFO  Utility - [Initialize] ObjectExplorer.ObjectExplorer
+2025-08-03 16:16:00,509 [10] INFO  Utility - [Initialize] uF
+2025-08-03 16:16:00,533 [10] INFO  Utility - [Initialize] PatherExplorer.PatherExplorer
+2025-08-03 16:16:00,533 [10] INFO  Utility - [Initialize] yc
+2025-08-03 16:16:00,557 [10] INFO  Utility - [Initialize] ExPlugins.StashManager.StashManager
+2025-08-03 16:16:00,615 [10] INFO  Utility - [Initialize] Pc
+2025-08-03 16:16:00,616 [10] INFO  PluginManager - [Enable] Legacy.DevTab.DevTab
+2025-08-03 16:16:00,617 [10] INFO  PluginManager - [Enable] PluginLoader.PluginLoader
+2025-08-03 16:16:00,617 [10] INFO  PluginManager - [Enable] gw
+2025-08-03 16:16:00,618 [10] INFO  PluginManager - [Enable] pw
+2025-08-03 16:16:00,618 [10] INFO  PluginManager - [Enable] ObjectExplorer.ObjectExplorer
+2025-08-03 16:16:00,755 [1] DEBUG BotManagerGui - Current 'Bot' set to MapBotEx.
+2025-08-03 16:16:01,019 [1] DEBUG RoutineManagerGui - Current 'Routine' set to SqRoutine.
+2025-08-03 16:16:01,491 [1] DEBUG MoverManagerGui - Current 'PlayerMover' set to SkillPlayerMoverEx.
+2025-08-03 16:16:01,543 [10] INFO  BotWindow - Registering default Hotkeys:
+2025-08-03 16:16:01,555 [10] INFO  BotWindow - 
+GuideText
+GuideLink
+2025-08-03 16:16:01,589 [10] INFO  BotManager - [Start] Now creating the BotThread.
+2025-08-03 16:16:01,808 [35] INFO  BotManager - [Start] ExPlugins.MapBotEx.MapBotEx
+2025-08-03 16:16:01,812 [35] ERROR GlobalLog - [MapBotEx] Hotkey for opening portal not set! Consider setting it in config. [Ingame settings -> Input -> Portal]
+2025-08-03 16:16:01,813 [35] INFO  ItemEvaluator - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2025-08-03 16:16:01,981 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [MainUtilityTask] This task places any item left on the cursor into the inventory..
+2025-08-03 16:16:01,984 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LeaveAreaTask] Task to prematurely leave an area..
+2025-08-03 16:16:01,985 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AfkTask] Persistent AFK Task.
+2025-08-03 16:16:01,985 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HandleFollowersTask] Task to handle follower invites/kicks..
+2025-08-03 16:16:01,986 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HandleBlockingChestsTask] This task will handle breaking any blocking chests that interfere with movement..
+2025-08-03 16:16:01,986 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HandleBlockingObjectTask] Task that handles various blocking objects..
+2025-08-03 16:16:01,987 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [DeliriumTask] Task that handle delirium..
+2025-08-03 16:16:01,987 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask] This task executes routine logic for combat..
+2025-08-03 16:16:01,988 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [IdTask] Task that handles item identification..
+2025-08-03 16:16:01,988 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CastAuraTask] Task for casting auras before entering a map..
+2025-08-03 16:16:01,988 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AbyssTask] This task will follow Abyss nodes..
+2025-08-03 16:16:01,989 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [InteractTask] Task for opening chests, strongboxes and shrines..
+2025-08-03 16:16:01,989 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CorruptedAreaTask] Task that handles corrupted side areas..
+2025-08-03 16:16:01,990 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [SyndicateTask] SyndicateTask.
+2025-08-03 16:16:01,990 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [StashTask] Task that handles item stashing.
+2025-08-03 16:16:01,990 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [RestockCurrencyTask] Task that takes currency from stash if needed.
+2025-08-03 16:16:01,991 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AfflictionExplorationTask] Task that explores affliction league submap.
+2025-08-03 16:16:01,991 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HarvestTask] Task that handles harvest events on maps.
+2025-08-03 16:16:01,991 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [MapExplorationTask] Task that handles map exploration..
+2025-08-03 16:16:01,992 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [KillBossTask] Task for killing map boss..
+2025-08-03 16:16:01,992 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FinishMapTask] Task for leaving current map..
+2025-08-03 16:16:01,993 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AssignPantheonTask] This task assign pantheon as per configuration..
+2025-08-03 16:16:01,993 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [BuyMapsFromKiracTask] Task for buying maps from Kirac after missions..
+2025-08-03 16:16:01,993 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [SellTask] Task that handles item selling..
+2025-08-03 16:16:01,994 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [VendorTask] Task for exchanging various items with vendors..
+2025-08-03 16:16:01,995 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AtlasQuestsTask] Task for finishing Tangle quests..
+2025-08-03 16:16:01,995 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [SellMapTask] Task for selling maps.
+2025-08-03 16:16:01,996 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ReturnToMapTask] This task returns to opened map.
+2025-08-03 16:16:01,996 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TakeMapTask] Task for taking maps from the stash..
+2025-08-03 16:16:01,996 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [StartMapTask] Task for starting maps/simulacrums/etc via Map Device..
+2025-08-03 16:16:01,997 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FallbackTask] This task is the last task executed. It should not execute..
+2025-08-03 16:16:01,997 [35] INFO  PluginManager - [Start] Legacy.DevTab.DevTab
+2025-08-03 16:16:01,998 [35] INFO  PluginManager - [Start] PluginLoader.PluginLoader
+2025-08-03 16:16:01,998 [35] INFO  PluginManager - [Start] gw
+2025-08-03 16:16:01,998 [35] INFO  PluginManager - [Start] pw
+2025-08-03 16:16:02,004 [35] INFO  PluginManager - [Start] ObjectExplorer.ObjectExplorer
+2025-08-03 16:16:02,005 [35] INFO  RoutineManager - [Start] Gc
+2025-08-03 16:16:02,008 [35] INFO  LokiPoe - [Input] InputEventDelayMs = 50.
+2025-08-03 16:16:02,009 [35] WARN  GlobalLog - [Start] MsBetweenTicks: 80.
+2025-08-03 16:16:02,009 [35] WARN  GlobalLog - [Start] InputEventDelay: 50.
+2025-08-03 16:16:02,009 [35] WARN  GlobalLog - [Start] KeyPickup: Disabled.
+2025-08-03 16:16:02,009 [35] WARN  GlobalLog - [Start] NetworkingMode: Auto.
+2025-08-03 16:16:02,010 [35] WARN  GlobalLog - [Start] ExPlugins Version: 1.6.11.7c
+2025-08-03 16:16:02,010 [35] ERROR GlobalLog - [SqRoutine] Key pickup set to: Disabled. Please set it to UseBoundKey
+2025-08-03 16:16:02,011 [35] INFO  PlayerMoverManager - [PlayerMoverManager.Start] ExPlugins.SkillPlayerMoverEx.SkillPlayerMoverEx
+2025-08-03 16:16:02,016 [35] INFO  ExilePather - [ExilePather] BlockTrialOfAscendancy = Enabled.
+2025-08-03 16:16:02,017 [35] INFO  ExilePather - [ExilePather] BlockLockedDoors = Enabled.
+2025-08-03 16:16:02,030 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to True.
+2025-08-03 16:16:02,030 [35] DEBUG GlobalLog - [MapBotEx] ExilePather is not ready yet.
+2025-08-03 16:16:02,032 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-03 16:16:02,043 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 5.
+2025-08-03 16:16:02,043 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to False.
+2025-08-03 16:16:02,043 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-03 16:16:02,044 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 4.
+2025-08-03 16:16:02,045 [29] DEBUG GlobalLog - [ComplexExplorer] Creating new level anchor {268, 492} (distance: 0)
+2025-08-03 16:16:02,047 [29] WARN  GlobalLog - [CombatAreaCache] Created cache for "2_9_town:67" (hash: 1434073308)
+2025-08-03 16:16:02,119 [35] INFO  ExilePather - [ExilePather] Now creating the navmesh. [Force: False]
+2025-08-03 16:16:02,131 [35] INFO  ExilePather - [ExilePather] The navmesh has been created. Now waiting to be in game.
+2025-08-03 16:16:02,132 [35] INFO  ExilePather - [ExilePather] We are in game now, waiting area generation to complete for: Highgate (2_9_town).
+2025-08-03 16:16:02,270 [35] INFO  ExilePather - [ExilePather] The pathfinder has been reloaded. Now calling 'CheckForUpdates'
+2025-08-03 16:16:02,293 [35] INFO  ExilePather - [ExilePather] Now calling 'FastWalkablePositionFor' to prime the library.
+2025-08-03 16:16:02,337 [35] INFO  ExilePather - [ExilePather] 'CheckForUpdates' has completed. ExilePather is now ready to use!
+2025-08-03 16:16:02,347 [35] INFO  GlobalLog - [Events] Area changed (null -> Highgate:1434073308)
+2025-08-03 16:16:02,382 [35] INFO  GlobalLog - [CombatAreaCache] Resetting unwalkable flags on all cached objects.
+2025-08-03 16:16:02,410 [35] INFO  Dat - Now creating the ActiveSkills cache.
+2025-08-03 16:16:02,571 [35] WARN  GlobalLog - [SqRoutine] Castable skills:
+2025-08-03 16:16:02,571 [35] INFO  GlobalLog - ======================
+2025-08-03 16:16:02,589 [35] INFO  GlobalLog - [Kinetic Blast] | RButton | links: 6 | canUse: False
+2025-08-03 16:16:02,589 [35] INFO  GlobalLog - [Temporal Chains] | MButton | links: 1 | canUse: False
+2025-08-03 16:16:02,590 [35] INFO  GlobalLog - [Frostblink] | W | links: 1 | canUse: False
+2025-08-03 16:16:02,590 [35] INFO  GlobalLog - [Shield Charge] | Q | links: 2 | canUse: False
+2025-08-03 16:16:02,590 [35] INFO  GlobalLog - [Default Attack] | None | links: 1 | canUse: False
+2025-08-03 16:16:02,591 [35] INFO  GlobalLog - [Order: To me!] | None | links: 1 | canUse: False
+2025-08-03 16:16:02,591 [35] INFO  GlobalLog - [Vaal Haste] | E | links: 2 | canUse: False
+2025-08-03 16:16:02,591 [35] INFO  GlobalLog - ======================
+2025-08-03 16:16:02,622 [35] INFO  GlobalLog - [CastAuraTask] Haste reserv: 33,82% Mana blacklisted: False
+2025-08-03 16:16:02,622 [35] INFO  GlobalLog - [CastAuraTask] Arctic Armour reserv: 18,38% Mana blacklisted: False
+2025-08-03 16:16:02,623 [35] INFO  GlobalLog - [CastAuraTask] Flesh and Stone reserv: 18,38% Mana blacklisted: False
+2025-08-03 16:16:02,623 [35] INFO  GlobalLog - [CastAuraTask] Herald of Ash reserv: 16,91% Mana blacklisted: False
+2025-08-03 16:16:02,623 [35] INFO  GlobalLog - [CastAuraTask] Tempest Shield reserv: 16,91% Mana blacklisted: False
+2025-08-03 16:16:02,623 [35] INFO  GlobalLog - [CastAuraTask] Clarity reserv: 12,35% Mana blacklisted: False
+2025-08-03 16:16:02,623 [35] INFO  GlobalLog - [CastAuraTask] Temporal Rift reserv: 8,82% Mana blacklisted: False
+2025-08-03 16:16:02,644 [35] WARN  GlobalLog - [SkillPlayerMoverEx] Skills refreshed!
+2025-08-03 16:16:02,965 [35] DEBUG GlobalLog - [PoeNinjaTracker] Loading item prices for Mercenaries
+2025-08-03 16:16:03,191 [35] DEBUG GlobalLog - [PoeNinjaTracker] Loaded prices from ExPluginsCache/ItemDumps-1.6.11.7c/PriceBackup_Mercenaries.json
+2025-08-03 16:16:03,191 [35] DEBUG GlobalLog - [PoeNinjaTracker] Currencies count: 112
+2025-08-03 16:16:03,192 [35] DEBUG GlobalLog - [PoeNinjaTracker] Fragments count: 85
+2025-08-03 16:16:03,193 [35] DEBUG GlobalLog - [PoeNinjaTracker] Gems count: 7202
+2025-08-03 16:16:03,193 [35] DEBUG GlobalLog - [PoeNinjaTracker] Clusters count: 850
+2025-08-03 16:16:03,194 [35] DEBUG GlobalLog - [PoeNinjaTracker] Uniques items count: 1702
+2025-08-03 16:16:03,194 [35] DEBUG GlobalLog - [PoeNinjaTracker] Rest items count: 1958
+2025-08-03 16:16:03,287 [35] DEBUG GlobalLog - [MainUtilityTask] Opening map
+2025-08-03 16:16:03,290 [35] INFO  LokiPoe - [InjectKeyEvent1] 66 ms sleep for 9.
+2025-08-03 16:16:03,610 [35] INFO  GlobalLog - Phoenix Ward
+2025-08-03 16:16:03,611 [35] INFO  GlobalLog - Warped Timepiece
+2025-08-03 16:16:03,612 [35] INFO  GlobalLog - Rage Spire
+2025-08-03 16:16:03,613 [35] INFO  GlobalLog - Esh's Mirror
+2025-08-03 16:16:03,613 [35] INFO  GlobalLog - Nimis
+2025-08-03 16:16:03,614 [35] INFO  GlobalLog - Death Rush
+2025-08-03 16:16:03,615 [35] INFO  GlobalLog - Inpulsa's Broken Heart
+2025-08-03 16:16:03,615 [35] INFO  GlobalLog - Headhunter
+2025-08-03 16:16:03,616 [35] INFO  GlobalLog - Cataclysm Fist
+2025-08-03 16:16:03,617 [35] INFO  GlobalLog - Replica Voidwalker
+2025-08-03 16:16:03,627 [35] INFO  GlobalLog - Alchemist's Diamond Flask of the Cheetah
+2025-08-03 16:16:03,628 [35] WARN  GlobalLog - [MainUtilityTask] Equipped items updated
+2025-08-03 16:16:03,743 [35] DEBUG GlobalLog - [MainUtilityTask] Initializing chat.
+2025-08-03 16:16:03,773 [35] DEBUG GlobalLog - [CloseBlockingWindows] WorldUi is opened
+2025-08-03 16:16:03,774 [35] INFO  LokiPoe - [InjectKeyEvent1] 87 ms sleep for 27.
+2025-08-03 16:16:03,933 [35] INFO  LokiPoe - [InjectKeyEvent1] 88 ms sleep for 13.
+2025-08-03 16:16:06,389 [35] DEBUG GlobalLog - [MainUtilityTask] Need to fully cache stash.
+2025-08-03 16:16:06,408 [35] DEBUG GlobalLog - [OpenStash] Opening stash.
+2025-08-03 16:16:06,418 [35] INFO  Dat - Now creating the MinimapIcons cache.
+2025-08-03 16:16:06,981 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,09/2,45)
+2025-08-03 16:16:07,073 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,18/2,45)
+2025-08-03 16:16:07,166 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,28/2,45)
+2025-08-03 16:16:07,258 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,37/2,45)
+2025-08-03 16:16:07,351 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,46/2,45)
+2025-08-03 16:16:07,443 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,55/2,45)
+2025-08-03 16:16:07,535 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,65/2,45)
+2025-08-03 16:16:07,536 [35] DEBUG GlobalLog - [WaitFor] Wait for stash to open success after 0,65 sec
+2025-08-03 16:16:08,126 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Fragment => Cur. [MainUtilityTask]
+2025-08-03 16:16:08,137 [35] INFO  LokiPoe - [InjectKeyEvent1] 65 ms sleep for 39.
+2025-08-03 16:16:08,645 [35] DEBUG GlobalLog - [SetupTabsTask] Currency tab: Cur
+2025-08-03 16:16:08,645 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Cur => 3. [MainUtilityTask]
+2025-08-03 16:16:09,148 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 3 => 4. [MainUtilityTask]
+2025-08-03 16:16:09,642 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 4 => 5. [MainUtilityTask]
+2025-08-03 16:16:10,023 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 5 => 6. [MainUtilityTask]
+2025-08-03 16:16:10,401 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 6 => 7. [MainUtilityTask]
+2025-08-03 16:16:10,893 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 7 => 8. [MainUtilityTask]
+2025-08-03 16:16:11,398 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 8 => 9. [MainUtilityTask]
+2025-08-03 16:16:11,922 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 9 => $$. [MainUtilityTask]
+2025-08-03 16:16:12,093 [35] DEBUG GlobalLog - [SetupTabsTask] Public tab: $$
+2025-08-03 16:16:12,345 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: $$ => $$$. [MainUtilityTask]
+2025-08-03 16:16:12,570 [35] DEBUG GlobalLog - [SetupTabsTask] Public tab: $$$
+2025-08-03 16:16:12,765 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: $$$ => $. [MainUtilityTask]
+2025-08-03 16:16:13,001 [35] DEBUG GlobalLog - [SetupTabsTask] Public tab: $
+2025-08-03 16:16:13,246 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: $ => 2. [MainUtilityTask]
+2025-08-03 16:16:13,938 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 2 => Map. [MainUtilityTask]
+2025-08-03 16:16:14,418 [35] DEBUG GlobalLog - 19:Baran, The Crusader slots: 60
+2025-08-03 16:16:15,514 [35] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Dunes Map] success after 0,55 sec
+2025-08-03 16:16:16,037 [35] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Jungle Valley Map] success after 0,37 sec
+2025-08-03 16:16:16,760 [35] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Toxic Sewer Map] success after 0,55 sec
+2025-08-03 16:16:16,809 [35] INFO  GlobalLog - [CacheMapTabs] Adding info for T16 : [97][Dunes|Jungle Valley|Toxic Sewer]
+2025-08-03 16:16:16,810 [35] WARN  GlobalLog - [CacheMapTabs] Map tab Map cached successfully.
+2025-08-03 16:16:16,810 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Map => Ess. [MainUtilityTask]
+2025-08-03 16:16:17,353 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Ess => 1. [MainUtilityTask]
+2025-08-03 16:16:17,859 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 1 => GEM. [MainUtilityTask]
+2025-08-03 16:16:18,252 [35] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-03 16:16:18,253 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: GEM => Divination. [MainUtilityTask]
+2025-08-03 16:16:18,765 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Divination => Oil. [MainUtilityTask]
+2025-08-03 16:16:19,386 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Oil => 11. [MainUtilityTask]
+2025-08-03 16:16:20,196 [35] WARN  GlobalLog - Tabs amount: 20
+2025-08-03 16:16:20,315 [35] DEBUG TaskManagerBase<ITask> - [Remove] Now removing [HandleFollowersTask].
+2025-08-03 16:16:20,316 [35] DEBUG GlobalLog - [Remove HandleFollowersTask success.
+2025-08-03 16:16:20,422 [35] DEBUG GlobalLog - [StashTask] All tabs specified in stashing rules exist in stash.
+2025-08-03 16:16:20,448 [35] DEBUG GlobalLog - [GoToHideoutViaCommand] Now going to hideout via chat command.
+2025-08-03 16:16:23,208 [35] DEBUG GlobalLog - [WaitFor] Wait for loading screen success after 1,95 sec
+2025-08-03 16:16:25,346 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to True.
+2025-08-03 16:16:25,347 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-03 16:16:25,347 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 5.
+2025-08-03 16:16:25,347 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to False.
+2025-08-03 16:16:25,347 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-03 16:16:25,347 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 4.
+2025-08-03 16:16:25,347 [29] DEBUG GlobalLog - [ComplexExplorer] Creating new level anchor {241, 172} (distance: 0)
+2025-08-03 16:16:25,348 [29] WARN  GlobalLog - [CombatAreaCache] Created cache for "HideoutTwilightTemple:60" (hash: 3637974513)
+2025-08-03 16:16:25,363 [35] DEBUG GlobalLog - [WaitFor] Wait for ingame success after 2,15 sec
+2025-08-03 16:16:25,395 [35] INFO  ExilePather - [ExilePather] Now creating the navmesh. [Force: False]
+2025-08-03 16:16:25,402 [35] INFO  ExilePather - [ExilePather] The navmesh has been created. Now waiting to be in game.
+2025-08-03 16:16:25,403 [35] INFO  ExilePather - [ExilePather] We are in game now, waiting area generation to complete for: Divided Hideout (HideoutTwilightTemple).
+2025-08-03 16:16:25,466 [35] INFO  ExilePather - [ExilePather] The pathfinder has been reloaded. Now calling 'CheckForUpdates'
+2025-08-03 16:16:25,467 [35] INFO  ExilePather - [ExilePather] Now calling 'FastWalkablePositionFor' to prime the library.
+2025-08-03 16:16:25,468 [35] INFO  ExilePather - [ExilePather] 'CheckForUpdates' has completed. ExilePather is now ready to use!
+2025-08-03 16:16:25,469 [35] INFO  GlobalLog - [Events] Area changed (Highgate:1434073308 -> Divided Hideout:3637974513)
+2025-08-03 16:16:25,469 [35] INFO  GlobalLog - [CombatAreaCache] Resetting unwalkable flags on all cached objects.
+2025-08-03 16:16:25,475 [35] WARN  GlobalLog - [SqRoutine] Castable skills:
+2025-08-03 16:16:25,476 [35] INFO  GlobalLog - ======================
+2025-08-03 16:16:25,484 [35] INFO  GlobalLog - [Kinetic Blast] | RButton | links: 6 | canUse: True
+2025-08-03 16:16:25,485 [35] INFO  GlobalLog - [Temporal Chains] | MButton | links: 1 | canUse: True
+2025-08-03 16:16:25,489 [35] INFO  GlobalLog - [Frostblink] | W | links: 1 | canUse: True
+2025-08-03 16:16:25,490 [35] INFO  GlobalLog - [Default Attack] | None | links: 1 | canUse: False
+2025-08-03 16:16:25,490 [35] INFO  GlobalLog - [Order: To me!] | None | links: 1 | canUse: False
+2025-08-03 16:16:25,498 [35] INFO  GlobalLog - [Vaal Haste] | E | links: 2 | canUse: False
+2025-08-03 16:16:25,499 [35] INFO  GlobalLog - [Shield Charge] | Q | links: 2 | canUse: True
+2025-08-03 16:16:25,499 [35] INFO  GlobalLog - ======================
+2025-08-03 16:16:25,681 [35] WARN  GlobalLog - [MainUtilityTask] Should check map device!
+2025-08-03 16:16:25,686 [35] DEBUG GlobalLog - [OpenMapDevice] Found MTX map device [Metadata/MapDevices/BellTowerMapDevice/BellTowerMapDeviceSound.ao]. Making adjustments!
+2025-08-03 16:16:25,710 [35] DEBUG GlobalLog - [MoveAtOnce] Moving to Map Device at {395, 134} (distance: 158)
+2025-08-03 16:16:25,712 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Map Device at {395, 134} (distance: 158)
+2025-08-03 16:16:25,890 [35] WARN  GlobalLog - [SkillPlayerMoverEx] Found MoveOnly at slot 8!
+2025-08-03 16:16:25,927 [35] INFO  LokiPoe - [InjectKeyEvent1] 115 ms sleep for 84.
+2025-08-03 16:16:26,859 [35] DEBUG GlobalLog - [MoveAtOnce] Moving to Map Device at {395, 134} (distance: 87,84419)
+2025-08-03 16:16:26,860 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Map Device at {395, 134} (distance: 85)
+2025-08-03 16:16:27,875 [35] DEBUG GlobalLog - [MoveAtOnce] Moving to Map Device at {395, 134} (distance: 1)
+2025-08-03 16:16:27,875 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Map Device at {395, 134} (distance: 1)
+2025-08-03 16:16:28,537 [35] DEBUG GlobalLog - [WaitFor] Wait for Map Device opening success after 0,28 sec
+2025-08-03 16:16:28,537 [35] DEBUG GlobalLog - [OpenMapDevice] Map Device has been successfully opened.
+2025-08-03 16:16:28,656 [35] INFO  GlobalLog - [CastAuraTask] Found 1 aura(s) for casting.
+2025-08-03 16:16:28,755 [35] ERROR GlobalLog - [CastAuraTask] We cannot cast [Haste] because Max Mana (858) - actual reserved (681,25) - cost (290,18) - reserved (106) = (-219,4301) < 0.. Temporarily ignoring it.
+2025-08-03 16:16:29,016 [35] WARN  GlobalLog - [ReturnToMapTask] Taking [Toxic Sewer] at {424, 103} (distance: 42)
+2025-08-03 16:16:29,880 [35] DEBUG GlobalLog - [WaitFor] Wait for Loading screen success after 0,70 sec
+2025-08-03 16:16:29,961 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:16:31,088 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:16:32,215 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:16:32,940 [29] WARN  GlobalLog - [ComplexExplorer] Initializing Explorer for: Toxic Sewer:804112922. [03.08.2025 16:16:32]
+2025-08-03 16:16:32,942 [29] DEBUG GlobalLog - [MapData] Name: Toxic Sewer
+2025-08-03 16:16:32,942 [29] DEBUG GlobalLog - [MapData] Type: Regular
+2025-08-03 16:16:32,943 [29] DEBUG GlobalLog - [MapData] Monster remaining: 20
+2025-08-03 16:16:32,943 [29] DEBUG GlobalLog - [MapData] Exploration percent: 85
+2025-08-03 16:16:32,943 [29] DEBUG GlobalLog - [MapData] BossRush: False
+2025-08-03 16:16:32,944 [29] DEBUG GlobalLog - [MapData] Fast transition: False
+2025-08-03 16:16:32,944 [29] DEBUG GlobalLog - [MapData] Final pulses: -1
+2025-08-03 16:16:32,944 [29] DEBUG GlobalLog - [MapData] Bosses: Arachnoxia
+2025-08-03 16:16:32,945 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to True.
+2025-08-03 16:16:32,945 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-03 16:16:32,945 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 5.
+2025-08-03 16:16:32,946 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to False.
+2025-08-03 16:16:32,946 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-03 16:16:32,946 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 4.
+2025-08-03 16:16:32,946 [29] DEBUG GlobalLog - [ComplexExplorer] Creating new level anchor {186, 990} (distance: 0)
+2025-08-03 16:16:32,946 [29] WARN  GlobalLog - [CombatAreaCache] Created cache for "MapWorldsToxicSewer:72" (hash: 804112922)
+2025-08-03 16:16:32,956 [29] INFO  GlobalLog - [LeaveAreaTask] Reset.
+2025-08-03 16:16:32,957 [29] WARN  GlobalLog - [HarvestTask] Reset.
+2025-08-03 16:16:32,958 [29] INFO  GlobalLog - [MapExplorationTask] Reset.
+2025-08-03 16:16:32,959 [29] DEBUG GlobalLog - [MapData] Name: Toxic Sewer
+2025-08-03 16:16:32,959 [29] DEBUG GlobalLog - [MapData] Type: Regular
+2025-08-03 16:16:32,959 [29] DEBUG GlobalLog - [MapData] Monster remaining: 20
+2025-08-03 16:16:32,959 [29] DEBUG GlobalLog - [MapData] Exploration percent: 85
+2025-08-03 16:16:32,960 [29] DEBUG GlobalLog - [MapData] BossRush: False
+2025-08-03 16:16:32,960 [29] DEBUG GlobalLog - [MapData] Fast transition: False
+2025-08-03 16:16:32,960 [29] DEBUG GlobalLog - [MapData] Final pulses: -1
+2025-08-03 16:16:32,960 [29] DEBUG GlobalLog - [MapData] Bosses: Arachnoxia
+2025-08-03 16:16:32,960 [29] INFO  GlobalLog - [KillBossTask] Reset.
+2025-08-03 16:16:32,966 [29] INFO  GlobalLog - [KillBossTask] Boss range: 15
+2025-08-03 16:16:32,966 [29] WARN  GlobalLog - [MapBotEx] New map has been entered: Toxic Sewer (T16).
+2025-08-03 16:16:32,973 [35] INFO  ExilePather - [ExilePather] Now creating the navmesh. [Force: False]
+2025-08-03 16:16:32,989 [35] INFO  ExilePather - [ExilePather] The navmesh has been created. Now waiting to be in game.
+2025-08-03 16:16:32,989 [35] INFO  ExilePather - [ExilePather] We are in game now, waiting area generation to complete for: Toxic Sewer (MapWorldsToxicSewer).
+2025-08-03 16:16:33,294 [35] INFO  ExilePather - [ExilePather] The pathfinder has been reloaded. Now calling 'CheckForUpdates'
+2025-08-03 16:16:33,295 [35] INFO  ExilePather - [ExilePather] Now calling 'FastWalkablePositionFor' to prime the library.
+2025-08-03 16:16:33,296 [35] INFO  ExilePather - [ExilePather] 'CheckForUpdates' has completed. ExilePather is now ready to use!
+2025-08-03 16:16:33,296 [35] INFO  GlobalLog - [Events] Area changed (Divided Hideout:3637974513 -> Toxic Sewer:804112922)
+2025-08-03 16:16:33,297 [35] INFO  GlobalLog - [CombatAreaCache] Resetting unwalkable flags on all cached objects.
+2025-08-03 16:16:33,297 [35] INFO  GlobalLog - [Events] Combat area changed (null -> Toxic Sewer)
+2025-08-03 16:16:33,298 [35] WARN  GlobalLog - [AfflictionExplorationTask] Reset.
+2025-08-03 16:16:33,305 [35] WARN  GlobalLog - [SqRoutine] Castable skills:
+2025-08-03 16:16:33,305 [35] INFO  GlobalLog - ======================
+2025-08-03 16:16:33,307 [35] INFO  GlobalLog - [Kinetic Blast] | RButton | links: 6 | canUse: True
+2025-08-03 16:16:33,307 [35] INFO  GlobalLog - [Temporal Chains] | MButton | links: 1 | canUse: True
+2025-08-03 16:16:33,308 [35] INFO  GlobalLog - [Frostblink] | W | links: 1 | canUse: True
+2025-08-03 16:16:33,308 [35] INFO  GlobalLog - [Default Attack] | None | links: 1 | canUse: False
+2025-08-03 16:16:33,308 [35] INFO  GlobalLog - [Order: To me!] | None | links: 1 | canUse: False
+2025-08-03 16:16:33,309 [35] INFO  GlobalLog - [Vaal Haste] | E | links: 2 | canUse: True
+2025-08-03 16:16:33,310 [35] INFO  GlobalLog - [Shield Charge] | Q | links: 2 | canUse: True
+2025-08-03 16:16:33,310 [35] INFO  GlobalLog - ======================
+2025-08-03 16:16:33,325 [35] DEBUG GridExplorer - [GridExplorer] Now segmenting the current area.
+2025-08-03 16:16:33,457 [35] DEBUG GridExplorer - [GridExplorer] Processing Harvest data.
+2025-08-03 16:16:33,457 [35] DEBUG GridExplorer - [GridExplorer] Harvest NOT Detected!.
+2025-08-03 16:16:33,458 [35] DEBUG GridExplorer - [GridExplorer] Processing Incursion data.
+2025-08-03 16:16:33,458 [35] DEBUG GridExplorer - [GridExplorer] Incursion NOT Detected!.
+2025-08-03 16:16:33,458 [35] DEBUG GridExplorer - [GridExplorer] Processing Afliction data.
+2025-08-03 16:16:33,458 [35] DEBUG GridExplorer - [GridExplorer] Afliction NOT Detected!.
+2025-08-03 16:16:33,459 [35] DEBUG GridExplorer - [GridExplorer] Processing Syndicate Data.
+2025-08-03 16:16:33,459 [35] DEBUG GridExplorer - [GridExplorer] Syndicate NOT Detected!.
+2025-08-03 16:16:33,459 [35] DEBUG GridExplorer - [GridExplorer] Processing Ultimatum Data.
+2025-08-03 16:16:33,459 [35] DEBUG GridExplorer - [GridExplorer] Ultimatum NOT Detected!.
+2025-08-03 16:16:33,459 [35] DEBUG GridExplorer - [GridExplorer] Area segmentation complete 00:00:00.1348397.
+2025-08-03 16:16:33,875 [35] DEBUG GlobalLog - [CancelGracePeriod] Grace period detected! Moving a bit.
+2025-08-03 16:16:33,909 [35] INFO  GlobalLog - [SqUseAt] [Kinetic Blast][3] => [Dist:33]]
+2025-08-03 16:16:33,918 [35] INFO  LokiPoe - [InjectKeyEvent1] 111 ms sleep for 2.
+2025-08-03 16:16:35,704 [35] INFO  GlobalLog - [CastAuraTask] Found 1 aura(s) for casting.
+2025-08-03 16:16:35,707 [35] ERROR GlobalLog - [CastAuraTask] We cannot cast [Haste] because Max Mana (858) - actual reserved (681,25) - cost (290,18) - reserved (106) = (-219,4301) < 0.. Temporarily ignoring it.
+2025-08-03 16:16:35,840 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {299, 989} [5,06%].
+2025-08-03 16:16:36,455 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {322, 966} [7,59%].
+2025-08-03 16:16:37,024 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {368, 943} [9,14%].
+2025-08-03 16:16:37,602 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {414, 966} [10,70%].
+2025-08-03 16:16:38,288 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {483, 966} [13,04%].
+2025-08-03 16:16:38,944 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {529, 966} [14,59%].
+2025-08-03 16:16:39,036 [35] WARN  GlobalLog - [CombatAreaCache:Mercenaries] Registering [Rudgus, the Calculated] at {603, 950} (distance: 160)
+2025-08-03 16:16:39,562 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {598, 943} [17,32%].
+2025-08-03 16:16:40,093 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {644, 966} [20,04%].
+2025-08-03 16:16:40,705 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {611, 828} [21,01%].
+2025-08-03 16:16:41,254 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {598, 782} [21,79%].
+2025-08-03 16:16:41,522 [35] DEBUG GlobalLog - [CombatAreaCache:Ritual] Registering [RitualRuneInteractable] at {490, 721} (distance: 247)
+2025-08-03 16:16:41,629 [35] DEBUG GlobalLog - [MoveTowards] Moving towards RitualRuneInteractable at {490, 721} (distance: 198)
+2025-08-03 16:16:41,821 [35] DEBUG GlobalLog - [MoveTowards] Moving towards RitualRuneInteractable at {490, 721} (distance: 186)
+2025-08-03 16:16:42,206 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Corpse Thief] at {469, 645} (distance: 284) Can see? False Dist: 284,4242
+2025-08-03 16:16:42,210 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Corpse Thief at {469, 645} (distance: 230)
+2025-08-03 16:16:43,032 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Corpse Thief at {469, 645} (distance: 164)
+2025-08-03 16:16:44,213 [35] DEBUG GlobalLog - [TangleAltar] at {625, 535} (distance: 227) Options:
+2025-08-03 16:16:44,213 [35] WARN  GlobalLog - Eldritch Minions gain:
+2025-08-03 16:16:44,214 [35] INFO  GlobalLog - Hits have #% chance to ignore Enemy Physical Damage Reduction
+2025-08-03 16:16:44,214 [35] INFO  GlobalLog - Skills fire # additional Projectiles
+2025-08-03 16:16:44,214 [35] INFO  GlobalLog - #% chance to drop an additional Orb of Scouring
+2025-08-03 16:16:44,214 [35] WARN  GlobalLog - Map boss gains:
+2025-08-03 16:16:44,214 [35] INFO  GlobalLog - +#% to maximum Cold Resistance
+2025-08-03 16:16:44,215 [35] INFO  GlobalLog - +#% to Cold Resistance
+2025-08-03 16:16:44,215 [35] INFO  GlobalLog - +#% to maximum Lightning Resistance
+2025-08-03 16:16:44,215 [35] INFO  GlobalLog - +#% to Lightning Resistance
+2025-08-03 16:16:44,215 [35] INFO  GlobalLog - Gain #% of Physical Damage as Extra Cold Damage
+2025-08-03 16:16:44,216 [35] INFO  GlobalLog - All Damage with Hits can Chill
+2025-08-03 16:16:44,216 [35] INFO  GlobalLog - Final Boss drops # additional Divination Cards which reward Basic Currency
+2025-08-03 16:16:44,217 [35] WARN  GlobalLog - [CombatAreaCache:Altars] Registering [TangleAltar] at {625, 535} (distance: 227)
+2025-08-03 16:16:44,327 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Corpse Thief at {474, 630} (distance: 69)
+2025-08-03 16:16:45,021 [35] DEBUG GlobalLog - [CombatAreaCache:Ritual] Registering [RitualRuneInteractable] at {618, 482} (distance: 235)
+2025-08-03 16:16:45,137 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Corpse Thief] at {474, 630} (distance: 6)
+2025-08-03 16:16:45,454 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Corpse Thief] at {474, 630} (distance: 4)
+2025-08-03 16:16:45,932 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Deep Stalker] at {406, 618} (distance: 67) Can see? True Dist: 67,48116
+2025-08-03 16:16:45,934 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Deep Stalker at {406, 618} (distance: 67)
+2025-08-03 16:16:46,224 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Watcher] at {356, 605} (distance: 97) Can see? True Dist: 97,20041
+2025-08-03 16:16:46,225 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Primeval Watcher at {356, 605} (distance: 96)
+2025-08-03 16:16:46,499 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Watcher] at {359, 605} (distance: 54)
+2025-08-03 16:16:46,791 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Watcher] at {365, 605} (distance: 29)
+2025-08-03 16:16:47,049 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Watcher] at {371, 606} (distance: 23)
+2025-08-03 16:16:47,157 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Watcher] at {374, 607} (distance: 20)
+2025-08-03 16:16:47,278 [35] DEBUG GlobalLog - [MoveTowards] Moving towards RitualRuneInteractable at {490, 721} (distance: 145)
+2025-08-03 16:16:47,525 [35] DEBUG GlobalLog - [MoveTowards] Moving towards RitualRuneInteractable at {490, 721} (distance: 127)
+2025-08-03 16:16:48,156 [35] WARN  GlobalLog - [HuntExilesTask] [RitualRuneInteractable] at {490, 721} (distance: 82) Exile Giants: 0 < 3. Ignoring this altar.
+2025-08-03 16:16:48,548 [35] DEBUG GlobalLog - [MoveTowards] Moving towards RitualRuneInteractable at {618, 482} (distance: 178)
+2025-08-03 16:16:49,403 [35] WARN  GlobalLog - [HuntExilesTask] [RitualRuneInteractable] at {618, 482} (distance: 90) Exile Giants: 0 < 3. Ignoring this altar.
+2025-08-03 16:16:49,517 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {713, 598} [45,91%].
+2025-08-03 16:16:50,081 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {759, 598} [47,47%].
+2025-08-03 16:16:50,697 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {828, 621} [49,81%].
+2025-08-03 16:16:50,973 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Sewage Crawler] at {826, 607} (distance: 66) Can see? False Dist: 66,63055
+2025-08-03 16:16:50,975 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Sewage Crawler at {826, 607} (distance: 65)
+2025-08-03 16:16:51,343 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Consuming Thrall] at {824, 604} (distance: 24) Can see? True Dist: 24,42655
+2025-08-03 16:16:51,346 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Consuming Thrall] at {824, 604} (distance: 24)
+2025-08-03 16:16:51,696 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Sewage Crawler] at {827, 575} (distance: 49) Can see? False Dist: 49,90301
+2025-08-03 16:16:51,697 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Sewage Crawler at {827, 575} (distance: 44)
+2025-08-03 16:16:52,113 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {920, 621} [51,75%].
+2025-08-03 16:16:52,422 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Kiln Mother] at {831, 603} (distance: 7) Can see? False Dist: 7
+2025-08-03 16:16:52,423 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Kiln Mother at {955, 765} (distance: 196)
+2025-08-03 16:16:52,759 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {966, 621} [55,06%].
+2025-08-03 16:16:53,106 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Sewage Crawler] at {962, 610} (distance: 55) Can see? True Dist: 55,20187
+2025-08-03 16:16:53,111 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Sewage Crawler] at {962, 610} (distance: 55)
+2025-08-03 16:16:53,464 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Corrupted Arach] at {944, 649} (distance: 34) Can see? True Dist: 34,23336
+2025-08-03 16:16:53,466 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Corrupted Arach] at {943, 648} (distance: 32)
+2025-08-03 16:16:53,643 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Corrupted Arach] at {969, 642} (distance: 50) Can see? True Dist: 50,18744
+2025-08-03 16:16:53,645 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Corrupted Arach] at {968, 642} (distance: 49)
+2025-08-03 16:16:53,837 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {931, 736} [58,56%].
+2025-08-03 16:16:54,637 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:16:54,643 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Corrupted Arach] at {954, 702} (distance: 10)
+2025-08-03 16:16:54,680 [35] INFO  LokiPoe - [InjectKeyEvent1] 99 ms sleep for 4.
+2025-08-03 16:16:54,884 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Corrupted Arach] at {954, 702} (distance: 9) Can see? True Dist: 9,236068
+2025-08-03 16:16:54,893 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Corrupted Arach] at {955, 700} (distance: 8)
+2025-08-03 16:16:55,261 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Gut Flayer] at {960, 699} (distance: 5) Can see? True Dist: 5,064495
+2025-08-03 16:16:55,264 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Gut Flayer] at {960, 699} (distance: 5)
+2025-08-03 16:16:55,451 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Grotesque Maw] at {971, 704} (distance: 8) Can see? True Dist: 8,162277
+2025-08-03 16:16:55,455 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Maw] at {971, 704} (distance: 8)
+2025-08-03 16:16:55,826 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Grotesque Maw at {971, 704} (distance: 77)
+2025-08-03 16:16:56,124 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Maw] at {974, 710} (distance: 47)
+2025-08-03 16:16:56,442 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {966, 506} [61,87%].
+2025-08-03 16:16:57,025 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Grotesque Maw at {972, 730} (distance: 64)
+2025-08-03 16:16:57,317 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:16:57,319 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Grotesque Maw] at {972, 708} (distance: 41)
+2025-08-03 16:16:57,440 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Maw] at {972, 698} (distance: 16)
+2025-08-03 16:16:57,741 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Maw] at {971, 686} (distance: 5)
+2025-08-03 16:16:58,850 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Maw] at {971, 686} (distance: 5)
+2025-08-03 16:16:58,983 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:16:58,984 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Grotesque Maw] at {971, 686} (distance: 5)
+2025-08-03 16:16:59,169 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Grotesque Maw at {971, 686} (distance: 95)
+2025-08-03 16:16:59,464 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Maw] at {970, 676} (distance: 59)
+2025-08-03 16:16:59,743 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Maw] at {969, 654} (distance: 17)
+2025-08-03 16:16:59,859 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Maw] at {967, 646} (distance: 9)
+2025-08-03 16:16:59,984 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Maw] at {967, 642} (distance: 5)
+2025-08-03 16:17:00,105 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Maw] at {967, 641} (distance: 5)
+2025-08-03 16:17:01,492 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {947, 492} [62,06%].
+2025-08-03 16:17:02,095 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Ailentia Rac] at {1010, 410} (distance: 163) Can see? False Dist: 163,6318
+2025-08-03 16:17:02,096 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Ailentia Rac at {1010, 410} (distance: 150)
+2025-08-03 16:17:02,301 [35] WARN  GlobalLog - [CombatAreaCache:GiantExiles] Registering [Tinevin Highdove] at {922, 392} (distance: 156)
+2025-08-03 16:17:02,304 [35] WARN  GlobalLog - [CombatAreaCache:GiantExiles] Registering [Aurelio Voidsinger] at {1007, 407} (distance: 145)
+2025-08-03 16:17:02,308 [35] WARN  GlobalLog - [CombatAreaCache:GiantExiles] Registering [Lael Furia] at {919, 389} (distance: 160)
+2025-08-03 16:17:02,508 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Ailentia Rac at {1010, 410} (distance: 106)
+2025-08-03 16:17:02,869 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:17:02,872 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Tinevin Highdove] at {922, 392} (distance: 38)
+2025-08-03 16:17:02,951 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Consuming Thrall] at {962, 397} (distance: 5) Can see? True Dist: 5,064495
+2025-08-03 16:17:02,953 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Consuming Thrall] at {962, 397} (distance: 5)
+2025-08-03 16:17:03,113 [35] DEBUG GlobalLog - [CombatAreaCache:Ritual] Registering [RitualRuneInteractable] at {1061, 263} (distance: 215)
+2025-08-03 16:17:03,116 [35] WARN  GlobalLog - [CombatAreaCache:GiantExiles] Registering [Ash Lessard] at {961, 260} (distance: 153)
+2025-08-03 16:17:03,118 [35] WARN  GlobalLog - [CombatAreaCache:GiantExiles] Registering [Vanth Agiel] at {964, 263} (distance: 150)
+2025-08-03 16:17:03,428 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Tinevin Highdove] at {922, 392} (distance: 38) Can see? True Dist: 38,11404
+2025-08-03 16:17:03,431 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Tinevin Highdove] at {922, 392} (distance: 38)
+2025-08-03 16:17:04,048 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Tinevin Highdove] at {922, 392} (distance: 38) Can see? True Dist: 38,11404
+2025-08-03 16:17:04,056 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Tinevin Highdove] at {922, 392} (distance: 38)
+2025-08-03 16:17:04,133 [35] DEBUG GlobalLog - [CombatAreaCache:Dangers] Registering [beacon_aoe] at {1055, 352} (distance: 125)
+2025-08-03 16:17:04,136 [35] DEBUG GlobalLog - [CombatAreaCache:Dangers] Registering [beacon_aoe] at {1063, 361} (distance: 121)
+2025-08-03 16:17:04,138 [35] DEBUG GlobalLog - [CombatAreaCache:Dangers] Registering [beacon_aoe] at {1064, 328} (distance: 151)
+2025-08-03 16:17:04,370 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Aurelio Voidsinger] at {1000, 409} (distance: 42) Can see? True Dist: 42,18973
+2025-08-03 16:17:04,373 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Aurelio Voidsinger] at {1000, 409} (distance: 42)
+2025-08-03 16:17:04,540 [35] DEBUG GlobalLog - [CombatAreaCache:Dangers] Registering [beacon_aoe] at {1074, 345} (distance: 141)
+2025-08-03 16:17:04,542 [35] DEBUG GlobalLog - [CombatAreaCache:Dangers] Registering [beacon_aoe] at {1080, 339} (distance: 150)
+2025-08-03 16:17:04,544 [35] DEBUG GlobalLog - [CombatAreaCache:Dangers] Registering [beacon_aoe] at {1080, 352} (distance: 140)
+2025-08-03 16:17:04,766 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Sevet Tetherein] at {1051, 365} (distance: 111) Can see? False Dist: 111,7153
+2025-08-03 16:17:04,767 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Sevet Tetherein at {1050, 366} (distance: 97)
+2025-08-03 16:17:05,284 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:17:05,290 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Sevet Tetherein] at {1044, 381} (distance: 42)
+2025-08-03 16:17:05,515 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Sevet Tetherein at {1046, 373} (distance: 44)
+2025-08-03 16:17:05,872 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Sevet Tetherein] at {1032, 397} (distance: 6)
+2025-08-03 16:17:06,093 [35] WARN  GlobalLog - [CombatAreaCache:GiantExiles] Registering [Lael Furia] at {962, 224} (distance: 208)
+2025-08-03 16:17:06,097 [35] WARN  GlobalLog - [CombatAreaCache:GiantExiles] Registering [Wilorin Demontamer] at {1040, 225} (distance: 153)
+2025-08-03 16:17:06,100 [35] WARN  GlobalLog - [CombatAreaCache:GiantExiles] Registering [Minara Anemina] at {1045, 224} (distance: 154)
+2025-08-03 16:17:06,102 [35] WARN  GlobalLog - [CombatAreaCache:Ritual] Adding [Wilorin Demontamer] at {1040, 225} (distance: 153) to [RitualRuneInteractable] at {1061, 263} (distance: 115) gigantic exiles!
+2025-08-03 16:17:06,104 [35] WARN  GlobalLog - [CombatAreaCache:Ritual] Adding [Minara Anemina] at {1045, 224} (distance: 154) to [RitualRuneInteractable] at {1061, 263} (distance: 115) gigantic exiles!
+2025-08-03 16:17:06,243 [35] WARN  GlobalLog - Found: [safe position] at {1045, 373} (distance: 18) for beacon_aoe
+2025-08-03 16:17:06,245 [35] DEBUG GlobalLog - [MoveTowards] Moving towards safe position at {1045, 373} (distance: 19)
+2025-08-03 16:17:06,507 [35] WARN  GlobalLog - [CombatAreaCache:GiantExiles] Registering [Torr Olgosso] at {987, 198} (distance: 198)
+2025-08-03 16:17:06,511 [35] WARN  GlobalLog - [CombatAreaCache:GiantExiles] Registering [Igna Phoenix] at {988, 207} (distance: 194)
+2025-08-03 16:17:06,513 [35] WARN  GlobalLog - [CombatAreaCache:Ritual] Adding [Igna Phoenix] at {988, 207} (distance: 194) to [RitualRuneInteractable] at {1061, 263} (distance: 106) gigantic exiles!
+2025-08-03 16:17:06,707 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Vanth Agiel] at {989, 281} (distance: 143) Can see? False Dist: 143,7941
+2025-08-03 16:17:06,708 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Vanth Agiel at {992, 281} (distance: 104)
+2025-08-03 16:17:07,076 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Wilorin Demontamer] at {1051, 244} (distance: 98) Can see? True Dist: 98,18677
+2025-08-03 16:17:07,078 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Wilorin Demontamer at {1051, 244} (distance: 98)
+2025-08-03 16:17:07,298 [35] WARN  GlobalLog - [KillBossTask] Registering [Arachnoxia] at {1066, 231} (distance: 84)
+2025-08-03 16:17:07,505 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:17:07,508 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Wilorin Demontamer] at {1052, 262} (distance: 22)
+2025-08-03 16:17:07,649 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Wilorin Demontamer] at {1052, 269} (distance: 8)
+2025-08-03 16:17:08,047 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Wilorin Demontamer] at {1045, 273} (distance: 8)
+2025-08-03 16:17:08,264 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Arachnoxia] at {1060, 273} (distance: 8) Can see? True Dist: 8,122417
+2025-08-03 16:17:08,315 [35] WARN  GlobalLog - [SqRoutine] Trying to avoid Arachnoxia. Current action: [leap_slam] at {1053, 293} (distance: 16)
+2025-08-03 16:17:08,316 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Arachnoxia dodge position at {1053, 260} (distance: 17)
+2025-08-03 16:17:08,695 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Ash Lessard] at {983, 277} (distance: 72) Can see? True Dist: 72,23293
+2025-08-03 16:17:08,696 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Ash Lessard at {983, 277} (distance: 71)
+2025-08-03 16:17:09,368 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:17:09,371 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Torr Olgosso] at {1008, 212} (distance: 86)
+2025-08-03 16:17:09,657 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Torr Olgosso] at {1008, 213} (distance: 75) Can see? False Dist: 75,84665
+2025-08-03 16:17:09,659 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Torr Olgosso at {1008, 212} (distance: 61)
+2025-08-03 16:17:10,046 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Igna Phoenix] at {998, 211} (distance: 27) Can see? True Dist: 27,27426
+2025-08-03 16:17:10,048 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Igna Phoenix] at {998, 211} (distance: 27)
+2025-08-03 16:17:10,357 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Igna Phoenix] at {998, 211} (distance: 22)
+2025-08-03 16:17:10,537 [35] DEBUG GlobalLog - [MoveTowards] Moving towards RitualRuneInteractable at {1061, 263} (distance: 85)
+2025-08-03 16:17:10,867 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:17:10,871 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Igna Phoenix] at {999, 215} (distance: 25)
+2025-08-03 16:17:11,090 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Igna Phoenix] at {999, 215} (distance: 42) Can see? False Dist: 42,94638
+2025-08-03 16:17:11,092 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Grotesque Mauler at {990, 213} (distance: 48)
+2025-08-03 16:17:11,511 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Grotesque Cavedweller] at {980, 202} (distance: 20) Can see? True Dist: 20,23247
+2025-08-03 16:17:11,514 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Cavedweller] at {980, 202} (distance: 20)
+2025-08-03 16:17:11,873 [35] DEBUG GlobalLog - [MoveTowards] Moving towards RitualRuneInteractable at {1061, 263} (distance: 86)
+2025-08-03 16:17:12,184 [35] DEBUG GlobalLog - [MoveTowards] Moving towards RitualRuneInteractable at {1061, 263} (distance: 60)
+2025-08-03 16:17:12,508 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Grotesque Maw] at {1069, 194} (distance: 64) Can see? True Dist: 64,52026
+2025-08-03 16:17:12,510 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Grotesque Maw at {1069, 194} (distance: 64)
+2025-08-03 16:17:12,825 [35] DEBUG GlobalLog - [MoveTowards] Moving towards RitualRuneInteractable at {1061, 263} (distance: 33)
+2025-08-03 16:17:13,156 [35] DEBUG Coroutines - [FinishCurrentAction][True] Waited 0 ms for the action to finish Move.
+2025-08-03 16:17:13,587 [35] DEBUG GlobalLog - [WaitFor] Wait for [ProcessRitual] [RitualRuneInteractable] at {1061, 263} (distance: 3) activation success after 0,18 sec
+2025-08-03 16:17:13,848 [35] DEBUG GlobalLog - [MoveTowards] Moving towards random position around Ritual shrine at {1048, 319} (distance: 60)
+2025-08-03 16:17:14,187 [35] DEBUG GlobalLog - [MoveTowards] Moving towards random position around Ritual shrine at {1048, 319} (distance: 61)
+2025-08-03 16:17:15,373 [35] DEBUG GlobalLog - [MoveTowards] Moving towards random position around Ritual shrine at {1043, 222} (distance: 83)
+2025-08-03 16:17:15,696 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Treant Hookhorror] at {1016, 204} (distance: 63) Can see? True Dist: 68,0942
+2025-08-03 16:17:15,697 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Treant Hookhorror at {1017, 205} (distance: 61)
+2025-08-03 16:17:16,032 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Treant Hookhorror] at {1027, 216} (distance: 12)
+2025-08-03 16:17:16,388 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Ribrattle] at {1026, 276} (distance: 60) Can see? False Dist: 60,04046
+2025-08-03 16:17:16,389 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Ribrattle at {1026, 276} (distance: 59)
+2025-08-03 16:17:16,772 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Kitava Zealot] at {1056, 304} (distance: 63) Can see? True Dist: 63,17014
+2025-08-03 16:17:16,773 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Kitava Zealot at {1056, 303} (distance: 62)
+2025-08-03 16:17:17,112 [35] DEBUG GlobalLog - [MoveTowards] Moving towards random position around Ritual shrine at {1043, 222} (distance: 78)
+2025-08-03 16:17:17,449 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Vanth Agiel] at {1074, 215} (distance: 79) Can see? True Dist: 79,31296
+2025-08-03 16:17:17,451 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Vanth Agiel at {1074, 215} (distance: 79)
+2025-08-03 16:17:17,792 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:17:17,794 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Wilorin Demontamer] at {1047, 228} (distance: 15)
+2025-08-03 16:17:17,925 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Cultist Warrior] at {1026, 276} (distance: 54) Can see? True Dist: 54,72628
+2025-08-03 16:17:17,928 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Cultist Warrior] at {1027, 276} (distance: 54)
+2025-08-03 16:17:18,254 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Cultist Archer] at {1070, 277} (distance: 44) Can see? True Dist: 44,13962
+2025-08-03 16:17:18,258 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Cultist Archer] at {1070, 277} (distance: 44)
+2025-08-03 16:17:18,594 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Treant Hookhorror] at {1057, 226} (distance: 8) Can see? True Dist: 8,944272
+2025-08-03 16:17:18,595 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Treant Hookhorror at {1057, 226} (distance: 8)
+2025-08-03 16:17:18,754 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Wilorin Demontamer] at {1038, 221} (distance: 26) Can see? True Dist: 26,42015
+2025-08-03 16:17:18,758 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Wilorin Demontamer] at {1037, 220} (distance: 27)
+2025-08-03 16:17:18,934 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Wilorin Demontamer] at {1032, 216} (distance: 34)
+2025-08-03 16:17:19,114 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Vanth Agiel] at {1033, 217} (distance: 32) Can see? True Dist: 32,7904
+2025-08-03 16:17:19,118 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Vanth Agiel] at {1034, 218} (distance: 31)
+2025-08-03 16:17:19,291 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Vanth Agiel] at {1039, 221} (distance: 25)
+2025-08-03 16:17:19,464 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Vanth Agiel] at {1049, 227} (distance: 14)
+2025-08-03 16:17:19,646 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Vanth Agiel] at {1061, 234} (distance: 0)
+2025-08-03 16:17:19,873 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Arachnoxia] at {1005, 272} (distance: 69 (Nice)) Can see? False Dist: 70,61752
+2025-08-03 16:17:19,874 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Arachnoxia at {1005, 272} (distance: 69)
+2025-08-03 16:17:20,352 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Igna Phoenix] at {990, 268} (distance: 82) Can see? False Dist: 82,38595
+2025-08-03 16:17:20,354 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Igna Phoenix at {990, 268} (distance: 77)
+2025-08-03 16:17:20,943 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:17:20,944 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Igna Phoenix] at {990, 268} (distance: 46)
+2025-08-03 16:17:21,115 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Igna Phoenix] at {990, 268} (distance: 34)
+2025-08-03 16:17:21,571 [35] DEBUG GlobalLog - [MoveTowards] Moving towards random position around Ritual shrine at {1043, 222} (distance: 47)
+2025-08-03 16:17:21,902 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Igna Phoenix] at {990, 268} (distance: 64) Can see? False Dist: 64,17024
+2025-08-03 16:17:21,904 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Igna Phoenix at {990, 268} (distance: 55)
+2025-08-03 16:17:22,261 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Igna Phoenix] at {992, 270} (distance: 82) Can see? False Dist: 82,49468
+2025-08-03 16:17:22,262 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Igna Phoenix at {992, 270} (distance: 55)
+2025-08-03 16:17:22,636 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:17:22,638 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Igna Phoenix] at {991, 269} (distance: 19)
+2025-08-03 16:17:22,769 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Igna Phoenix] at {991, 269} (distance: 14) Can see? True Dist: 14,65028
+2025-08-03 16:17:22,774 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Igna Phoenix] at {991, 269} (distance: 14)
+2025-08-03 16:17:23,140 [35] DEBUG GlobalLog - [MoveTowards] Moving towards RitualRuneInteractable at {1061, 263} (distance: 73)
+2025-08-03 16:17:23,446 [35] DEBUG GlobalLog - [MoveTowards] Moving towards RitualRuneInteractable at {1061, 263} (distance: 42)
+2025-08-03 16:17:23,792 [35] INFO  LokiPoe - [InjectKeyEvent1] 118 ms sleep for 73.
+2025-08-03 16:17:24,997 [35] WARN  GlobalLog - [HuntExilesTask] Exiles captured: 3
+2025-08-03 16:17:25,185 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {851, 286} [81,52%].
+2025-08-03 16:17:26,280 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {851, 286} [81,52%].
+2025-08-03 16:17:27,271 [35] DEBUG GlobalLog - [CombatAreaCache:Ritual] Registering [RitualRuneInteractable] at {770, 275} (distance: 201)
+2025-08-03 16:17:27,273 [35] DEBUG GlobalLog - [CombatAreaCache:Abyss] Registering [AbyssStartNode] at {759, 253} (distance: 220)
+2025-08-03 16:17:27,274 [35] DEBUG GlobalLog - [CombatAreaCache:Abyss] Registering [AbyssStartNode] at {770, 276} (distance: 201)
+2025-08-03 16:17:27,496 [35] DEBUG GlobalLog - [MoveTowards] Moving towards RitualRuneInteractable at {770, 275} (distance: 165)
+2025-08-03 16:17:27,688 [35] DEBUG GlobalLog - [CombatAreaCache:SpecialChest] Registering [Smuggler's Cache] at {752, 246} (distance: 187)
+2025-08-03 16:17:28,385 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Black Scorpion] at {809, 286} (distance: 4) Can see? True Dist: 4,162278
+2025-08-03 16:17:28,387 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Black Scorpion] at {809, 286} (distance: 4)
+2025-08-03 16:17:28,512 [35] WARN  GlobalLog - [MapExplorationTask] Exploration limit has been reached (85%)
+2025-08-03 16:17:28,747 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Wildwood Werewolf] at {781, 299} (distance: 32) Can see? True Dist: 32,14633
+2025-08-03 16:17:28,755 [35] DEBUG GlobalLog - [MapExplorationTask] Boss is killed and map completion point is reached. Map is complete.
+2025-08-03 16:17:28,960 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Corrupted Arach] at {765, 233} (distance: 65) Can see? True Dist: 65,64574
+2025-08-03 16:17:28,962 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Corrupted Arach at {766, 234} (distance: 63)
+2025-08-03 16:17:29,267 [35] DEBUG GlobalLog - [SqRoutine:Periodic] NPC dialog available - skipping
+2025-08-03 16:17:29,345 [35] WARN  GlobalLog - [HuntExilesTask] [RitualRuneInteractable] at {770, 275} (distance: 24) Exile Giants: 0 < 3. Ignoring this altar.
+2025-08-03 16:17:29,451 [35] DEBUG GlobalLog - [SqRoutine:Periodic] NPC dialog available - skipping
+2025-08-03 16:17:29,516 [35] DEBUG GlobalLog - [InteractTask] [Smuggler's Cache] at {752, 246} (distance: 28):specialChest
+2025-08-03 16:17:29,880 [35] INFO  GlobalLog - [CachedTangleAltar] No mod found. Source mod: #% chance for Enemies to drop Shocked Ground when Hitting you, no more than once every # seconds. Adding to list.
+2025-08-03 16:17:29,881 [35] INFO  GlobalLog - [CachedTangleAltar] No mod found. Source mod: #% reduced Defences per Frenzy Charge. Adding to list.
+2025-08-03 16:17:29,881 [35] INFO  GlobalLog - [CachedTangleAltar] No mod found. Source mod: Maps dropped by slain Enemies have #% chance to be Duplicated. Adding to list.
+2025-08-03 16:17:29,884 [35] DEBUG GlobalLog - [TangleAltar] at {775, 276} (distance: 30) Options:
+2025-08-03 16:17:29,885 [35] WARN  GlobalLog - Player gains:
+2025-08-03 16:17:29,885 [35] INFO  GlobalLog - #% chance for Enemies to drop Shocked Ground when Hitting you, no more than once every # seconds
+2025-08-03 16:17:29,885 [35] INFO  GlobalLog - #% reduced Defences per Frenzy Charge
+2025-08-03 16:17:29,885 [35] INFO  GlobalLog - Maps dropped by slain Enemies have #% chance to be Duplicated
+2025-08-03 16:17:29,886 [35] WARN  GlobalLog - Eldritch Minions gain:
+2025-08-03 16:17:29,886 [35] INFO  GlobalLog - +#% to maximum Cold Resistance
+2025-08-03 16:17:29,886 [35] INFO  GlobalLog - +#% to Cold Resistance
+2025-08-03 16:17:29,886 [35] INFO  GlobalLog - +#% to maximum Lightning Resistance
+2025-08-03 16:17:29,887 [35] INFO  GlobalLog - +#% to Lightning Resistance
+2025-08-03 16:17:29,887 [35] INFO  GlobalLog - #% chance to remove a random Charge from Enemy on Hit
+2025-08-03 16:17:29,887 [35] INFO  GlobalLog - #% chance to drop an additional Jeweller's Orb
+2025-08-03 16:17:29,888 [35] WARN  GlobalLog - [CombatAreaCache:Altars] Registering [TangleAltar] at {775, 276} (distance: 30)
+2025-08-03 16:17:29,984 [35] DEBUG GlobalLog - [WaitFor] Wait for [Smuggler's Cache] at {752, 246} (distance: 8) opening success after 0,12 sec
+2025-08-03 16:17:30,085 [35] DEBUG GlobalLog - [SqRoutine:Periodic] NPC dialog available - skipping
+2025-08-03 16:17:30,129 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Grotesque Mauler] at {786, 304} (distance: 60) Can see? True Dist: 60,92955
+2025-08-03 16:17:30,133 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Mauler] at {786, 304} (distance: 60)
+2025-08-03 16:17:30,374 [35] DEBUG GlobalLog - [SqRoutine:Periodic] NPC dialog available - skipping
+2025-08-03 16:17:30,426 [35] DEBUG GlobalLog - [InteractTask] [Nameless Seer] at {781, 281} (distance: 38):namelessSeer
+2025-08-03 16:17:30,435 [35] DEBUG GlobalLog - [OpenPurchasePanel] Now going to open purchase dialog with [Nameless Seer] at {781, 281} (distance: 38).
+2025-08-03 16:17:31,385 [35] DEBUG GlobalLog - [WaitFor] Waiting for Dialog UI to open (0,28/4,16)
+2025-08-03 16:17:31,386 [35] DEBUG GlobalLog - [WaitFor] Wait for Dialog UI to open success after 0,28 sec
+2025-08-03 16:17:31,786 [35] DEBUG GlobalLog - [WaitFor] Wait for purchase panel opening success after 0,18 sec
+2025-08-03 16:17:31,787 [35] DEBUG GlobalLog - [OpenPurchasePanel] Purchase panel has been successfully opened.
+2025-08-03 16:17:31,977 [35] WARN  GlobalLog - [ProcessSeer] Nothing valuable found. Ignoring [Nameless Seer] at {781, 281} (distance: 8).
+2025-08-03 16:17:32,154 [35] DEBUG GlobalLog - [CloseBlockingWindows] Dialog Depth: 1. Pressing ESC.
+2025-08-03 16:17:32,474 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Mauler] at {772, 279} (distance: 3)
+2025-08-03 16:17:32,760 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Lightless Grub] at {728, 273} (distance: 45) Can see? True Dist: 45,93306
+2025-08-03 16:17:32,762 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Lightless Grub] at {729, 273} (distance: 44)
+2025-08-03 16:17:32,888 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {649, 266} [87,94%].
+2025-08-03 16:17:33,533 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Hunter] at {781, 271} (distance: 81) Can see? True Dist: 81,44461
+2025-08-03 16:17:33,534 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Primeval Hunter at {781, 271} (distance: 81)
+2025-08-03 16:17:33,843 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {621, 391} [90,47%].
+2025-08-03 16:17:34,443 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Watcher] at {805, 280} (distance: 148) Can see? False Dist: 148,1913
+2025-08-03 16:17:34,445 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Primeval Watcher at {805, 280} (distance: 147)
+2025-08-03 16:17:34,735 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Lightless Grub] at {663, 285} (distance: 4) Can see? True Dist: 4,828427
+2025-08-03 16:17:34,737 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Lightless Grub] at {663, 285} (distance: 4)
+2025-08-03 16:17:35,033 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Grotesque Mauler] at {660, 276} (distance: 4) Can see? True Dist: 4,236068
+2025-08-03 16:17:35,035 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Mauler] at {660, 276} (distance: 4)
+2025-08-03 16:17:35,152 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Watcher] at {792, 279} (distance: 133) Can see? True Dist: 133,0711
+2025-08-03 16:17:35,153 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Primeval Watcher at {794, 280} (distance: 135)
+2025-08-03 16:17:36,016 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Watcher] at {798, 282} (distance: 35)
+2025-08-03 16:17:36,281 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Watcher] at {798, 282} (distance: 20)
+2025-08-03 16:17:36,398 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Hunter] at {827, 287} (distance: 49) Can see? True Dist: 49,44707
+2025-08-03 16:17:36,400 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Hunter] at {825, 287} (distance: 47)
+2025-08-03 16:17:36,525 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Hunter] at {822, 287} (distance: 44)
+2025-08-03 16:17:36,663 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Hunter] at {834, 293} (distance: 57) Can see? False Dist: 57,41407
+2025-08-03 16:17:36,664 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Primeval Hunter at {834, 293} (distance: 57)
+2025-08-03 16:17:36,941 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Hunter] at {625, 307} (distance: 190) Can see? False Dist: 190,0634
+2025-08-03 16:17:36,943 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Primeval Hunter at {770, 294} (distance: 37)
+2025-08-03 16:17:37,204 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Lightless Grub] at {841, 307} (distance: 59) Can see? False Dist: 59,21564
+2025-08-03 16:17:37,206 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Lightless Grub at {841, 307} (distance: 53)
+2025-08-03 16:17:37,750 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Grotesque Mauler] at {866, 367} (distance: 62) Can see? True Dist: 62,05556
+2025-08-03 16:17:37,751 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Grotesque Mauler at {866, 367} (distance: 61)
+2025-08-03 16:17:38,021 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Pitworm] at {850, 329} (distance: 8) Can see? True Dist: 8,714777
+2025-08-03 16:17:38,023 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Pitworm] at {850, 329} (distance: 8)
+2025-08-03 16:17:38,291 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Pitworm at {850, 329} (distance: 56)
+2025-08-03 16:17:38,544 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {621, 391} [90,47%].
+2025-08-03 16:17:38,848 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Lightless Grub] at {862, 371} (distance: 67) Can see? True Dist: 67,49773
+2025-08-03 16:17:38,849 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Lightless Grub at {862, 371} (distance: 67)
+2025-08-03 16:17:39,159 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {621, 391} [90,47%].
+2025-08-03 16:17:40,020 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Hunter] at {868, 384} (distance: 155) Can see? False Dist: 155,3736
+2025-08-03 16:17:40,021 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Primeval Hunter at {868, 384} (distance: 140)
+2025-08-03 16:17:40,296 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Primeval Hunter at {868, 384} (distance: 131)
+2025-08-03 16:17:40,572 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Watcher] at {884, 398} (distance: 117) Can see? True Dist: 117,8007
+2025-08-03 16:17:40,573 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Primeval Watcher at {884, 398} (distance: 117)
+2025-08-03 16:17:40,849 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Hunter] at {866, 381} (distance: 60) Can see? True Dist: 60,88048
+2025-08-03 16:17:40,851 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Hunter] at {866, 381} (distance: 60)
+2025-08-03 16:17:41,245 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Hunter] at {893, 395} (distance: 2) Can see? True Dist: 2,828427
+2025-08-03 16:17:41,248 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Hunter] at {890, 392} (distance: 7)
+2025-08-03 16:17:41,547 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:17:41,550 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Wellwing Matriarch] at {928, 400} (distance: 34)
+2025-08-03 16:17:41,678 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Wellwing Matriarch] at {928, 400} (distance: 34) Can see? True Dist: 34,52996
+2025-08-03 16:17:41,681 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Wellwing Matriarch] at {923, 398} (distance: 29)
+2025-08-03 16:17:42,006 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Wellwing Matriarch] at {916, 395} (distance: 21)
+2025-08-03 16:17:42,417 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {621, 391} [90,47%].
+2025-08-03 16:17:42,727 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Pitworm] at {950, 389} (distance: 75) Can see? False Dist: 75,91461
+2025-08-03 16:17:42,728 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Pitworm at {950, 389} (distance: 74)
+2025-08-03 16:17:43,033 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Pitworm] at {940, 403} (distance: 62) Can see? True Dist: 62,70909
+2025-08-03 16:17:43,034 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Pitworm at {940, 403} (distance: 62)
+2025-08-03 16:17:43,314 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Pitworm] at {940, 403} (distance: 25)
+2025-08-03 16:17:43,588 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Pitworm] at {941, 421} (distance: 22) Can see? True Dist: 22,93356
+2025-08-03 16:17:43,589 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Pitworm] at {941, 421} (distance: 22)
+2025-08-03 16:17:43,711 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Hunter] at {958, 419} (distance: 32) Can see? True Dist: 32,22601
+2025-08-03 16:17:43,713 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Hunter] at {958, 417} (distance: 31)
+2025-08-03 16:17:43,970 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {621, 391} [90,47%].
+2025-08-03 16:17:44,256 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Hunter] at {1001, 406} (distance: 92) Can see? True Dist: 92,53326
+2025-08-03 16:17:44,257 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Primeval Hunter at {1001, 406} (distance: 92)
+2025-08-03 16:17:44,563 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Pitworm] at {979, 368} (distance: 64) Can see? False Dist: 64,09961
+2025-08-03 16:17:44,564 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Pitworm at {979, 368} (distance: 61)
+2025-08-03 16:17:44,867 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Pitworm] at {979, 368} (distance: 11)
+2025-08-03 16:17:45,179 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Hunter] at {964, 385} (distance: 15) Can see? True Dist: 15,7727
+2025-08-03 16:17:45,181 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Hunter] at {964, 385} (distance: 15)
+2025-08-03 16:17:45,313 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {621, 391} [90,47%].
+2025-08-03 16:17:45,594 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Watcher] at {981, 405} (distance: 36) Can see? True Dist: 36,88437
+2025-08-03 16:17:45,596 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Watcher] at {981, 405} (distance: 36)
+2025-08-03 16:17:45,864 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {621, 391} [90,47%].
+2025-08-03 16:17:46,713 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Hunter] at {971, 419} (distance: 149) Can see? False Dist: 149,2841
+2025-08-03 16:17:46,715 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Primeval Hunter at {971, 419} (distance: 144)
+2025-08-03 16:17:47,005 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Primeval Hunter at {967, 417} (distance: 113)
+2025-08-03 16:17:47,564 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Hunter] at {964, 418} (distance: 29)
+2025-08-03 16:17:47,846 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {621, 391} [90,47%].
+2025-08-03 16:17:48,989 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {621, 391} [90,47%].
+2025-08-03 16:17:49,807 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Hunter] at {626, 307} (distance: 166) Can see? False Dist: 166,6598
+2025-08-03 16:17:49,808 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Primeval Hunter at {626, 307} (distance: 160)
+2025-08-03 16:17:50,823 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Hunter] at {628, 315} (distance: 5) Can see? True Dist: 5,064495
+2025-08-03 16:17:50,824 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Hunter] at {629, 314} (distance: 6)
+2025-08-03 16:17:51,102 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Hunter] at {615, 342} (distance: 25) Can see? True Dist: 25,16486
+2025-08-03 16:17:51,104 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Hunter] at {615, 342} (distance: 25)
+2025-08-03 16:17:51,237 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {621, 414} [90,86%].
+2025-08-03 16:17:51,775 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {290, 617} [91,63%].
+2025-08-03 16:17:52,058 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Lightless Grub] at {614, 371} (distance: 36) Can see? True Dist: 36,66373
+2025-08-03 16:17:52,060 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Lightless Grub] at {614, 371} (distance: 36)
+2025-08-03 16:17:52,318 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Lightless Grub] at {614, 378} (distance: 33)
+2025-08-03 16:17:52,453 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {290, 617} [91,63%].
+2025-08-03 16:17:53,292 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Lightless Grub] at {616, 440} (distance: 57) Can see? True Dist: 57,37072
+2025-08-03 16:17:53,295 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Lightless Grub] at {616, 440} (distance: 57)
+2025-08-03 16:17:53,549 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Lightless Grub] at {626, 476} (distance: 35) Can see? True Dist: 35,77248
+2025-08-03 16:17:53,551 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Lightless Grub] at {626, 476} (distance: 35)
+2025-08-03 16:17:53,673 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {290, 617} [91,63%].
+2025-08-03 16:17:54,117 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Wellwing Matriarch] at {613, 475} (distance: 77) Can see? True Dist: 77,03841
+2025-08-03 16:17:54,119 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Wellwing Matriarch at {613, 475} (distance: 77)
+2025-08-03 16:17:54,314 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:17:54,318 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Wellwing Matriarch] at {616, 478} (distance: 7)
+2025-08-03 16:17:54,419 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Wellwing Matriarch] at {616, 478} (distance: 7)
+2025-08-03 16:17:54,636 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Wellwing] at {609, 468} (distance: 4) Can see? True Dist: 4,472136
+2025-08-03 16:17:54,639 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Wellwing] at {609, 468} (distance: 4)
+2025-08-03 16:17:54,761 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Wellwing Matriarch] at {616, 478} (distance: 7) Can see? True Dist: 7,892922
+2025-08-03 16:17:54,763 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Wellwing Matriarch] at {616, 478} (distance: 7)
+2025-08-03 16:17:55,160 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {290, 617} [91,63%].
+2025-08-03 16:17:56,092 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Watcher] at {594, 503} (distance: 117) Can see? False Dist: 117,3574
+2025-08-03 16:17:56,096 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Primeval Watcher at {594, 503} (distance: 102)
+2025-08-03 16:17:56,319 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Primeval Watcher at {594, 503} (distance: 83)
+2025-08-03 16:17:56,520 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Wellwing] at {610, 467} (distance: 94) Can see? True Dist: 94,37354
+2025-08-03 16:17:56,521 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Wellwing at {610, 467} (distance: 94)
+2025-08-03 16:17:56,727 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Watcher] at {591, 502} (distance: 34) Can see? True Dist: 34,05959
+2025-08-03 16:17:56,730 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Watcher] at {591, 502} (distance: 34)
+2025-08-03 16:17:56,901 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Watcher] at {616, 509} (distance: 2) Can see? True Dist: 2,236068
+2025-08-03 16:17:56,902 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Watcher] at {616, 509} (distance: 2)
+2025-08-03 16:17:57,007 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Primeval Hunter] at {593, 490} (distance: 31) Can see? True Dist: 31,89586
+2025-08-03 16:17:57,008 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Primeval Hunter] at {594, 492} (distance: 29)
+2025-08-03 16:17:57,130 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {290, 617} [91,63%].
+2025-08-03 16:17:58,313 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {290, 617} [91,63%].
+2025-08-03 16:17:59,460 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {276, 713} [93,77%].
+2025-08-03 16:18:00,061 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Grotesque Cavedweller] at {214, 700} (distance: 68) Can see? False Dist: 68,18377
+2025-08-03 16:18:00,062 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Grotesque Cavedweller at {214, 700} (distance: 65)
+2025-08-03 16:18:00,273 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Grotesque Mauler] at {191, 715} (distance: 71) Can see? True Dist: 71,78581
+2025-08-03 16:18:00,274 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Grotesque Mauler at {191, 715} (distance: 70)
+2025-08-03 16:18:00,460 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Grotesque Cavedweller] at {224, 701} (distance: 13) Can see? True Dist: 13,18034
+2025-08-03 16:18:00,462 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Cavedweller] at {227, 701} (distance: 10)
+2025-08-03 16:18:00,658 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Cavedweller] at {231, 702} (distance: 8)
+2025-08-03 16:18:00,775 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Grotesque Mauler] at {201, 713} (distance: 24) Can see? True Dist: 24,55468
+2025-08-03 16:18:00,777 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Mauler] at {204, 713} (distance: 21)
+2025-08-03 16:18:00,906 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {276, 805} [98,44%].
+2025-08-03 16:18:01,489 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {253, 828} [99,22%].
+2025-08-03 16:18:01,698 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Consuming Thrall] at {272, 798} (distance: 37) Can see? True Dist: 37,03567
+2025-08-03 16:18:01,701 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Consuming Thrall] at {272, 798} (distance: 37)
+2025-08-03 16:18:01,891 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Consuming Thrall] at {272, 798} (distance: 26)
+2025-08-03 16:18:02,127 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:18:02,129 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Consuming Thrall] at {259, 830} (distance: 61)
+2025-08-03 16:18:02,573 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Consuming Thrall] at {267, 840} (distance: 68) Can see? True Dist: 68,29943
+2025-08-03 16:18:02,574 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Consuming Thrall at {267, 839} (distance: 67)
+2025-08-03 16:18:02,777 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:18:02,780 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Consuming Thrall] at {268, 818} (distance: 31)
+2025-08-03 16:18:02,865 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Consuming Thrall] at {268, 818} (distance: 21) Can see? True Dist: 21,55777
+2025-08-03 16:18:02,867 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Consuming Thrall] at {268, 818} (distance: 21)
+2025-08-03 16:18:03,325 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Grotesque Maw] at {262, 799} (distance: 10) Can see? True Dist: 10,47214
+2025-08-03 16:18:03,328 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Maw] at {262, 799} (distance: 10)
+2025-08-03 16:18:03,453 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:03,454 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:03,567 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:03,568 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:03,682 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:03,682 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:03,796 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:03,797 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:03,905 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:03,906 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:04,018 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:04,019 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:04,128 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:04,129 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:04,241 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:04,241 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:04,352 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:04,352 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:04,468 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:18:04,470 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Grotesque Maw] at {259, 825} (distance: 34)
+2025-08-03 16:18:04,584 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Grotesque Maw] at {280, 821} (distance: 28) Can see? True Dist: 28,31176
+2025-08-03 16:18:04,587 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Grotesque Maw] at {278, 814} (distance: 21)
+2025-08-03 16:18:04,790 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:18:04,792 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Grotesque Maw] at {259, 825} (distance: 29)
+2025-08-03 16:18:05,211 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Grotesque Maw] at {255, 826} (distance: 29) Can see? True Dist: 29,23335
+2025-08-03 16:18:05,330 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:05,333 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:05,439 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:05,439 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:05,548 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:05,548 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:05,658 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:05,659 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:05,764 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:05,764 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:05,875 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:05,876 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:05,981 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:05,982 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:06,091 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:06,092 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:06,197 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:06,197 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:06,302 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:06,303 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:06,408 [35] ERROR GlobalLog - [ComplexExplorer] Explorer has no location.
+2025-08-03 16:18:06,408 [35] WARN  GlobalLog - [ComplexExplorer] Out of area transitions. Backtracking : False. Now finishing the exploration [100].
+2025-08-03 16:18:06,516 [35] INFO  LokiPoe - [InjectKeyEvent1] 74 ms sleep for 76.
+2025-08-03 16:18:07,182 [35] DEBUG GlobalLog - [An Audience With The King:Defer] {0, 0} Value:270c Cost:888 tributes.
+2025-08-03 16:18:07,687 [35] DEBUG GlobalLog - [Ritual] Reroll errors: NotEnabled
+2025-08-03 16:18:07,948 [35] DEBUG GlobalLog - [CanAffordAllRewards] Total Cost: 0 Tributes: 1931.
+2025-08-03 16:18:08,856 [35] DEBUG GlobalLog - [Ritual Splinter] {1, 8} Value:2,51999994367361c Cost:608 tributes.
+2025-08-03 16:18:09,154 [35] INFO  GlobalLog - [FinishMapTask] Final pulse 1/3
+2025-08-03 16:18:10,326 [35] INFO  GlobalLog - [FinishMapTask] Final pulse 2/3
+2025-08-03 16:18:11,498 [35] INFO  GlobalLog - [FinishMapTask] Final pulse 3/3
+2025-08-03 16:18:11,621 [35] WARN  GlobalLog - [FinishMapTask] Now leaving current map. Mobs left 12.
+2025-08-03 16:18:11,624 [35] INFO  GlobalLog - [Statistics] Successfully finished Toxic Sewer (T16) / 01:38. Monsters killed: 705 [Total:705] Picked 0,00c worth of loot. Gold picked: 2,85K [1 maps finished in this session]
+2025-08-03 16:18:11,629 [35] DEBUG GlobalLog - [GoToTown] Now going to open and take a portal to town.
+2025-08-03 16:18:13,881 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:18:14,989 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:18:15,543 [35] DEBUG GlobalLog - [MapBotEx] ExilePather is not ready yet.
+2025-08-03 16:18:15,606 [35] INFO  ExilePather - [ExilePather] Now creating the navmesh. [Force: False]
+2025-08-03 16:18:15,620 [35] INFO  ExilePather - [ExilePather] The navmesh has been created. Now waiting to be in game.
+2025-08-03 16:18:15,621 [35] INFO  ExilePather - [ExilePather] We are in game now, waiting area generation to complete for: Divided Hideout (HideoutTwilightTemple).
+2025-08-03 16:18:15,682 [35] INFO  ExilePather - [ExilePather] The pathfinder has been reloaded. Now calling 'CheckForUpdates'
+2025-08-03 16:18:15,684 [35] INFO  ExilePather - [ExilePather] Now calling 'FastWalkablePositionFor' to prime the library.
+2025-08-03 16:18:15,685 [35] INFO  ExilePather - [ExilePather] 'CheckForUpdates' has completed. ExilePather is now ready to use!
+2025-08-03 16:18:15,687 [35] INFO  GlobalLog - [Events] Area changed (Toxic Sewer:804112922 -> Divided Hideout:3637974513)
+2025-08-03 16:18:15,688 [35] WARN  GlobalLog - [ErrorManager] Error count has been reset.
+2025-08-03 16:18:15,689 [35] INFO  GlobalLog - [CombatAreaCache] Resetting unwalkable flags on all cached objects.
+2025-08-03 16:18:15,694 [35] WARN  GlobalLog - [SqRoutine] Castable skills:
+2025-08-03 16:18:15,694 [35] INFO  GlobalLog - ======================
+2025-08-03 16:18:15,695 [35] INFO  GlobalLog - [Kinetic Blast] | RButton | links: 6 | canUse: True
+2025-08-03 16:18:15,696 [35] INFO  GlobalLog - [Temporal Chains] | MButton | links: 1 | canUse: True
+2025-08-03 16:18:15,696 [35] INFO  GlobalLog - [Frostblink] | W | links: 1 | canUse: True
+2025-08-03 16:18:15,697 [35] INFO  GlobalLog - [Default Attack] | None | links: 1 | canUse: False
+2025-08-03 16:18:15,697 [35] INFO  GlobalLog - [Order: To me!] | None | links: 1 | canUse: False
+2025-08-03 16:18:15,698 [35] INFO  GlobalLog - [Vaal Haste] | E | links: 2 | canUse: False
+2025-08-03 16:18:15,698 [35] INFO  GlobalLog - [Shield Charge] | Q | links: 2 | canUse: True
+2025-08-03 16:18:15,699 [35] INFO  GlobalLog - ======================
+2025-08-03 16:18:16,355 [35] DEBUG GlobalLog - [OpenStash] Opening stash.
+2025-08-03 16:18:16,361 [35] DEBUG GlobalLog - [MoveAtOnce] Moving to Stash at {242, 193} (distance: 164)
+2025-08-03 16:18:16,362 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Stash at {242, 193} (distance: 164)
+2025-08-03 16:18:16,683 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Stash at {242, 193} (distance: 145)
+2025-08-03 16:18:17,700 [35] DEBUG GlobalLog - [MoveAtOnce] Moving to Stash at {242, 193} (distance: 56,43366)
+2025-08-03 16:18:17,700 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Stash at {242, 193} (distance: 56)
+2025-08-03 16:18:18,901 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Fragment => 3. [HuntExilesTask]
+2025-08-03 16:18:19,701 [35] DEBUG GlobalLog - [WaitFor] Wait for stash tab switching success after 0,18 sec
+2025-08-03 16:18:19,760 [35] DEBUG GlobalLog - [FastMoveFromInventory] Fast moving "Blood-filled Vessel". Ignoring Affinity? True MoveAll? False
+2025-08-03 16:18:20,174 [35] INFO  GlobalLog - [CastAuraTask] Found 1 aura(s) for casting.
+2025-08-03 16:18:20,231 [35] ERROR GlobalLog - [CastAuraTask] We cannot cast [Haste] because Max Mana (858) - actual reserved (681,25) - cost (290,18) - reserved (106) = (-219,4301) < 0.. Temporarily ignoring it.
+2025-08-03 16:18:20,337 [35] DEBUG GlobalLog - [StashTask] 1 items to stash. 
+14 Ritual Splinter -> 4
+2025-08-03 16:18:20,340 [35] DEBUG GlobalLog - [OpenStash] Opening stash.
+2025-08-03 16:18:20,716 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,08/2,925)
+2025-08-03 16:18:20,798 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,16/2,925)
+2025-08-03 16:18:20,880 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,24/2,925)
+2025-08-03 16:18:20,962 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,33/2,925)
+2025-08-03 16:18:21,043 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,41/2,925)
+2025-08-03 16:18:21,125 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,49/2,925)
+2025-08-03 16:18:21,207 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,57/2,925)
+2025-08-03 16:18:21,288 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,65/2,925)
+2025-08-03 16:18:21,370 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,73/2,925)
+2025-08-03 16:18:21,452 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,82/2,925)
+2025-08-03 16:18:21,533 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,9/2,925)
+2025-08-03 16:18:21,615 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,98/2,925)
+2025-08-03 16:18:21,697 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (1,06/2,925)
+2025-08-03 16:18:21,779 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (1,14/2,925)
+2025-08-03 16:18:21,860 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (1,23/2,925)
+2025-08-03 16:18:21,942 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (1,31/2,925)
+2025-08-03 16:18:22,024 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (1,39/2,925)
+2025-08-03 16:18:22,107 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (1,47/2,925)
+2025-08-03 16:18:22,189 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (1,55/2,925)
+2025-08-03 16:18:22,271 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (1,63/2,925)
+2025-08-03 16:18:22,354 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (1,72/2,925)
+2025-08-03 16:18:22,436 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (1,8/2,925)
+2025-08-03 16:18:22,518 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (1,88/2,925)
+2025-08-03 16:18:22,600 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (1,96/2,925)
+2025-08-03 16:18:22,681 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (2,05/2,925)
+2025-08-03 16:18:22,763 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (2,13/2,925)
+2025-08-03 16:18:22,847 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (2,21/2,925)
+2025-08-03 16:18:22,929 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (2,29/2,925)
+2025-08-03 16:18:23,010 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (2,38/2,925)
+2025-08-03 16:18:23,092 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (2,46/2,925)
+2025-08-03 16:18:23,174 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (2,54/2,925)
+2025-08-03 16:18:23,256 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (2,62/2,925)
+2025-08-03 16:18:23,337 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (2,7/2,925)
+2025-08-03 16:18:23,419 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (2,78/2,925)
+2025-08-03 16:18:23,500 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (2,87/2,925)
+2025-08-03 16:18:23,582 [35] ERROR GlobalLog - [WaitFor] Wait for stash to open timeout [2925].
+2025-08-03 16:18:23,582 [35] ERROR GlobalLog - [StashTask] Failed to open stash tab 4
+2025-08-03 16:18:23,584 [35] ERROR GlobalLog - [ErrorManager] Error count: 1/10
+2025-08-03 16:18:23,681 [35] DEBUG GlobalLog - [StashTask] 1 items to stash. 
+14 Ritual Splinter -> 4
+2025-08-03 16:18:23,682 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 3 => 4. [StashTask]
+2025-08-03 16:18:24,089 [35] DEBUG GlobalLog - [FastMoveFromInventory] Fast moving "Ritual Splinter" (14). Ignoring Affinity? False MoveAll? False
+2025-08-03 16:18:24,324 [35] DEBUG GlobalLog - Now checking if anything left in inventory.
+2025-08-03 16:18:24,460 [35] DEBUG GlobalLog - [FindProperMap] Configured map tabs (4,3,2) doesn't have Map. Skip.
+2025-08-03 16:18:24,463 [35] DEBUG GlobalLog - [FindProperMap] Configured map tabs (4,3,2) doesn't have 8. Skip.
+2025-08-03 16:18:24,464 [35] DEBUG GlobalLog - [FindProperMap] Configured map tabs (4,3,2) doesn't have 9. Skip.
+2025-08-03 16:18:24,464 [35] DEBUG GlobalLog - [FindProperMap] Configured map tabs (4,3,2) doesn't have $$. Skip.
+2025-08-03 16:18:24,464 [35] DEBUG GlobalLog - [FindProperMap] Configured map tabs (4,3,2) doesn't have Map. Skip.
+2025-08-03 16:18:24,465 [35] DEBUG GlobalLog - [FindProperMap] Configured map tabs (4,3,2) doesn't have $$$. Skip.
+2025-08-03 16:18:24,465 [35] DEBUG GlobalLog - [FindProperMap] Configured map tabs (4,3,2) doesn't have 1. Skip.
+2025-08-03 16:18:24,470 [35] INFO  GlobalLog - [FindProperMap] Found: T16 Toxic Sewer tab: [{5, 0}:4]  subTab: 
+2025-08-03 16:18:24,471 [35] INFO  GlobalLog - [FindProperMap] Average tier of valid maps: 16
+2025-08-03 16:18:24,529 [35] DEBUG GlobalLog - [FastMoveFromStashTab] Fast moving "Toxic Sewer Map" at {5, 0} from "4" tab.
+2025-08-03 16:18:24,799 [35] DEBUG GlobalLog - [TakeMapTask] Inventory map: Toxic Sewer
+2025-08-03 16:18:24,818 [35] DEBUG GlobalLog - [GetScarab] There's already 17 Anarchy Scarab in map device. Skip.
+2025-08-03 16:18:24,819 [35] DEBUG GlobalLog - [GetScarab] There's already 15 Anarchy Scarab in map device. Skip.
+2025-08-03 16:18:24,819 [35] DEBUG GlobalLog - [GetScarab] There's already 15 Anarchy Scarab of Gigantification in map device. Skip.
+2025-08-03 16:18:24,820 [35] DEBUG GlobalLog - [GetScarab] There's already 17 Anarchy Scarab of Gigantification in map device. Skip.
+2025-08-03 16:18:24,820 [35] DEBUG GlobalLog - [GetScarab] There's already 17 Anarchy Scarab of Partnership in map device. Skip.
+2025-08-03 16:18:24,820 [35] DEBUG GlobalLog - [GetScarab] Now going to take [0]:  from stash.
+2025-08-03 16:18:24,825 [35] WARN  GlobalLog - [TakeMapTask] Now going to Toxic Sewer Map [prio: 10].
+2025-08-03 16:18:24,844 [35] DEBUG GlobalLog - [TryTo] Open Map Device attempt: 1/3
+2025-08-03 16:18:24,846 [35] DEBUG GlobalLog - [OpenMapDevice] Found MTX map device [Metadata/MapDevices/BellTowerMapDevice/BellTowerMapDeviceSound.ao]. Making adjustments!
+2025-08-03 16:18:24,848 [35] DEBUG GlobalLog - [MoveAtOnce] Moving to Map Device at {395, 134} (distance: 164)
+2025-08-03 16:18:24,849 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Map Device at {395, 134} (distance: 164)
+2025-08-03 16:18:25,093 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Map Device at {395, 134} (distance: 147)
+2025-08-03 16:18:26,022 [35] DEBUG GlobalLog - [MoveAtOnce] Moving to Map Device at {395, 134} (distance: 101,6652)
+2025-08-03 16:18:26,262 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Map Device at {395, 134} (distance: 100)
+2025-08-03 16:18:27,019 [35] DEBUG GlobalLog - [SkillPlayerMoverEx] Stucks: 5
+2025-08-03 16:18:27,314 [35] DEBUG GlobalLog - [MoveAtOnce] Moving to Map Device at {395, 134} (distance: 101,6652)
+2025-08-03 16:18:27,315 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Map Device at {395, 134} (distance: 100)
+2025-08-03 16:18:28,245 [35] DEBUG GlobalLog - [SkillPlayerMoverEx] Stucks: 5
+2025-08-03 16:18:28,585 [35] DEBUG GlobalLog - [MoveAtOnce] Moving to Map Device at {395, 134} (distance: 101,6652)
+2025-08-03 16:18:28,586 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Map Device at {395, 134} (distance: 100)
+2025-08-03 16:18:29,808 [35] DEBUG GlobalLog - [MoveAtOnce] Moving to Map Device at {395, 134} (distance: 32,52011)
+2025-08-03 16:18:29,809 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Map Device at {395, 134} (distance: 32)
+2025-08-03 16:18:30,884 [35] DEBUG GlobalLog - [WaitFor] Wait for Map Device opening success after 0,25 sec
+2025-08-03 16:18:30,884 [35] DEBUG GlobalLog - [OpenMapDevice] Map Device has been successfully opened.
+2025-08-03 16:18:30,894 [35] DEBUG GlobalLog - [StartMapTask] Map Device has been successfully cleared.
+2025-08-03 16:18:30,899 [35] DEBUG GlobalLog - [FastMoveFromInventory] Fast moving "Toxic Sewer Map". Ignoring Affinity? False
+2025-08-03 16:18:31,153 [35] WARN  GlobalLog - [StartMapTask] Now going to chose mod Fortune Favours the Brave [cost: 6c]
+2025-08-03 16:18:31,331 [35] DEBUG GlobalLog - [StartMapTask] Now going to activate the Map Device.
+2025-08-03 16:18:32,085 [35] DEBUG GlobalLog - [StartMapTask] Map Device has been successfully activated.
+2025-08-03 16:18:32,357 [35] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (0,27/9,8)
+2025-08-03 16:18:32,634 [35] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (0,55/9,8)
+2025-08-03 16:18:32,901 [35] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (0,81/9,8)
+2025-08-03 16:18:33,155 [35] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (1,07/9,8)
+2025-08-03 16:18:33,490 [35] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (1,4/9,8)
+2025-08-03 16:18:33,820 [35] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (1,73/9,8)
+2025-08-03 16:18:34,155 [35] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (2,07/9,8)
+2025-08-03 16:18:34,483 [35] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (2,39/9,8)
+2025-08-03 16:18:34,758 [35] DEBUG GlobalLog - [WaitFor] Waiting for portal spawn (2,67/9,8)
+2025-08-03 16:18:34,761 [35] DEBUG GlobalLog - [WaitFor] Wait for portal spawn success after 2,67 sec
+2025-08-03 16:18:34,791 [35] WARN  GlobalLog - Portal: [Toxic Sewer] at {395, 153} (distance: 20) found. Taking it!
+2025-08-03 16:18:35,718 [35] DEBUG GlobalLog - [TakePortal] Now going to take [Toxic Sewer] at {395, 152} (distance: 19)
+2025-08-03 16:18:36,821 [35] DEBUG GlobalLog - [WaitFor] Wait for Loading screen success after 0,92 sec
+2025-08-03 16:18:36,914 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:18:37,987 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:18:39,100 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:18:40,209 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:18:41,317 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:18:42,387 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:18:43,514 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:18:44,641 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:18:44,849 [29] WARN  GlobalLog - [ComplexExplorer] Initializing Explorer for: Toxic Sewer:1620539567. [03.08.2025 16:18:44]
+2025-08-03 16:18:44,850 [29] DEBUG GlobalLog - [MapData] Name: Toxic Sewer
+2025-08-03 16:18:44,851 [29] DEBUG GlobalLog - [MapData] Type: Regular
+2025-08-03 16:18:44,851 [29] DEBUG GlobalLog - [MapData] Monster remaining: 20
+2025-08-03 16:18:44,851 [29] DEBUG GlobalLog - [MapData] Exploration percent: 85
+2025-08-03 16:18:44,852 [29] DEBUG GlobalLog - [MapData] BossRush: False
+2025-08-03 16:18:44,852 [29] DEBUG GlobalLog - [MapData] Fast transition: False
+2025-08-03 16:18:44,852 [29] DEBUG GlobalLog - [MapData] Final pulses: -1
+2025-08-03 16:18:44,852 [29] DEBUG GlobalLog - [MapData] Bosses: Arachnoxia
+2025-08-03 16:18:44,852 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to True.
+2025-08-03 16:18:44,852 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-03 16:18:44,853 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 5.
+2025-08-03 16:18:44,853 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to False.
+2025-08-03 16:18:44,853 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-03 16:18:44,853 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 4.
+2025-08-03 16:18:44,853 [29] DEBUG GlobalLog - [ComplexExplorer] Creating new level anchor {760, 1055} (distance: 0)
+2025-08-03 16:18:44,854 [29] WARN  GlobalLog - [CombatAreaCache] Created cache for "MapWorldsToxicSewer:72" (hash: 1620539567)
+2025-08-03 16:18:44,867 [29] INFO  GlobalLog - [LeaveAreaTask] Reset.
+2025-08-03 16:18:44,867 [29] WARN  GlobalLog - [HarvestTask] Reset.
+2025-08-03 16:18:44,868 [29] INFO  GlobalLog - [MapExplorationTask] Reset.
+2025-08-03 16:18:44,868 [29] DEBUG GlobalLog - [MapData] Name: Toxic Sewer
+2025-08-03 16:18:44,869 [29] DEBUG GlobalLog - [MapData] Type: Regular
+2025-08-03 16:18:44,869 [29] DEBUG GlobalLog - [MapData] Monster remaining: 20
+2025-08-03 16:18:44,869 [29] DEBUG GlobalLog - [MapData] Exploration percent: 85
+2025-08-03 16:18:44,869 [29] DEBUG GlobalLog - [MapData] BossRush: False
+2025-08-03 16:18:44,870 [29] DEBUG GlobalLog - [MapData] Fast transition: False
+2025-08-03 16:18:44,870 [29] DEBUG GlobalLog - [MapData] Final pulses: -1
+2025-08-03 16:18:44,870 [29] DEBUG GlobalLog - [MapData] Bosses: Arachnoxia
+2025-08-03 16:18:44,870 [29] INFO  GlobalLog - [KillBossTask] Reset.
+2025-08-03 16:18:44,871 [29] INFO  GlobalLog - [KillBossTask] Boss range: 15
+2025-08-03 16:18:44,871 [29] WARN  GlobalLog - [MapBotEx] New map has been entered: Toxic Sewer (T16).
+2025-08-03 16:18:44,906 [35] INFO  ExilePather - [ExilePather] Now creating the navmesh. [Force: False]
+2025-08-03 16:18:44,911 [35] INFO  ExilePather - [ExilePather] The navmesh has been created. Now waiting to be in game.
+2025-08-03 16:18:44,912 [35] INFO  ExilePather - [ExilePather] We are in game now, waiting area generation to complete for: Toxic Sewer (MapWorldsToxicSewer).
+2025-08-03 16:18:45,173 [35] INFO  ExilePather - [ExilePather] The pathfinder has been reloaded. Now calling 'CheckForUpdates'
+2025-08-03 16:18:45,174 [35] INFO  ExilePather - [ExilePather] Now calling 'FastWalkablePositionFor' to prime the library.
+2025-08-03 16:18:45,175 [35] INFO  ExilePather - [ExilePather] 'CheckForUpdates' has completed. ExilePather is now ready to use!
+2025-08-03 16:18:45,175 [35] INFO  GlobalLog - [Events] Area changed (Divided Hideout:3637974513 -> Toxic Sewer:1620539567)
+2025-08-03 16:18:45,175 [35] WARN  GlobalLog - [ErrorManager] Error count has been reset.
+2025-08-03 16:18:45,176 [35] INFO  GlobalLog - [CombatAreaCache] Resetting unwalkable flags on all cached objects.
+2025-08-03 16:18:45,176 [35] INFO  GlobalLog - [Events] Combat area changed (Toxic Sewer -> Toxic Sewer)
+2025-08-03 16:18:45,176 [35] WARN  GlobalLog - [AfflictionExplorationTask] Reset.
+2025-08-03 16:18:45,183 [35] WARN  GlobalLog - [SqRoutine] Castable skills:
+2025-08-03 16:18:45,183 [35] INFO  GlobalLog - ======================
+2025-08-03 16:18:45,184 [35] INFO  GlobalLog - [Kinetic Blast] | RButton | links: 6 | canUse: True
+2025-08-03 16:18:45,185 [35] INFO  GlobalLog - [Temporal Chains] | MButton | links: 1 | canUse: True
+2025-08-03 16:18:45,185 [35] INFO  GlobalLog - [Frostblink] | W | links: 1 | canUse: True
+2025-08-03 16:18:45,186 [35] INFO  GlobalLog - [Default Attack] | None | links: 1 | canUse: False
+2025-08-03 16:18:45,186 [35] INFO  GlobalLog - [Order: To me!] | None | links: 1 | canUse: False
+2025-08-03 16:18:45,186 [35] INFO  GlobalLog - [Vaal Haste] | E | links: 2 | canUse: False
+2025-08-03 16:18:45,187 [35] INFO  GlobalLog - [Shield Charge] | Q | links: 2 | canUse: True
+2025-08-03 16:18:45,187 [35] INFO  GlobalLog - ======================
+2025-08-03 16:18:45,188 [35] DEBUG GridExplorer - [GridExplorer] Now segmenting the current area.
+2025-08-03 16:18:45,284 [35] DEBUG GridExplorer - [GridExplorer] Processing Harvest data.
+2025-08-03 16:18:45,285 [35] DEBUG GridExplorer - [GridExplorer] Harvest NOT Detected!.
+2025-08-03 16:18:45,285 [35] DEBUG GridExplorer - [GridExplorer] Processing Incursion data.
+2025-08-03 16:18:45,285 [35] DEBUG GridExplorer - [GridExplorer] Incursion NOT Detected!.
+2025-08-03 16:18:45,285 [35] DEBUG GridExplorer - [GridExplorer] Processing Afliction data.
+2025-08-03 16:18:45,286 [35] DEBUG GridExplorer - [GridExplorer] Afliction NOT Detected!.
+2025-08-03 16:18:45,286 [35] DEBUG GridExplorer - [GridExplorer] Processing Syndicate Data.
+2025-08-03 16:18:45,286 [35] DEBUG GridExplorer - [GridExplorer] Syndicate NOT Detected!.
+2025-08-03 16:18:45,286 [35] DEBUG GridExplorer - [GridExplorer] Processing Ultimatum Data.
+2025-08-03 16:18:45,286 [35] DEBUG GridExplorer - [GridExplorer] Ultimatum NOT Detected!.
+2025-08-03 16:18:45,287 [35] DEBUG GridExplorer - [GridExplorer] Area segmentation complete 00:00:00.0986872.
+2025-08-03 16:18:45,569 [35] DEBUG GlobalLog - [CancelGracePeriod] Grace period detected! Moving a bit.
+2025-08-03 16:18:45,585 [35] INFO  GlobalLog - [SqUseAt] [Kinetic Blast][3] => [Dist:33]]
+2025-08-03 16:18:45,792 [35] INFO  GlobalLog - [CastAuraTask] Found 1 aura(s) for casting.
+2025-08-03 16:18:45,797 [35] ERROR GlobalLog - [CastAuraTask] We cannot cast [Haste] because Max Mana (858) - actual reserved (681,25) - cost (290,18) - reserved (106) = (-219,4301) < 0.. Temporarily ignoring it.
+2025-08-03 16:18:45,923 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {759, 920} [4,69%].
+2025-08-03 16:18:46,604 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {618, 979} [7,04%].
+2025-08-03 16:18:46,883 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Seething Brine] at {655, 976} (distance: 68) Can see? False Dist: 68,59779
+2025-08-03 16:18:46,885 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Seething Brine at {655, 976} (distance: 59)
+2025-08-03 16:18:47,114 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Seething Brine at {651, 979} (distance: 44)
+2025-08-03 16:18:47,391 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Seething Brine] at {663, 962} (distance: 17) Can see? True Dist: 17,00653
+2025-08-03 16:18:47,395 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Seething Brine] at {663, 962} (distance: 17)
+2025-08-03 16:18:47,674 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Seething Brine] at {663, 962} (distance: 10)
+2025-08-03 16:18:47,692 [35] WARN  GlobalLog - [CombatAreaCache:Mercenaries] Registering [Zeth, the Brutal] at {486, 1090} (distance: 233)
+2025-08-03 16:18:47,862 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {726, 856} [9,57%].
+2025-08-03 16:18:48,499 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:18:48,502 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Undying Labourer] at {730, 892} (distance: 35)
+2025-08-03 16:18:48,576 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Seething Brine] at {717, 914} (distance: 13) Can see? True Dist: 13,16228
+2025-08-03 16:18:48,578 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Seething Brine] at {717, 914} (distance: 13)
+2025-08-03 16:18:48,660 [35] DEBUG GlobalLog - [CombatAreaCache:Ritual] Registering [RitualRuneInteractable] at {859, 740} (distance: 232)
+2025-08-03 16:18:48,898 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Undying Labourer] at {727, 899} (distance: 16) Can see? True Dist: 16,18204
+2025-08-03 16:18:48,901 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Undying Labourer] at {727, 899} (distance: 16)
+2025-08-03 16:18:49,082 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Undying Labourer] at {730, 893} (distance: 20) Can see? True Dist: 20,45957
+2025-08-03 16:18:49,258 [35] DEBUG GlobalLog - [MoveTowards] Moving towards RitualRuneInteractable at {859, 740} (distance: 215)
+2025-08-03 16:18:49,606 [35] DEBUG GlobalLog - [MoveTowards] Moving towards RitualRuneInteractable at {859, 740} (distance: 172)
+2025-08-03 16:18:50,231 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Nameless Ape] at {830, 807} (distance: 29) Can see? True Dist: 29,64832
+2025-08-03 16:18:50,234 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Nameless Ape] at {829, 808} (distance: 28)
+2025-08-03 16:18:50,530 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Nameless Ape] at {852, 779} (distance: 44) Can see? False Dist: 44,93405
+2025-08-03 16:18:50,532 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Nameless Ape at {850, 779} (distance: 43)
+2025-08-03 16:18:50,797 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Wildwood Werewolf] at {811, 748} (distance: 62) Can see? False Dist: 62,67866
+2025-08-03 16:18:50,798 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Wildwood Werewolf at {810, 748} (distance: 55)
+2025-08-03 16:18:51,167 [35] WARN  GlobalLog - [HuntExilesTask] [RitualRuneInteractable] at {859, 740} (distance: 31) Exile Giants: 0 < 3. Ignoring this altar.
+2025-08-03 16:18:51,408 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {851, 632} [16,61%].
+2025-08-03 16:18:51,698 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Crashing Brine] at {854, 706} (distance: 16) Can see? True Dist: 16,83532
+2025-08-03 16:18:51,701 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Crashing Brine] at {854, 706} (distance: 16)
+2025-08-03 16:18:51,993 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {713, 621} [18,59%].
+2025-08-03 16:18:52,258 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Sewage Crawler] at {812, 611} (distance: 60) Can see? True Dist: 60,56326
+2025-08-03 16:18:52,259 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Sewage Crawler at {812, 611} (distance: 60)
+2025-08-03 16:18:52,546 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Undying Labourer] at {755, 622} (distance: 67) Can see? True Dist: 67,24903
+2025-08-03 16:18:52,548 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Undying Labourer at {755, 622} (distance: 67)
+2025-08-03 16:18:52,901 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Undying Labourer] at {755, 622} (distance: 25)
+2025-08-03 16:18:53,242 [35] DEBUG GlobalLog - [ComplexExplorer] Exploring to the location {644, 621} [20,22%].
+2025-08-03 16:18:53,870 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Seething Brine] at {673, 623} (distance: 20) Can see? True Dist: 20
+2025-08-03 16:18:53,872 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Seething Brine] at {673, 623} (distance: 20)
+2025-08-03 16:18:53,986 [35] DEBUG GlobalLog - [CombatAreaCache:Ritual] Registering [RitualRuneInteractable] at {524, 768} (distance: 219)
+2025-08-03 16:18:54,284 [35] DEBUG GlobalLog - [SqRoutine] Tracking: [>] at {509, 704} (distance: 240)
+2025-08-03 16:18:54,286 [35] DEBUG GlobalLog - [MoveTowards] Moving towards > at {509, 704} (distance: 193)
+2025-08-03 16:18:54,660 [35] DEBUG GlobalLog - [SqRoutine] Tracking: [>] at {509, 704} (distance: 204)
+2025-08-03 16:18:54,662 [35] DEBUG GlobalLog - [MoveTowards] Moving towards > at {509, 704} (distance: 157)
+2025-08-03 16:18:55,031 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Sewage Crawler] at {605, 702} (distance: 43) Can see? True Dist: 43,09431
+2025-08-03 16:18:55,035 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Sewage Crawler] at {606, 701} (distance: 42)
+2025-08-03 16:18:55,376 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Sewage Crawler] at {590, 716} (distance: 46) Can see? True Dist: 46,9501
+2025-08-03 16:18:55,379 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Sewage Crawler] at {590, 715} (distance: 46)
+2025-08-03 16:18:55,607 [35] DEBUG GlobalLog - [SqRoutine] Tracking: [>] at {509, 704} (distance: 151)
+2025-08-03 16:18:55,936 [35] DEBUG GlobalLog - [SqRoutine] Tracking: [>] at {509, 704} (distance: 129)
+2025-08-03 16:18:55,938 [35] DEBUG GlobalLog - [MoveTowards] Moving towards > at {509, 704} (distance: 93)
+2025-08-03 16:18:56,097 [35] WARN  GlobalLog - [CombatAreaCache:GiantExiles] Registering [Torr Olgosso] at {428, 872} (distance: 240)
+2025-08-03 16:18:56,302 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Frost Guardian] at {537, 705} (distance: 35) Can see? False Dist: 35,69525
+2025-08-03 16:18:56,303 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Frost Guardian at {537, 706} (distance: 31)
+2025-08-03 16:18:56,663 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:18:56,666 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][>] at {509, 704} (distance: 32)
+2025-08-03 16:18:57,045 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Undying Labourer] at {537, 722} (distance: 15) Can see? True Dist: 15,41421
+2025-08-03 16:18:57,048 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Undying Labourer] at {537, 722} (distance: 15)
+2025-08-03 16:18:57,321 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Torr Olgosso] at {428, 872} (distance: 217) Can see? False Dist: 217,588
+2025-08-03 16:18:57,325 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Torr Olgosso at {428, 872} (distance: 198)
+2025-08-03 16:18:57,581 [35] DEBUG GlobalLog - [SqRoutine] New best target: [>] at {509, 704} (distance: 35) Can see? True Dist: 35,47411
+2025-08-03 16:18:57,621 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][>] at {509, 704} (distance: 35)
+2025-08-03 16:18:57,713 [35] WARN  GlobalLog - [CombatAreaCache:GiantExiles] Registering [Sevet Tetherein] at {351, 616} (distance: 414)
+2025-08-03 16:18:57,901 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Cave Skitterer] at {518, 708} (distance: 41) Can see? True Dist: 41,11764
+2025-08-03 16:18:57,904 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Cave Skitterer] at {518, 709} (distance: 40)
+2025-08-03 16:18:58,080 [35] DEBUG GlobalLog - [SqRoutine] New best target: [>] at {509, 704} (distance: 45) Can see? True Dist: 45,58593
+2025-08-03 16:18:58,118 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][>] at {509, 704} (distance: 45)
+2025-08-03 16:18:58,505 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:18:58,508 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][>] at {509, 704} (distance: 45)
+2025-08-03 16:18:58,745 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][>] at {509, 704} (distance: 45)
+2025-08-03 16:18:59,963 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][>] at {509, 704} (distance: 45)
+2025-08-03 16:19:00,371 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:19:00,374 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][>] at {509, 704} (distance: 45)
+2025-08-03 16:19:00,505 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][>] at {509, 706} (distance: 43)
+2025-08-03 16:19:00,756 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Torr Olgosso] at {473, 863} (distance: 125) Can see? False Dist: 125,0214
+2025-08-03 16:19:00,758 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Torr Olgosso at {474, 862} (distance: 120)
+2025-08-03 16:19:01,146 [35] WARN  GlobalLog - [CombatAreaCache:GiantExiles] Registering [Aurelio Voidsinger] at {379, 952} (distance: 215)
+2025-08-03 16:19:01,408 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Torr Olgosso] at {493, 839} (distance: 8)
+2025-08-03 16:19:01,750 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Torr Olgosso] at {498, 800} (distance: 30)
+2025-08-03 16:19:02,168 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:19:02,171 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Torr Olgosso] at {501, 799} (distance: 32)
+2025-08-03 16:19:02,315 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Torr Olgosso] at {498, 800} (distance: 30) Can see? True Dist: 30,46385
+2025-08-03 16:19:02,317 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Torr Olgosso] at {501, 799} (distance: 32)
+2025-08-03 16:19:02,646 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Torr Olgosso] at {501, 799} (distance: 32) Can see? True Dist: 32,86236
+2025-08-03 16:19:02,649 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Torr Olgosso] at {501, 799} (distance: 32)
+2025-08-03 16:19:02,857 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Thena Moga] at {373, 935} (distance: 166) Can see? False Dist: 166,8641
+2025-08-03 16:19:02,858 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Thena Moga at {372, 935} (distance: 160)
+2025-08-03 16:19:03,211 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Thena Moga at {371, 934} (distance: 122)
+2025-08-03 16:19:03,632 [35] WARN  GlobalLog - [CombatAreaCache:GiantExiles] Registering [Vanth Agiel] at {359, 1047} (distance: 179)
+2025-08-03 16:19:03,846 [35] WARN  GlobalLog - [SqRoutine] We can use utility skill: Temporal Chains
+2025-08-03 16:19:03,848 [35] INFO  GlobalLog - [SqUseOn] [Temporal Chains][Thena Moga] at {384, 924} (distance: 16)
+2025-08-03 16:19:03,926 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Sewage Crawler] at {403, 915} (distance: 11) Can see? True Dist: 11,12311
+2025-08-03 16:19:03,931 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Sewage Crawler] at {400, 921} (distance: 11)
+2025-08-03 16:19:04,058 [35] WARN  GlobalLog - [CombatAreaCache:Settlers] Registering [CrimsonIron] at {402, 1070} (distance: 156)
+2025-08-03 16:19:04,244 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Thena Moga] at {394, 917} (distance: 4) Can see? True Dist: 4,24264
+2025-08-03 16:19:04,247 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Thena Moga] at {395, 916} (distance: 4)
+2025-08-03 16:19:04,589 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Aurelio Voidsinger] at {367, 957} (distance: 49) Can see? True Dist: 49,30899
+2025-08-03 16:19:04,593 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Aurelio Voidsinger] at {367, 957} (distance: 49)
+2025-08-03 16:19:04,783 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Aurelio Voidsinger] at {367, 957} (distance: 49) Can see? True Dist: 49,30899
+2025-08-03 16:19:04,786 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Aurelio Voidsinger] at {367, 957} (distance: 49)
+2025-08-03 16:19:04,982 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Aurelio Voidsinger] at {376, 960} (distance: 48) Can see? True Dist: 48,64455
+2025-08-03 16:19:04,986 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Aurelio Voidsinger] at {377, 960} (distance: 48)
+2025-08-03 16:19:05,170 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Aurelio Voidsinger] at {378, 960} (distance: 48) Can see? True Dist: 48,29644
+2025-08-03 16:19:05,345 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Vanth Agiel] at {398, 1045} (distance: 131) Can see? False Dist: 131,8915
+2025-08-03 16:19:05,347 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Vanth Agiel at {400, 1046} (distance: 132)
+2025-08-03 16:19:05,652 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Grotesque Maw] at {425, 945} (distance: 35) Can see? True Dist: 35,25291
+2025-08-03 16:19:05,799 [35] DEBUG GlobalLog - [SqRoutine] New best target: [Vanth Agiel] at {405, 1055} (distance: 97) Can see? False Dist: 97,15137
+2025-08-03 16:19:05,800 [35] DEBUG GlobalLog - [MoveTowards] Moving towards Vanth Agiel at {405, 1055} (distance: 96)
+2025-08-03 16:19:06,454 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Vanth Agiel] at {379, 1069} (distance: 39)
+2025-08-03 16:19:06,651 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Vanth Agiel] at {375, 1069} (distance: 27)
+2025-08-03 16:19:06,782 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Vanth Agiel] at {378, 1066} (distance: 22)
+2025-08-03 16:19:06,912 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Vanth Agiel] at {382, 1058} (distance: 14)
+2025-08-03 16:19:07,036 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Vanth Agiel] at {386, 1051} (distance: 6)
+2025-08-03 16:19:07,169 [35] INFO  GlobalLog - [SqBeginUseOn] [Kinetic Blast][Vanth Agiel] at {389, 1046} (distance: 1)
+2025-08-03 16:19:07,479 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:19:08,609 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:19:08,982 [15] INFO  GameController - The Game Proces is closed, now terminating DPB
+2025-08-03 16:19:09,183 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-03 16:19:09,995 [16] ERROR Class104 - Authentication thread exception: System.Threading.ThreadAbortException: Поток находился в процессе прерывания.
+   в System.Threading.Thread.SleepInternal(Int32 millisecondsTimeout)
+   в System.Threading.Thread.Sleep(Int32 millisecondsTimeout)
+   в DreamPoeBot.Structures.ns13.Class104.Class105.HeartbeatThread()

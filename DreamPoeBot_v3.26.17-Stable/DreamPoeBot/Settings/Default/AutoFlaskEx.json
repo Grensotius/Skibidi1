@@ -1,0 +1,223 @@
+{
+  "HpPercent": 75,
+  "ESinsteadOfHP": false,
+  "LifeFlaskEveryXSeconds": false,
+  "UseAllFlasksOnNewMap": false,
+  "LifeFlaskInterval": 3,
+  "HpPercentInstant": 50,
+  "MpPercent": 30,
+  "QsilverRange": 80,
+  "RemoveFreeze": false,
+  "RemoveShock": false,
+  "RemoveIgnite": false,
+  "RemoveSilence": false,
+  "RemoveBleed": false,
+  "RemoveCblood": false,
+  "MinCbloodStacks": 1,
+  "RemovePoison": false,
+  "MinPoisonStacks": 1,
+  "UtilityFlasks": [
+    {
+      "Name": "Amethyst Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Aquamarine Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Basalt Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Bismuth Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Corundum Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Diamond Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Gold Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Granite Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Jade Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Mana Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Quartz Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Quicksilver Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Ruby Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Sapphire Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Silver Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Stibnite Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Sulphur Flask",
+      "Triggers": []
+    },
+    {
+      "Name": "Topaz Flask",
+      "Triggers": []
+    }
+  ],
+  "UniqueFlasks": [
+    {
+      "Name": "Atziri's Promise",
+      "Triggers": []
+    },
+    {
+      "Name": "Blood of the Karui",
+      "Triggers": []
+    },
+    {
+      "Name": "Bottled Faith",
+      "Triggers": []
+    },
+    {
+      "Name": "Cinderswallow Urn",
+      "Triggers": []
+    },
+    {
+      "Name": "Coralito's Signature",
+      "Triggers": []
+    },
+    {
+      "Name": "Coruscating Elixir",
+      "Triggers": []
+    },
+    {
+      "Name": "Divination Distillate",
+      "Triggers": []
+    },
+    {
+      "Name": "Doedre's Elixir",
+      "Triggers": []
+    },
+    {
+      "Name": "Dying Sun",
+      "Triggers": []
+    },
+    {
+      "Name": "Elixir of the Unbroken Circle",
+      "Triggers": []
+    },
+    {
+      "Name": "Forbidden Taste",
+      "Triggers": []
+    },
+    {
+      "Name": "Kiara's Determination",
+      "Triggers": []
+    },
+    {
+      "Name": "Lavianga's Spirit",
+      "Triggers": []
+    },
+    {
+      "Name": "Lion's Roar",
+      "Triggers": []
+    },
+    {
+      "Name": "Olroth's Resolve",
+      "Triggers": []
+    },
+    {
+      "Name": "Oriath's End",
+      "Triggers": []
+    },
+    {
+      "Name": "Progenesis",
+      "Triggers": []
+    },
+    {
+      "Name": "Replica Lavianga's Spirit",
+      "Triggers": []
+    },
+    {
+      "Name": "Replica Sorrow of the Divine",
+      "Triggers": []
+    },
+    {
+      "Name": "Rotgut",
+      "Triggers": []
+    },
+    {
+      "Name": "Rumi's Concoction",
+      "Triggers": []
+    },
+    {
+      "Name": "Sin's Rebirth",
+      "Triggers": []
+    },
+    {
+      "Name": "Soul Catcher",
+      "Triggers": []
+    },
+    {
+      "Name": "Soul Ripper",
+      "Triggers": []
+    },
+    {
+      "Name": "Taste of Hate",
+      "Triggers": []
+    },
+    {
+      "Name": "The Overflowing Chalice",
+      "Triggers": []
+    },
+    {
+      "Name": "The Sorrow of the Divine",
+      "Triggers": []
+    },
+    {
+      "Name": "The Wise Oak",
+      "Triggers": []
+    },
+    {
+      "Name": "The Writhing Jar",
+      "Triggers": []
+    },
+    {
+      "Name": "Vessel of Vinktar",
+      "Triggers": []
+    },
+    {
+      "Name": "Witchfire Brew",
+      "Triggers": []
+    },
+    {
+      "Name": "Zerphi's Last Breath",
+      "Triggers": []
+    }
+  ]
+}

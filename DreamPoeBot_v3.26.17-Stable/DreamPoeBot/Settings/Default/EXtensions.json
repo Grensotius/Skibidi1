@@ -1,0 +1,547 @@
+{
+  "KillPoEIfStopped": true,
+  "DPBKillTime": 10,
+  "ProfileIconUrl": "https://www.poewiki.net/images/5/58/Divine_Orb_inventory_icon.png",
+  "CardsEnabled": false,
+  "MinCardSets": 5,
+  "MaxCardSets": 15,
+  "GcpEnabled": false,
+  "GcpMaxPrice": 2,
+  "CurrencyExchangeAct": "5",
+  "CasterMasteryChests": false,
+  "CasterMasterySpell": "Unearth",
+  "PickLesserShrines": true,
+  "ChestOpenRange": 50,
+  "StrongboxOpenRange": -1,
+  "ShrineOpenRange": -1,
+  "MaxStrongBoxRarity": 3,
+  "MinStrongBoxRarity": 0,
+  "NotificationEndpoint": 0,
+  "TelegramBotKey": null,
+  "TelegramChatId": null,
+  "JumpAwayFromStrongboxes": true,
+  "PickSettlersOre": false,
+  "EnableAffliction": false,
+  "PromtMessagesToLog": false,
+  "UseFollower": false,
+  "DiscordNotificationsEnabled": false,
+  "DiscordWebHookUrl": "",
+  "SkipLootBasedOnValueAndRange": false,
+  "LootSkipPrice": 0.3,
+  "LootSkipRange": 45,
+  "StopBotOnVendoringValuableItem": true,
+  "ValuableTreshold": 25.0,
+  "UseChatForHideout": true,
+  "UnpackStackedDeck": true,
+  "MinInventorySquares": 4,
+  "HideoutTemplateAmount": 0,
+  "StuckDetectionTimeout": 35,
+  "BreaksEnabled": true,
+  "NextBreakTime": "2025-08-08T08:15:24.2732941+03:00",
+  "BreakEndTime": null,
+  "BreakEveryMinutes": 300,
+  "MinBreak": 5,
+  "MaxBreak": 15,
+  "PantheonMajorGod": 4,
+  "PantheonMinorGod": 10,
+  "NotificationsList": [
+    {
+      "NotifType": 3,
+      "Content": "",
+      "UseAddition": true,
+      "Enabled": true,
+      "StopBot": false
+    },
+    {
+      "NotifType": 7,
+      "Content": "",
+      "UseAddition": true,
+      "Enabled": true,
+      "StopBot": true
+    },
+    {
+      "NotifType": 8,
+      "Content": "Headhunter",
+      "UseAddition": true,
+      "Enabled": true,
+      "StopBot": false
+    }
+  ],
+  "Followers": [],
+  "SpecificStashingByName": [],
+  "InventoryCurrencyList": [
+    {
+      "Name": "Scroll of Wisdom",
+      "Restock": 35
+    },
+    {
+      "Name": "Portal Scroll",
+      "Restock": 35
+    },
+    {
+      "Name": "Ritual Vessel",
+      "Restock": 4
+    }
+  ],
+  "GeneralStashingRules": [
+    {
+      "Name": "Tabs to ignore",
+      "Tabs": "duck"
+    },
+    {
+      "Name": "Currency",
+      "Tabs": "Cur"
+    },
+    {
+      "Name": "AltCurrency",
+      "Tabs": "Cur"
+    },
+    {
+      "Name": "Rares",
+      "Tabs": "9"
+    },
+    {
+      "Name": "Uniques",
+      "Tabs": "9"
+    },
+    {
+      "Name": "Gems",
+      "Tabs": "9"
+    },
+    {
+      "Name": "Corrupted maxxed Gems",
+      "Tabs": "9"
+    },
+    {
+      "Name": "Cards",
+      "Tabs": "Divination"
+    },
+    {
+      "Name": "Essences",
+      "Tabs": "Ess"
+    },
+    {
+      "Name": "Oils",
+      "Tabs": "Oil"
+    },
+    {
+      "Name": "Delve",
+      "Tabs": "9"
+    },
+    {
+      "Name": "Splinters",
+      "Tabs": "Fragment"
+    },
+    {
+      "Name": "Jewels",
+      "Tabs": "9"
+    },
+    {
+      "Name": "Maps",
+      "Tabs": "Map,6,7,8,9"
+    },
+    {
+      "Name": "Simulacrums",
+      "Tabs": "11"
+    },
+    {
+      "Name": "Blighted Maps",
+      "Tabs": "Oil"
+    },
+    {
+      "Name": "Influenced Maps",
+      "Tabs": "Map"
+    },
+    {
+      "Name": "Delirium Maps",
+      "Tabs": "11"
+    },
+    {
+      "Name": "t16.5/t17 Maps [Must be crafted and placed manually! Tab must be different from regular Maps tab!]",
+      "Tabs": "9"
+    },
+    {
+      "Name": "Expensive Jewels [>50c worth]",
+      "Tabs": "9"
+    },
+    {
+      "Name": "Incubator",
+      "Tabs": "9"
+    },
+    {
+      "Name": "Delirium Orbs",
+      "Tabs": "11"
+    },
+    {
+      "Name": "Fragments",
+      "Tabs": "Fragment"
+    },
+    {
+      "Name": "Allflame Embers/Blood-filled Vessels",
+      "Tabs": "9"
+    },
+    {
+      "Name": "Other",
+      "Tabs": "9"
+    }
+  ],
+  "CurrencyStashingRules": [
+    {
+      "Enabled": false,
+      "Name": "Breach",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Sextants",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Perandus Coin",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Scroll of Wisdom",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Portal Scroll",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Orb of Transmutation",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Orb of Augmentation",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Orb of Alteration",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Armourer's Scrap",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Blacksmith's Whetstone",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Glassblower's Bauble",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Cartographer's Chisel",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Chromatic Orb",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Orb of Chance",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Orb of Alchemy",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Jeweller's Orb",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Orb of Scouring",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Orb of Fusing",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Blessed Orb",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Regal Orb",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Chaos Orb",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Vaal Orb",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Orb of Regret",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Gemcutter's Prism",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Divine Orb",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Exalted Orb",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Eternal Orb",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Mirror of Kalandra",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Orb of Annulment",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Orb of Binding",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Orb of Horizons",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Harbinger's Orb",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Engineer's Orb",
+      "Tabs": "1"
+    },
+    {
+      "Enabled": false,
+      "Name": "Ancient Orb",
+      "Tabs": "1"
+    }
+  ],
+  "WhetstoneExchange": {
+    "Enabled": false,
+    "Min": 160,
+    "Save": 40
+  },
+  "BaubleExchange": {
+    "Enabled": false,
+    "Min": 160,
+    "Save": 40
+  },
+  "PortalsExchange": {
+    "Enabled": false,
+    "Min": 160,
+    "Save": 40
+  },
+  "TransExchange": {
+    "Enabled": false,
+    "Min": 160,
+    "Save": 40
+  },
+  "AugsExchange": {
+    "Enabled": false,
+    "Min": 120,
+    "Save": 30
+  },
+  "AltsExchange": {
+    "Enabled": false,
+    "Min": 100,
+    "Save": 20
+  },
+  "JewsExchange": {
+    "Enabled": false,
+    "Min": 100,
+    "Save": 0
+  },
+  "ChancesExchange": {
+    "Enabled": false,
+    "Min": 100,
+    "Save": 20
+  },
+  "ScoursExchange": {
+    "Enabled": false,
+    "Min": 60,
+    "Save": 30
+  },
+  "RegretExchange": {
+    "Enabled": false,
+    "Min": 20,
+    "Save": 0
+  },
+  "Strongboxes": [
+    {
+      "Name": "Arcanist's Strongbox",
+      "Enabled": false
+    },
+    {
+      "Name": "Armourer's Strongbox",
+      "Enabled": false
+    },
+    {
+      "Name": "Artisan's Strongbox",
+      "Enabled": false
+    },
+    {
+      "Name": "Blacksmith's Strongbox",
+      "Enabled": false
+    },
+    {
+      "Name": "Cartographer's Strongbox",
+      "Enabled": false
+    },
+    {
+      "Name": "Diviner's Strongbox",
+      "Enabled": false
+    },
+    {
+      "Name": "Gemcutter's Strongbox",
+      "Enabled": false
+    },
+    {
+      "Name": "Jeweller's Strongbox",
+      "Enabled": false
+    },
+    {
+      "Name": "Large Strongbox",
+      "Enabled": false
+    },
+    {
+      "Name": "Ornate Strongbox",
+      "Enabled": false
+    },
+    {
+      "Name": "Strongbox",
+      "Enabled": false
+    }
+  ],
+  "Shrines": [
+    {
+      "Name": "Acceleration Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Brutal Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Charged Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Diamond Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Divine Shrine",
+      "Enabled": false
+    },
+    {
+      "Name": "Echoing Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Freezing Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Gloom Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Impenetrable Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Lightning Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Massive Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Replenishing Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Resistance Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Shrouded Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Skeletal Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Covetous Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Warlord's Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Crusader's Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Redeemer's Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Hunter's Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Evolving Shrine",
+      "Enabled": true
+    },
+    {
+      "Name": "Shrine",
+      "Enabled": true
+    }
+  ],
+  "ProcessRegularChests": false
+}

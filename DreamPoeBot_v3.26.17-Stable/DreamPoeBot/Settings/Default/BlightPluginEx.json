@@ -1,0 +1,15 @@
+{
+  "TowerUpgradeDistance": 100,
+  "TowerUpgradeTimeout": 8,
+  "EncounterTimeout": 40,
+  "BuildTowers": true,
+  "PrioritizeTowerConstruction": false,
+  "PrioritizeBosses": false,
+  "DebugMode": false,
+  "DefaultControlOnBlightedMaps": "Both",
+  "DefaultControlOnRegularMaps": "Stun",
+  "BuildEmpowerTowersOnBlightedMaps": true,
+  "BuildEmpowerTowersOnRegularMaps": true,
+  "DpsOption": "Meteor",
+  "MaxToBuild": 999
+}

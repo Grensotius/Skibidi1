@@ -1,0 +1,110 @@
+2025-08-05 16:14:54,448 [1] INFO  App - DreamPoeBot Version: 0.3.26.46
+Path: E:\Новая папка (2)\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\<ExeName>
+Arguments: E:\Новая папка (2)\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\DreamPoeBot.exe --autostart --config:Default --pid:27132 --silent
+
+OS Name: Майкрософт Windows 10 Домашняя
+OS Version: 10.0.19045
+OS Architecture: 64-разрядная
+InstalledUICulture: ru-RU [Russian (Russia)]
+CurrentUICulture: ru-RU [Russian (Russia)]
+CurrentCulture: ru-RU [Russian (Russia)]
+
+2025-08-05 16:14:54,465 [1] INFO  App - Now setting up JitProfiles...
+2025-08-05 16:14:54,466 [1] INFO  App - JitProfiles successfully setup!
+2025-08-05 16:14:54,470 [1] INFO  App - Now checking prerequisites...
+2025-08-05 16:14:54,470 [1] INFO  App - Prerequisite check complete!
+2025-08-05 16:15:01,093 [1] INFO  MainWindow - DreamPoeBot [0.3.26.46] is up to date!
+2025-08-05 16:15:01,142 [15] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-05 16:15:01,306 [15] INFO  Class104 - Region: eu
+2025-08-05 16:15:01,306 [15] INFO  Class104 - T: 5250585983438808802 
+2025-08-05 16:15:03,498 [1] ERROR Class98 - Invalid PID specifier passed to the command line: 27132
+2025-08-05 16:15:25,382 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2025-08-05 16:15:25,418 [21] INFO  LokiPoe - Initialize RDPather.
+2025-08-05 16:15:25,422 [21] INFO  LokiPoe - RDPather already running.
+2025-08-05 16:15:25,422 [21] INFO  LokiPoe - RDPather initialization complete.
+2025-08-05 16:15:26,136 [21] INFO  LokiPoe - Pattern scan completed.
+2025-08-05 16:15:31,265 [21] INFO  Dat - [Dat] Now building the Stat lookup table.
+2025-08-05 16:15:31,923 [21] INFO  Dat - [Dat] The Stat lookup table has been built.
+2025-08-05 16:15:32,049 [21] INFO  LokiPoe - IGS = 2D7C9301A20.
+2025-08-05 16:15:33,477 [21] DEBUG ThirdPartyLoader - Loading start.
+2025-08-05 16:15:33,487 [21] DEBUG ThirdPartyLoader - Now loading [ExampleMover].
+2025-08-05 16:15:33,493 [21] DEBUG ThirdPartyLoader - [ExampleMover] will be loaded as [ExampleMover]. The base path is [].
+2025-08-05 16:15:33,493 [21] DEBUG ThirdPartyLoader - Now loading [ExamplePlugin].
+2025-08-05 16:15:33,493 [21] DEBUG ThirdPartyLoader - [ExamplePlugin] will be loaded as [ExamplePlugin]. The base path is [].
+2025-08-05 16:15:33,494 [21] DEBUG ThirdPartyLoader - Now loading [ExampleRoutine].
+2025-08-05 16:15:33,494 [21] DEBUG ThirdPartyLoader - [ExampleRoutine] will be loaded as [ExampleRoutine]. The base path is [].
+2025-08-05 16:15:33,494 [21] DEBUG ThirdPartyLoader - Now loading [Legacy].
+2025-08-05 16:15:33,495 [21] DEBUG ThirdPartyLoader - [Legacy] will be loaded as [Legacy]. The base path is [].
+2025-08-05 16:15:33,495 [21] DEBUG ThirdPartyLoader - Now loading [NullBot].
+2025-08-05 16:15:33,496 [21] DEBUG ThirdPartyLoader - [NullBot] will be loaded as [NullBot]. The base path is [].
+2025-08-05 16:15:33,496 [21] DEBUG ThirdPartyLoader - Now loading [ObjectExplorer].
+2025-08-05 16:15:33,498 [21] DEBUG ThirdPartyLoader - [ObjectExplorer] will be loaded as [ObjectExplorer]. The base path is [].
+2025-08-05 16:15:33,498 [21] DEBUG ThirdPartyLoader - Now loading [PatherExplorer].
+2025-08-05 16:15:33,498 [21] DEBUG ThirdPartyLoader - [PatherExplorer] will be loaded as [PatherExplorer]. The base path is [].
+2025-08-05 16:15:33,498 [21] DEBUG ThirdPartyLoader - Now loading [PluginLoader].
+2025-08-05 16:15:33,498 [21] DEBUG ThirdPartyLoader - [PluginLoader] will be loaded as [PluginLoader]. The base path is [].
+2025-08-05 16:15:33,498 [21] DEBUG ThirdPartyLoader - Now loading [SkillPlayerMover].
+2025-08-05 16:15:33,498 [21] DEBUG ThirdPartyLoader - [SkillPlayerMover] will be loaded as [SkillPlayerMover]. The base path is [].
+2025-08-05 16:15:33,499 [21] INFO  ThirdPartyLoader - Now asynchronously compiling dependency free content...
+2025-08-05 16:15:37,085 [10] INFO  ThirdPartyLoader - ObjectExplorer
+2025-08-05 16:15:37,088 [17] DEBUG PluginLoader - [ExPlugins Autoupdater] Downloading archive.
+2025-08-05 16:15:37,090 [10] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 16:15:37,091 [10] INFO  ThirdPartyLoader -                    [Plugins] : ObjectExplorer (ObjectExplorer: 0.0.1.1)
+2025-08-05 16:15:37,092 [10] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 16:15:37,092 [10] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 16:15:37,092 [10] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-05 16:15:37,093 [19] INFO  ThirdPartyLoader - ExamplePlugin
+2025-08-05 16:15:37,093 [19] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 16:15:37,093 [19] INFO  ThirdPartyLoader -                    [Plugins] : ExamplePlugin (ExamplePlugin: 1.0)
+2025-08-05 16:15:37,093 [19] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 16:15:37,093 [19] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 16:15:37,094 [19] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-05 16:15:37,094 [23] INFO  ThirdPartyLoader - Legacy
+2025-08-05 16:15:37,094 [23] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 16:15:37,094 [23] INFO  ThirdPartyLoader -                    [Plugins] : DevTab (DevTab: 0.0.1.1)
+2025-08-05 16:15:37,094 [23] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 16:15:37,095 [23] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 16:15:37,095 [23] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-05 16:15:37,095 [15] INFO  ThirdPartyLoader - SkillPlayerMover
+2025-08-05 16:15:37,095 [15] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 16:15:37,095 [15] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-05 16:15:37,095 [15] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 16:15:37,096 [15] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 16:15:37,096 [15] INFO  ThirdPartyLoader -                    [PlayerMovers] : SkillPlayerMover (SkillPlayerMover: 0.4.0.12)
+2025-08-05 16:15:37,096 [11] INFO  ThirdPartyLoader - ExampleRoutine
+2025-08-05 16:15:37,097 [11] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 16:15:37,097 [11] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-05 16:15:37,097 [11] INFO  ThirdPartyLoader -                    [Routines] : ExampleRoutine (ExampleRoutine: 1.0)
+2025-08-05 16:15:37,097 [11] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 16:15:37,097 [11] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-05 16:15:37,098 [20] INFO  ThirdPartyLoader - PatherExplorer
+2025-08-05 16:15:37,098 [20] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 16:15:37,098 [20] INFO  ThirdPartyLoader -                    [Plugins] : PatherExplorer (PatherExplorer: 0.0.1.4)
+2025-08-05 16:15:37,098 [20] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 16:15:37,099 [20] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 16:15:37,099 [20] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-05 16:15:37,099 [13] INFO  ThirdPartyLoader - NullBot
+2025-08-05 16:15:37,099 [13] INFO  ThirdPartyLoader -                    [Bots] : NullBot (NullBot: 1.0)
+2025-08-05 16:15:37,100 [13] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-05 16:15:37,100 [13] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 16:15:37,100 [13] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 16:15:37,100 [13] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-05 16:15:37,101 [21] INFO  ThirdPartyLoader - ExampleMover
+2025-08-05 16:15:37,101 [21] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 16:15:37,102 [21] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-05 16:15:37,102 [21] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 16:15:37,102 [21] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 16:15:37,102 [21] INFO  ThirdPartyLoader -                    [PlayerMovers] : ExampleMover (ExampleMover: 1.0)
+2025-08-05 16:15:37,839 [17] DEBUG PluginLoader - [ExPlugins Autoupdater] Archive downloaded in 748ms. Size: 1,967655 MB
+2025-08-05 16:15:37,878 [17] DEBUG PluginLoader - [ExPlugins Autoupdater] Archive decompressed in 38ms.
+2025-08-05 16:15:38,025 [17] INFO  PluginLoader - [ExPlugins Autoupdater] Loaded: [ExPlugins] v1.6.11.7f <Seusheque> - [ExPlugins] container
+2025-08-05 16:15:38,026 [17] INFO  ThirdPartyLoader - PluginLoader
+2025-08-05 16:15:38,026 [17] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 16:15:38,026 [17] INFO  ThirdPartyLoader -                    [Plugins] : PluginLoader (ExPlugins Autoupdater: 2.0)
+2025-08-05 16:15:38,026 [17] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 16:15:38,027 [17] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 16:15:38,027 [17] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-05 16:15:38,027 [21] INFO  ThirdPartyLoader - Content compiled in 00:00:04.5271288.
+2025-08-05 16:15:38,027 [21] DEBUG ThirdPartyLoader - Loading finished!
+2025-08-05 16:15:38,352 [21] INFO  Dat - Now creating the Stats cache.
+2025-08-05 16:15:40,655 [9] INFO  GameController - The Game Proces is closed, now terminating DPB

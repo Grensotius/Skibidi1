@@ -1,0 +1,12 @@
+{
+  "HuntExiles": true,
+  "MinExilesToUseVessel": 4,
+  "ExileRush": true,
+  "TabDefault": "3",
+  "Tab4": "3",
+  "Tab5": "5",
+  "Tab6": "6",
+  "Tab7": "7",
+  "Tab8": "8",
+  "RitualTpOut": false
+}

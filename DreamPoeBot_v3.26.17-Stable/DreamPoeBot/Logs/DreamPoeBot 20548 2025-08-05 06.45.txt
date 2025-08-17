@@ -1,0 +1,632 @@
+2025-08-05 06:45:45,738 [1] INFO  App - DreamPoeBot Version: 0.3.26.46
+Path: E:\Новая папка (2)\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\<ExeName>
+Arguments: E:\Новая папка (2)\DreamPoeBot_v3.26.17-Stable\DreamPoeBot\DreamPoeBot.exe --autostart --config:Default --pid:18440 --silent
+
+OS Name: Майкрософт Windows 10 Домашняя
+OS Version: 10.0.19045
+OS Architecture: 64-разрядная
+InstalledUICulture: ru-RU [Russian (Russia)]
+CurrentUICulture: ru-RU [Russian (Russia)]
+CurrentCulture: ru-RU [Russian (Russia)]
+
+2025-08-05 06:45:45,756 [1] INFO  App - Now setting up JitProfiles...
+2025-08-05 06:45:45,757 [1] INFO  App - JitProfiles successfully setup!
+2025-08-05 06:45:45,759 [1] INFO  App - Now checking prerequisites...
+2025-08-05 06:45:45,760 [1] INFO  App - Prerequisite check complete!
+2025-08-05 06:45:52,348 [1] INFO  MainWindow - DreamPoeBot [0.3.26.46] is up to date!
+2025-08-05 06:45:52,404 [18] INFO  Class104 - [Pre-Login] Connecting to BestLatency (194.87.202.217)
+2025-08-05 06:45:52,577 [18] INFO  Class104 - Region: eu
+2025-08-05 06:45:52,577 [18] INFO  Class104 - T: 5250585641951433954 
+2025-08-05 06:45:53,743 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2025-08-05 06:45:53,778 [9] INFO  LokiPoe - Initialize RDPather.
+2025-08-05 06:45:53,782 [9] INFO  LokiPoe - RDPather already running.
+2025-08-05 06:45:53,782 [9] INFO  LokiPoe - RDPather initialization complete.
+2025-08-05 06:45:54,433 [9] INFO  LokiPoe - Pattern scan completed.
+2025-08-05 06:45:59,435 [9] INFO  Dat - [Dat] Now building the Stat lookup table.
+2025-08-05 06:45:59,986 [9] INFO  Dat - [Dat] The Stat lookup table has been built.
+2025-08-05 06:46:00,112 [9] INFO  LokiPoe - IGS = 2AFEE301A20.
+2025-08-05 06:46:01,361 [9] DEBUG ThirdPartyLoader - Loading start.
+2025-08-05 06:46:01,367 [9] DEBUG ThirdPartyLoader - Now loading [ExampleMover].
+2025-08-05 06:46:01,371 [9] DEBUG ThirdPartyLoader - [ExampleMover] will be loaded as [ExampleMover]. The base path is [].
+2025-08-05 06:46:01,371 [9] DEBUG ThirdPartyLoader - Now loading [ExamplePlugin].
+2025-08-05 06:46:01,372 [9] DEBUG ThirdPartyLoader - [ExamplePlugin] will be loaded as [ExamplePlugin]. The base path is [].
+2025-08-05 06:46:01,372 [9] DEBUG ThirdPartyLoader - Now loading [ExampleRoutine].
+2025-08-05 06:46:01,373 [9] DEBUG ThirdPartyLoader - [ExampleRoutine] will be loaded as [ExampleRoutine]. The base path is [].
+2025-08-05 06:46:01,373 [9] DEBUG ThirdPartyLoader - Now loading [Legacy].
+2025-08-05 06:46:01,374 [9] DEBUG ThirdPartyLoader - [Legacy] will be loaded as [Legacy]. The base path is [].
+2025-08-05 06:46:01,374 [9] DEBUG ThirdPartyLoader - Now loading [NullBot].
+2025-08-05 06:46:01,374 [9] DEBUG ThirdPartyLoader - [NullBot] will be loaded as [NullBot]. The base path is [].
+2025-08-05 06:46:01,375 [9] DEBUG ThirdPartyLoader - Now loading [ObjectExplorer].
+2025-08-05 06:46:01,375 [9] DEBUG ThirdPartyLoader - [ObjectExplorer] will be loaded as [ObjectExplorer]. The base path is [].
+2025-08-05 06:46:01,375 [9] DEBUG ThirdPartyLoader - Now loading [PatherExplorer].
+2025-08-05 06:46:01,375 [9] DEBUG ThirdPartyLoader - [PatherExplorer] will be loaded as [PatherExplorer]. The base path is [].
+2025-08-05 06:46:01,376 [9] DEBUG ThirdPartyLoader - Now loading [PluginLoader].
+2025-08-05 06:46:01,376 [9] DEBUG ThirdPartyLoader - [PluginLoader] will be loaded as [PluginLoader]. The base path is [].
+2025-08-05 06:46:01,376 [9] DEBUG ThirdPartyLoader - Now loading [SkillPlayerMover].
+2025-08-05 06:46:01,376 [9] DEBUG ThirdPartyLoader - [SkillPlayerMover] will be loaded as [SkillPlayerMover]. The base path is [].
+2025-08-05 06:46:01,377 [9] INFO  ThirdPartyLoader - Now asynchronously compiling dependency free content...
+2025-08-05 06:46:04,299 [11] INFO  ThirdPartyLoader - ExampleRoutine
+2025-08-05 06:46:04,300 [20] DEBUG PluginLoader - [ExPlugins Autoupdater] Downloading archive.
+2025-08-05 06:46:04,303 [11] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 06:46:04,304 [11] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-05 06:46:04,304 [11] INFO  ThirdPartyLoader -                    [Routines] : ExampleRoutine (ExampleRoutine: 1.0)
+2025-08-05 06:46:04,304 [11] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 06:46:04,305 [11] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-05 06:46:04,305 [10] INFO  ThirdPartyLoader - ExamplePlugin
+2025-08-05 06:46:04,305 [10] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 06:46:04,305 [10] INFO  ThirdPartyLoader -                    [Plugins] : ExamplePlugin (ExamplePlugin: 1.0)
+2025-08-05 06:46:04,306 [10] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 06:46:04,306 [10] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 06:46:04,306 [10] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-05 06:46:04,306 [22] INFO  ThirdPartyLoader - ObjectExplorer
+2025-08-05 06:46:04,306 [22] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 06:46:04,306 [22] INFO  ThirdPartyLoader -                    [Plugins] : ObjectExplorer (ObjectExplorer: 0.0.1.1)
+2025-08-05 06:46:04,307 [22] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 06:46:04,307 [22] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 06:46:04,307 [22] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-05 06:46:04,307 [18] INFO  ThirdPartyLoader - PatherExplorer
+2025-08-05 06:46:04,307 [18] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 06:46:04,307 [18] INFO  ThirdPartyLoader -                    [Plugins] : PatherExplorer (PatherExplorer: 0.0.1.4)
+2025-08-05 06:46:04,308 [18] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 06:46:04,308 [18] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 06:46:04,308 [18] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-05 06:46:04,308 [15] INFO  ThirdPartyLoader - NullBot
+2025-08-05 06:46:04,309 [15] INFO  ThirdPartyLoader -                    [Bots] : NullBot (NullBot: 1.0)
+2025-08-05 06:46:04,309 [15] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-05 06:46:04,309 [15] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 06:46:04,309 [15] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 06:46:04,309 [15] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-05 06:46:04,310 [9] INFO  ThirdPartyLoader - ExampleMover
+2025-08-05 06:46:04,310 [9] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 06:46:04,310 [9] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-05 06:46:04,310 [9] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 06:46:04,310 [9] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 06:46:04,311 [9] INFO  ThirdPartyLoader -                    [PlayerMovers] : ExampleMover (ExampleMover: 1.0)
+2025-08-05 06:46:04,311 [23] INFO  ThirdPartyLoader - SkillPlayerMover
+2025-08-05 06:46:04,311 [23] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 06:46:04,311 [23] INFO  ThirdPartyLoader -                    [Plugins] : 
+2025-08-05 06:46:04,311 [23] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 06:46:04,312 [23] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 06:46:04,312 [23] INFO  ThirdPartyLoader -                    [PlayerMovers] : SkillPlayerMover (SkillPlayerMover: 0.4.0.12)
+2025-08-05 06:46:04,313 [14] INFO  ThirdPartyLoader - Legacy
+2025-08-05 06:46:04,313 [14] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 06:46:04,313 [14] INFO  ThirdPartyLoader -                    [Plugins] : DevTab (DevTab: 0.0.1.1)
+2025-08-05 06:46:04,313 [14] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 06:46:04,313 [14] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 06:46:04,313 [14] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-05 06:46:04,933 [20] DEBUG PluginLoader - [ExPlugins Autoupdater] Archive downloaded in 629ms. Size: 1,967637 MB
+2025-08-05 06:46:04,962 [20] DEBUG PluginLoader - [ExPlugins Autoupdater] Archive decompressed in 28ms.
+2025-08-05 06:46:05,108 [20] INFO  PluginLoader - [ExPlugins Autoupdater] Loaded: [ExPlugins] v1.6.11.7e <Seusheque> - [ExPlugins] container
+2025-08-05 06:46:05,108 [20] INFO  ThirdPartyLoader - PluginLoader
+2025-08-05 06:46:05,108 [20] INFO  ThirdPartyLoader -                    [Bots] : 
+2025-08-05 06:46:05,109 [20] INFO  ThirdPartyLoader -                    [Plugins] : PluginLoader (ExPlugins Autoupdater: 2.0)
+2025-08-05 06:46:05,109 [20] INFO  ThirdPartyLoader -                    [Routines] : 
+2025-08-05 06:46:05,109 [20] INFO  ThirdPartyLoader -                    [Content] : 
+2025-08-05 06:46:05,109 [20] INFO  ThirdPartyLoader -                    [PlayerMovers] : 
+2025-08-05 06:46:05,109 [9] INFO  ThirdPartyLoader - Content compiled in 00:00:03.7316803.
+2025-08-05 06:46:05,109 [9] DEBUG ThirdPartyLoader - Loading finished!
+2025-08-05 06:46:05,386 [9] INFO  Dat - Now creating the Stats cache.
+2025-08-05 06:46:07,022 [9] INFO  Utility - [Initialize] ExPlugins.EXtensions.EXtensions
+2025-08-05 06:46:07,478 [9] DEBUG GlobalLog - [EXtensions] Telemetry worker started
+2025-08-05 06:46:07,485 [9] INFO  Utility - [Initialize] DreamPoeBot.Loki.Bot.SkillBlacklist
+2025-08-05 06:46:07,539 [9] INFO  Utility - [Initialize] NullBot.NullBot
+2025-08-05 06:46:07,552 [9] INFO  Utility - [Initialize] ExPlugins.FollowBotEx.FollowBotEx
+2025-08-05 06:46:07,615 [9] INFO  Utility - [Initialize] ExPlugins.MapBotEx.MapBotEx
+2025-08-05 06:46:07,623 [9] INFO  Utility - [Initialize] LF
+2025-08-05 06:46:07,637 [9] INFO  Utility - [Initialize] lF
+2025-08-05 06:46:07,640 [1] INFO  ItemEvaluator - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2025-08-05 06:46:07,708 [9] INFO  Utility - [Initialize] ExampleRoutine.ExampleRoutine
+2025-08-05 06:46:07,710 [9] INFO  ExampleRoutine - Name: SingleTargetMeleeSlot (System.Int32)
+2025-08-05 06:46:07,711 [9] INFO  ExampleRoutine - Name: SingleTargetRangedSlot (System.Int32)
+2025-08-05 06:46:07,711 [9] INFO  ExampleRoutine - Name: AoeMeleeSlot (System.Int32)
+2025-08-05 06:46:07,711 [9] INFO  ExampleRoutine - Name: AoeRangedSlot (System.Int32)
+2025-08-05 06:46:07,711 [9] INFO  ExampleRoutine - Name: FallbackSlot (System.Int32)
+2025-08-05 06:46:07,711 [9] INFO  ExampleRoutine - Name: CombatRange (System.Int32)
+2025-08-05 06:46:07,711 [9] INFO  ExampleRoutine - Name: MaxMeleeRange (System.Int32)
+2025-08-05 06:46:07,711 [9] INFO  ExampleRoutine - Name: MaxRangeRange (System.Int32)
+2025-08-05 06:46:07,711 [9] INFO  ExampleRoutine - Name: SkipShrines (System.Boolean)
+2025-08-05 06:46:07,712 [9] INFO  ExampleRoutine - Name: AoePackSize (System.Int32)
+2025-08-05 06:46:07,712 [9] INFO  ExampleRoutine - Name: AlwaysAttackInPlace (System.Boolean)
+2025-08-05 06:46:07,741 [9] INFO  Utility - [Initialize] Gc
+2025-08-05 06:46:07,795 [9] INFO  Utility - [Initialize] SkillPlayerMover.SkillPlayerMover
+2025-08-05 06:46:07,798 [9] INFO  Utility - [Initialize] ExampleMover.ExampleMover
+2025-08-05 06:46:07,809 [9] INFO  Utility - [Initialize] ExPlugins.SkillPlayerMoverEx.SkillPlayerMoverEx
+2025-08-05 06:46:07,946 [9] INFO  Utility - [Initialize] J4
+2025-08-05 06:46:07,952 [9] INFO  Utility - [Initialize] z0
+2025-08-05 06:46:07,956 [9] INFO  Utility - [Initialize] N0
+2025-08-05 06:46:07,958 [9] INFO  Utility - [Initialize] M0
+2025-08-05 06:46:07,964 [9] INFO  Utility - [Initialize] H0
+2025-08-05 06:46:07,968 [9] INFO  Utility - [Initialize] S0
+2025-08-05 06:46:07,976 [9] INFO  Utility - [Initialize] P0
+2025-08-05 06:46:07,979 [9] INFO  Utility - [Initialize] Legacy.DevTab.DevTab
+2025-08-05 06:46:07,987 [9] INFO  Utility - [Initialize] ew
+2025-08-05 06:46:07,988 [9] INFO  Utility - [Initialize] ExamplePlugin.ExamplePlugin
+2025-08-05 06:46:07,988 [9] INFO  Utility - [Initialize] PluginLoader.PluginLoader
+2025-08-05 06:46:07,996 [9] INFO  Utility - [Initialize] gw
+2025-08-05 06:46:08,396 [9] DEBUG GlobalLog - [ExPluginsAuthCore] Session closed
+2025-08-05 06:46:08,632 [9] DEBUG GlobalLog - [WebHelper:GetFile][OK]
+2025-08-05 06:46:08,634 [9] INFO  Utility - [Initialize] Fw
+2025-08-05 06:46:08,647 [9] INFO  Utility - [Initialize] uw
+2025-08-05 06:46:08,657 [9] INFO  Utility - [Initialize] ExPlugins.GemLevelerEx.GemLevelerEx
+2025-08-05 06:46:08,665 [9] INFO  Utility - [Initialize] pw
+2025-08-05 06:46:08,671 [9] INFO  Utility - [Initialize] ow
+2025-08-05 06:46:08,705 [9] INFO  Utility - [Initialize] ExPlugins.ItemFilterEx.ItemFilterEx
+2025-08-05 06:46:08,715 [9] INFO  Utility - [Initialize] dF
+2025-08-05 06:46:08,725 [9] INFO  Utility - [Initialize] IF
+2025-08-05 06:46:08,727 [9] INFO  Utility - [Initialize] ObjectExplorer.ObjectExplorer
+2025-08-05 06:46:08,745 [9] INFO  Utility - [Initialize] uF
+2025-08-05 06:46:08,767 [9] INFO  Utility - [Initialize] PatherExplorer.PatherExplorer
+2025-08-05 06:46:08,775 [9] INFO  Utility - [Initialize] yc
+2025-08-05 06:46:08,791 [9] INFO  Utility - [Initialize] ExPlugins.StashManager.StashManager
+2025-08-05 06:46:08,830 [9] INFO  Utility - [Initialize] Pc
+2025-08-05 06:46:08,830 [9] INFO  PluginManager - [Enable] z0
+2025-08-05 06:46:08,831 [9] INFO  PluginManager - [Enable] Legacy.DevTab.DevTab
+2025-08-05 06:46:08,831 [9] INFO  PluginManager - [Enable] PluginLoader.PluginLoader
+2025-08-05 06:46:08,832 [9] INFO  PluginManager - [Enable] gw
+2025-08-05 06:46:08,832 [9] INFO  PluginManager - [Enable] pw
+2025-08-05 06:46:08,832 [9] INFO  PluginManager - [Enable] ExPlugins.ItemFilterEx.ItemFilterEx
+2025-08-05 06:46:08,832 [9] INFO  PluginManager - [Enable] ObjectExplorer.ObjectExplorer
+2025-08-05 06:46:08,940 [1] DEBUG BotManagerGui - Current 'Bot' set to MapBotEx.
+2025-08-05 06:46:09,173 [1] DEBUG RoutineManagerGui - Current 'Routine' set to SqRoutine.
+2025-08-05 06:46:09,447 [1] DEBUG MoverManagerGui - Current 'PlayerMover' set to SkillPlayerMoverEx.
+2025-08-05 06:46:09,482 [9] INFO  BotWindow - Registering default Hotkeys:
+2025-08-05 06:46:09,484 [9] INFO  BotWindow - 
+GuideText
+GuideLink
+2025-08-05 06:46:09,508 [9] INFO  BotManager - [Start] Now creating the BotThread.
+2025-08-05 06:46:09,597 [35] INFO  BotManager - [Start] ExPlugins.MapBotEx.MapBotEx
+2025-08-05 06:46:09,600 [35] INFO  ItemEvaluator - [ItemEvaluator] Instance = DreamPoeBot.Loki.Bot.DefaultItemEvaluator.
+2025-08-05 06:46:09,676 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [MainUtilityTask] This task places any item left on the cursor into the inventory..
+2025-08-05 06:46:09,678 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [LeaveAreaTask] Task to prematurely leave an area..
+2025-08-05 06:46:09,678 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AfkTask] Persistent AFK Task.
+2025-08-05 06:46:09,679 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HandleFollowersTask] Task to handle follower invites/kicks..
+2025-08-05 06:46:09,679 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HandleBlockingChestsTask] This task will handle breaking any blocking chests that interfere with movement..
+2025-08-05 06:46:09,679 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HandleBlockingObjectTask] Task that handles various blocking objects..
+2025-08-05 06:46:09,680 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [DeliriumTask] Task that handle delirium..
+2025-08-05 06:46:09,680 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CombatTask] This task executes routine logic for combat..
+2025-08-05 06:46:09,680 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [IdTask] Task that handles item identification..
+2025-08-05 06:46:09,680 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CastAuraTask] Task for casting auras before entering a map..
+2025-08-05 06:46:09,681 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AbyssTask] This task will follow Abyss nodes..
+2025-08-05 06:46:09,681 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [InteractTask] Task for opening chests, strongboxes and shrines..
+2025-08-05 06:46:09,681 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [CorruptedAreaTask] Task that handles corrupted side areas..
+2025-08-05 06:46:09,681 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [SyndicateTask] SyndicateTask.
+2025-08-05 06:46:09,681 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [StashTask] Task that handles item stashing.
+2025-08-05 06:46:09,682 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [RestockCurrencyTask] Task that takes currency from stash if needed.
+2025-08-05 06:46:09,682 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AfflictionExplorationTask] Task that explores affliction league submap.
+2025-08-05 06:46:09,682 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [HarvestTask] Task that handles harvest events on maps.
+2025-08-05 06:46:09,682 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [MapExplorationTask] Task that handles map exploration..
+2025-08-05 06:46:09,683 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [KillBossTask] Task for killing map boss..
+2025-08-05 06:46:09,683 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FinishMapTask] Task for leaving current map..
+2025-08-05 06:46:09,683 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AssignPantheonTask] This task assign pantheon as per configuration..
+2025-08-05 06:46:09,683 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [BuyMapsFromKiracTask] Task for buying maps from Kirac after missions..
+2025-08-05 06:46:09,684 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [SellTask] Task that handles item selling..
+2025-08-05 06:46:09,684 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [VendorTask] Task for exchanging various items with vendors..
+2025-08-05 06:46:09,685 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [AtlasQuestsTask] Task for finishing Tangle quests..
+2025-08-05 06:46:09,685 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [SellMapTask] Task for selling maps.
+2025-08-05 06:46:09,685 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [ReturnToMapTask] This task returns to opened map.
+2025-08-05 06:46:09,686 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [TakeMapTask] Task for taking maps from the stash..
+2025-08-05 06:46:09,686 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [StartMapTask] Task for starting maps/simulacrums/etc via Map Device..
+2025-08-05 06:46:09,686 [35] DEBUG TaskManagerBase<ITask> - [Add] Now adding [FallbackTask] This task is the last task executed. It should not execute..
+2025-08-05 06:46:09,687 [35] INFO  PluginManager - [Start] z0
+2025-08-05 06:46:09,687 [35] INFO  PluginManager - [Start] Legacy.DevTab.DevTab
+2025-08-05 06:46:09,687 [35] INFO  PluginManager - [Start] PluginLoader.PluginLoader
+2025-08-05 06:46:09,687 [35] INFO  PluginManager - [Start] gw
+2025-08-05 06:46:09,688 [35] INFO  PluginManager - [Start] pw
+2025-08-05 06:46:09,693 [35] INFO  PluginManager - [Start] ExPlugins.ItemFilterEx.ItemFilterEx
+2025-08-05 06:46:09,694 [35] INFO  ItemEvaluator - [ItemEvaluator] Instance = Jw.
+2025-08-05 06:46:09,694 [35] INFO  PluginManager - [Start] ObjectExplorer.ObjectExplorer
+2025-08-05 06:46:09,694 [35] INFO  RoutineManager - [Start] Gc
+2025-08-05 06:46:09,697 [35] INFO  LokiPoe - [Input] InputEventDelayMs = 50.
+2025-08-05 06:46:09,698 [35] WARN  GlobalLog - [Start] MsBetweenTicks: 80.
+2025-08-05 06:46:09,698 [35] WARN  GlobalLog - [Start] InputEventDelay: 50.
+2025-08-05 06:46:09,698 [35] WARN  GlobalLog - [Start] KeyPickup: Disabled.
+2025-08-05 06:46:09,699 [35] WARN  GlobalLog - [Start] NetworkingMode: Auto.
+2025-08-05 06:46:09,699 [35] WARN  GlobalLog - [Start] ExPlugins Version: 1.6.11.7e
+2025-08-05 06:46:09,699 [35] ERROR GlobalLog - [SqRoutine] Key pickup set to: Disabled. Please set it to UseBoundKey
+2025-08-05 06:46:09,700 [35] INFO  PlayerMoverManager - [PlayerMoverManager.Start] ExPlugins.SkillPlayerMoverEx.SkillPlayerMoverEx
+2025-08-05 06:46:09,703 [35] WARN  GlobalLog - [AfkTask] Next break at 22:21
+2025-08-05 06:46:09,706 [35] INFO  ExilePather - [ExilePather] BlockTrialOfAscendancy = Enabled.
+2025-08-05 06:46:09,707 [35] INFO  ExilePather - [ExilePather] BlockLockedDoors = Enabled.
+2025-08-05 06:46:09,761 [35] DEBUG GlobalLog - [AutoLoginEx] Client Version: Official
+2025-08-05 06:46:13,003 [35] DEBUG GlobalLog - [AutoLoginEx] Login errors: None.
+2025-08-05 06:46:13,114 [35] DEBUG GlobalLog - Characters: 10
+2025-08-05 06:46:13,115 [35] WARN  GlobalLog - [AiBedka-Mercenaries] Ranger [Deadeye] (99)
+2025-08-05 06:46:13,115 [35] INFO  GlobalLog - [Blind_Ambition-Phrecia] Shadow [Saboteur] (80)
+2025-08-05 06:46:13,116 [35] INFO  GlobalLog - [hggdjhg-Solo Self-Found] Duelist [Not ascended] (8)
+2025-08-05 06:46:13,116 [35] INFO  GlobalLog - [lkjhkhjgjuhg-Solo Self-Found] Ranger [Not ascended] (2)
+2025-08-05 06:46:13,116 [35] INFO  GlobalLog - [SuSamoguSuS-Standard] Ranger [Pathfinder] (98)
+2025-08-05 06:46:13,116 [35] INFO  GlobalLog - [SamTheBloodChad-Standard] Duelist [Champion] (97)
+2025-08-05 06:46:13,116 [35] INFO  GlobalLog - [SuSJokergeSus-Standard] Ranger [Deadeye] (96)
+2025-08-05 06:46:13,117 [35] INFO  GlobalLog - [Corpses_enjoyer-Standard] Witch [Necromancer] (93)
+2025-08-05 06:46:13,117 [35] INFO  GlobalLog - [Testanias-Standard] Witch [Occultist] (65)
+2025-08-05 06:46:13,117 [35] INFO  GlobalLog - [aalskdlaskdl-Ziz Merciless HCSSF Class Gauntlet] Ranger [Not ascended] (2)
+2025-08-05 06:46:13,459 [35] DEBUG GlobalLog - [AutoLoginEx] SelectCharacter errors: None.
+2025-08-05 06:46:13,707 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-05 06:46:14,833 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-05 06:46:15,961 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-05 06:46:17,088 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-05 06:46:18,215 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-05 06:46:19,341 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-05 06:46:20,470 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-05 06:46:21,596 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-05 06:46:22,724 [35] DEBUG GlobalLog - [MapBotEx:Coroutine] Not in game yet. Waiting.
+2025-08-05 06:46:23,189 [29] INFO  Dat - Now reloading the WorldArea cache.
+2025-08-05 06:46:23,207 [10] DEBUG GlobalLog - [ImportMetrics] Setting character name to: AiBedka [Autologin-fallback]
+2025-08-05 06:46:23,236 [35] INFO  Dat - Now creating the ActiveSkills cache.
+2025-08-05 06:46:23,245 [29] INFO  Dat - The WorldArea cache has been reloaded.
+2025-08-05 06:46:23,318 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to True.
+2025-08-05 06:46:23,319 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-05 06:46:23,320 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 5.
+2025-08-05 06:46:23,321 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to False.
+2025-08-05 06:46:23,321 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-05 06:46:23,321 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 4.
+2025-08-05 06:46:23,323 [29] DEBUG GlobalLog - [ComplexExplorer] Creating new level anchor {169, 474} (distance: 0)
+2025-08-05 06:46:23,328 [29] WARN  GlobalLog - [CombatAreaCache] Created cache for "2_9_town:67" (hash: 1434073308)
+2025-08-05 06:46:23,495 [35] WARN  GlobalLog - [SqRoutine] Castable skills:
+2025-08-05 06:46:23,495 [35] INFO  GlobalLog - ======================
+2025-08-05 06:46:23,512 [35] INFO  GlobalLog - [Kinetic Blast] | RButton | links: 6 | canUse: False
+2025-08-05 06:46:23,512 [35] INFO  GlobalLog - [Temporal Chains] | Space | links: 1 | canUse: False
+2025-08-05 06:46:23,513 [35] INFO  GlobalLog - [Frostblink] | W | links: 1 | canUse: False
+2025-08-05 06:46:23,513 [35] INFO  GlobalLog - [Shield Charge] | Q | links: 2 | canUse: False
+2025-08-05 06:46:23,513 [35] INFO  GlobalLog - [Default Attack] | None | links: 1 | canUse: False
+2025-08-05 06:46:23,513 [35] INFO  GlobalLog - [Order: To me!] | None | links: 1 | canUse: False
+2025-08-05 06:46:23,513 [35] INFO  GlobalLog - [Vaal Haste] | E | links: 2 | canUse: False
+2025-08-05 06:46:23,513 [35] INFO  GlobalLog - ======================
+2025-08-05 06:46:23,551 [35] INFO  GlobalLog - [CastAuraTask] Haste reserv: 33,82% Mana blacklisted: False
+2025-08-05 06:46:23,551 [35] INFO  GlobalLog - [CastAuraTask] Arctic Armour reserv: 18,38% Mana blacklisted: False
+2025-08-05 06:46:23,551 [35] INFO  GlobalLog - [CastAuraTask] Flesh and Stone reserv: 18,38% Mana blacklisted: False
+2025-08-05 06:46:23,551 [35] INFO  GlobalLog - [CastAuraTask] Herald of Ash reserv: 16,91% Mana blacklisted: False
+2025-08-05 06:46:23,552 [35] INFO  GlobalLog - [CastAuraTask] Tempest Shield reserv: 16,91% Mana blacklisted: False
+2025-08-05 06:46:23,552 [35] INFO  GlobalLog - [CastAuraTask] Clarity reserv: 12,35% Mana blacklisted: False
+2025-08-05 06:46:23,552 [35] INFO  GlobalLog - [CastAuraTask] Temporal Rift reserv: 8,82% Mana blacklisted: False
+2025-08-05 06:46:23,563 [35] WARN  GlobalLog - [SkillPlayerMoverEx] Skills refreshed!
+2025-08-05 06:46:23,564 [35] DEBUG GlobalLog - [MapBotEx] ExilePather is not ready yet.
+2025-08-05 06:46:23,609 [35] INFO  ExilePather - [ExilePather] Now creating the navmesh. [Force: False]
+2025-08-05 06:46:23,614 [35] INFO  ExilePather - [ExilePather] The navmesh has been created. Now waiting to be in game.
+2025-08-05 06:46:23,614 [35] INFO  ExilePather - [ExilePather] We are in game now, waiting area generation to complete for: Highgate (2_9_town).
+2025-08-05 06:46:23,689 [35] INFO  ExilePather - [ExilePather] The pathfinder has been reloaded. Now calling 'CheckForUpdates'
+2025-08-05 06:46:23,706 [35] INFO  ExilePather - [ExilePather] Now calling 'FastWalkablePositionFor' to prime the library.
+2025-08-05 06:46:23,718 [35] INFO  ExilePather - [ExilePather] 'CheckForUpdates' has completed. ExilePather is now ready to use!
+2025-08-05 06:46:24,321 [35] DEBUG GlobalLog - [PoeNinjaTracker] Loading item prices for Mercenaries
+2025-08-05 06:46:24,367 [35] DEBUG GlobalLog - [PoeNinjaTracker] Loaded prices from ExPluginsCache/ItemDumps-1.6.11.7e/PriceBackup_Mercenaries.json
+2025-08-05 06:46:24,368 [35] DEBUG GlobalLog - [PoeNinjaTracker] Currencies count: 112
+2025-08-05 06:46:24,368 [35] DEBUG GlobalLog - [PoeNinjaTracker] Fragments count: 85
+2025-08-05 06:46:24,369 [35] DEBUG GlobalLog - [PoeNinjaTracker] Gems count: 7194
+2025-08-05 06:46:24,369 [35] DEBUG GlobalLog - [PoeNinjaTracker] Clusters count: 850
+2025-08-05 06:46:24,369 [35] DEBUG GlobalLog - [PoeNinjaTracker] Uniques items count: 1699
+2025-08-05 06:46:24,369 [35] DEBUG GlobalLog - [PoeNinjaTracker] Rest items count: 1951
+2025-08-05 06:46:24,452 [35] DEBUG GlobalLog - [MainUtilityTask] Opening map
+2025-08-05 06:46:24,454 [35] INFO  LokiPoe - [InjectKeyEvent1] 87 ms sleep for 9.
+2025-08-05 06:46:24,776 [35] INFO  GlobalLog - Phoenix Ward
+2025-08-05 06:46:24,777 [35] INFO  GlobalLog - Warped Timepiece
+2025-08-05 06:46:24,778 [35] INFO  GlobalLog - Rage Spire
+2025-08-05 06:46:24,778 [35] INFO  GlobalLog - Esh's Mirror
+2025-08-05 06:46:24,779 [35] INFO  GlobalLog - Nimis
+2025-08-05 06:46:24,779 [35] INFO  GlobalLog - Death Rush
+2025-08-05 06:46:24,779 [35] INFO  GlobalLog - Inpulsa's Broken Heart
+2025-08-05 06:46:24,780 [35] INFO  GlobalLog - Headhunter
+2025-08-05 06:46:24,780 [35] INFO  GlobalLog - Cataclysm Fist
+2025-08-05 06:46:24,781 [35] INFO  GlobalLog - Replica Voidwalker
+2025-08-05 06:46:24,788 [35] INFO  GlobalLog - Alchemist's Diamond Flask of the Cheetah
+2025-08-05 06:46:24,788 [35] WARN  GlobalLog - [MainUtilityTask] Equipped items updated
+2025-08-05 06:46:24,891 [35] DEBUG GlobalLog - [MainUtilityTask] Initializing chat.
+2025-08-05 06:46:24,947 [35] INFO  LokiPoe - [InjectKeyEvent1] 114 ms sleep for 13.
+2025-08-05 06:46:27,059 [35] DEBUG GlobalLog - [MainUtilityTask] Need to fully cache stash.
+2025-08-05 06:46:27,072 [35] DEBUG GlobalLog - [OpenStash] Opening stash.
+2025-08-05 06:46:27,080 [35] INFO  Dat - Now creating the MinimapIcons cache.
+2025-08-05 06:46:27,605 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,08/2,7)
+2025-08-05 06:46:27,687 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,16/2,7)
+2025-08-05 06:46:27,768 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,25/2,7)
+2025-08-05 06:46:27,851 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,33/2,7)
+2025-08-05 06:46:27,932 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,41/2,7)
+2025-08-05 06:46:28,013 [35] DEBUG GlobalLog - [WaitFor] Waiting for stash to open (0,49/2,7)
+2025-08-05 06:46:28,014 [35] DEBUG GlobalLog - [WaitFor] Wait for stash to open success after 0,49 sec
+2025-08-05 06:46:28,047 [35] DEBUG GlobalLog - [SetupTabsTask] Public tab: Fragment
+2025-08-05 06:46:28,306 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Fragment => Cur. [MainUtilityTask]
+2025-08-05 06:46:28,311 [35] INFO  LokiPoe - [InjectKeyEvent1] 65 ms sleep for 39.
+2025-08-05 06:46:28,746 [35] DEBUG GlobalLog - [SetupTabsTask] Currency tab: Cur
+2025-08-05 06:46:28,746 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Cur => 3. [MainUtilityTask]
+2025-08-05 06:46:29,196 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 3 => 4. [MainUtilityTask]
+2025-08-05 06:46:29,572 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 4 => 5. [MainUtilityTask]
+2025-08-05 06:46:29,914 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 5 => 6. [MainUtilityTask]
+2025-08-05 06:46:30,304 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 6 => 7. [MainUtilityTask]
+2025-08-05 06:46:30,717 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 7 => 8. [MainUtilityTask]
+2025-08-05 06:46:31,160 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 8 => 9. [MainUtilityTask]
+2025-08-05 06:46:31,657 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 9 => $$. [MainUtilityTask]
+2025-08-05 06:46:31,829 [35] DEBUG GlobalLog - [SetupTabsTask] Public tab: $$
+2025-08-05 06:46:32,030 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: $$ => $$$. [MainUtilityTask]
+2025-08-05 06:46:32,144 [35] DEBUG GlobalLog - [SetupTabsTask] Public tab: $$$
+2025-08-05 06:46:32,389 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: $$$ => $. [MainUtilityTask]
+2025-08-05 06:46:32,596 [35] DEBUG GlobalLog - [SetupTabsTask] Public tab: $
+2025-08-05 06:46:32,830 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: $ => 2. [MainUtilityTask]
+2025-08-05 06:46:33,391 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 2 => Map. [MainUtilityTask]
+2025-08-05 06:46:33,812 [35] DEBUG GlobalLog - 19:Baran, The Crusader slots: 60
+2025-08-05 06:46:34,829 [35] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Dunes Map] success after 0,36 sec
+2025-08-05 06:46:35,511 [35] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Iceberg Map] success after 0,44 sec
+2025-08-05 06:46:35,979 [35] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Jungle Valley Map] success after 0,26 sec
+2025-08-05 06:46:36,435 [35] DEBUG GlobalLog - [WaitFor] Wait for maps to load [Toxic Sewer Map] success after 0,26 sec
+2025-08-05 06:46:36,466 [35] INFO  GlobalLog - [CacheMapTabs] Adding info for T16 : [49][Dunes|Iceberg|Jungle Valley|Toxic Sewer]
+2025-08-05 06:46:36,466 [35] WARN  GlobalLog - [CacheMapTabs] Map tab Map cached successfully.
+2025-08-05 06:46:36,466 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Map => Ess. [MainUtilityTask]
+2025-08-05 06:46:37,011 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Ess => 1. [MainUtilityTask]
+2025-08-05 06:46:37,516 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 1 => GEM. [MainUtilityTask]
+2025-08-05 06:46:37,937 [35] ERROR GlobalLog - [StashCache] Unsupported tab type: Gem
+2025-08-05 06:46:37,938 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: GEM => Divination. [MainUtilityTask]
+2025-08-05 06:46:38,320 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Divination => Oil. [MainUtilityTask]
+2025-08-05 06:46:38,875 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Oil => 11. [MainUtilityTask]
+2025-08-05 06:46:39,293 [35] WARN  GlobalLog - Tabs amount: 20
+2025-08-05 06:46:39,404 [35] DEBUG TaskManagerBase<ITask> - [Remove] Now removing [HandleFollowersTask].
+2025-08-05 06:46:39,405 [35] DEBUG GlobalLog - [Remove HandleFollowersTask success.
+2025-08-05 06:46:39,510 [35] WARN  GlobalLog - [Save] Toxic Sewer Map is in Items to keep list. Saving.
+2025-08-05 06:46:39,512 [35] DEBUG GlobalLog - [StashTask] All tabs specified in stashing rules exist in stash.
+2025-08-05 06:46:39,520 [35] DEBUG GlobalLog - [StashTask] 1 items to stash. 
+1 Toxic Sewer Map -> Map,6,7,8,9
+2025-08-05 06:46:39,522 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 11 => Map. [StashTask]
+2025-08-05 06:46:39,523 [35] INFO  LokiPoe - [InjectKeyEvent1] 92 ms sleep for 37.
+2025-08-05 06:46:41,150 [35] DEBUG GlobalLog - [FastMoveFromInventory] Fast moving "Toxic Sewer Map" [Toxic Sewer Map]. Ignoring Affinity? True MoveAll? False
+2025-08-05 06:46:41,663 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Map => 6. [StashTask]
+2025-08-05 06:46:43,391 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 6 => 7. [StashTask]
+2025-08-05 06:46:43,799 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 7 => 8. [StashTask]
+2025-08-05 06:46:44,279 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: 8 => 9. [StashTask]
+2025-08-05 06:46:44,670 [35] DEBUG GlobalLog - Now checking if anything left in inventory.
+2025-08-05 06:46:44,782 [35] DEBUG GlobalLog - [GoToHideoutViaCommand] Now going to hideout via chat command.
+2025-08-05 06:46:44,786 [35] INFO  LokiPoe - [InjectKeyEvent1] 86 ms sleep for 27.
+2025-08-05 06:46:46,874 [35] DEBUG GlobalLog - [WaitFor] Wait for loading screen success after 1,30 sec
+2025-08-05 06:46:49,989 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to True.
+2025-08-05 06:46:49,989 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-05 06:46:49,990 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 5.
+2025-08-05 06:46:49,990 [29] INFO  GridExplorer - [GridExplorer] AutoResetOnAreaChange is being set to False.
+2025-08-05 06:46:49,990 [29] INFO  GridExplorer - [GridExplorer] TileKnownRadius is being set to 7.
+2025-08-05 06:46:49,990 [29] INFO  GridExplorer - [GridExplorer] TileSeenRadius is being set to 4.
+2025-08-05 06:46:49,991 [29] DEBUG GlobalLog - [ComplexExplorer] Creating new level anchor {381, 135} (distance: 0)
+2025-08-05 06:46:49,991 [29] WARN  GlobalLog - [CombatAreaCache] Created cache for "HideoutTwilightTemple:60" (hash: 3637974513)
+2025-08-05 06:46:50,035 [35] INFO  ExilePather - [ExilePather] Now creating the navmesh. [Force: False]
+2025-08-05 06:46:50,046 [35] INFO  ExilePather - [ExilePather] The navmesh has been created. Now waiting to be in game.
+2025-08-05 06:46:50,046 [35] INFO  ExilePather - [ExilePather] We are in game now, waiting area generation to complete for: Divided Hideout (HideoutTwilightTemple).
+2025-08-05 06:46:50,099 [35] INFO  ExilePather - [ExilePather] The pathfinder has been reloaded. Now calling 'CheckForUpdates'
+2025-08-05 06:46:50,101 [35] INFO  ExilePather - [ExilePather] Now calling 'FastWalkablePositionFor' to prime the library.
+2025-08-05 06:46:50,102 [35] INFO  ExilePather - [ExilePather] 'CheckForUpdates' has completed. ExilePather is now ready to use!
+2025-08-05 06:46:50,102 [35] INFO  GlobalLog - [Events] Area changed (null -> Divided Hideout:3637974513)
+2025-08-05 06:46:50,109 [35] INFO  GlobalLog - [CombatAreaCache] Resetting unwalkable flags on all cached objects.
+2025-08-05 06:46:50,114 [35] WARN  GlobalLog - [SqRoutine] Castable skills:
+2025-08-05 06:46:50,115 [35] INFO  GlobalLog - ======================
+2025-08-05 06:46:50,122 [35] INFO  GlobalLog - [Kinetic Blast] | RButton | links: 6 | canUse: True
+2025-08-05 06:46:50,123 [35] INFO  GlobalLog - [Temporal Chains] | Space | links: 1 | canUse: True
+2025-08-05 06:46:50,126 [35] INFO  GlobalLog - [Frostblink] | W | links: 1 | canUse: True
+2025-08-05 06:46:50,126 [35] INFO  GlobalLog - [Default Attack] | None | links: 1 | canUse: False
+2025-08-05 06:46:50,127 [35] INFO  GlobalLog - [Order: To me!] | None | links: 1 | canUse: False
+2025-08-05 06:46:50,133 [35] INFO  GlobalLog - [Vaal Haste] | E | links: 2 | canUse: False
+2025-08-05 06:46:50,133 [35] INFO  GlobalLog - [Shield Charge] | Q | links: 2 | canUse: True
+2025-08-05 06:46:50,133 [35] INFO  GlobalLog - ======================
+2025-08-05 06:46:50,135 [35] DEBUG GlobalLog - [WaitFor] Wait for ingame success after 3,26 sec
+2025-08-05 06:46:50,315 [35] WARN  GlobalLog - [MainUtilityTask] Should check map device!
+2025-08-05 06:46:50,320 [35] DEBUG GlobalLog - [OpenMapDevice] Found MTX map device [Metadata/MapDevices/BellTowerMapDevice/BellTowerMapDeviceSound.ao]. Making adjustments!
+2025-08-05 06:46:50,714 [35] DEBUG GlobalLog - [WaitFor] Wait for Map Device opening success after 0,25 sec
+2025-08-05 06:46:50,715 [35] DEBUG GlobalLog - [OpenMapDevice] Map Device has been successfully opened.
+2025-08-05 06:46:50,814 [35] WARN  GlobalLog - [AfkTask] AFK time! Break until 06:56. Next break at 12:28
+2025-08-05 06:47:20,875 [35] INFO  GlobalLog - [AfkTask] Time left in break: 9 min 29 sec
+2025-08-05 06:47:50,922 [35] INFO  GlobalLog - [AfkTask] Time left in break: 8 min 59 sec
+2025-08-05 06:48:20,962 [35] INFO  GlobalLog - [AfkTask] Time left in break: 8 min 29 sec
+2025-08-05 06:48:50,995 [35] INFO  GlobalLog - [AfkTask] Time left in break: 7 min 59 sec
+2025-08-05 06:49:21,040 [35] INFO  GlobalLog - [AfkTask] Time left in break: 7 min 29 sec
+2025-08-05 06:49:51,100 [35] INFO  GlobalLog - [AfkTask] Time left in break: 6 min 59 sec
+2025-08-05 06:50:21,186 [35] INFO  GlobalLog - [AfkTask] Time left in break: 6 min 29 sec
+2025-08-05 06:50:51,246 [35] INFO  GlobalLog - [AfkTask] Time left in break: 5 min 59 sec
+2025-08-05 06:51:21,281 [35] INFO  GlobalLog - [AfkTask] Time left in break: 5 min 29 sec
+2025-08-05 06:51:51,334 [35] INFO  GlobalLog - [AfkTask] Time left in break: 4 min 59 sec
+2025-08-05 06:52:21,408 [35] INFO  GlobalLog - [AfkTask] Time left in break: 4 min 29 sec
+2025-08-05 06:52:51,472 [35] INFO  GlobalLog - [AfkTask] Time left in break: 3 min 59 sec
+2025-08-05 06:53:21,537 [35] INFO  GlobalLog - [AfkTask] Time left in break: 3 min 29 sec
+2025-08-05 06:53:51,561 [35] INFO  GlobalLog - [AfkTask] Time left in break: 2 min 59 sec
+2025-08-05 06:54:21,609 [35] INFO  GlobalLog - [AfkTask] Time left in break: 2 min 29 sec
+2025-08-05 06:54:51,657 [35] INFO  GlobalLog - [AfkTask] Time left in break: 1 min 59 sec
+2025-08-05 06:55:21,697 [35] INFO  GlobalLog - [AfkTask] Time left in break: 1 min 29 sec
+2025-08-05 06:55:51,734 [35] INFO  GlobalLog - [AfkTask] Time left in break: 0 min 59 sec
+2025-08-05 06:56:21,797 [35] INFO  GlobalLog - [AfkTask] Time left in break: 0 min 29 sec
+2025-08-05 06:56:46,839 [29] INFO  GlobalLog - [CombatAreaCache] Removing cache for "Highgate" (hash: 1434073308). Last accessed 10,0000680733333 minutes ago.
+2025-08-05 06:56:50,873 [35] WARN  GlobalLog - [AfkTask] AFK break is over. Next break at 12:28
+2025-08-05 06:56:50,975 [35] INFO  GlobalLog - [CastAuraTask] Found 1 aura(s) for casting.
+2025-08-05 06:56:51,040 [35] ERROR GlobalLog - [CastAuraTask] We cannot cast [Haste] because Max Mana (858) - actual reserved (681,25) - cost (290,18) - reserved (106) = (-219,4301) < 0.. Temporarily ignoring it.
+2025-08-05 06:56:51,302 [35] DEBUG GlobalLog - [FindProperMap] Conqueror maps are disabled. Temple:Map[{0, 0} in 19:Baran, The Crusader] is influenced. Skip.
+2025-08-05 06:56:51,303 [35] DEBUG GlobalLog - [FindProperMap] Conqueror maps are disabled. Peninsula:Map[{0, 4} in 19:Baran, The Crusader] is influenced. Skip.
+2025-08-05 06:56:51,304 [35] DEBUG GlobalLog - [FindProperMap] Conqueror maps are disabled. Maze:Map[{1, 0} in 19:Baran, The Crusader] is influenced. Skip.
+2025-08-05 06:56:51,304 [35] DEBUG GlobalLog - [FindProperMap] Conqueror maps are disabled. Underground River:Map[{0, 1} in 19:Baran, The Crusader] is influenced. Skip.
+2025-08-05 06:56:51,304 [35] DEBUG GlobalLog - [FindProperMap] Conqueror maps are disabled. Wasteland:Map[{0, 2} in 19:Baran, The Crusader] is influenced. Skip.
+2025-08-05 06:56:51,304 [35] DEBUG GlobalLog - [FindProperMap] Conqueror maps are disabled. Waste Pool:Map[{0, 5} in 19:Baran, The Crusader] is influenced. Skip.
+2025-08-05 06:56:51,305 [35] DEBUG GlobalLog - [FindProperMap] Conqueror maps are disabled. Ashen Wood:Map[{1, 1} in 19:Baran, The Crusader] is influenced. Skip.
+2025-08-05 06:56:51,306 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{5, 6} is influenced by Zana. Skip.
+2025-08-05 06:56:51,307 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{5, 5} is influenced by Zana. Skip.
+2025-08-05 06:56:51,307 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{5, 4} is influenced by Zana. Skip.
+2025-08-05 06:56:51,307 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{5, 3} is influenced by Zana. Skip.
+2025-08-05 06:56:51,307 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{5, 2} is influenced by Zana. Skip.
+2025-08-05 06:56:51,308 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{5, 1} is influenced by Zana. Skip.
+2025-08-05 06:56:51,308 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{5, 0} is influenced by Zana. Skip.
+2025-08-05 06:56:51,308 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{4, 11} is influenced by Zana. Skip.
+2025-08-05 06:56:51,308 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{4, 10} is influenced by Zana. Skip.
+2025-08-05 06:56:51,309 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{4, 9} is influenced by Zana. Skip.
+2025-08-05 06:56:51,309 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{4, 8} is influenced by Zana. Skip.
+2025-08-05 06:56:51,309 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{4, 7} is influenced by Zana. Skip.
+2025-08-05 06:56:51,309 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{4, 6} is influenced by Zana. Skip.
+2025-08-05 06:56:51,313 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{4, 5} is influenced by Zana. Skip.
+2025-08-05 06:56:51,313 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{4, 4} is influenced by Zana. Skip.
+2025-08-05 06:56:51,313 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{4, 3} is influenced by Zana. Skip.
+2025-08-05 06:56:51,314 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{4, 2} is influenced by Zana. Skip.
+2025-08-05 06:56:51,314 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{4, 1} is influenced by Zana. Skip.
+2025-08-05 06:56:51,314 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{4, 0} is influenced by Zana. Skip.
+2025-08-05 06:56:51,314 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{3, 11} is influenced by Zana. Skip.
+2025-08-05 06:56:51,314 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{3, 10} is influenced by Zana. Skip.
+2025-08-05 06:56:51,315 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{3, 9} is influenced by Zana. Skip.
+2025-08-05 06:56:51,315 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{3, 8} is influenced by Zana. Skip.
+2025-08-05 06:56:51,315 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{3, 7} is influenced by Zana. Skip.
+2025-08-05 06:56:51,315 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{3, 6} is influenced by Zana. Skip.
+2025-08-05 06:56:51,315 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{3, 5} is influenced by Zana. Skip.
+2025-08-05 06:56:51,316 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{3, 4} is influenced by Zana. Skip.
+2025-08-05 06:56:51,316 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{3, 3} is influenced by Zana. Skip.
+2025-08-05 06:56:51,316 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{3, 2} is influenced by Zana. Skip.
+2025-08-05 06:56:51,316 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{3, 1} is influenced by Zana. Skip.
+2025-08-05 06:56:51,316 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{3, 0} is influenced by Zana. Skip.
+2025-08-05 06:56:51,317 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{2, 11} is influenced by Zana. Skip.
+2025-08-05 06:56:51,317 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{2, 10} is influenced by Zana. Skip.
+2025-08-05 06:56:51,317 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{2, 9} is influenced by Zana. Skip.
+2025-08-05 06:56:51,317 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{2, 8} is influenced by Zana. Skip.
+2025-08-05 06:56:51,317 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{2, 7} is influenced by Zana. Skip.
+2025-08-05 06:56:51,317 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{2, 6} is influenced by Zana. Skip.
+2025-08-05 06:56:51,318 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{2, 5} is influenced by Zana. Skip.
+2025-08-05 06:56:51,318 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{2, 4} is influenced by Zana. Skip.
+2025-08-05 06:56:51,318 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{2, 3} is influenced by Zana. Skip.
+2025-08-05 06:56:51,318 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{2, 2} is influenced by Zana. Skip.
+2025-08-05 06:56:51,318 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{2, 1} is influenced by Zana. Skip.
+2025-08-05 06:56:51,319 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{2, 0} is influenced by Zana. Skip.
+2025-08-05 06:56:51,319 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{1, 11} is influenced by Zana. Skip.
+2025-08-05 06:56:51,319 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{1, 10} is influenced by Zana. Skip.
+2025-08-05 06:56:51,319 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{1, 9} is influenced by Zana. Skip.
+2025-08-05 06:56:51,319 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{1, 8} is influenced by Zana. Skip.
+2025-08-05 06:56:51,319 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{1, 7} is influenced by Zana. Skip.
+2025-08-05 06:56:51,320 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{1, 6} is influenced by Zana. Skip.
+2025-08-05 06:56:51,320 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{1, 5} is influenced by Zana. Skip.
+2025-08-05 06:56:51,320 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{1, 4} is influenced by Zana. Skip.
+2025-08-05 06:56:51,320 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{1, 3} is influenced by Zana. Skip.
+2025-08-05 06:56:51,320 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{1, 2} is influenced by Zana. Skip.
+2025-08-05 06:56:51,321 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{1, 1} is influenced by Zana. Skip.
+2025-08-05 06:56:51,321 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{1, 0} is influenced by Zana. Skip.
+2025-08-05 06:56:51,321 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{0, 11} is influenced by Zana. Skip.
+2025-08-05 06:56:51,321 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{0, 10} is influenced by Zana. Skip.
+2025-08-05 06:56:51,321 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{0, 9} is influenced by Zana. Skip.
+2025-08-05 06:56:51,322 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{0, 8} is influenced by Zana. Skip.
+2025-08-05 06:56:51,322 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{0, 7} is influenced by Zana. Skip.
+2025-08-05 06:56:51,322 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{0, 6} is influenced by Zana. Skip.
+2025-08-05 06:56:51,322 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{0, 5} is influenced by Zana. Skip.
+2025-08-05 06:56:51,322 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{0, 4} is influenced by Zana. Skip.
+2025-08-05 06:56:51,322 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{0, 3} is influenced by Zana. Skip.
+2025-08-05 06:56:51,323 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{0, 2} is influenced by Zana. Skip.
+2025-08-05 06:56:51,323 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{0, 1} is influenced by Zana. Skip.
+2025-08-05 06:56:51,323 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:8{0, 0} is influenced by Zana. Skip.
+2025-08-05 06:56:51,323 [35] DEBUG GlobalLog - [FindProperMap] Configured map tabs (Map,6,7,8,9,11,Oil,Fragment) doesn't have $$. Skip.
+2025-08-05 06:56:51,323 [35] DEBUG GlobalLog - [FindProperMap] Conqueror maps are disabled. Flooded Mine:Map[{0, 3} in 19:Baran, The Crusader] is influenced. Skip.
+2025-08-05 06:56:51,324 [35] DEBUG GlobalLog - [FindProperMap] Conqueror maps are disabled. Toxic Sewer:Map[{1, 2} in 19:Baran, The Crusader] is influenced. Skip.
+2025-08-05 06:56:51,324 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:Map[{1, 3} in 19:Baran, The Crusader] is influenced by Zana. Skip.
+2025-08-05 06:56:51,324 [35] DEBUG GlobalLog - [FindProperMap] Conqueror maps are disabled. Toxic Sewer:Map[{1, 4} in 19:Baran, The Crusader] is influenced. Skip.
+2025-08-05 06:56:51,324 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:Map[{1, 5} in 19:Baran, The Crusader] is influenced by Zana. Skip.
+2025-08-05 06:56:51,324 [35] DEBUG GlobalLog - [FindProperMap] Conqueror maps are disabled. Toxic Sewer:Map[{2, 0} in 19:Baran, The Crusader] is influenced. Skip.
+2025-08-05 06:56:51,324 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Dunes:Map[{0, 0} in 16:Dunes Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,325 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Dunes:Map[{0, 1} in 16:Dunes Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,325 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Dunes:Map[{0, 3} in 16:Dunes Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,325 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Dunes:Map[{1, 0} in 16:Dunes Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,325 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Dunes:Map[{1, 1} in 16:Dunes Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,325 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Dunes:Map[{1, 2} in 16:Dunes Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,326 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Dunes:Map[{1, 3} in 16:Dunes Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,326 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Dunes:Map[{1, 4} in 16:Dunes Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,326 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Dunes:Map[{1, 5} in 16:Dunes Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,327 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Dunes:Map[{2, 0} in 16:Dunes Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,327 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Dunes:Map[{2, 1} in 16:Dunes Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,327 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Dunes:Map[{2, 2} in 16:Dunes Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,334 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{0, 0} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,334 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{0, 1} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,334 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{0, 2} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,334 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{0, 3} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,335 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{0, 4} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,335 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{1, 0} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,335 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{1, 1} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,335 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{1, 2} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,335 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{2, 0} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,336 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{2, 1} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,336 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{2, 2} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,336 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{2, 3} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,336 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{2, 4} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,336 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{2, 5} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,337 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{3, 0} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,337 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{3, 1} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,337 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{3, 2} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,337 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{3, 3} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,337 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{3, 4} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,337 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{4, 0} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,338 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{4, 1} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,338 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{4, 2} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,338 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{9, 0} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,338 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{11, 0} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,338 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{11, 1} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,339 [35] DEBUG GlobalLog - [FindProperMap] Jungle Valley:Map[{11, 2} in 16:Jungle Valley Map] is ignored. Skip.
+2025-08-05 06:56:51,339 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:Map[{1, 1} in 16:Toxic Sewer Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,339 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:Map[{1, 0} in 16:Toxic Sewer Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,339 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:Map[{0, 5} in 16:Toxic Sewer Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,339 [35] DEBUG GlobalLog - [FindProperMap] T16.5 maps are disabled. Toxic Sewer:Map[{0, 4} in 16:Toxic Sewer Map] is influenced by Zana. Skip.
+2025-08-05 06:56:51,339 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{7, 9} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,340 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{7, 8} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,340 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{7, 7} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,340 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{7, 6} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,340 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{7, 5} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,340 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{7, 4} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,341 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{7, 3} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,341 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{7, 2} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,341 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{7, 1} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,341 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{7, 0} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,341 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{6, 9} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,341 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{6, 8} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,342 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{6, 7} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,342 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{6, 6} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,342 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{6, 5} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,342 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{6, 4} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,343 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{6, 3} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,343 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{6, 2} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,343 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{6, 1} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,343 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:8{6, 0} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,343 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:9{10, 8} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,344 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:9{7, 0} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,344 [35] DEBUG GlobalLog - [FindProperMap] Ziggurat:9{5, 2} tier is too high (17/16). Skip.
+2025-08-05 06:56:51,344 [35] DEBUG GlobalLog - [FindProperMap] Configured map tabs (Map,6,7,8,9,11,Oil,Fragment) doesn't have $$$. Skip.
+2025-08-05 06:56:51,344 [35] DEBUG GlobalLog - [FindProperMap] Configured map tabs (Map,6,7,8,9,11,Oil,Fragment) doesn't have 1. Skip.
+2025-08-05 06:56:51,349 [35] INFO  GlobalLog - [FindProperMap] Found: T16 Toxic Sewer tab: [{2, 5}:7]  subTab: 
+2025-08-05 06:56:51,349 [35] INFO  GlobalLog - [FindProperMap] Average tier of valid maps: 16
+2025-08-05 06:56:51,355 [35] DEBUG GlobalLog - [OpenStash] Opening stash.
+2025-08-05 06:56:51,755 [35] DEBUG GlobalLog - [OpenStashTab] Now switching tabs: Fragment => 7. [WithdrawItem]
+2025-08-05 06:56:53,228 [35] DEBUG GlobalLog - [WaitFor] Wait for stash tab switching success after 0,16 sec
+2025-08-05 06:56:53,262 [35] DEBUG GlobalLog - [FastMoveFromStashTab] Fast moving "Toxic Sewer Map" at {2, 5} from "7" tab.
+2025-08-05 06:56:53,576 [35] DEBUG GlobalLog - [TakeMapTask] Inventory map: Toxic Sewer
+2025-08-05 06:56:53,593 [35] DEBUG GlobalLog - [GetScarab] There's already 10 Anarchy Scarab in map device. Skip.
+2025-08-05 06:56:53,594 [35] DEBUG GlobalLog - [GetScarab] There's already 10 Anarchy Scarab of Gigantification in map device. Skip.
+2025-08-05 06:56:53,595 [35] ERROR GlobalLog - [GetScarab] Anarchy Scarab of Gigantification Count in stash: 0. Need at least 21 more to continue. Stopping the bot now.
+2025-08-05 06:56:53,598 [35] INFO  BotManager - [Stop] Now requesting the BotThread to stop.
+2025-08-05 06:56:53,602 [35] WARN  GlobalLog - [TakeMapTask] Now going to Toxic Sewer Map [prio: 10].
+2025-08-05 06:56:53,620 [35] DEBUG GlobalLog - [TryTo] Open Map Device attempt: 1/3
+2025-08-05 06:56:53,623 [35] DEBUG GlobalLog - [OpenMapDevice] Found MTX map device [Metadata/MapDevices/BellTowerMapDevice/BellTowerMapDeviceSound.ao]. Making adjustments!
+2025-08-05 06:56:53,705 [35] INFO  BotManager - [Stop] ExPlugins.MapBotEx.MapBotEx
+2025-08-05 06:56:53,708 [35] INFO  PluginManager - [Stop] z0
+2025-08-05 06:56:53,708 [35] INFO  PluginManager - [Stop] Legacy.DevTab.DevTab
+2025-08-05 06:56:53,708 [35] INFO  PluginManager - [Stop] PluginLoader.PluginLoader
+2025-08-05 06:56:53,708 [35] INFO  PluginManager - [Stop] gw
+2025-08-05 06:56:53,834 [35] DEBUG GlobalLog - [ExPluginsAuthCore] Session closed
+2025-08-05 06:56:53,835 [35] INFO  PluginManager - [Stop] pw
+2025-08-05 06:56:53,836 [35] INFO  PluginManager - [Stop] ExPlugins.ItemFilterEx.ItemFilterEx
+2025-08-05 06:56:53,836 [35] INFO  PluginManager - [Stop] ObjectExplorer.ObjectExplorer
+2025-08-05 06:56:53,837 [35] INFO  RoutineManager - [Stop] Gc
+2025-08-05 06:56:53,837 [35] WARN  GlobalLog - [Stop] ExPlugins Version: 1.6.11.7e
+2025-08-05 06:56:53,838 [35] INFO  PlayerMoverManager - [PlayerMoverManager.Stop] ExPlugins.SkillPlayerMoverEx.SkillPlayerMoverEx
+2025-08-05 06:56:54,839 [35] ERROR BotManager - [Stop] Exception during execution:
+DreamPoeBot.Loki.Coroutine.CoroutineStoppedException: Coroutine was stopped
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Class66.method_1()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Struct16.System.Runtime.CompilerServices.IAsyncStateMachine.MoveNext()
+   в System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   в System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   в System.Runtime.CompilerServices.AsyncMethodBuilderCore.MoveNextRunner.Run()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Dispose()
+   в ExPlugins.MapBotEx.MapBotEx.Stop() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 183
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_StopEvents(IBot ibot_1)
+2025-08-05 06:56:54,840 [35] DEBUG BotManager - [BotThreadFunction] An InjectionDesyncException was detected. DreamPoeBot.Loki.Coroutine.CoroutineStoppedException: Coroutine was stopped
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Class66.method_1()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Struct16.System.Runtime.CompilerServices.IAsyncStateMachine.MoveNext()
+   в System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   в System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   в System.Runtime.CompilerServices.AsyncMethodBuilderCore.MoveNextRunner.Run()
+   в DreamPoeBot.Loki.Coroutine.Coroutine.method_0(Boolean bool_1)
+   в DreamPoeBot.Loki.Coroutine.Coroutine.Dispose()
+   в ExPlugins.MapBotEx.MapBotEx.Stop() в C:\exPlugins\Dev\3rdParty\ExPlugins\MapBotEx\MapBotEx.cs:строка 183
+   в DreamPoeBot.Loki.Bot.BotManager.smethod_StopEvents(IBot ibot_1)
+   в DreamPoeBot.Loki.Bot.BotManager.BotThreadFunction()
+2025-08-05 06:56:54,841 [35] DEBUG BotManager - [StopReason] no_prio_scarabs => [GetScarab] Anarchy Scarab of Gigantification Count in stash: 0. Need at least 21 more to continue. Stopping the bot now.
+2025-08-05 07:06:57,010 [10] ERROR GlobalLog - Bot is stopped for 10,04 minutes. Killing POE!
+2025-08-05 07:06:58,613 [10] ERROR GlobalLog - Bot is stopped for 10,06 minutes. Killing POE!
+2025-08-05 07:07:00,116 [10] ERROR GlobalLog - [ImportMetrics] Exception: System.InvalidOperationException: Невозможно обработать запрос, так как процесс (18440) завершил свою работу.
+   в System.Diagnostics.Process.GetProcessHandle(Int32 access, Boolean throwIfExited)
+   в System.Diagnostics.Process.Kill()
+   в ExPlugins.EXtensions.WebHelper.SendTelemetry() в C:\exPlugins\Dev\3rdParty\ExPlugins\EXtensions\WebHelper.cs:строка 166

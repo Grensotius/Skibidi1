@@ -1,0 +1,69 @@
+{
+  "MuleMaps": false,
+  "MuleCraftedUberMaps": false,
+  "MuleZanaMaps": false,
+  "MuleScarabs": false,
+  "MuleRares": false,
+  "MuleUniques": false,
+  "MuleJewels": false,
+  "MuleGems": false,
+  "MapMinTier": 15,
+  "GeneralStashingRules": [
+    {
+      "Name": "Tabs to ignore",
+      "Tabs": "duck"
+    },
+    {
+      "Name": "Currency",
+      "Tabs": "1"
+    },
+    {
+      "Name": "Rares",
+      "Tabs": "2"
+    },
+    {
+      "Name": "Uniques",
+      "Tabs": "2"
+    },
+    {
+      "Name": "Gems",
+      "Tabs": "3"
+    },
+    {
+      "Name": "Fragments",
+      "Tabs": "3"
+    },
+    {
+      "Name": "Essences",
+      "Tabs": "3"
+    },
+    {
+      "Name": "Delirium Orbs",
+      "Tabs": "3"
+    },
+    {
+      "Name": "Oils",
+      "Tabs": "3"
+    },
+    {
+      "Name": "Delve",
+      "Tabs": "2"
+    },
+    {
+      "Name": "Jewels",
+      "Tabs": "3"
+    },
+    {
+      "Name": "Maps",
+      "Tabs": "4"
+    },
+    {
+      "Name": "Other",
+      "Tabs": "4"
+    }
+  ],
+  "SpecificStashingByName": [],
+  "ItemsToTakeByName": [],
+  "ItemsToRestock": [],
+  "ExPluginsKeys": []
+}

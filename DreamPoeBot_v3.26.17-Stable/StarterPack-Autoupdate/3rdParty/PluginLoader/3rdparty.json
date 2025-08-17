@@ -1,0 +1,8 @@
+{
+  "AssemblyName": "PluginLoader",
+  "FileList": [
+    "PluginLoader.cs"
+  ],
+  "Dependencies": [],
+  "References": [],
+}

@@ -1,0 +1,850 @@
+[Large 8 passives]:[12% increased Fire Damage (50)]:1043,53c/5,9div
+[Small 3 passives]:[6% increased Mana Reservation Efficiency of Skills (84)]:884,35c/5div
+[Large 8 passives]:[12% increased Attack Damage while holding a Shield (50)]:530,61c/3div
+[Large 8 passives]:[12% increased Lightning Damage (50)]:265,3c/1,5div
+[Large 8 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (50)]:192,79c/1,09div
+[Large 8 passives]:[12% increased Damage with Two Handed Weapons (50)]:186,06c/1,05div
+[Large 8 passives]:[12% increased Physical Damage (50)]:180,94c/1,02div
+[Large 8 passives]:[12% increased Attack Damage while holding a Shield (1)]:176,87c/1div
+[Large 12 passives]:[12% increased Attack Damage while holding a Shield (84)]:176,87c/1div
+[Large 8 passives]:[12% increased Chaos Damage (50)]:150c/0,85div
+[Large 8 passives]:[12% increased Attack Damage while holding a Shield (68)]:121,9c/0,69div
+[Large 12 passives]:[Minions deal 10% increased Damage (84)]:100c/0,57div
+[Medium 5 passives]:[10% increased Area Damage (50)]:92,7c/0,52div
+[Large 8 passives]:[Minions deal 10% increased Damage (68)]:89,06c/0,5div
+[Large 12 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (84)]:80c/0,45div
+[Large 8 passives]:[12% increased Attack Damage while holding a Shield (75)]:70c/0,4div
+[Large 12 passives]:[10% increased Spell Damage (84)]:70c/0,4div
+[Large 12 passives]:[12% increased Chaos Damage (84)]:70c/0,4div
+[Medium 4 passives]:[12% increased Chaos Damage over Time (50)]:69c/0,39div
+[Large 8 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (50)]:60c/0,34div
+[Large 8 passives]:[12% increased Lightning Damage (68)]:60c/0,34div
+[Large 8 passives]:[12% increased Attack Damage while holding a Shield (84)]:60c/0,34div
+[Large 8 passives]:[12% increased Chaos Damage (68)]:60c/0,34div
+[Large 8 passives]:[Minions deal 10% increased Damage (84)]:60c/0,34div
+[Large 8 passives]:[12% increased Fire Damage (68)]:52,7c/0,3div
+[Medium 4 passives]:[12% increased Trap Damage, 12% increased Mine Damage (50)]:50c/0,28div
+[Large 12 passives]:[12% increased Lightning Damage (84)]:50c/0,28div
+[Large 8 passives]:[12% increased Chaos Damage (84)]:50c/0,28div
+[Large 8 passives]:[12% increased Lightning Damage (1)]:46c/0,26div
+[Large 8 passives]:[12% increased Lightning Damage (84)]:45c/0,25div
+[Medium 4 passives]:[12% increased Chaos Damage over Time (68)]:45c/0,25div
+[Large 8 passives]:[12% increased Chaos Damage (1)]:44c/0,25div
+[Medium 4 passives]:[12% increased Chaos Damage over Time (84)]:40c/0,23div
+[Small 3 passives]:[6% increased Mana Reservation Efficiency of Skills (1)]:40c/0,23div
+[Large 8 passives]:[12% increased Chaos Damage (75)]:35c/0,2div
+[Small 3 passives]:[6% increased Mana Reservation Efficiency of Skills (50)]:32c/0,18div
+[Large 8 passives]:[12% increased Cold Damage (68)]:30c/0,17div
+[Small 3 passives]:[6% increased maximum Energy Shield (84)]:30c/0,17div
+[Large 8 passives]:[12% increased Damage with Two Handed Weapons (84)]:30c/0,17div
+[Large 12 passives]:[12% increased Physical Damage (84)]:30c/0,17div
+[Small 3 passives]:[6% increased Mana Reservation Efficiency of Skills (68)]:30c/0,17div
+[Small 2 passives]:[6% increased Mana Reservation Efficiency of Skills (84)]:30c/0,17div
+[Large 8 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (1)]:29,8c/0,17div
+[Small 3 passives]:[+4% chance to Suppress Spell Damage (84)]:29,1c/0,16div
+[Large 12 passives]:[12% increased Fire Damage (84)]:28,4c/0,16div
+[Large 8 passives]:[Minions deal 10% increased Damage (1)]:26c/0,15div
+[Large 8 passives]:[10% increased Elemental Damage (68)]:25c/0,14div
+[Large 8 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (84)]:25c/0,14div
+[Medium 5 passives]:[15% increased Critical Strike Chance (50)]:25c/0,14div
+[Large 8 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (84)]:25c/0,14div
+[Medium 4 passives]:[12% increased Brand Damage (84)]:25c/0,14div
+[Medium 4 passives]:[12% increased Chaos Damage over Time (1)]:25c/0,14div
+[Large 12 passives]:[12% increased Attack Damage while holding a Shield (1)]:24,5c/0,14div
+[Large 8 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (50)]:22c/0,12div
+[Medium 5 passives]:[12% increased Chaos Damage over Time (68)]:21c/0,12div
+[Medium 4 passives]:[15% increased Critical Strike Chance (50)]:20,5c/0,12div
+[Large 8 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (68)]:20,3c/0,11div
+[Large 8 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (75)]:20c/0,11div
+[Large 8 passives]:[12% increased Physical Damage (68)]:20c/0,11div
+[Large 8 passives]:[12% increased Lightning Damage (75)]:20c/0,11div
+[Large 8 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (84)]:20c/0,11div
+[Small 2 passives]:[6% increased maximum Energy Shield (84)]:20c/0,11div
+[Large 8 passives]:[12% increased Fire Damage (75)]:20c/0,11div
+[Large 8 passives]:[Minions deal 10% increased Damage (50)]:20c/0,11div
+[Large 8 passives]:[12% increased Damage with Two Handed Weapons (68)]:20c/0,11div
+[Large 8 passives]:[10% increased Elemental Damage (84)]:20c/0,11div
+[Small 3 passives]:[4% increased maximum Life (84)]:20c/0,11div
+[Large 8 passives]:[12% increased Cold Damage (84)]:20c/0,11div
+[Large 8 passives]:[12% increased Fire Damage (84)]:20c/0,11div
+[Medium 5 passives]:[10% increased Area Damage (84)]:20c/0,11div
+[Large 9 passives]:[12% increased Chaos Damage (1)]:20c/0,11div
+[Medium 5 passives]:[10% increased Effect of Non-Damaging Ailments (84)]:20c/0,11div
+[Medium 5 passives]:[10% increased Projectile Damage (84)]:20c/0,11div
+[Large 8 passives]:[12% increased Attack Damage while Dual Wielding (84)]:20c/0,11div
+[Small 2 passives]:[15% increased Armour (84)]:20c/0,11div
+[Large 11 passives]:[Minions deal 10% increased Damage (84)]:20c/0,11div
+[Large 9 passives]:[Minions deal 10% increased Damage (84)]:20c/0,11div
+[Medium 4 passives]:[15% increased Critical Strike Chance (84)]:20c/0,11div
+[Large 8 passives]:[12% increased Physical Damage (84)]:20c/0,11div
+[Medium 4 passives]:[10% increased Area Damage (84)]:20c/0,11div
+[Medium 4 passives]:[10% increased Effect of Non-Damaging Ailments (84)]:20c/0,11div
+[Large 12 passives]:[12% increased Attack Damage while Dual Wielding (84)]:20c/0,11div
+[Medium 6 passives]:[6% increased Flask Effect Duration (84)]:20c/0,11div
+[Large 11 passives]:[12% increased Attack Damage while holding a Shield (84)]:20c/0,11div
+[Small 3 passives]:[+15% to Fire Resistance (84)]:20c/0,11div
+[Large 12 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (84)]:20c/0,11div
+[Medium 4 passives]:[10% increased Projectile Damage (84)]:20c/0,11div
+[Medium 4 passives]:[Minions have 12% increased maximum Life (84)]:20c/0,11div
+[Large 12 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (84)]:20c/0,11div
+[Large 12 passives]:[10% increased Elemental Damage (84)]:20c/0,11div
+[Large 12 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (84)]:20c/0,11div
+[Medium 5 passives]:[12% increased Brand Damage (84)]:20c/0,11div
+[Large 8 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (84)]:20c/0,11div
+[Large 12 passives]:[12% increased Cold Damage (84)]:20c/0,11div
+[Medium 4 passives]:[12% increased Chaos Damage over Time (75)]:20c/0,11div
+[Medium 4 passives]:[12% increased Burning Damage (68)]:20c/0,11div
+[Medium 5 passives]:[12% increased Chaos Damage over Time (84)]:20c/0,11div
+[Medium 4 passives]:[12% increased Burning Damage (84)]:20c/0,11div
+[Small 3 passives]:[6% increased Mana Reservation Efficiency of Skills (75)]:20c/0,11div
+[Small 2 passives]:[+2% Chance to Block Attack Damage (84)]:20c/0,11div
+[Small 3 passives]:[+4% chance to Suppress Spell Damage (1)]:20c/0,11div
+[Medium 5 passives]:[Minions have 12% increased maximum Life (84)]:19,59c/0,11div
+[Medium 4 passives]:[10% increased Area Damage (75)]:19,4c/0,11div
+[Large 8 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (1)]:19,4c/0,11div
+[Large 9 passives]:[12% increased Attack Damage while holding a Shield (84)]:19,4c/0,11div
+[Medium 5 passives]:[15% increased Critical Strike Chance (84)]:19,2c/0,11div
+[Large 12 passives]:[12% increased Lightning Damage (1)]:19,1c/0,11div
+[Large 10 passives]:[12% increased Lightning Damage (84)]:19c/0,11div
+[Medium 4 passives]:[Minions deal 10% increased Damage while you are affected by a Herald (84)]:19c/0,11div
+[Medium 5 passives]:[12% increased Burning Damage (84)]:18,8c/0,11div
+[Medium 5 passives]:[6% increased Flask Effect Duration (84)]:18,6c/0,11div
+[Large 8 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (84)]:18,3c/0,1div
+[Large 10 passives]:[Minions deal 10% increased Damage (84)]:18,2c/0,1div
+[Large 12 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (84)]:18c/0,1div
+[Large 8 passives]:[Minions deal 10% increased Damage (75)]:17,8c/0,1div
+[Large 8 passives]:[12% increased Fire Damage (1)]:17,7c/0,1div
+[Medium 4 passives]:[Exerted Attacks deal 20% increased Damage (84)]:17,6c/0,1div
+[Large 8 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (1)]:17,5c/0,1div
+[Medium 4 passives]:[10% increased Projectile Damage (1)]:17,5c/0,1div
+[Medium 4 passives]:[12% increased Trap Damage, 12% increased Mine Damage (84)]:17c/0,1div
+[Medium 5 passives]:[12% increased Trap Damage, 12% increased Mine Damage (84)]:15,4c/0,09div
+[Large 12 passives]:[12% increased Damage with Two Handed Weapons (84)]:15,4c/0,09div
+[Large 8 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (50)]:15c/0,08div
+[Medium 4 passives]:[12% increased Trap Damage, 12% increased Mine Damage (75)]:15c/0,08div
+[Medium 4 passives]:[10% increased Area Damage (50)]:15c/0,08div
+[Small 2 passives]:[+15% to Cold Resistance (84)]:15c/0,08div
+[Large 8 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (75)]:15c/0,08div
+[Small 2 passives]:[4% increased maximum Life (84)]:15c/0,08div
+[Large 12 passives]:[10% increased Attack Damage (84)]:15c/0,08div
+[Large 8 passives]:[10% increased Spell Damage (84)]:15c/0,08div
+[Medium 4 passives]:[10% increased Effect of Non-Damaging Ailments (50)]:15c/0,08div
+[Medium 6 passives]:[Minions have 12% increased maximum Life (84)]:15c/0,08div
+[Small 3 passives]:[15% increased Evasion Rating (84)]:15c/0,08div
+[Large 9 passives]:[10% increased Spell Damage (84)]:15c/0,08div
+[Medium 4 passives]:[10% increased Area Damage (68)]:15c/0,08div
+[Medium 4 passives]:[10% increased Damage while affected by a Herald (84)]:15c/0,08div
+[Large 12 passives]:[Minions deal 10% increased Damage (50)]:15c/0,08div
+[Large 8 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (68)]:15c/0,08div
+[Small 2 passives]:[+12% to Chaos Resistance (84)]:15c/0,08div
+[Medium 5 passives]:[12% increased Trap Damage, 12% increased Mine Damage (50)]:15c/0,08div
+[Large 10 passives]:[12% increased Attack Damage while holding a Shield (84)]:15c/0,08div
+[Large 10 passives]:[10% increased Attack Damage (84)]:15c/0,08div
+[Large 10 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (84)]:15c/0,08div
+[Medium 5 passives]:[Exerted Attacks deal 20% increased Damage (84)]:15c/0,08div
+[Medium 5 passives]:[Minions deal 10% increased Damage while you are affected by a Herald (84)]:15c/0,08div
+[Small 3 passives]:[15% increased Armour (84)]:15c/0,08div
+[Large 11 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (84)]:15c/0,08div
+[Medium 5 passives]:[Channelling Skills deal 12% increased Damage (84)]:15c/0,08div
+[Small 3 passives]:[6% increased maximum Mana (84)]:15c/0,08div
+[Large 10 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (84)]:15c/0,08div
+[Medium 6 passives]:[10% increased Projectile Damage (84)]:15c/0,08div
+[Large 11 passives]:[10% increased Spell Damage (84)]:15c/0,08div
+[Small 3 passives]:[+15% to Lightning Resistance (84)]:15c/0,08div
+[Small 3 passives]:[+15% to Cold Resistance (84)]:15c/0,08div
+[Large 11 passives]:[12% increased Lightning Damage (84)]:15c/0,08div
+[Large 10 passives]:[12% increased Damage with Two Handed Weapons (84)]:15c/0,08div
+[Medium 5 passives]:[12% increased Totem Damage (84)]:15c/0,08div
+[Medium 5 passives]:[10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks (84)]:15c/0,08div
+[Large 8 passives]:[10% increased Attack Damage (84)]:15c/0,08div
+[Large 9 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (84)]:15c/0,08div
+[Large 10 passives]:[12% increased Fire Damage (84)]:15c/0,08div
+[Large 10 passives]:[12% increased Chaos Damage (84)]:15c/0,08div
+[Medium 4 passives]:[12% increased Burning Damage (75)]:15c/0,08div
+[Medium 5 passives]:[12% increased Chaos Damage over Time (75)]:15c/0,08div
+[Medium 5 passives]:[12% increased Physical Damage over Time (84)]:15c/0,08div
+[Medium 6 passives]:[12% increased Burning Damage (84)]:15c/0,08div
+[Small 2 passives]:[6% increased Mana Reservation Efficiency of Skills (68)]:15c/0,08div
+[Small 3 passives]:[2% increased Effect of your Curses (84)]:15c/0,08div
+[Large 8 passives]:[10% increased Elemental Damage (75)]:14,9c/0,08div
+[Large 11 passives]:[12% increased Attack Damage while Dual Wielding (84)]:14,8c/0,08div
+[Large 8 passives]:[12% increased Damage with Two Handed Weapons (75)]:14,7c/0,08div
+[Small 2 passives]:[+4% chance to Suppress Spell Damage (84)]:14,3c/0,08div
+[Medium 5 passives]:[10% increased Damage over Time (84)]:14,2c/0,08div
+[Large 8 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (1)]:14c/0,08div
+[Large 8 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (1)]:14c/0,08div
+[Large 9 passives]:[12% increased Lightning Damage (84)]:14c/0,08div
+[Small 3 passives]:[+12% to Chaos Resistance (84)]:14c/0,08div
+[Small 2 passives]:[15% increased Evasion Rating (84)]:13,8c/0,08div
+[Large 8 passives]:[12% increased Cold Damage (75)]:13,6c/0,08div
+[Large 12 passives]:[Minions deal 10% increased Damage (1)]:13,5c/0,08div
+[Large 11 passives]:[12% increased Physical Damage (84)]:13,5c/0,08div
+[Small 3 passives]:[2% Chance to Block Spell Damage (84)]:13,4c/0,08div
+[Large 9 passives]:[12% increased Chaos Damage (84)]:13,1c/0,07div
+[Large 9 passives]:[12% increased Attack Damage while Dual Wielding (84)]:13c/0,07div
+[Large 11 passives]:[12% increased Chaos Damage (84)]:13c/0,07div
+[Medium 6 passives]:[12% increased Chaos Damage over Time (84)]:13c/0,07div
+[Medium 4 passives]:[15% increased Critical Strike Chance (75)]:12,8c/0,07div
+[Medium 4 passives]:[Channelling Skills deal 12% increased Damage (84)]:12,8c/0,07div
+[Large 9 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (84)]:12,6c/0,07div
+[Medium 4 passives]:[12% increased Cold Damage over Time (84)]:12,2c/0,07div
+[Small 3 passives]:[+2% Chance to Block Attack Damage (84)]:11,9c/0,07div
+[Small 2 passives]:[6% increased Mana Reservation Efficiency of Skills (75)]:11,8c/0,07div
+[Medium 4 passives]:[Exerted Attacks deal 20% increased Damage (75)]:11,6c/0,07div
+[Medium 5 passives]:[12% increased Cold Damage over Time (84)]:11,2c/0,06div
+[Large 8 passives]:[12% increased Damage with Two Handed Weapons (1)]:11c/0,06div
+[Medium 4 passives]:[12% increased Brand Damage (1)]:11c/0,06div
+[Medium 5 passives]:[12% increased Chaos Damage over Time (50)]:11c/0,06div
+[Medium 5 passives]:[12% increased Brand Damage (75)]:10,8c/0,06div
+[Large 11 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (84)]:10,8c/0,06div
+[Large 9 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (84)]:10,7c/0,06div
+[Medium 4 passives]:[12% increased Brand Damage (68)]:10,2c/0,06div
+[Large 11 passives]:[10% increased Elemental Damage (84)]:10,14c/0,06div
+[Large 8 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (68)]:10c/0,06div
+[Large 12 passives]:[12% increased Fire Damage (75)]:10c/0,06div
+[Medium 4 passives]:[10% increased Damage while affected by a Herald (75)]:10c/0,06div
+[Medium 4 passives]:[10% increased Effect of Non-Damaging Ailments (75)]:10c/0,06div
+[Large 9 passives]:[12% increased Chaos Damage (75)]:10c/0,06div
+[Large 8 passives]:[10% increased Spell Damage (75)]:10c/0,06div
+[Small 3 passives]:[4% increased maximum Life (75)]:10c/0,06div
+[Medium 4 passives]:[Minions have 12% increased maximum Life (75)]:10c/0,06div
+[Medium 5 passives]:[12% increased Brand Damage (1)]:10c/0,06div
+[Large 10 passives]:[Minions deal 10% increased Damage (68)]:10c/0,06div
+[Large 8 passives]:[10% increased Attack Damage (50)]:10c/0,06div
+[Large 10 passives]:[Minions deal 10% increased Damage (75)]:10c/0,06div
+[Large 10 passives]:[10% increased Spell Damage (75)]:10c/0,06div
+[Medium 5 passives]:[10% increased Projectile Damage (75)]:10c/0,06div
+[Medium 5 passives]:[Minions deal 10% increased Damage while you are affected by a Herald (75)]:10c/0,06div
+[Medium 4 passives]:[10% increased Projectile Damage (68)]:10c/0,06div
+[Medium 4 passives]:[10% increased Projectile Damage (50)]:10c/0,06div
+[Medium 4 passives]:[10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks (75)]:10c/0,06div
+[Large 9 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (1)]:10c/0,06div
+[Small 3 passives]:[15% increased Armour (75)]:10c/0,06div
+[Large 8 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (75)]:10c/0,06div
+[Large 8 passives]:[12% increased Physical Damage (75)]:10c/0,06div
+[Large 12 passives]:[12% increased Attack Damage while holding a Shield (75)]:10c/0,06div
+[Medium 4 passives]:[12% increased Brand Damage (75)]:10c/0,06div
+[Large 8 passives]:[10% increased Attack Damage (75)]:10c/0,06div
+[Medium 4 passives]:[Exerted Attacks deal 20% increased Damage (50)]:10c/0,06div
+[Small 3 passives]:[+15% to Fire Resistance (75)]:10c/0,06div
+[Medium 6 passives]:[12% increased Brand Damage (75)]:10c/0,06div
+[Medium 6 passives]:[15% increased Critical Strike Chance (75)]:10c/0,06div
+[Large 8 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (75)]:10c/0,06div
+[Medium 5 passives]:[10% increased Damage while affected by a Herald (75)]:10c/0,06div
+[Small 3 passives]:[6% increased maximum Mana (75)]:10c/0,06div
+[Small 2 passives]:[+12% to Chaos Resistance (75)]:10c/0,06div
+[Medium 4 passives]:[10% increased Projectile Damage (75)]:10c/0,06div
+[Small 3 passives]:[6% increased maximum Energy Shield (75)]:10c/0,06div
+[Large 12 passives]:[12% increased Attack Damage while holding a Shield (68)]:10c/0,06div
+[Large 12 passives]:[Minions deal 10% increased Damage (68)]:10c/0,06div
+[Medium 5 passives]:[10% increased Projectile Damage (68)]:10c/0,06div
+[Large 8 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (68)]:10c/0,06div
+[Medium 5 passives]:[12% increased Totem Damage (75)]:10c/0,06div
+[Large 8 passives]:[10% increased Elemental Damage (50)]:10c/0,06div
+[Medium 4 passives]:[10% increased Area Damage (1)]:10c/0,06div
+[Medium 5 passives]:[Minions have 12% increased maximum Life (75)]:10c/0,06div
+[Large 8 passives]:[12% increased Cold Damage (50)]:10c/0,06div
+[Large 9 passives]:[Minions deal 10% increased Damage (75)]:10c/0,06div
+[Large 11 passives]:[Minions deal 10% increased Damage (68)]:10c/0,06div
+[Medium 4 passives]:[Channelling Skills deal 12% increased Damage (75)]:10c/0,06div
+[Large 12 passives]:[Minions deal 10% increased Damage (75)]:10c/0,06div
+[Large 11 passives]:[Minions deal 10% increased Damage (75)]:10c/0,06div
+[Large 11 passives]:[12% increased Lightning Damage (75)]:10c/0,06div
+[Large 9 passives]:[12% increased Lightning Damage (75)]:10c/0,06div
+[Large 12 passives]:[12% increased Chaos Damage (75)]:10c/0,06div
+[Large 8 passives]:[10% increased Spell Damage (68)]:10c/0,06div
+[Medium 5 passives]:[12% increased Trap Damage, 12% increased Mine Damage (75)]:10c/0,06div
+[Medium 5 passives]:[10% increased Area Damage (75)]:10c/0,06div
+[Medium 5 passives]:[10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks (75)]:10c/0,06div
+[Large 9 passives]:[12% increased Attack Damage while holding a Shield (50)]:10c/0,06div
+[Small 2 passives]:[15% increased Armour (75)]:10c/0,06div
+[Medium 5 passives]:[Exerted Attacks deal 20% increased Damage (75)]:10c/0,06div
+[Large 12 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (50)]:10c/0,06div
+[Large 12 passives]:[12% increased Chaos Damage (50)]:10c/0,06div
+[Medium 4 passives]:[Minions deal 10% increased Damage while you are affected by a Herald (75)]:10c/0,06div
+[Medium 5 passives]:[15% increased Critical Strike Chance (75)]:10c/0,06div
+[Medium 5 passives]:[12% increased Brand Damage (68)]:10c/0,06div
+[Small 3 passives]:[15% increased Evasion Rating (75)]:10c/0,06div
+[Medium 5 passives]:[Channelling Skills deal 12% increased Damage (75)]:10c/0,06div
+[Large 10 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (75)]:10c/0,06div
+[Large 8 passives]:[12% increased Attack Damage while Dual Wielding (75)]:10c/0,06div
+[Medium 5 passives]:[15% increased Critical Strike Chance (68)]:10c/0,06div
+[Large 8 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (75)]:10c/0,06div
+[Large 12 passives]:[12% increased Lightning Damage (75)]:10c/0,06div
+[Medium 6 passives]:[Exerted Attacks deal 20% increased Damage (75)]:10c/0,06div
+[Medium 5 passives]:[10% increased Effect of Non-Damaging Ailments (75)]:10c/0,06div
+[Large 8 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (68)]:10c/0,06div
+[Medium 4 passives]:[6% increased Flask Effect Duration (75)]:10c/0,06div
+[Large 9 passives]:[12% increased Chaos Damage (50)]:10c/0,06div
+[Medium 4 passives]:[12% increased Totem Damage (75)]:10c/0,06div
+[Medium 5 passives]:[10% increased Projectile Damage (1)]:10c/0,06div
+[Medium 5 passives]:[Channelling Skills deal 12% increased Damage (50)]:10c/0,06div
+[Large 12 passives]:[10% increased Spell Damage (75)]:10c/0,06div
+[Medium 5 passives]:[10% increased Area Damage (68)]:10c/0,06div
+[Large 9 passives]:[12% increased Damage with Two Handed Weapons (84)]:10c/0,06div
+[Large 9 passives]:[12% increased Physical Damage (84)]:10c/0,06div
+[Medium 5 passives]:[6% increased Flask Effect Duration (75)]:10c/0,06div
+[Medium 6 passives]:[6% increased Flask Effect Duration (75)]:10c/0,06div
+[Medium 5 passives]:[12% increased Trap Damage, 12% increased Mine Damage (68)]:10c/0,06div
+[Small 2 passives]:[15% increased Armour (68)]:10c/0,06div
+[Large 8 passives]:[12% increased Attack Damage while Dual Wielding (50)]:10c/0,06div
+[Large 9 passives]:[12% increased Attack Damage while holding a Shield (68)]:10c/0,06div
+[Medium 4 passives]:[Minions have 12% increased maximum Life (68)]:10c/0,06div
+[Large 9 passives]:[12% increased Attack Damage while holding a Shield (75)]:10c/0,06div
+[Medium 4 passives]:[Minions have 12% increased maximum Life (50)]:10c/0,06div
+[Small 2 passives]:[+15% to Fire Resistance (84)]:10c/0,06div
+[Medium 4 passives]:[6% increased Flask Effect Duration (84)]:10c/0,06div
+[Large 9 passives]:[12% increased Fire Damage (84)]:10c/0,06div
+[Medium 4 passives]:[15% increased Critical Strike Chance (68)]:10c/0,06div
+[Large 8 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (50)]:10c/0,06div
+[Medium 6 passives]:[10% increased Damage while affected by a Herald (84)]:10c/0,06div
+[Medium 4 passives]:[12% increased Trap Damage, 12% increased Mine Damage (68)]:10c/0,06div
+[Large 12 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (68)]:10c/0,06div
+[Medium 6 passives]:[10% increased Effect of Non-Damaging Ailments (84)]:10c/0,06div
+[Small 2 passives]:[15% increased Armour (50)]:10c/0,06div
+[Large 12 passives]:[12% increased Attack Damage while holding a Shield (50)]:10c/0,06div
+[Small 2 passives]:[15% increased Armour (1)]:10c/0,06div
+[Medium 4 passives]:[Minions deal 10% increased Damage while you are affected by a Herald (68)]:10c/0,06div
+[Large 10 passives]:[10% increased Spell Damage (84)]:10c/0,06div
+[Medium 6 passives]:[10% increased Area Damage (84)]:10c/0,06div
+[Medium 5 passives]:[Exerted Attacks deal 20% increased Damage (68)]:10c/0,06div
+[Medium 4 passives]:[Exerted Attacks deal 20% increased Damage (68)]:10c/0,06div
+[Large 12 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (75)]:10c/0,06div
+[Large 12 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (75)]:10c/0,06div
+[Large 12 passives]:[12% increased Damage with Two Handed Weapons (75)]:10c/0,06div
+[Large 10 passives]:[12% increased Attack Damage while holding a Shield (75)]:10c/0,06div
+[Medium 6 passives]:[15% increased Critical Strike Chance (84)]:10c/0,06div
+[Large 10 passives]:[12% increased Attack Damage while holding a Shield (1)]:10c/0,06div
+[Medium 5 passives]:[12% increased Brand Damage (50)]:10c/0,06div
+[Small 2 passives]:[6% increased maximum Mana (84)]:10c/0,06div
+[Large 8 passives]:[12% increased Physical Damage (1)]:10c/0,06div
+[Medium 4 passives]:[12% increased Trap Damage, 12% increased Mine Damage (1)]:10c/0,06div
+[Medium 6 passives]:[Exerted Attacks deal 20% increased Damage (84)]:10c/0,06div
+[Large 8 passives]:[12% increased Cold Damage (1)]:10c/0,06div
+[Medium 4 passives]:[15% increased Critical Strike Chance (1)]:10c/0,06div
+[Large 10 passives]:[10% increased Elemental Damage (84)]:10c/0,06div
+[Large 9 passives]:[10% increased Attack Damage (84)]:10c/0,06div
+[Small 2 passives]:[+15% to Lightning Resistance (84)]:10c/0,06div
+[Large 9 passives]:[10% increased Elemental Damage (84)]:10c/0,06div
+[Medium 6 passives]:[Minions deal 10% increased Damage while you are affected by a Herald (84)]:10c/0,06div
+[Medium 6 passives]:[12% increased Trap Damage, 12% increased Mine Damage (84)]:10c/0,06div
+[Large 11 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (84)]:10c/0,06div
+[Large 11 passives]:[12% increased Fire Damage (84)]:10c/0,06div
+[Large 10 passives]:[Minions deal 10% increased Damage (1)]:10c/0,06div
+[Large 9 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (84)]:10c/0,06div
+[Medium 6 passives]:[12% increased Brand Damage (84)]:10c/0,06div
+[Medium 5 passives]:[10% increased Damage while affected by a Herald (84)]:10c/0,06div
+[Large 11 passives]:[10% increased Attack Damage (84)]:10c/0,06div
+[Medium 4 passives]:[12% increased Totem Damage (84)]:10c/0,06div
+[Large 10 passives]:[12% increased Attack Damage while Dual Wielding (84)]:10c/0,06div
+[Large 10 passives]:[12% increased Physical Damage (84)]:10c/0,06div
+[Large 10 passives]:[12% increased Cold Damage (84)]:10c/0,06div
+[Large 10 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (84)]:10c/0,06div
+[Medium 4 passives]:[10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks (84)]:10c/0,06div
+[Medium 5 passives]:[Minions have 12% increased maximum Life (1)]:10c/0,06div
+[Medium 6 passives]:[10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks (84)]:10c/0,06div
+[Large 9 passives]:[12% increased Cold Damage (84)]:10c/0,06div
+[Large 10 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (84)]:10c/0,06div
+[Large 9 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (84)]:10c/0,06div
+[Medium 6 passives]:[Channelling Skills deal 12% increased Damage (84)]:10c/0,06div
+[Large 11 passives]:[12% increased Damage with Two Handed Weapons (84)]:10c/0,06div
+[Medium 6 passives]:[12% increased Totem Damage (84)]:10c/0,06div
+[Large 11 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (84)]:10c/0,06div
+[Large 11 passives]:[12% increased Cold Damage (84)]:10c/0,06div
+[Large 10 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (84)]:10c/0,06div
+[Large 11 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (84)]:10c/0,06div
+[Medium 5 passives]:[10% increased Damage over Time (75)]:10c/0,06div
+[Medium 4 passives]:[12% increased Cold Damage over Time (75)]:10c/0,06div
+[Medium 4 passives]:[10% increased Damage over Time (75)]:10c/0,06div
+[Medium 5 passives]:[12% increased Cold Damage over Time (75)]:10c/0,06div
+[Medium 6 passives]:[12% increased Chaos Damage over Time (75)]:10c/0,06div
+[Medium 5 passives]:[12% increased Physical Damage over Time (75)]:10c/0,06div
+[Medium 4 passives]:[12% increased Physical Damage over Time (75)]:10c/0,06div
+[Medium 4 passives]:[12% increased Physical Damage over Time (84)]:10c/0,06div
+[Medium 5 passives]:[12% increased Burning Damage (75)]:10c/0,06div
+[Medium 4 passives]:[10% increased Damage over Time (84)]:10c/0,06div
+[Medium 6 passives]:[12% increased Physical Damage over Time (84)]:10c/0,06div
+[Medium 6 passives]:[10% increased Damage over Time (84)]:10c/0,06div
+[Medium 4 passives]:[12% increased Burning Damage (50)]:10c/0,06div
+[Medium 6 passives]:[12% increased Cold Damage over Time (84)]:10c/0,06div
+[Medium 5 passives]:[12% increased Burning Damage (68)]:10c/0,06div
+[Medium 4 passives]:[12% increased Burning Damage (1)]:10c/0,06div
+[Medium 5 passives]:[12% increased Burning Damage (50)]:10c/0,06div
+[Medium 5 passives]:[12% increased Chaos Damage over Time (1)]:10c/0,06div
+[Medium 6 passives]:[12% increased Chaos Damage over Time (50)]:10c/0,06div
+[Small 2 passives]:[6% increased Mana Reservation Efficiency of Skills (1)]:10c/0,06div
+[Small 2 passives]:[6% increased Mana Reservation Efficiency of Skills (50)]:10c/0,06div
+[Small 2 passives]:[2% increased Effect of your Curses (84)]:10c/0,06div
+[Small 2 passives]:[+2% Chance to Block Attack Damage (75)]:10c/0,06div
+[Small 3 passives]:[+2% Chance to Block Attack Damage (75)]:10c/0,06div
+[Small 3 passives]:[+4% chance to Suppress Spell Damage (75)]:10c/0,06div
+[Small 2 passives]:[+2% Chance to Block Attack Damage (68)]:10c/0,06div
+[Small 2 passives]:[2% Chance to Block Spell Damage (84)]:10c/0,06div
+[Small 2 passives]:[+4% chance to Suppress Spell Damage (75)]:10c/0,06div
+[Small 2 passives]:[+4% chance to Suppress Spell Damage (1)]:10c/0,06div
+[Small 2 passives]:[+2% Chance to Block Attack Damage (1)]:10c/0,06div
+[Small 3 passives]:[2% Chance to Block Spell Damage (1)]:10c/0,06div
+[Small 3 passives]:[+4% chance to Suppress Spell Damage (68)]:10c/0,06div
+[Medium 6 passives]:[Exerted Attacks deal 20% increased Damage (1)]:9,99c/0,06div
+[Large 9 passives]:[12% increased Attack Damage while holding a Shield (1)]:9,8c/0,06div
+[Large 9 passives]:[Minions deal 10% increased Damage (50)]:9,6c/0,05div
+[Medium 5 passives]:[10% increased Area Damage (1)]:9,6c/0,05div
+[Large 11 passives]:[12% increased Fire Damage (75)]:9,6c/0,05div
+[Large 8 passives]:[10% increased Spell Damage (50)]:9,5c/0,05div
+[Medium 4 passives]:[12% increased Totem Damage (68)]:9,5c/0,05div
+[Small 3 passives]:[+4% chance to Suppress Spell Damage (50)]:9,5c/0,05div
+[Large 11 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (1)]:9,3c/0,05div
+[Large 11 passives]:[12% increased Attack Damage while holding a Shield (75)]:9,2c/0,05div
+[Large 11 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (50)]:9,2c/0,05div
+[Large 10 passives]:[12% increased Chaos Damage (75)]:9,1c/0,05div
+[Small 2 passives]:[6% increased maximum Energy Shield (75)]:9c/0,05div
+[Medium 6 passives]:[10% increased Area Damage (75)]:9c/0,05div
+[Small 2 passives]:[6% increased maximum Mana (75)]:9c/0,05div
+[Large 11 passives]:[12% increased Damage with Two Handed Weapons (75)]:8,79c/0,05div
+[Large 11 passives]:[12% increased Chaos Damage (75)]:8,6c/0,05div
+[Medium 5 passives]:[12% increased Physical Damage over Time (1)]:8,6c/0,05div
+[Large 12 passives]:[12% increased Cold Damage (75)]:8,5c/0,05div
+[Large 9 passives]:[Minions deal 10% increased Damage (1)]:8,5c/0,05div
+[Medium 4 passives]:[Exerted Attacks deal 20% increased Damage (1)]:8,5c/0,05div
+[Small 3 passives]:[+12% to Chaos Resistance (75)]:8,4c/0,05div
+[Small 2 passives]:[4% increased maximum Life (75)]:8c/0,05div
+[Large 12 passives]:[10% increased Spell Damage (68)]:8c/0,05div
+[Large 10 passives]:[12% increased Physical Damage (75)]:8c/0,05div
+[Large 11 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (75)]:8c/0,05div
+[Large 9 passives]:[12% increased Damage with Two Handed Weapons (75)]:8c/0,05div
+[Small 2 passives]:[+15% to Lightning Resistance (75)]:8c/0,05div
+[Medium 6 passives]:[6% increased Flask Effect Duration (50)]:8c/0,05div
+[Large 8 passives]:[12% increased Attack Damage while Dual Wielding (68)]:8c/0,05div
+[Large 12 passives]:[10% increased Elemental Damage (75)]:8c/0,05div
+[Medium 6 passives]:[12% increased Burning Damage (75)]:8c/0,05div
+[Medium 6 passives]:[Channelling Skills deal 12% increased Damage (75)]:7,9c/0,04div
+[Large 9 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (75)]:7,8c/0,04div
+[Large 10 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (75)]:7,8c/0,04div
+[Large 12 passives]:[12% increased Fire Damage (1)]:7,8c/0,04div
+[Small 3 passives]:[2% increased Effect of your Curses (75)]:7,7c/0,04div
+[Medium 4 passives]:[Minions have 12% increased maximum Life (1)]:7,6c/0,04div
+[Large 8 passives]:[12% increased Attack Damage while Dual Wielding (1)]:7,4c/0,04div
+[Medium 5 passives]:[12% increased Burning Damage (1)]:7,4c/0,04div
+[Small 3 passives]:[+12% to Chaos Resistance (50)]:7,37c/0,04div
+[Large 9 passives]:[12% increased Fire Damage (50)]:7,3c/0,04div
+[Medium 5 passives]:[6% increased Flask Effect Duration (68)]:7,1c/0,04div
+[Medium 4 passives]:[Minions deal 10% increased Damage while you are affected by a Herald (50)]:7c/0,04div
+[Large 11 passives]:[10% increased Elemental Damage (75)]:7c/0,04div
+[Medium 4 passives]:[12% increased Totem Damage (1)]:7c/0,04div
+[Medium 6 passives]:[Minions deal 10% increased Damage while you are affected by a Herald (75)]:7c/0,04div
+[Medium 5 passives]:[6% increased Flask Effect Duration (50)]:7c/0,04div
+[Large 10 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (75)]:6,8c/0,04div
+[Large 8 passives]:[10% increased Elemental Damage (1)]:6,8c/0,04div
+[Medium 6 passives]:[10% increased Damage while affected by a Herald (75)]:6,7c/0,04div
+[Large 12 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (75)]:6,7c/0,04div
+[Medium 4 passives]:[6% increased Flask Effect Duration (50)]:6,7c/0,04div
+[Medium 4 passives]:[6% increased Flask Effect Duration (1)]:6,6c/0,04div
+[Medium 5 passives]:[Minions deal 10% increased Damage while you are affected by a Herald (1)]:6,5c/0,04div
+[Large 11 passives]:[Minions deal 10% increased Damage (1)]:6,5c/0,04div
+[Small 2 passives]:[2% Chance to Block Spell Damage (1)]:6,5c/0,04div
+[Small 3 passives]:[+15% to Lightning Resistance (75)]:6,4c/0,04div
+[Large 10 passives]:[12% increased Lightning Damage (1)]:6,2c/0,04div
+[Medium 5 passives]:[12% increased Totem Damage (68)]:6c/0,03div
+[Medium 4 passives]:[6% increased Flask Effect Duration (68)]:6c/0,03div
+[Medium 4 passives]:[10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks (1)]:6c/0,03div
+[Large 9 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (75)]:5,98c/0,03div
+[Large 9 passives]:[12% increased Damage with Two Handed Weapons (68)]:5,9c/0,03div
+[Medium 5 passives]:[Exerted Attacks deal 20% increased Damage (50)]:5,9c/0,03div
+[Small 2 passives]:[+12% to Chaos Resistance (1)]:5,9c/0,03div
+[Medium 6 passives]:[10% increased Projectile Damage (75)]:5,8c/0,03div
+[Large 11 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (75)]:5,8c/0,03div
+[Medium 5 passives]:[6% increased Flask Effect Duration (1)]:5,8c/0,03div
+[Medium 4 passives]:[12% increased Cold Damage over Time (1)]:5,8c/0,03div
+[Large 9 passives]:[10% increased Elemental Damage (75)]:5,7c/0,03div
+[Large 9 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (75)]:5,7c/0,03div
+[Large 9 passives]:[12% increased Attack Damage while Dual Wielding (75)]:5,6c/0,03div
+[Large 10 passives]:[Minions deal 10% increased Damage (50)]:5,6c/0,03div
+[Large 10 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (1)]:5,5c/0,03div
+[Large 9 passives]:[10% increased Elemental Damage (1)]:5,4c/0,03div
+[Small 3 passives]:[+2% Chance to Block Attack Damage (50)]:5,4c/0,03div
+[Large 9 passives]:[Minions deal 10% increased Damage (68)]:5,3c/0,03div
+[Large 10 passives]:[12% increased Fire Damage (75)]:5,25c/0,03div
+[Small 2 passives]:[+15% to Fire Resistance (75)]:5,2c/0,03div
+[Small 2 passives]:[2% increased Effect of your Curses (75)]:5,2c/0,03div
+[Medium 4 passives]:[10% increased Effect of Non-Damaging Ailments (1)]:5,1c/0,03div
+[Large 11 passives]:[12% increased Damage with Two Handed Weapons (68)]:5c/0,03div
+[Small 3 passives]:[+15% to Cold Resistance (75)]:5c/0,03div
+[Large 11 passives]:[12% increased Physical Damage (75)]:5c/0,03div
+[Small 3 passives]:[+15% to Fire Resistance (68)]:5c/0,03div
+[Medium 5 passives]:[10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks (68)]:5c/0,03div
+[Medium 6 passives]:[Minions have 12% increased maximum Life (68)]:5c/0,03div
+[Large 11 passives]:[12% increased Cold Damage (68)]:5c/0,03div
+[Small 3 passives]:[15% increased Armour (68)]:5c/0,03div
+[Large 12 passives]:[10% increased Attack Damage (75)]:5c/0,03div
+[Large 12 passives]:[12% increased Physical Damage (75)]:5c/0,03div
+[Large 9 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (68)]:5c/0,03div
+[Large 11 passives]:[12% increased Physical Damage (68)]:5c/0,03div
+[Large 9 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (75)]:5c/0,03div
+[Large 9 passives]:[10% increased Elemental Damage (68)]:5c/0,03div
+[Large 10 passives]:[12% increased Lightning Damage (75)]:5c/0,03div
+[Large 9 passives]:[10% increased Attack Damage (68)]:5c/0,03div
+[Large 12 passives]:[12% increased Attack Damage while Dual Wielding (68)]:5c/0,03div
+[Large 9 passives]:[12% increased Physical Damage (75)]:5c/0,03div
+[Small 3 passives]:[6% increased maximum Energy Shield (50)]:5c/0,03div
+[Large 11 passives]:[12% increased Attack Damage while holding a Shield (50)]:5c/0,03div
+[Large 11 passives]:[10% increased Spell Damage (75)]:5c/0,03div
+[Small 3 passives]:[6% increased maximum Mana (68)]:5c/0,03div
+[Small 3 passives]:[4% increased maximum Life (68)]:5c/0,03div
+[Large 9 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (68)]:5c/0,03div
+[Large 12 passives]:[12% increased Chaos Damage (68)]:5c/0,03div
+[Small 2 passives]:[+15% to Cold Resistance (68)]:5c/0,03div
+[Large 11 passives]:[12% increased Lightning Damage (68)]:5c/0,03div
+[Small 3 passives]:[6% increased maximum Energy Shield (68)]:5c/0,03div
+[Small 2 passives]:[+12% to Chaos Resistance (68)]:5c/0,03div
+[Large 9 passives]:[12% increased Cold Damage (75)]:5c/0,03div
+[Large 9 passives]:[12% increased Cold Damage (68)]:5c/0,03div
+[Large 10 passives]:[12% increased Fire Damage (68)]:5c/0,03div
+[Large 11 passives]:[10% increased Attack Damage (50)]:5c/0,03div
+[Large 10 passives]:[12% increased Chaos Damage (68)]:5c/0,03div
+[Small 2 passives]:[6% increased maximum Energy Shield (68)]:5c/0,03div
+[Small 2 passives]:[15% increased Evasion Rating (68)]:5c/0,03div
+[Small 2 passives]:[+15% to Fire Resistance (50)]:5c/0,03div
+[Medium 4 passives]:[10% increased Damage while affected by a Herald (68)]:5c/0,03div
+[Small 2 passives]:[+15% to Cold Resistance (75)]:5c/0,03div
+[Large 11 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (68)]:5c/0,03div
+[Large 9 passives]:[12% increased Fire Damage (75)]:5c/0,03div
+[Large 12 passives]:[12% increased Attack Damage while Dual Wielding (50)]:5c/0,03div
+[Small 2 passives]:[+15% to Cold Resistance (1)]:5c/0,03div
+[Large 10 passives]:[10% increased Elemental Damage (75)]:5c/0,03div
+[Large 9 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (50)]:5c/0,03div
+[Large 10 passives]:[12% increased Damage with Two Handed Weapons (75)]:5c/0,03div
+[Large 9 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (68)]:5c/0,03div
+[Medium 6 passives]:[10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks (75)]:5c/0,03div
+[Medium 6 passives]:[10% increased Area Damage (68)]:5c/0,03div
+[Large 11 passives]:[12% increased Attack Damage while Dual Wielding (75)]:5c/0,03div
+[Large 12 passives]:[12% increased Cold Damage (50)]:5c/0,03div
+[Medium 6 passives]:[10% increased Projectile Damage (68)]:5c/0,03div
+[Large 10 passives]:[10% increased Elemental Damage (68)]:5c/0,03div
+[Medium 6 passives]:[Minions deal 10% increased Damage while you are affected by a Herald (68)]:5c/0,03div
+[Medium 6 passives]:[10% increased Effect of Non-Damaging Ailments (75)]:5c/0,03div
+[Large 9 passives]:[10% increased Spell Damage (75)]:5c/0,03div
+[Large 12 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (75)]:5c/0,03div
+[Large 12 passives]:[10% increased Attack Damage (68)]:5c/0,03div
+[Large 10 passives]:[12% increased Lightning Damage (50)]:5c/0,03div
+[Large 8 passives]:[10% increased Attack Damage (1)]:5c/0,03div
+[Medium 6 passives]:[6% increased Flask Effect Duration (68)]:5c/0,03div
+[Large 9 passives]:[12% increased Lightning Damage (68)]:5c/0,03div
+[Large 8 passives]:[10% increased Attack Damage (68)]:5c/0,03div
+[Large 10 passives]:[12% increased Physical Damage (50)]:5c/0,03div
+[Medium 5 passives]:[Minions have 12% increased maximum Life (68)]:5c/0,03div
+[Large 10 passives]:[12% increased Damage with Two Handed Weapons (1)]:5c/0,03div
+[Large 12 passives]:[12% increased Lightning Damage (50)]:5c/0,03div
+[Large 11 passives]:[12% increased Fire Damage (1)]:5c/0,03div
+[Large 12 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (50)]:5c/0,03div
+[Large 11 passives]:[10% increased Attack Damage (68)]:5c/0,03div
+[Large 10 passives]:[12% increased Attack Damage while holding a Shield (68)]:5c/0,03div
+[Large 10 passives]:[12% increased Fire Damage (50)]:5c/0,03div
+[Medium 6 passives]:[15% increased Critical Strike Chance (68)]:5c/0,03div
+[Medium 5 passives]:[Minions have 12% increased maximum Life (50)]:5c/0,03div
+[Large 9 passives]:[10% increased Attack Damage (75)]:5c/0,03div
+[Large 12 passives]:[12% increased Physical Damage (68)]:5c/0,03div
+[Large 11 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (75)]:5c/0,03div
+[Large 9 passives]:[10% increased Spell Damage (68)]:5c/0,03div
+[Medium 6 passives]:[12% increased Trap Damage, 12% increased Mine Damage (75)]:5c/0,03div
+[Large 9 passives]:[12% increased Chaos Damage (68)]:5c/0,03div
+[Medium 6 passives]:[10% increased Area Damage (50)]:5c/0,03div
+[Large 10 passives]:[12% increased Cold Damage (68)]:5c/0,03div
+[Large 10 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (68)]:5c/0,03div
+[Large 11 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (50)]:5c/0,03div
+[Large 11 passives]:[12% increased Damage with Two Handed Weapons (50)]:5c/0,03div
+[Medium 6 passives]:[Channelling Skills deal 12% increased Damage (50)]:5c/0,03div
+[Medium 4 passives]:[12% increased Brand Damage (50)]:5c/0,03div
+[Small 3 passives]:[15% increased Armour (50)]:5c/0,03div
+[Medium 4 passives]:[10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks (68)]:5c/0,03div
+[Small 2 passives]:[6% increased maximum Energy Shield (50)]:5c/0,03div
+[Large 12 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (75)]:5c/0,03div
+[Medium 4 passives]:[10% increased Damage while affected by a Herald (50)]:5c/0,03div
+[Large 9 passives]:[12% increased Fire Damage (68)]:5c/0,03div
+[Large 11 passives]:[12% increased Fire Damage (50)]:5c/0,03div
+[Small 2 passives]:[15% increased Evasion Rating (75)]:5c/0,03div
+[Large 11 passives]:[10% increased Spell Damage (68)]:5c/0,03div
+[Medium 5 passives]:[10% increased Projectile Damage (50)]:5c/0,03div
+[Medium 6 passives]:[Exerted Attacks deal 20% increased Damage (68)]:5c/0,03div
+[Medium 5 passives]:[10% increased Damage while affected by a Herald (68)]:5c/0,03div
+[Large 11 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (68)]:5c/0,03div
+[Medium 6 passives]:[10% increased Effect of Non-Damaging Ailments (68)]:5c/0,03div
+[Large 11 passives]:[Minions deal 10% increased Damage (50)]:5c/0,03div
+[Large 11 passives]:[12% increased Attack Damage while Dual Wielding (50)]:5c/0,03div
+[Large 9 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (75)]:5c/0,03div
+[Large 10 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (68)]:5c/0,03div
+[Medium 5 passives]:[10% increased Effect of Non-Damaging Ailments (68)]:5c/0,03div
+[Large 11 passives]:[12% increased Cold Damage (75)]:5c/0,03div
+[Large 10 passives]:[12% increased Cold Damage (50)]:5c/0,03div
+[Large 10 passives]:[12% increased Cold Damage (75)]:5c/0,03div
+[Large 11 passives]:[12% increased Chaos Damage (50)]:5c/0,03div
+[Large 12 passives]:[12% increased Attack Damage while Dual Wielding (75)]:5c/0,03div
+[Large 10 passives]:[10% increased Spell Damage (68)]:5c/0,03div
+[Large 11 passives]:[12% increased Lightning Damage (50)]:5c/0,03div
+[Large 9 passives]:[12% increased Fire Damage (1)]:5c/0,03div
+[Medium 6 passives]:[12% increased Brand Damage (68)]:5c/0,03div
+[Medium 6 passives]:[10% increased Projectile Damage (1)]:5c/0,03div
+[Large 11 passives]:[10% increased Elemental Damage (1)]:5c/0,03div
+[Medium 5 passives]:[12% increased Totem Damage (50)]:5c/0,03div
+[Large 12 passives]:[12% increased Fire Damage (68)]:5c/0,03div
+[Large 10 passives]:[12% increased Lightning Damage (68)]:5c/0,03div
+[Large 12 passives]:[12% increased Physical Damage (50)]:5c/0,03div
+[Large 10 passives]:[10% increased Attack Damage (75)]:5c/0,03div
+[Medium 6 passives]:[Minions have 12% increased maximum Life (75)]:5c/0,03div
+[Small 3 passives]:[+15% to Fire Resistance (50)]:5c/0,03div
+[Medium 4 passives]:[10% increased Effect of Non-Damaging Ailments (68)]:5c/0,03div
+[Medium 6 passives]:[Channelling Skills deal 12% increased Damage (68)]:5c/0,03div
+[Large 9 passives]:[12% increased Lightning Damage (50)]:5c/0,03div
+[Large 11 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (68)]:5c/0,03div
+[Large 11 passives]:[12% increased Fire Damage (68)]:5c/0,03div
+[Medium 4 passives]:[10% increased Damage while affected by a Herald (1)]:5c/0,03div
+[Medium 6 passives]:[15% increased Critical Strike Chance (50)]:5c/0,03div
+[Medium 5 passives]:[Channelling Skills deal 12% increased Damage (68)]:5c/0,03div
+[Large 12 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (1)]:5c/0,03div
+[Large 12 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (50)]:5c/0,03div
+[Large 10 passives]:[12% increased Attack Damage while Dual Wielding (68)]:5c/0,03div
+[Medium 5 passives]:[10% increased Damage while affected by a Herald (50)]:5c/0,03div
+[Large 12 passives]:[10% increased Attack Damage (50)]:5c/0,03div
+[Large 10 passives]:[12% increased Damage with Two Handed Weapons (50)]:5c/0,03div
+[Large 12 passives]:[12% increased Lightning Damage (68)]:5c/0,03div
+[Large 11 passives]:[12% increased Attack Damage while holding a Shield (68)]:5c/0,03div
+[Large 10 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (50)]:5c/0,03div
+[Large 10 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (75)]:5c/0,03div
+[Medium 4 passives]:[Channelling Skills deal 12% increased Damage (50)]:5c/0,03div
+[Large 12 passives]:[10% increased Spell Damage (1)]:5c/0,03div
+[Large 9 passives]:[12% increased Damage with Two Handed Weapons (50)]:5c/0,03div
+[Small 3 passives]:[+12% to Chaos Resistance (68)]:5c/0,03div
+[Large 11 passives]:[10% increased Attack Damage (75)]:5c/0,03div
+[Large 11 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (68)]:5c/0,03div
+[Large 12 passives]:[10% increased Spell Damage (50)]:5c/0,03div
+[Large 10 passives]:[12% increased Chaos Damage (1)]:5c/0,03div
+[Large 8 passives]:[10% increased Spell Damage (1)]:5c/0,03div
+[Medium 6 passives]:[10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks (50)]:5c/0,03div
+[Medium 6 passives]:[12% increased Totem Damage (75)]:5c/0,03div
+[Large 10 passives]:[12% increased Attack Damage while Dual Wielding (75)]:5c/0,03div
+[Large 12 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (50)]:5c/0,03div
+[Large 10 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (68)]:5c/0,03div
+[Large 11 passives]:[12% increased Chaos Damage (68)]:5c/0,03div
+[Large 12 passives]:[12% increased Damage with Two Handed Weapons (50)]:5c/0,03div
+[Medium 5 passives]:[10% increased Effect of Non-Damaging Ailments (50)]:5c/0,03div
+[Large 10 passives]:[12% increased Fire Damage (1)]:5c/0,03div
+[Large 10 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (75)]:5c/0,03div
+[Large 11 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (75)]:5c/0,03div
+[Large 9 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (1)]:5c/0,03div
+[Medium 4 passives]:[Channelling Skills deal 12% increased Damage (68)]:5c/0,03div
+[Medium 5 passives]:[12% increased Totem Damage (1)]:5c/0,03div
+[Large 12 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (50)]:5c/0,03div
+[Large 11 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (50)]:5c/0,03div
+[Medium 6 passives]:[Minions have 12% increased maximum Life (50)]:5c/0,03div
+[Large 12 passives]:[12% increased Chaos Damage (1)]:5c/0,03div
+[Large 12 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (1)]:5c/0,03div
+[Large 11 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (75)]:5c/0,03div
+[Large 10 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (50)]:5c/0,03div
+[Large 9 passives]:[12% increased Cold Damage (1)]:5c/0,03div
+[Large 9 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (68)]:5c/0,03div
+[Small 3 passives]:[+15% to Fire Resistance (1)]:5c/0,03div
+[Medium 6 passives]:[Minions have 12% increased maximum Life (1)]:5c/0,03div
+[Small 3 passives]:[6% increased maximum Energy Shield (1)]:5c/0,03div
+[Medium 5 passives]:[Minions deal 10% increased Damage while you are affected by a Herald (68)]:5c/0,03div
+[Small 2 passives]:[+15% to Fire Resistance (1)]:5c/0,03div
+[Small 2 passives]:[6% increased maximum Mana (1)]:5c/0,03div
+[Large 12 passives]:[12% increased Fire Damage (50)]:5c/0,03div
+[Large 10 passives]:[12% increased Damage with Two Handed Weapons (68)]:5c/0,03div
+[Large 11 passives]:[12% increased Chaos Damage (1)]:5c/0,03div
+[Large 12 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (68)]:5c/0,03div
+[Medium 4 passives]:[12% increased Totem Damage (50)]:5c/0,03div
+[Large 9 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (1)]:5c/0,03div
+[Large 11 passives]:[12% increased Attack Damage while Dual Wielding (1)]:5c/0,03div
+[Medium 5 passives]:[Channelling Skills deal 12% increased Damage (1)]:5c/0,03div
+[Medium 6 passives]:[12% increased Totem Damage (1)]:5c/0,03div
+[Small 3 passives]:[15% increased Armour (1)]:5c/0,03div
+[Large 12 passives]:[10% increased Attack Damage (1)]:5c/0,03div
+[Large 9 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (1)]:5c/0,03div
+[Large 12 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (1)]:5c/0,03div
+[Medium 5 passives]:[15% increased Critical Strike Chance (1)]:5c/0,03div
+[Medium 4 passives]:[Channelling Skills deal 12% increased Damage (1)]:5c/0,03div
+[Large 12 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (1)]:5c/0,03div
+[Medium 6 passives]:[12% increased Physical Damage over Time (75)]:5c/0,03div
+[Medium 6 passives]:[10% increased Damage over Time (75)]:5c/0,03div
+[Medium 6 passives]:[12% increased Cold Damage over Time (75)]:5c/0,03div
+[Medium 6 passives]:[12% increased Burning Damage (68)]:5c/0,03div
+[Medium 4 passives]:[10% increased Damage over Time (50)]:5c/0,03div
+[Medium 5 passives]:[12% increased Cold Damage over Time (68)]:5c/0,03div
+[Medium 4 passives]:[10% increased Damage over Time (68)]:5c/0,03div
+[Medium 5 passives]:[12% increased Physical Damage over Time (68)]:5c/0,03div
+[Medium 4 passives]:[12% increased Cold Damage over Time (68)]:5c/0,03div
+[Medium 4 passives]:[12% increased Physical Damage over Time (1)]:5c/0,03div
+[Medium 5 passives]:[10% increased Damage over Time (50)]:5c/0,03div
+[Medium 4 passives]:[12% increased Physical Damage over Time (50)]:5c/0,03div
+[Medium 6 passives]:[12% increased Chaos Damage over Time (68)]:5c/0,03div
+[Medium 6 passives]:[12% increased Physical Damage over Time (68)]:5c/0,03div
+[Medium 6 passives]:[12% increased Physical Damage over Time (50)]:5c/0,03div
+[Medium 5 passives]:[10% increased Damage over Time (68)]:5c/0,03div
+[Medium 5 passives]:[10% increased Damage over Time (1)]:5c/0,03div
+[Medium 4 passives]:[12% increased Cold Damage over Time (50)]:5c/0,03div
+[Medium 6 passives]:[10% increased Damage over Time (1)]:5c/0,03div
+[Medium 6 passives]:[12% increased Chaos Damage over Time (1)]:5c/0,03div
+[Small 3 passives]:[2% increased Effect of your Curses (68)]:5c/0,03div
+[Small 2 passives]:[2% increased Effect of your Curses (68)]:5c/0,03div
+[Small 3 passives]:[2% Chance to Block Spell Damage (75)]:5c/0,03div
+[Small 2 passives]:[+4% chance to Suppress Spell Damage (68)]:5c/0,03div
+[Small 2 passives]:[2% Chance to Block Spell Damage (68)]:5c/0,03div
+[Small 2 passives]:[+4% chance to Suppress Spell Damage (50)]:5c/0,03div
+[Small 2 passives]:[2% Chance to Block Spell Damage (75)]:5c/0,03div
+[Small 3 passives]:[2% Chance to Block Spell Damage (68)]:5c/0,03div
+[Small 2 passives]:[2% Chance to Block Spell Damage (50)]:5c/0,03div
+[Small 3 passives]:[+2% Chance to Block Attack Damage (68)]:5c/0,03div
+[Small 3 passives]:[2% Chance to Block Spell Damage (50)]:5c/0,03div
+[Small 2 passives]:[+15% to Lightning Resistance (68)]:4,99c/0,03div
+[Large 10 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (68)]:4,99c/0,03div
+[Medium 6 passives]:[Exerted Attacks deal 20% increased Damage (50)]:4,99c/0,03div
+[Medium 6 passives]:[12% increased Cold Damage over Time (68)]:4,99c/0,03div
+[Large 10 passives]:[12% increased Attack Damage while Dual Wielding (50)]:4,9c/0,03div
+[Large 12 passives]:[10% increased Elemental Damage (1)]:4,9c/0,03div
+[Large 11 passives]:[10% increased Elemental Damage (68)]:4,8c/0,03div
+[Large 12 passives]:[12% increased Attack Damage while Dual Wielding (1)]:4,8c/0,03div
+[Medium 5 passives]:[12% increased Trap Damage, 12% increased Mine Damage (1)]:4,8c/0,03div
+[Large 10 passives]:[12% increased Chaos Damage (50)]:4,7c/0,03div
+[Large 10 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (50)]:4,7c/0,03div
+[Large 9 passives]:[12% increased Cold Damage (50)]:4,7c/0,03div
+[Medium 6 passives]:[10% increased Effect of Non-Damaging Ailments (1)]:4,7c/0,03div
+[Small 3 passives]:[+12% to Chaos Resistance (1)]:4,7c/0,03div
+[Small 3 passives]:[4% increased maximum Life (50)]:4,6c/0,03div
+[Medium 6 passives]:[15% increased Critical Strike Chance (1)]:4,6c/0,03div
+[Large 10 passives]:[12% increased Cold Damage (1)]:4,6c/0,03div
+[Large 11 passives]:[12% increased Attack Damage while Dual Wielding (68)]:4,6c/0,03div
+[Large 11 passives]:[10% increased Attack Damage (1)]:4,6c/0,03div
+[Large 12 passives]:[12% increased Damage with Two Handed Weapons (1)]:4,6c/0,03div
+[Large 10 passives]:[10% increased Spell Damage (50)]:4,5c/0,03div
+[Large 9 passives]:[12% increased Lightning Damage (1)]:4,5c/0,03div
+[Medium 5 passives]:[Exerted Attacks deal 20% increased Damage (1)]:4,4c/0,02div
+[Large 12 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (1)]:4,4c/0,02div
+[Small 3 passives]:[6% increased maximum Mana (1)]:4,29c/0,02div
+[Medium 6 passives]:[12% increased Brand Damage (50)]:4,2c/0,02div
+[Large 11 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (1)]:4,2c/0,02div
+[Large 10 passives]:[12% increased Physical Damage (68)]:4,2c/0,02div
+[Large 12 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (68)]:4,2c/0,02div
+[Medium 6 passives]:[12% increased Totem Damage (68)]:4,2c/0,02div
+[Large 10 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (1)]:4,2c/0,02div
+[Large 11 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (50)]:4,2c/0,02div
+[Small 3 passives]:[+15% to Cold Resistance (1)]:4,1c/0,02div
+[Small 2 passives]:[4% increased maximum Life (68)]:4c/0,02div
+[Small 3 passives]:[15% increased Evasion Rating (68)]:4c/0,02div
+[Large 10 passives]:[10% increased Attack Damage (68)]:4c/0,02div
+[Large 12 passives]:[10% increased Elemental Damage (68)]:4c/0,02div
+[Large 10 passives]:[12% increased Attack Damage while holding a Shield (50)]:4c/0,02div
+[Medium 6 passives]:[10% increased Projectile Damage (50)]:4c/0,02div
+[Large 9 passives]:[10% increased Elemental Damage (50)]:4c/0,02div
+[Large 11 passives]:[12% increased Attack Damage while holding a Shield (1)]:4c/0,02div
+[Large 11 passives]:[12% increased Cold Damage (50)]:4c/0,02div
+[Medium 6 passives]:[12% increased Trap Damage, 12% increased Mine Damage (68)]:4c/0,02div
+[Medium 6 passives]:[10% increased Damage while affected by a Herald (68)]:4c/0,02div
+[Medium 5 passives]:[10% increased Effect of Non-Damaging Ailments (1)]:4c/0,02div
+[Small 3 passives]:[+15% to Lightning Resistance (68)]:4c/0,02div
+[Small 2 passives]:[6% increased maximum Energy Shield (1)]:4c/0,02div
+[Large 12 passives]:[12% increased Damage with Two Handed Weapons (68)]:4c/0,02div
+[Small 2 passives]:[15% increased Evasion Rating (1)]:4c/0,02div
+[Medium 4 passives]:[12% increased Physical Damage over Time (68)]:4c/0,02div
+[Small 2 passives]:[6% increased maximum Mana (68)]:3,9c/0,02div
+[Medium 5 passives]:[10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks (50)]:3,9c/0,02div
+[Medium 6 passives]:[6% increased Flask Effect Duration (1)]:3,8c/0,02div
+[Medium 6 passives]:[12% increased Physical Damage over Time (1)]:3,8c/0,02div
+[Large 11 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (50)]:3,7c/0,02div
+[Large 9 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (50)]:3,7c/0,02div
+[Large 9 passives]:[12% increased Physical Damage (68)]:3,7c/0,02div
+[Large 9 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (50)]:3,7c/0,02div
+[Medium 5 passives]:[10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks (1)]:3,7c/0,02div
+[Large 10 passives]:[10% increased Elemental Damage (50)]:3,6c/0,02div
+[Large 11 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (1)]:3,4c/0,02div
+[Large 9 passives]:[10% increased Attack Damage (50)]:3,4c/0,02div
+[Large 11 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (1)]:3,4c/0,02div
+[Large 12 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (68)]:3,3c/0,02div
+[Large 12 passives]:[12% increased Cold Damage (1)]:3,3c/0,02div
+[Small 2 passives]:[6% increased maximum Mana (50)]:3,28c/0,02div
+[Small 2 passives]:[+12% to Chaos Resistance (50)]:3,2c/0,02div
+[Medium 6 passives]:[10% increased Damage while affected by a Herald (1)]:3,2c/0,02div
+[Small 3 passives]:[+2% Chance to Block Attack Damage (1)]:3,2c/0,02div
+[Small 3 passives]:[2% increased Effect of your Curses (50)]:3,1c/0,02div
+[Large 10 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (50)]:3c/0,02div
+[Large 12 passives]:[10% increased Elemental Damage (50)]:3c/0,02div
+[Large 12 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (68)]:3c/0,02div
+[Large 11 passives]:[Claw Attacks deal 12% increased Damage with Hits and Ailments, Dagger Attacks deal 12% increased Damage with Hits and Ailments (68)]:3c/0,02div
+[Medium 6 passives]:[10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks (68)]:3c/0,02div
+[Small 2 passives]:[+15% to Fire Resistance (68)]:3c/0,02div
+[Large 12 passives]:[12% increased Cold Damage (68)]:3c/0,02div
+[Large 9 passives]:[12% increased Attack Damage while Dual Wielding (68)]:3c/0,02div
+[Medium 5 passives]:[Minions deal 10% increased Damage while you are affected by a Herald (50)]:3c/0,02div
+[Large 10 passives]:[10% increased Attack Damage (1)]:3c/0,02div
+[Large 9 passives]:[10% increased Attack Damage (1)]:3c/0,02div
+[Large 9 passives]:[10% increased Spell Damage (50)]:3c/0,02div
+[Large 10 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (68)]:3c/0,02div
+[Large 11 passives]:[12% increased Physical Damage (50)]:3c/0,02div
+[Medium 6 passives]:[10% increased Damage while affected by a Herald (50)]:3c/0,02div
+[Small 2 passives]:[15% increased Evasion Rating (50)]:3c/0,02div
+[Large 10 passives]:[10% increased Elemental Damage (1)]:3c/0,02div
+[Large 9 passives]:[12% increased Attack Damage while Dual Wielding (50)]:3c/0,02div
+[Medium 6 passives]:[12% increased Trap Damage, 12% increased Mine Damage (50)]:3c/0,02div
+[Small 3 passives]:[+15% to Lightning Resistance (50)]:3c/0,02div
+[Large 9 passives]:[12% increased Physical Damage (50)]:3c/0,02div
+[Large 9 passives]:[12% increased Attack Damage while Dual Wielding (1)]:3c/0,02div
+[Medium 6 passives]:[12% increased Totem Damage (50)]:3c/0,02div
+[Medium 6 passives]:[12% increased Trap Damage, 12% increased Mine Damage (1)]:3c/0,02div
+[Medium 4 passives]:[10% increased Damage over Time (1)]:3c/0,02div
+[Medium 6 passives]:[12% increased Burning Damage (1)]:3c/0,02div
+[Medium 6 passives]:[10% increased Damage over Time (68)]:3c/0,02div
+[Medium 5 passives]:[12% increased Physical Damage over Time (50)]:3c/0,02div
+[Medium 6 passives]:[12% increased Burning Damage (50)]:3c/0,02div
+[Small 2 passives]:[2% increased Effect of your Curses (50)]:3c/0,02div
+[Small 2 passives]:[+2% Chance to Block Attack Damage (50)]:3c/0,02div
+[Large 11 passives]:[10% increased Spell Damage (50)]:2,99c/0,02div
+[Large 11 passives]:[12% increased Damage with Two Handed Weapons (1)]:2,9c/0,02div
+[Small 3 passives]:[15% increased Evasion Rating (50)]:2,8c/0,02div
+[Large 11 passives]:[12% increased Lightning Damage (1)]:2,6c/0,01div
+[Large 10 passives]:[12% increased Attack Damage while Dual Wielding (1)]:2,6c/0,01div
+[Small 3 passives]:[+15% to Cold Resistance (68)]:2,5c/0,01div
+[Large 10 passives]:[12% increased Physical Damage (1)]:2,5c/0,01div
+[Small 3 passives]:[6% increased maximum Mana (50)]:2,4c/0,01div
+[Medium 6 passives]:[Minions deal 10% increased Damage while you are affected by a Herald (50)]:2,3c/0,01div
+[Medium 5 passives]:[10% increased Damage while affected by a Herald (1)]:2,3c/0,01div
+[Large 9 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (68)]:2,22c/0,01div
+[Large 9 passives]:[12% increased Damage with Two Handed Weapons (1)]:2,2c/0,01div
+[Large 9 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (1)]:2,2c/0,01div
+[Medium 6 passives]:[12% increased Cold Damage over Time (50)]:2,2c/0,01div
+[Medium 4 passives]:[10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks (50)]:2,1c/0,01div
+[Medium 5 passives]:[12% increased Cold Damage over Time (1)]:2,1c/0,01div
+[Large 9 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (50)]:2c/0,01div
+[Small 2 passives]:[+15% to Lightning Resistance (1)]:2c/0,01div
+[Large 10 passives]:[10% increased Attack Damage (50)]:2c/0,01div
+[Large 11 passives]:[12% increased Physical Damage (1)]:2c/0,01div
+[Large 10 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (50)]:2c/0,01div
+[Large 10 passives]:[12% increased Damage with Bows, 12% increased Damage Over Time with Bow Skills (1)]:2c/0,01div
+[Medium 6 passives]:[10% increased Effect of Non-Damaging Ailments (50)]:2c/0,01div
+[Small 2 passives]:[+15% to Cold Resistance (50)]:2c/0,01div
+[Small 2 passives]:[+15% to Lightning Resistance (50)]:2c/0,01div
+[Small 2 passives]:[4% increased maximum Life (50)]:2c/0,01div
+[Small 2 passives]:[4% increased maximum Life (1)]:2c/0,01div
+[Large 11 passives]:[Axe Attacks deal 12% increased Damage with Hits and Ailments, Sword Attacks deal 12% increased Damage with Hits and Ailments (1)]:2c/0,01div
+[Large 11 passives]:[10% increased Spell Damage (1)]:2c/0,01div
+[Small 3 passives]:[15% increased Evasion Rating (1)]:2c/0,01div
+[Small 3 passives]:[4% increased maximum Life (1)]:2c/0,01div
+[Medium 4 passives]:[Minions deal 10% increased Damage while you are affected by a Herald (1)]:2c/0,01div
+[Medium 5 passives]:[12% increased Cold Damage over Time (50)]:2c/0,01div
+[Large 9 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (50)]:1,99c/0,01div
+[Medium 6 passives]:[Channelling Skills deal 12% increased Damage (1)]:1,8c/0,01div
+[Small 2 passives]:[2% increased Effect of your Curses (1)]:1,8c/0,01div
+[Medium 6 passives]:[10% increased Damage over Time (50)]:1,7c/0,01div
+[Large 10 passives]:[10% increased Spell Damage (1)]:1,6c/0,01div
+[Medium 6 passives]:[12% increased Brand Damage (1)]:1,6c/0,01div
+[Medium 6 passives]:[12% increased Cold Damage over Time (1)]:1,6c/0,01div
+[Small 3 passives]:[2% increased Effect of your Curses (1)]:1,6c/0,01div
+[Medium 6 passives]:[10% increased Area Damage (1)]:1,4c/0,01div
+[Large 11 passives]:[12% increased Cold Damage (1)]:1,4c/0,01div
+[Medium 6 passives]:[10% increased Life Recovery from Flasks, 10% increased Mana Recovery from Flasks (1)]:1,4c/0,01div
+[Large 9 passives]:[12% increased Physical Damage (1)]:1,3c/0,01div
+[Small 3 passives]:[+15% to Cold Resistance (50)]:1,2c/0,01div
+[Large 12 passives]:[12% increased Physical Damage (1)]:1c/0,01div
+[Large 11 passives]:[10% increased Elemental Damage (50)]:1c/0,01div
+[Small 3 passives]:[+15% to Lightning Resistance (1)]:1c/0,01div
+[Large 9 passives]:[10% increased Spell Damage (1)]:1c/0,01div
+[Large 10 passives]:[Wand Attacks deal 12% increased Damage with Hits and Ailments (1)]:1c/0,01div
+[Medium 6 passives]:[Minions deal 10% increased Damage while you are affected by a Herald (1)]:1c/0,01div
+[Large 10 passives]:[Staff Attacks deal 12% increased Damage with Hits and Ailments, Mace or Sceptre Attacks deal 12% increased Damage with Hits and Ailments (1)]:1c/0,01div

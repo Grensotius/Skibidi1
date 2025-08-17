@@ -1,0 +1,25 @@
+2025-06-17 21:11:39,584 [1] INFO  App - DreamPoeBot Version: 0.3.18.34
+Path: C:\Users\<Username>\Downloads\DreamPoeBot_v3.18.34-Stable (1)\DreamPoeBot\<ExeName>
+Arguments: C:\Users\ghost\Downloads\DreamPoeBot_v3.18.34-Stable (1)\DreamPoeBot\DreamPoeBot.exe
+
+OS Name: Microsoft Windows 10 Pro
+OS Version: 10.0.19045
+OS Architecture: 64-bit
+InstalledUICulture: en-US [English (United States)]
+CurrentUICulture: en-US [English (United States)]
+CurrentCulture: en-GB [English (United Kingdom)]
+
+2025-06-17 21:11:39,601 [1] INFO  App - Now setting up JitProfiles...
+2025-06-17 21:11:39,609 [1] INFO  App - JitProfiles successfully setup!
+2025-06-17 21:11:39,623 [1] INFO  App - Now checking prerequisites...
+2025-06-17 21:11:39,624 [1] INFO  App - Prerequisite check complete!
+2025-06-17 21:11:45,068 [1] INFO  BotManager - [BotManager] MsBetweenTicks = 80
+2025-06-17 21:11:45,080 [1] ERROR App - [Application_DispatcherUnhandledException] Unhandled exception
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at DreamPoeBot.Hooks.Hooking.Deinitialize()
+   at DreamPoeBot.App.OnExit(ExitEventArgs e)
+   at System.Windows.Application.DoShutdown()
+   at System.Windows.Application.ShutdownImpl()
+   at System.Windows.Application.ShutdownCallback(Object arg)
+   at System.Windows.Threading.ExceptionWrapper.InternalRealCall(Delegate callback, Object args, Int32 numArgs)
+   at System.Windows.Threading.ExceptionWrapper.TryCatchWhen(Object source, Delegate callback, Object args, Int32 numArgs, Delegate catchHandler)

@@ -1,0 +1,40 @@
+{
+  "CompileAsynchronously": true,
+  "ExitOnLoadErrors": false,
+  "ExitOnCompileErrors": false,
+  "NoHideOnMinimize": false,
+  "WindowX": 2564,
+  "WindowY": 74,
+  "WindowWidth": 627,
+  "WindowHeight": 755,
+  "SettingsWindowX": 2378,
+  "SettingsWindowY": 312,
+  "SettingsWindowWidth": 627,
+  "SettingsWindowHeight": 443,
+  "TopRowDefinitionHeight": "124*",
+  "BottomRowDefinitionHeight": "292*",
+  "SplitterRowDefinitionHeight": "Auto",
+  "LastBot": "MapBotEx",
+  "LastRoutine": "SqRoutine",
+  "LastMover": "SkillPlayerMoverEx",
+  "LogLevel": "Full",
+  "EnabledPlugins": [
+    "DevTab",
+    "ObjectExplorer",
+    "ExPluginsAuthCore",
+    "HunterPlugin",
+    "ExPlugins Autoupdater",
+    "ItemFilterEx",
+    "AutoLoginEx"
+  ],
+  "ContentOrder": [
+    {
+      "Name": "CommonEvents"
+    }
+  ],
+  "DisabledContents": [
+    {
+      "Name": "ExampleDisabledPlugin"
+    }
+  ]
+}

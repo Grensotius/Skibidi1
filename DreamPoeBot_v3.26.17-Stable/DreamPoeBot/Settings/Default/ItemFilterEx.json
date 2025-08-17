@@ -1,0 +1,154 @@
+{
+  "OnlyPickInfluencedMaps": false,
+  "IdMaps": true,
+  "OilEssenceStackCountToUpgrade": 3,
+  "MinClusterIlvlToKeep": 84,
+  "MinGenericPriceToKeep": 50.0,
+  "MinUniquePriceToKeep": 5.0,
+  "MinDivCardPriceToKeep": 5.0,
+  "MinFossilPriceToKeep": 1.0,
+  "MinScarabPriceToKeep": 1.0,
+  "MinTattooPriceToKeep": 15.0,
+  "MinOilPriceToKeep": 1.0,
+  "MinGemPriceToKeep": 7.0,
+  "MinClusterPriceToKeep": 50.0,
+  "MinFracturedPriceToKeep": 50.0,
+  "MinSynthPriceToKeep": 50.0,
+  "MaxOilEssencePriceToSellInStack": 2.5,
+  "MinQualityForGemToPickup": 1,
+  "ForceLimitCurrencyPickup": true,
+  "MinScrollStackToPickup": 5,
+  "CustomScrollHandler": false,
+  "CustomScrollAmount": 300,
+  "PickupVeiledItems": false,
+  "PickupFracturedItems": false,
+  "PriceCheckFracturedItems": false,
+  "PriceCheckSynthItems": false,
+  "PickupSynthItems": false,
+  "PickupValuableBases": false,
+  "ValuableBaseMinQuality": 27,
+  "PickupAllRares": false,
+  "SellAllRares": false,
+  "PickupBlightedMaps": true,
+  "PickupSmallRgb": false,
+  "PickupEssences": true,
+  "PickupLowTierEssences": false,
+  "Pickup6Socket": false,
+  "PickupRareAmulets": false,
+  "PickupRareRings": false,
+  "PickupRareBelts": false,
+  "PickupRareJewels": false,
+  "PickupLogBooks": true,
+  "UpgradeOilEssences": true,
+  "Pickup6Links": true,
+  "Save6Links": false,
+  "UniquesToKeep": [],
+  "UniquesToAvoid": [],
+  "AlwaysSellItemNames": [],
+  "AlwaysPickupItemNames": [
+    {
+      "Name": "Toxic Sewer"
+    }
+  ],
+  "ContractJobsToSave": [],
+  "MapLimits": [
+    {
+      "MapTier": 1,
+      "Amount": 3
+    },
+    {
+      "MapTier": 2,
+      "Amount": 3
+    },
+    {
+      "MapTier": 3,
+      "Amount": 3
+    },
+    {
+      "MapTier": 4,
+      "Amount": 3
+    },
+    {
+      "MapTier": 5,
+      "Amount": 3
+    },
+    {
+      "MapTier": 6,
+      "Amount": 5
+    },
+    {
+      "MapTier": 7,
+      "Amount": 5
+    },
+    {
+      "MapTier": 8,
+      "Amount": 5
+    },
+    {
+      "MapTier": 9,
+      "Amount": 5
+    },
+    {
+      "MapTier": 10,
+      "Amount": 15
+    },
+    {
+      "MapTier": 11,
+      "Amount": 15
+    },
+    {
+      "MapTier": 12,
+      "Amount": 15
+    },
+    {
+      "MapTier": 13,
+      "Amount": 15
+    },
+    {
+      "MapTier": 14,
+      "Amount": 15
+    },
+    {
+      "MapTier": 15,
+      "Amount": 15
+    },
+    {
+      "MapTier": 16,
+      "Amount": 16
+    }
+  ],
+  "CurrencyLimits": [],
+  "UniqPricecheck": [
+    {
+      "Enabled": true,
+      "FullName": "Split Personality",
+      "CheckStats": true,
+      "StatsToCheck": [],
+      "CheckIlvl": false,
+      "CheckCorrupted": false
+    },
+    {
+      "Enabled": true,
+      "FullName": "Eyes of the Greatwolf",
+      "CheckStats": true,
+      "StatsToCheck": [],
+      "CheckIlvl": false,
+      "CheckCorrupted": false
+    }
+  ],
+  "ChaosValueOverride": [
+    {
+      "Name": "Voices",
+      "Value": 1935.0,
+      "OverrideIfUnid": true
+    }
+  ],
+  "UnidUniques": [
+    {
+      "Name": "Voices"
+    },
+    {
+      "Name": "Megalomaniac"
+    }
+  ]
+}

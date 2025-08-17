@@ -1,0 +1,36 @@
+ .___                  _____  .                  .                 .____       
+ /   \   __.    ___   (      _/_     ___  .___  _/_     ___  .___  /      _  .-
+ |,_-' .'   \ .'   `   `--.   |     /   ` /   \  |    .'   ` /   \ |__.    \,' 
+ |     |    | |----'      |   |    |    | |   '  |    |----' |   ' |       /\  
+ /      `._.' `.___, \___.'   \__/ `.__/| /      \__/ `.___, /     /----/ /  \ 
+                                                                               
+
+Auth [OK]
+Path of Exile launched successfully: PathOfExile[6164]
+Window title changed to: Default
+Waiting 12,7 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[7820]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[26024]
+Window title changed to: Default
+Waiting 13,2 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[18712]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+Killing: PathOfExile:26024
+Auth [OK]
+Path of Exile launched successfully: PathOfExile[24432]
+Window title changed to: Default
+Waiting 14,5 sec to make sure POE is loaded
+DPB launched successfully: DreamPoeBot[18148]
+Failed to find window for the DPB process within 5 seconds.
+'Default' added to watchlist
+Closed 1 windows with title Exception. [659402]
+Closed 1 windows with title Exception. [6492086]
+One of the processes for profile 'Default' is not running or not responding.
+Path of Exile launched successfully: PathOfExile[23660]
+Window title changed to: Default
+Waiting 13,2 sec to make sure POE is loaded
+Killing: PathOfExile:23660

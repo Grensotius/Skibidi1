@@ -1,0 +1,31 @@
+Hollow Fossil [stackSize:10]:251,97c/1,5div
+Glyphic Fossil [stackSize:10]:115c/0,68div
+Faceted Fossil [stackSize:10]:100c/0,6div
+Fractured Fossil [stackSize:10]:90c/0,54div
+Prime Chaotic Resonator [stackSize:10]:80c/0,48div
+Fossilised Delirium Orb [stackSize:10]:20c/0,12div
+Sanctified Fossil [stackSize:10]:15c/0,09div
+Powerful Chaotic Resonator [stackSize:10]:12c/0,07div
+Dense Fossil [stackSize:20]:7c/0,04div
+Bloodstained Fossil [stackSize:10]:6,5c/0,04div
+Fundamental Fossil [stackSize:20]:5c/0,03div
+Shuddering Fossil [stackSize:20]:5c/0,03div
+Potent Chaotic Resonator [stackSize:10]:5c/0,03div
+Bound Fossil [stackSize:20]:4,8c/0,03div
+Tangled Fossil [stackSize:10]:4c/0,02div
+Corroded Fossil [stackSize:20]:4c/0,02div
+Deft Fossil [stackSize:20]:3c/0,02div
+Serrated Fossil [stackSize:20]:3c/0,02div
+Prismatic Fossil [stackSize:20]:3c/0,02div
+Jagged Fossil [stackSize:20]:3c/0,02div
+Gilded Fossil [stackSize:10]:3c/0,02div
+Aetheric Fossil [stackSize:20]:3c/0,02div
+Primitive Chaotic Resonator [stackSize:10]:3c/0,02div
+Fossilised Incubator [stackSize:10]:3c/0,02div
+Aberrant Fossil [stackSize:20]:2,8c/0,02div
+Pristine Fossil [stackSize:20]:2,67c/0,02div
+Opulent Fossil [stackSize:20]:2c/0,01div
+Lucent Fossil [stackSize:20]:2c/0,01div
+Metallic Fossil [stackSize:20]:2c/0,01div
+Frigid Fossil [stackSize:20]:2c/0,01div
+Scorched Fossil [stackSize:20]:2c/0,01div

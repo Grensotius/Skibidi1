@@ -1,0 +1,106 @@
+{
+  "CullerAuto": false,
+  "MobSkipRarity": 0,
+  "CullerTinctureAbuse": false,
+  "SummonInLeadersHideout": false,
+  "DebugMode": false,
+  "CombatRange": 120,
+  "CastRange": 60,
+  "KiteDistance": 35,
+  "TinctureMinRarity": 2,
+  "TinctureMaxStacks": 30,
+  "EffectsDebug": false,
+  "GroundEffects": [
+    {
+      "Metadata": "monsters_effects/elemental_beacon",
+      "AnimatedMetadata": null,
+      "Radius": 40,
+      "HpToDodge": 100,
+      "ShouldDodge": true
+    },
+    {
+      "Metadata": "act1/merveil/water_geyser/WaterGeyser",
+      "AnimatedMetadata": null,
+      "Radius": 30,
+      "HpToDodge": 70,
+      "ShouldDodge": true
+    },
+    {
+      "Metadata": "monsters_effects/act9/Garukhan/large_tornado/LargeTornado",
+      "AnimatedMetadata": null,
+      "Radius": 30,
+      "HpToDodge": 70,
+      "ShouldDodge": true
+    },
+    {
+      "Metadata": "Metadata/Monsters/VolatileCore/VolatileCoreArchnemesis",
+      "AnimatedMetadata": null,
+      "Radius": 20,
+      "HpToDodge": 100,
+      "ShouldDodge": true
+    },
+    {
+      "Metadata": "Metadata/Monsters/LeagueArchnemesis/ToxicVolatile_",
+      "AnimatedMetadata": null,
+      "Radius": 15,
+      "HpToDodge": 100,
+      "ShouldDodge": true
+    }
+  ],
+  "Spectres": [],
+  "UtilitySkills": [
+    {
+      "Name": "Focus",
+      "MinRarity": 2,
+      "EsHpTreshold": 100,
+      "CastRange": 60
+    },
+    {
+      "Name": "Conductivity",
+      "MinRarity": 2,
+      "EsHpTreshold": 100,
+      "CastRange": 60
+    },
+    {
+      "Name": "Smite of Divine Judgement",
+      "MinRarity": 2,
+      "EsHpTreshold": 100,
+      "CastRange": 60
+    },
+    {
+      "Name": "Vaal Blade Flurry",
+      "MinRarity": 2,
+      "EsHpTreshold": 100,
+      "CastRange": 60
+    },
+    {
+      "Name": "Vaal Smite",
+      "MinRarity": 2,
+      "EsHpTreshold": 100,
+      "CastRange": 60
+    }
+  ],
+  "TotemSkillsList": [],
+  "ReportedEffects": [],
+  "MobsBlacklist": [],
+  "BowLogicSkills": [],
+  "CullerMode": false,
+  "CullerTriggerSkill": "Spark",
+  "BannerRarity": 2,
+  "BloodSandMode": 1,
+  "UniqAvoider": false,
+  "DefaultSkillEnabled": true,
+  "MinesToDetonate": 10,
+  "DefaultSkill": "Smite of Divine Judgement,Focus,Vaal Blade Flurry,Vaal Smite",
+  "RarePlusSkillEnabled": true,
+  "RarePlusSkillRarity": 3,
+  "HardSkip": false,
+  "RarePlusSkill": "Focus,Conductivity,Vaal Smite",
+  "SkipNormalMobs": false,
+  "KiteMobs": false,
+  "MinBannerValor": 10,
+  "MinWarcryPower": 10,
+  "IgnoreBeasts": true,
+  "ForceSkillbar": false,
+  "SkillsOnPanel": []
+}

@@ -1,0 +1,74 @@
+{
+  "StopIfOutOfSims": false,
+  "SimLeaveTimer": 45,
+  "SimulacrumsLeft": 0,
+  "MaxWave": 15,
+  "EnableAnchorPoints": true,
+  "AnchorPoints": [
+    {
+      "Layout": "Oriath Delusion",
+      "Coords": {
+        "X": 561,
+        "Y": 287,
+        "IsZero": false
+      },
+      "StashCoords": {
+        "X": 368,
+        "Y": 283,
+        "IsZero": false
+      }
+    },
+    {
+      "Layout": "Lunacy's Watch",
+      "Coords": {
+        "X": 316,
+        "Y": 657,
+        "IsZero": false
+      },
+      "StashCoords": {
+        "X": 386,
+        "Y": 630,
+        "IsZero": false
+      }
+    },
+    {
+      "Layout": "The Bridge Enraptured",
+      "Coords": {
+        "X": 549,
+        "Y": 590,
+        "IsZero": false
+      },
+      "StashCoords": {
+        "X": 592,
+        "Y": 622,
+        "IsZero": false
+      }
+    },
+    {
+      "Layout": "Hysteriagate",
+      "Coords": {
+        "X": 156,
+        "Y": 261,
+        "IsZero": false
+      },
+      "StashCoords": {
+        "X": 279,
+        "Y": 364,
+        "IsZero": false
+      }
+    },
+    {
+      "Layout": "The Syndrome Encampment",
+      "Coords": {
+        "X": 335,
+        "Y": 412,
+        "IsZero": false
+      },
+      "StashCoords": {
+        "X": 322,
+        "Y": 437,
+        "IsZero": false
+      }
+    }
+  ]
+}
